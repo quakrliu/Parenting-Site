@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
+import AlertBanner from '../../components/AlertBanner.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations } from '../../i18n/utils';
@@ -34,6 +35,7 @@ const windows = [
 
 <BaseLayout title={`${t('site.title')} | ${t('site.tagline')}`} description={t('site.description')} lang={lang}>
   <Header lang={lang} />
+  <AlertBanner lang={lang} />
 
   <!-- HERO: Asymmetric split layout, desktop-first -->
   <section class="hp-hero">
@@ -72,13 +74,13 @@ const windows = [
         </div>
         <div class="hp-hero__float hp-hero__float--1">
           <div class="hp-hero__float-icon hp-hero__float-icon--forest">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2D6A4F" stroke-width="2" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#8D9B8E" stroke-width="2" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
           </div>
           <span>{t('hero.card.trusted')}</span>
         </div>
         <div class="hp-hero__float hp-hero__float--2">
           <div class="hp-hero__float-icon hp-hero__float-icon--orange">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#F4A261" stroke-width="2" stroke-linecap="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#C4A882" stroke-width="2" stroke-linecap="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
           </div>
           <span>{t('hero.card.milestones')}</span>
         </div>
@@ -100,7 +102,7 @@ const windows = [
       <div class="hp-philosophy__grid">
         <div class="hp-philosophy__card hp-philosophy__card--montessori">
           <div class="hp-philosophy__icon">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#2D6A4F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#8D9B8E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
               <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
             </svg>
           </div>
@@ -114,7 +116,7 @@ const windows = [
         </div>
         <div class="hp-philosophy__card hp-philosophy__card--positive">
           <div class="hp-philosophy__icon">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#F4A261" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#C4A882" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
               <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
             </svg>
           </div>
@@ -304,14 +306,14 @@ const windows = [
     text-transform: uppercase;
     letter-spacing: 0.12em;
     color: var(--color-orange);
-    background: rgba(244, 162, 97, 0.1);
+    background: rgba(196, 168, 130, 0.1);
     padding: 0.3125rem 0.875rem;
     border-radius: 100px;
     margin-bottom: 0.875rem;
   }
 
   .hp-eyebrow--light {
-    background: rgba(244, 162, 97, 0.2);
+    background: rgba(196, 168, 130, 0.2);
     color: var(--color-orange);
   }
 
@@ -364,7 +366,7 @@ const windows = [
     background: var(--color-forest-dark);
     color: var(--color-white);
     transform: translateY(-1px);
-    box-shadow: 0 8px 24px -8px rgba(45, 106, 79, 0.3);
+    box-shadow: 0 8px 24px -8px rgba(141, 155, 142, 0.3);
   }
 
   .hp-btn__arrow {
@@ -386,12 +388,12 @@ const windows = [
   .hp-btn--ghost {
     background: transparent;
     color: var(--color-forest);
-    border: 1.5px solid rgba(45, 106, 79, 0.25);
+    border: 1.5px solid rgba(141, 155, 142, 0.25);
   }
 
   .hp-btn--ghost:hover {
     border-color: var(--color-forest);
-    background: rgba(45, 106, 79, 0.04);
+    background: rgba(141, 155, 142, 0.04);
     color: var(--color-forest);
   }
 
@@ -401,8 +403,8 @@ const windows = [
     position: relative;
     overflow: hidden;
     background:
-      radial-gradient(ellipse 80% 60% at 75% 40%, rgba(45, 106, 79, 0.04) 0%, transparent 70%),
-      radial-gradient(ellipse 60% 50% at 20% 80%, rgba(244, 162, 97, 0.04) 0%, transparent 70%),
+      radial-gradient(ellipse 80% 60% at 75% 40%, rgba(141, 155, 142, 0.04) 0%, transparent 70%),
+      radial-gradient(ellipse 60% 50% at 20% 80%, rgba(196, 168, 130, 0.04) 0%, transparent 70%),
       linear-gradient(170deg, var(--color-bg) 40%, var(--color-cream) 100%);
   }
 
@@ -444,7 +446,7 @@ const windows = [
     gap: 1.5rem;
     margin-top: 2.25rem;
     padding-top: 1.75rem;
-    border-top: 1px solid rgba(45, 106, 79, 0.08);
+    border-top: 1px solid rgba(141, 155, 142, 0.08);
   }
 
   .hp-trust-item {
@@ -476,8 +478,8 @@ const windows = [
     align-items: center;
     justify-content: center;
     box-shadow:
-      0 0 0 1px rgba(45, 106, 79, 0.08),
-      0 24px 64px -16px rgba(45, 106, 79, 0.12);
+      0 0 0 1px rgba(141, 155, 142, 0.08),
+      0 24px 64px -16px rgba(141, 155, 142, 0.12);
     position: relative;
     z-index: 2;
   }
@@ -491,7 +493,7 @@ const windows = [
   .hp-hero__float {
     position: absolute;
     background: var(--color-white);
-    border: 1px solid rgba(45, 106, 79, 0.08);
+    border: 1px solid rgba(141, 155, 142, 0.08);
     border-radius: 16px;
     padding: 0.875rem 1.25rem;
     display: flex;
@@ -514,8 +516,8 @@ const windows = [
     flex-shrink: 0;
   }
 
-  .hp-hero__float-icon--forest { background: rgba(45, 106, 79, 0.08); }
-  .hp-hero__float-icon--orange { background: rgba(244, 162, 97, 0.12); }
+  .hp-hero__float-icon--forest { background: rgba(141, 155, 142, 0.08); }
+  .hp-hero__float-icon--orange { background: rgba(196, 168, 130, 0.12); }
 
   .hp-hero__float--1 {
     top: 40px;
@@ -539,7 +541,7 @@ const windows = [
   .hp-hero__orb--1 {
     width: 320px;
     height: 320px;
-    background: radial-gradient(circle, rgba(45, 106, 79, 0.07) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(141, 155, 142, 0.07) 0%, transparent 70%);
     top: -20px;
     right: 20px;
     animation: hp-breathe 8s ease-in-out infinite;
@@ -548,7 +550,7 @@ const windows = [
   .hp-hero__orb--2 {
     width: 200px;
     height: 200px;
-    background: radial-gradient(circle, rgba(244, 162, 97, 0.1) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(196, 168, 130, 0.1) 0%, transparent 70%);
     bottom: 20px;
     right: 140px;
     animation: hp-breathe 8s ease-in-out infinite;
@@ -558,7 +560,7 @@ const windows = [
   .hp-hero__orb--3 {
     width: 130px;
     height: 130px;
-    background: radial-gradient(circle, rgba(254, 250, 224, 0.35) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(245, 240, 235, 0.35) 0%, transparent 70%);
     top: 100px;
     left: 20px;
     animation: hp-breathe 6s ease-in-out infinite;
@@ -597,11 +599,11 @@ const windows = [
 
   .hp-philosophy__card:hover { transform: translateY(-3px); }
 
-  .hp-philosophy__card--montessori { border-color: rgba(45, 106, 79, 0.1); }
-  .hp-philosophy__card--montessori:hover { box-shadow: 0 20px 56px -16px rgba(45, 106, 79, 0.1); }
+  .hp-philosophy__card--montessori { border-color: rgba(141, 155, 142, 0.1); }
+  .hp-philosophy__card--montessori:hover { box-shadow: 0 20px 56px -16px rgba(141, 155, 142, 0.1); }
 
-  .hp-philosophy__card--positive { border-color: rgba(244, 162, 97, 0.12); }
-  .hp-philosophy__card--positive:hover { box-shadow: 0 20px 56px -16px rgba(244, 162, 97, 0.1); }
+  .hp-philosophy__card--positive { border-color: rgba(196, 168, 130, 0.12); }
+  .hp-philosophy__card--positive:hover { box-shadow: 0 20px 56px -16px rgba(196, 168, 130, 0.1); }
 
   .hp-philosophy__icon {
     width: 56px;
@@ -613,8 +615,8 @@ const windows = [
     margin-bottom: 1.75rem;
   }
 
-  .hp-philosophy__card--montessori .hp-philosophy__icon { background: rgba(45, 106, 79, 0.06); }
-  .hp-philosophy__card--positive .hp-philosophy__icon { background: rgba(244, 162, 97, 0.08); }
+  .hp-philosophy__card--montessori .hp-philosophy__icon { background: rgba(141, 155, 142, 0.06); }
+  .hp-philosophy__card--positive .hp-philosophy__icon { background: rgba(196, 168, 130, 0.08); }
 
   .hp-philosophy__card h3 {
     font-size: 1.5rem;
@@ -657,8 +659,8 @@ const windows = [
     border-radius: 50%;
   }
 
-  .hp-philosophy__card--montessori .hp-philosophy__points li::before { background: rgba(45, 106, 79, 0.3); }
-  .hp-philosophy__card--positive .hp-philosophy__points li::before { background: rgba(244, 162, 97, 0.4); }
+  .hp-philosophy__card--montessori .hp-philosophy__points li::before { background: rgba(141, 155, 142, 0.3); }
+  .hp-philosophy__card--positive .hp-philosophy__points li::before { background: rgba(196, 168, 130, 0.4); }
 
   /* ===== TOPICS BENTO ===== */
   .hp-topics { padding: 6rem 0; }
@@ -674,14 +676,14 @@ const windows = [
     background: var(--color-white);
     border-radius: 20px;
     padding: 2rem 1.75rem;
-    border: 1px solid rgba(45, 106, 79, 0.06);
+    border: 1px solid rgba(141, 155, 142, 0.06);
     transition: all 0.3s cubic-bezier(0.32, 0.72, 0, 1);
   }
 
   .hp-topics__tile:hover {
     transform: translateY(-2px);
-    border-color: rgba(45, 106, 79, 0.12);
-    box-shadow: 0 12px 40px -12px rgba(45, 106, 79, 0.08);
+    border-color: rgba(141, 155, 142, 0.12);
+    box-shadow: 0 12px 40px -12px rgba(141, 155, 142, 0.08);
   }
 
   .hp-topics__tile--1 {
@@ -708,8 +710,8 @@ const windows = [
     flex-shrink: 0;
   }
 
-  .hp-topics__icon--forest { background: rgba(45, 106, 79, 0.06); color: var(--color-forest); }
-  .hp-topics__icon--orange { background: rgba(244, 162, 97, 0.1); color: var(--color-orange-dark); }
+  .hp-topics__icon--forest { background: rgba(141, 155, 142, 0.06); color: var(--color-forest); }
+  .hp-topics__icon--orange { background: rgba(196, 168, 130, 0.1); color: var(--color-orange-dark); }
 
   .hp-topics__tile h3 {
     font-size: 1.0625rem;
@@ -742,15 +744,15 @@ const windows = [
     background: var(--color-white);
     border-radius: 20px;
     padding: 2rem;
-    border: 1px solid rgba(45, 106, 79, 0.06);
+    border: 1px solid rgba(141, 155, 142, 0.06);
     transition: all 0.3s cubic-bezier(0.32, 0.72, 0, 1);
     display: flex;
     flex-direction: column;
   }
 
   .hp-articles__card:hover {
-    border-color: rgba(45, 106, 79, 0.15);
-    box-shadow: 0 12px 36px -12px rgba(45, 106, 79, 0.08);
+    border-color: rgba(141, 155, 142, 0.15);
+    box-shadow: 0 12px 36px -12px rgba(141, 155, 142, 0.08);
     transform: translateY(-2px);
   }
 
@@ -758,7 +760,7 @@ const windows = [
     grid-row: 1 / 3;
     padding: 2.5rem;
     justify-content: center;
-    background: linear-gradient(145deg, var(--color-white) 60%, rgba(45, 106, 79, 0.02) 100%);
+    background: linear-gradient(145deg, var(--color-white) 60%, rgba(141, 155, 142, 0.02) 100%);
   }
 
   .hp-articles__card--hero h3 { font-size: 1.5rem; }
@@ -813,7 +815,7 @@ const windows = [
   .hp-tag {
     font-size: 0.75rem;
     color: var(--color-text-light);
-    background: rgba(45, 106, 79, 0.05);
+    background: rgba(141, 155, 142, 0.05);
     padding: 0.1875rem 0.625rem;
     border-radius: 6px;
   }
@@ -846,18 +848,18 @@ const windows = [
   .hp-windows__card:hover { transform: translateY(-2px); }
 
   .hp-windows__card--forest {
-    border-color: rgba(45, 106, 79, 0.1);
-    background: rgba(45, 106, 79, 0.02);
+    border-color: rgba(141, 155, 142, 0.1);
+    background: rgba(141, 155, 142, 0.02);
   }
 
-  .hp-windows__card--forest:hover { box-shadow: 0 12px 36px -12px rgba(45, 106, 79, 0.1); }
+  .hp-windows__card--forest:hover { box-shadow: 0 12px 36px -12px rgba(141, 155, 142, 0.1); }
 
   .hp-windows__card--orange {
-    border-color: rgba(244, 162, 97, 0.12);
-    background: rgba(244, 162, 97, 0.02);
+    border-color: rgba(196, 168, 130, 0.12);
+    background: rgba(196, 168, 130, 0.02);
   }
 
-  .hp-windows__card--orange:hover { box-shadow: 0 12px 36px -12px rgba(244, 162, 97, 0.1); }
+  .hp-windows__card--orange:hover { box-shadow: 0 12px 36px -12px rgba(196, 168, 130, 0.1); }
 
   .hp-windows__age {
     display: inline-block;
@@ -871,12 +873,12 @@ const windows = [
   }
 
   .hp-windows__card--forest .hp-windows__age {
-    background: rgba(45, 106, 79, 0.08);
+    background: rgba(141, 155, 142, 0.08);
     color: var(--color-forest);
   }
 
   .hp-windows__card--orange .hp-windows__age {
-    background: rgba(244, 162, 97, 0.12);
+    background: rgba(196, 168, 130, 0.12);
     color: var(--color-orange-dark);
   }
 
@@ -903,15 +905,15 @@ const windows = [
   .hp-tools__card {
     position: relative;
     background: var(--color-white);
-    border: 1px solid rgba(45, 106, 79, 0.08);
+    border: 1px solid rgba(141, 155, 142, 0.08);
     border-radius: 20px;
     padding: 2.25rem 2rem;
     transition: all 0.3s cubic-bezier(0.32, 0.72, 0, 1);
   }
 
   .hp-tools__card:hover {
-    border-color: rgba(45, 106, 79, 0.15);
-    box-shadow: 0 12px 40px -15px rgba(45, 106, 79, 0.08);
+    border-color: rgba(141, 155, 142, 0.15);
+    box-shadow: 0 12px 40px -15px rgba(141, 155, 142, 0.08);
     transform: translateY(-2px);
   }
 
@@ -924,7 +926,7 @@ const windows = [
     text-transform: uppercase;
     letter-spacing: 0.06em;
     color: var(--color-orange-dark);
-    background: rgba(244, 162, 97, 0.12);
+    background: rgba(196, 168, 130, 0.12);
     padding: 0.25rem 0.625rem;
     border-radius: 6px;
   }
@@ -939,8 +941,8 @@ const windows = [
     margin-bottom: 1.125rem;
   }
 
-  .hp-tools__card-icon--forest { background: rgba(45, 106, 79, 0.06); color: var(--color-forest); }
-  .hp-tools__card-icon--orange { background: rgba(244, 162, 97, 0.1); color: var(--color-orange-dark); }
+  .hp-tools__card-icon--forest { background: rgba(141, 155, 142, 0.06); color: var(--color-forest); }
+  .hp-tools__card-icon--orange { background: rgba(196, 168, 130, 0.1); color: var(--color-orange-dark); }
 
   .hp-tools__card h3 {
     font-size: 1.1875rem;
@@ -1025,7 +1027,7 @@ const windows = [
     gap: 1.5rem;
     margin-top: 2.5rem;
     padding-top: 2rem;
-    border-top: 1px solid rgba(45, 106, 79, 0.08);
+    border-top: 1px solid rgba(141, 155, 142, 0.08);
   }
 
   .hp-about__value { display: flex; flex-direction: column; gap: 0.125rem; }
@@ -1047,9 +1049,9 @@ const windows = [
     align-items: center;
     justify-content: center;
     box-shadow:
-      0 0 0 1px rgba(45, 106, 79, 0.06),
-      0 0 0 20px rgba(45, 106, 79, 0.02),
-      0 0 0 40px rgba(45, 106, 79, 0.01);
+      0 0 0 1px rgba(141, 155, 142, 0.06),
+      0 0 0 20px rgba(141, 155, 142, 0.02),
+      0 0 0 40px rgba(141, 155, 142, 0.01);
   }
 
   .hp-about__badge-ring img {

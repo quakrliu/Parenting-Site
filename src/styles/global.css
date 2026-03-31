@@ -3,16 +3,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --color-forest: #2D6A4F;
-  --color-forest-dark: #1B4332;
-  --color-forest-light: #40916C;
-  --color-orange: #F4A261;
-  --color-orange-dark: #E76F51;
-  --color-cream: #FEFAE0;
-  --color-cream-dark: #F5F0D0;
-  --color-text: #2B2D42;
-  --color-text-light: #555770;
-  --color-bg: #FAFAF5;
+  --color-forest: #8D9B8E;
+  --color-forest-dark: #707D72;
+  --color-forest-light: #A3B0A5;
+  --color-orange: #C4A882;
+  --color-orange-dark: #B09670;
+  --color-cream: #F5F0EB;
+  --color-cream-dark: #EDE6DF;
+  --color-text: #4A4543;
+  --color-text-light: #7A7573;
+  --color-bg: #FAF8F5;
+  --color-pink: #D4B5B0;
   --color-white: #FFFFFF;
 
   --font-primary: 'Outfit', 'Noto Sans TC', system-ui, sans-serif;
