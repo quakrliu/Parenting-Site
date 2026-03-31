@@ -16,4 +16,19 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+const guides = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/guides' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.coerce.date(),
+    lang: z.string().default('en'),
+    slug: z.string(),
+    keywords: z.array(z.string()).optional(),
+    category: z.string().optional(),
+    affiliate: z.array(z.string()).optional(),
+    type: z.string().default('pillar'),
+  }),
+});
+
+export const collections = { blog, guides };
