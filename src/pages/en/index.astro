@@ -22,6 +22,8 @@ const ageStages = [
   { key: '1-2y', img: '/images/age-toddler.jpg', color: 'pink' },
   { key: '2-3y', img: '/images/age-talker.jpg', color: 'forest' },
   { key: '3-6y', img: '/images/age-preschool.jpg', color: 'orange' },
+  { key: '6-12y', img: '/images/age-school.jpg', color: 'pink' },
+  { key: '12-18y', img: '/images/age-teen.jpg', color: 'forest' },
 ];
 
 const stats = [
@@ -50,7 +52,7 @@ const stats = [
     </div>
     <div class="container hero__grid">
       <div class="hero__content">
-        <h1>The science of growing up, simplified.</h1>
+        <h1>The science of growing up,<br/>from birth to eighteen.</h1>
         <p class="hero__desc">{t('hero.desc')}</p>
         <div class="hero__actions">
           <a href={`/${lang}/blog`} class="btn btn--primary btn--lg">
@@ -103,6 +105,49 @@ const stats = [
             </div>
           </a>
         ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- DEVELOPMENTAL MILESTONES: All stages 0-18 -->
+  <section class="milestones">
+    <div class="container">
+      <div class="section-header section-header--center">
+        <span class="eyebrow">{t('section.windows')}</span>
+        <h2>{t('section.windows.title')}</h2>
+        <p class="section-desc section-desc--center">{t('section.windows.desc')}</p>
+      </div>
+      <div class="milestones__grid">
+        <div class="milestones__card">
+          <div class="milestones__age">{t('windows.language.age')}</div>
+          <h3>{t('windows.language.title')}</h3>
+          <p>{t('windows.language.desc')}</p>
+        </div>
+        <div class="milestones__card">
+          <div class="milestones__age">{t('windows.movement.age')}</div>
+          <h3>{t('windows.movement.title')}</h3>
+          <p>{t('windows.movement.desc')}</p>
+        </div>
+        <div class="milestones__card">
+          <div class="milestones__age">{t('windows.order.age')}</div>
+          <h3>{t('windows.order.title')}</h3>
+          <p>{t('windows.order.desc')}</p>
+        </div>
+        <div class="milestones__card">
+          <div class="milestones__age">{t('windows.social.age')}</div>
+          <h3>{t('windows.social.title')}</h3>
+          <p>{t('windows.social.desc')}</p>
+        </div>
+        <div class="milestones__card">
+          <div class="milestones__age">{t('windows.academic.age')}</div>
+          <h3>{t('windows.academic.title')}</h3>
+          <p>{t('windows.academic.desc')}</p>
+        </div>
+        <div class="milestones__card">
+          <div class="milestones__age">{t('windows.identity.age')}</div>
+          <h3>{t('windows.identity.title')}</h3>
+          <p>{t('windows.identity.desc')}</p>
+        </div>
       </div>
     </div>
   </section>
@@ -497,7 +542,7 @@ const stats = [
 
   .age-nav__grid {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(7, 1fr);
     gap: 1.25rem;
   }
 
@@ -556,6 +601,58 @@ const stats = [
   .age-nav__card--forest { border-bottom: 3px solid var(--color-forest); }
   .age-nav__card--orange { border-bottom: 3px solid var(--color-orange); }
   .age-nav__card--pink { border-bottom: 3px solid var(--color-pink); }
+
+  /* ===== MILESTONES: Developmental windows grid ===== */
+  .milestones {
+    padding: 6rem 0;
+    background: var(--color-cream);
+  }
+
+  .milestones__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+
+  .milestones__card {
+    padding: 2rem 1.75rem;
+    background: var(--color-white);
+    border-radius: 16px;
+    border: 1px solid rgba(141, 155, 142, 0.08);
+    transition: all 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  .milestones__card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 32px -12px rgba(74, 69, 67, 0.08);
+  }
+
+  .milestones__age {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-forest);
+    background: rgba(141, 155, 142, 0.1);
+    padding: 0.25rem 0.75rem;
+    border-radius: 100px;
+    margin-bottom: 1rem;
+  }
+
+  .milestones__card h3 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.01em;
+  }
+
+  .milestones__card p {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.65;
+  }
 
   /* ===== PILLARS: Two-column with imagery ===== */
   .pillars {
@@ -969,8 +1066,10 @@ const stats = [
     .hero__content { max-width: 100%; }
 
     .age-nav__grid {
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr);
     }
+
+    .milestones__grid { grid-template-columns: repeat(2, 1fr); }
 
     .pillars__grid { grid-template-columns: 1fr; }
 
@@ -1013,6 +1112,8 @@ const stats = [
     .articles__grid { grid-template-columns: 1fr; }
     .articles__card--featured { grid-column: 1; }
 
+    .milestones__grid { grid-template-columns: 1fr; }
+
     .about__values { grid-template-columns: 1fr; }
 
     .hero__trust { flex-direction: column; gap: 0.5rem; }
@@ -1051,6 +1152,8 @@ const stats = [
     .age-nav__card:nth-child(3) { animation-delay: 0.15s; }
     .age-nav__card:nth-child(4) { animation-delay: 0.2s; }
     .age-nav__card:nth-child(5) { animation-delay: 0.25s; }
+    .age-nav__card:nth-child(6) { animation-delay: 0.3s; }
+    .age-nav__card:nth-child(7) { animation-delay: 0.35s; }
 
     .pillars__card:nth-child(1) { animation-delay: 0.05s; }
     .pillars__card:nth-child(2) { animation-delay: 0.15s; }

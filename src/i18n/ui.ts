@@ -13,8 +13,8 @@ export const ui = {
     'site.tagline': 'Montessori & Positive Parenting Guides',
     'site.description': 'Evidence-based Montessori and positive parenting guides, developmental milestones, and practical tools for raising confident, self-directed children.',
     'hero.badge': 'Montessori & Positive Parenting',
-    'hero.heading': 'Raise Confident Children<br/>Through Montessori & Positive Parenting',
-    'hero.desc': 'Practical, research-backed guides that help you nurture independence, build connection, and support your child\'s natural development from birth through age six.',
+    'hero.heading': 'The science of growing up,<br/>from birth to eighteen.',
+    'hero.desc': 'Practical, research-backed guides that help you nurture independence, build connection, and support your child\'s natural development from birth through eighteen.',
     'hero.cta.articles': 'Start Reading',
     'hero.cta.newsletter': 'Get Weekly Tips',
     'hero.trust.evidence': 'Evidence-based',
@@ -45,7 +45,7 @@ export const ui = {
     // Topics
     'section.topics': 'Topics',
     'section.topics.title': 'What We Cover',
-    'section.topics.desc': 'Deep dives into the topics that matter most during the early years.',
+    'section.topics.desc': 'Deep dives into the topics that matter most at every stage of childhood.',
     'section.latest': 'Latest',
     'section.latest.title': 'Recent Articles',
     'section.latest.desc': 'Practical, research-backed guides updated regularly.',
@@ -67,6 +67,12 @@ export const ui = {
     'windows.social.title': 'Social Awareness',
     'windows.social.age': '2.5 to 5 years',
     'windows.social.desc': 'Grace, courtesy, and empathy emerge naturally when modeled. This is when positive parenting skills pay off most.',
+    'windows.academic.title': 'Academic & Social Growth',
+    'windows.academic.age': '6 to 12 years',
+    'windows.academic.desc': 'Homework habits, peer relationships, emotional regulation, and discovering passions through sports and hobbies define this stage.',
+    'windows.identity.title': 'Identity & Independence',
+    'windows.identity.age': '12 to 18 years',
+    'windows.identity.desc': 'Navigating puberty, building identity, managing social media, and developing autonomy. Communication and trust matter more than ever.',
 
     // Tools
     'section.tools': 'Free Tools',
@@ -109,6 +115,10 @@ export const ui = {
     'age.2-3y.range': '2\u20133 years',
     'age.3-6y': 'Preschooler',
     'age.3-6y.range': '3\u20136 years',
+    'age.6-12y': 'School Age',
+    'age.6-12y.range': '6\u201312 years',
+    'age.12-18y': 'Adolescent',
+    'age.12-18y.range': '12\u201318 years',
 
     // Stats bar
     'stats.indicators': '224+ developmental indicators',
@@ -154,8 +164,8 @@ export const ui = {
     'site.tagline': '蒙特梭利與正向教養指南',
     'site.description': '以研究為基礎的蒙特梭利與正向教養指南、發展里程碑追蹤，與實用育兒工具。',
     'hero.badge': '蒙特梭利 & 正向教養',
-    'hero.heading': '透過蒙特梭利與正向教養，<br/>培養自信的孩子',
-    'hero.desc': '實用、以研究為基礎的指南，幫助你培養獨立性、建立連結，從出生到六歲支持孩子的自然發展。',
+    'hero.heading': '從出生到十八歲，<br/>用蒙特梭利與正向教養培養自信的孩子',
+    'hero.desc': '實用、以研究為基礎的指南，幫助你培養獨立性、建立連結，從出生到十八歲支持孩子的自然發展。',
     'hero.cta.articles': '開始閱讀',
     'hero.cta.newsletter': '訂閱週報',
     'hero.trust.evidence': '以證據為本',
@@ -186,7 +196,7 @@ export const ui = {
     // Topics
     'section.topics': '主題',
     'section.topics.title': '我們涵蓋的內容',
-    'section.topics.desc': '深入探討早期教養中最重要的主題。',
+    'section.topics.desc': '深入探討每個成長階段中最重要的教養主題。',
     'section.latest': '最新',
     'section.latest.title': '近期文章',
     'section.latest.desc': '定期更新的實用、以研究為基礎的指南。',
@@ -208,6 +218,12 @@ export const ui = {
     'windows.social.title': '社會意識',
     'windows.social.age': '2.5 至 5 歲',
     'windows.social.desc': '優雅、禮貌和同理心在被示範時自然萌芽。這是正向教養技巧最能發揮效果的時期。',
+    'windows.academic.title': '學業與社交成長',
+    'windows.academic.age': '6 至 12 歲',
+    'windows.academic.desc': '功課習慣、同儕關係、情緒調節，以及透過運動和興趣發現熱情，定義了這個階段。',
+    'windows.identity.title': '自我認同與獨立',
+    'windows.identity.age': '12 至 18 歲',
+    'windows.identity.desc': '經歷青春期、建立自我認同、管理社群媒體、發展自主能力。溝通與信任比以往更加重要。',
 
     // Tools
     'section.tools': '免費工具',
@@ -250,6 +266,10 @@ export const ui = {
     'age.2-3y.range': '2\u20133 歲',
     'age.3-6y': '學齡前',
     'age.3-6y.range': '3\u20136 歲',
+    'age.6-12y': '學齡期',
+    'age.6-12y.range': '6\u201312 歲',
+    'age.12-18y': '青少年期',
+    'age.12-18y.range': '12\u201318 歲',
 
     // Stats bar
     'stats.indicators': '224+ 項發展指標',
