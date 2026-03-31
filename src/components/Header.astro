@@ -1,0 +1,159 @@
+---
+interface Props {
+  lang?: string;
+}
+const { lang = 'en' } = Astro.props;
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="/" class="logo" aria-label="BloomPath Home">
+      <span class="logo-icon">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="16" cy="16" r="14" stroke="#2D6A4F" stroke-width="2.5" fill="none"/>
+          <path d="M16 8 C16 8, 10 14, 10 18 C10 22, 16 24, 16 24 C16 24, 22 22, 22 18 C22 14, 16 8, 16 8Z" fill="#2D6A4F" opacity="0.15"/>
+          <path d="M16 10 L16 22" stroke="#2D6A4F" stroke-width="2" stroke-linecap="round"/>
+          <path d="M16 15 C13 13, 11 15, 13 17" stroke="#2D6A4F" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+          <path d="M16 13 C19 11, 21 13, 19 15" stroke="#2D6A4F" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+        </svg>
+      </span>
+      <span class="logo-text">BloomPath</span>
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="/blog">Articles</a>
+      <a href="/#categories">Topics</a>
+      <a href="/#tools">Tools</a>
+      <a href="/#about">About</a>
+    </nav>
+
+    <button class="mobile-toggle" aria-label="Toggle menu" aria-expanded="false">
+      <span class="toggle-bar"></span>
+      <span class="toggle-bar"></span>
+      <span class="toggle-bar"></span>
+    </button>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    background: rgba(250, 250, 245, 0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(45, 106, 79, 0.08);
+    padding: 0.875rem 0;
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+
+  .logo:hover {
+    color: var(--color-forest);
+  }
+
+  .logo-text {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  .main-nav {
+    display: none;
+    gap: 2rem;
+  }
+
+  .main-nav a {
+    font-size: 0.9375rem;
+    font-weight: 500;
+    color: var(--color-text-light);
+    text-decoration: none;
+    position: relative;
+    padding: 0.25rem 0;
+  }
+
+  .main-nav a::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--color-forest);
+    border-radius: 1px;
+    transition: width 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .main-nav a:hover {
+    color: var(--color-forest);
+  }
+
+  .main-nav a:hover::after {
+    width: 100%;
+  }
+
+  .mobile-toggle {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    padding: 4px;
+    cursor: pointer;
+  }
+
+  .toggle-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: var(--color-text);
+    border-radius: 1px;
+    transition: all 0.25s ease;
+  }
+
+  @media (min-width: 768px) {
+    .main-nav {
+      display: flex;
+    }
+
+    .mobile-toggle {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  const toggle = document.querySelector('.mobile-toggle');
+  const nav = document.querySelector('.main-nav');
+  if (toggle && nav) {
+    toggle.addEventListener('click', () => {
+      const expanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', String(!expanded));
+      (nav as HTMLElement).style.display = expanded ? 'none' : 'flex';
+      if (!expanded) {
+        (nav as HTMLElement).style.flexDirection = 'column';
+        (nav as HTMLElement).style.position = 'absolute';
+        (nav as HTMLElement).style.top = '100%';
+        (nav as HTMLElement).style.left = '0';
+        (nav as HTMLElement).style.right = '0';
+        (nav as HTMLElement).style.background = 'rgba(250, 250, 245, 0.98)';
+        (nav as HTMLElement).style.padding = '1rem 1.5rem';
+        (nav as HTMLElement).style.borderBottom = '1px solid rgba(45, 106, 79, 0.08)';
+        (nav as HTMLElement).style.gap = '0.75rem';
+      }
+    });
+  }
+</script>
