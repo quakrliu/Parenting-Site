@@ -1,0 +1,126 @@
+---
+import type { Lang } from '../i18n/ui';
+import alertData from '../data/alerts.json';
+
+interface Props {
+  lang?: Lang;
+}
+
+const { lang = 'en' } = Astro.props;
+const alert = alertData[lang];
+const isActive = alertData.active && alert.message;
+---
+
+{isActive && (
+  <div class="alert-banner" role="alert" id="alert-banner">
+    <div class="container alert-banner__inner">
+      <div class="alert-banner__content">
+        <svg class="alert-banner__icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+        </svg>
+        <span class="alert-banner__text">{alert.message}</span>
+        {alert.link && (
+          <a href={alert.link} class="alert-banner__link">{alert.linkText}</a>
+        )}
+      </div>
+      <button class="alert-banner__close" aria-label="Dismiss alert" id="alert-dismiss">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+)}
+
+<style>
+  .alert-banner {
+    background: var(--color-orange);
+    color: var(--color-text);
+    padding: 0.625rem 0;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    position: relative;
+    z-index: 35;
+  }
+
+  .alert-banner__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .alert-banner__content {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .alert-banner__icon {
+    flex-shrink: 0;
+    opacity: 0.8;
+  }
+
+  .alert-banner__text {
+    font-weight: 500;
+  }
+
+  .alert-banner__link {
+    flex-shrink: 0;
+    font-weight: 600;
+    color: var(--color-text);
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 2px;
+    transition: opacity 0.2s ease;
+  }
+
+  .alert-banner__link:hover {
+    opacity: 0.75;
+    color: var(--color-text);
+  }
+
+  .alert-banner__close {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    border: none;
+    background: rgba(0, 0, 0, 0.08);
+    color: var(--color-text);
+    cursor: pointer;
+    transition: background 0.2s ease;
+    padding: 0;
+  }
+
+  .alert-banner__close:hover {
+    background: rgba(0, 0, 0, 0.14);
+  }
+
+  @media (max-width: 639px) {
+    .alert-banner__text {
+      font-size: 0.8125rem;
+    }
+  }
+</style>
+
+<script>
+  const dismiss = document.getElementById('alert-dismiss');
+  const banner = document.getElementById('alert-banner');
+  if (dismiss && banner) {
+    dismiss.addEventListener('click', () => {
+      banner.style.display = 'none';
+      try { sessionStorage.setItem('alert-dismissed', '1'); } catch {}
+    });
+    try {
+      if (sessionStorage.getItem('alert-dismissed') === '1') {
+        banner.style.display = 'none';
+      }
+    } catch {}
+  }
+</script>
