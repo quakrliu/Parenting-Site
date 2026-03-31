@@ -17,11 +17,11 @@ const publishedPosts = allPosts
 const featuredPosts = publishedPosts.slice(0, 6);
 
 const ageStages = [
-  { key: '0-6m', img: '/images/age-newborn.jpg', color: 'forest' },
-  { key: '6-12m', img: '/images/age-explorer.jpg', color: 'orange' },
-  { key: '1-2y', img: '/images/age-toddler.jpg', color: 'pink' },
-  { key: '2-3y', img: '/images/age-talker.jpg', color: 'forest' },
-  { key: '3-6y', img: '/images/age-preschool.jpg', color: 'orange' },
+  { key: 'infant', img: '/images/age-newborn.jpg', color: 'forest' },
+  { key: 'toddler', img: '/images/age-toddler.jpg', color: 'orange' },
+  { key: 'preschool', img: '/images/age-preschool.jpg', color: 'pink' },
+  { key: 'school', img: '/images/age-explorer.jpg', color: 'forest' },
+  { key: 'teen', img: '/images/age-talker.jpg', color: 'orange' },
 ];
 
 const stats = [
@@ -189,6 +189,332 @@ const stats = [
       </div>
     </div>
   </section>
+
+  <!-- DAILY STICKINESS: Dynamic daily-changing features -->
+  <section class="daily">
+    <div class="container">
+      <div class="section-header section-header--center">
+        <span class="eyebrow">{t('daily.section')}</span>
+        <h2>{t('daily.section.title')}</h2>
+        <p class="section-desc section-desc--center">{t('daily.section.desc')}</p>
+      </div>
+      <div class="daily__grid">
+        <!-- Today's Growth Activity -->
+        <div class="daily__card daily__card--task">
+          <div class="daily__card-header">
+            <div class="daily__icon daily__icon--forest">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            </div>
+            <span class="daily__badge">{t('daily.task.time')}</span>
+          </div>
+          <h3>{t('daily.task.title')}</h3>
+          <p id="daily-task-text" class="daily__body">Loading...</p>
+          <div id="daily-task-age" class="daily__tag"></div>
+        </div>
+
+        <!-- Weekly Focus -->
+        <div class="daily__card daily__card--focus">
+          <div class="daily__card-header">
+            <div class="daily__icon daily__icon--orange">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+            </div>
+          </div>
+          <h3>{t('daily.focus.title')}</h3>
+          <p id="weekly-focus-text" class="daily__body">Loading...</p>
+          <div id="weekly-focus-age" class="daily__tag"></div>
+        </div>
+
+        <!-- Daily Quote -->
+        <div class="daily__card daily__card--quote">
+          <div class="daily__card-header">
+            <div class="daily__icon daily__icon--pink">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V21z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"/></svg>
+            </div>
+            <button id="quote-copy-btn" class="daily__copy-btn" aria-label="Copy quote">{t('daily.quote.btn')}</button>
+          </div>
+          <h3>{t('daily.quote.title')}</h3>
+          <blockquote id="daily-quote-text" class="daily__quote">Loading...</blockquote>
+          <cite id="daily-quote-author" class="daily__cite"></cite>
+        </div>
+
+        <!-- Is This Normal? -->
+        <div class="daily__card daily__card--normal">
+          <div class="daily__card-header">
+            <div class="daily__icon daily__icon--forest">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+            </div>
+          </div>
+          <h3>{t('daily.normal.title')}</h3>
+          <p class="daily__body-sm">{t('daily.normal.desc')}</p>
+          <div class="daily__form">
+            <select id="normal-age" class="daily__select" aria-label={t('daily.normal.select.age')}>
+              <option value="">{t('daily.normal.select.age')}</option>
+              <option value="infant">0-1</option>
+              <option value="toddler">1-3</option>
+              <option value="preschool">3-6</option>
+              <option value="school">6-12</option>
+              <option value="teen">12-18</option>
+            </select>
+            <select id="normal-behavior" class="daily__select" aria-label={t('daily.normal.select.behavior')}>
+              <option value="">{t('daily.normal.select.behavior')}</option>
+            </select>
+            <button id="normal-check-btn" class="btn btn--primary btn--sm">{t('daily.normal.check')}</button>
+          </div>
+          <div id="normal-result" class="daily__result"></div>
+          <p class="daily__disclaimer">{t('daily.normal.disclaimer')}</p>
+        </div>
+
+        <!-- Parenting Journal -->
+        <div class="daily__card daily__card--journal">
+          <div class="daily__card-header">
+            <div class="daily__icon daily__icon--orange">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+            </div>
+            <div id="journal-streak" class="daily__streak"></div>
+          </div>
+          <h3>{t('daily.journal.title')}</h3>
+          <textarea id="journal-input" class="daily__textarea" placeholder={t('daily.journal.prompt')} rows="3"></textarea>
+          <button id="journal-save-btn" class="btn btn--primary btn--sm">{t('daily.journal.save')}</button>
+          <div id="journal-saved" class="daily__saved"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    (function() {
+      const today = new Date();
+      const dayOfYear = Math.floor((today.getTime() - new Date(today.getFullYear(), 0, 0).getTime()) / 86400000);
+      const weekOfYear = Math.floor(dayOfYear / 7);
+
+      // === TODAY'S GROWTH ACTIVITY ===
+      const activities = [
+        { text: 'Build a blanket fort together and read a story inside it. Let your child choose the book and lead the setup.', age: 'Preschool (3-6)' },
+        { text: 'Play "I Spy" using only colors during a walk. Great for vocabulary and observation skills.', age: 'Toddler (1-3)' },
+        { text: 'Let your baby explore different textures: silk, wool, sandpaper, a cool spoon. Narrate what they feel.', age: 'Infant (0-1)' },
+        { text: 'Ask your school-age child to teach you something they learned this week. Reversal of roles builds confidence.', age: 'School Age (6-12)' },
+        { text: 'Cook a simple meal together. Measuring ingredients teaches math; following steps teaches sequencing.', age: 'Preschool (3-6)' },
+        { text: 'Have a "feelings check-in" at dinner: everyone shares one high and one low from their day.', age: 'All Ages' },
+        { text: 'Create a nature journal: go outside for 10 minutes and sketch or describe three things you notice.', age: 'School Age (6-12)' },
+        { text: 'Practice pouring water between two cups. Start with a small pitcher for little hands.', age: 'Toddler (1-3)' },
+        { text: 'Ask your teen: "What is something you wish adults understood better?" Then just listen.', age: 'Adolescent (12-18)' },
+        { text: 'Do tummy time with your baby while lying face-to-face. Sing a simple song and watch them respond.', age: 'Infant (0-1)' },
+        { text: 'Challenge your child to sort laundry by color. Practical life skill + pattern recognition.', age: 'Preschool (3-6)' },
+        { text: 'Write a short note to your teen and leave it in their backpack. Simple, no strings attached.', age: 'Adolescent (12-18)' },
+        { text: 'Play "grocery store" with real items from the pantry. Practice counting and making change.', age: 'School Age (6-12)' },
+        { text: 'Dance party. Put on music and move together for 5 minutes. No rules, just movement.', age: 'All Ages' },
+      ];
+      const todayActivity = activities[dayOfYear % activities.length];
+      const taskEl = document.getElementById('daily-task-text');
+      const taskAgeEl = document.getElementById('daily-task-age');
+      if (taskEl) taskEl.textContent = todayActivity.text;
+      if (taskAgeEl) taskAgeEl.textContent = todayActivity.age;
+
+      // === WEEKLY FOCUS ===
+      const weeklyFocuses = [
+        { text: 'Emotional Vocabulary: Help your child name their feelings this week. "You seem frustrated" is more powerful than "Stop crying."', age: 'All Ages' },
+        { text: 'Independence Practice: Let your child do one thing themselves that you normally do for them. Button a shirt, pour their own drink, walk to school.', age: 'Toddler - School Age' },
+        { text: 'Screen-Free Connection: Spend 15 uninterrupted minutes with your child each day this week. No phones, no agenda.', age: 'All Ages' },
+        { text: 'Routine Building: Create a visual schedule for morning or bedtime. Let your child help design it.', age: 'Preschool (3-6)' },
+        { text: 'Gratitude Practice: At dinner, each family member shares one thing they are grateful for today.', age: 'School Age - Adolescent' },
+        { text: 'Sensory Exploration: Offer your baby one new sensory experience each day: music, texture, scent, taste, movement.', age: 'Infant (0-1)' },
+        { text: 'Active Listening Week: When your teen talks, pause before responding. Repeat back what you heard before offering your thoughts.', age: 'Adolescent (12-18)' },
+        { text: 'Movement & Coordination: Set up a simple obstacle course indoors or outdoors. Crawl, jump, balance.', age: 'Toddler - Preschool' },
+      ];
+      const thisWeekFocus = weeklyFocuses[weekOfYear % weeklyFocuses.length];
+      const focusEl = document.getElementById('weekly-focus-text');
+      const focusAgeEl = document.getElementById('weekly-focus-age');
+      if (focusEl) focusEl.textContent = thisWeekFocus.text;
+      if (focusAgeEl) focusAgeEl.textContent = thisWeekFocus.age;
+
+      // === DAILY QUOTE ===
+      const quotes = [
+        { text: 'The child is both a hope and a promise for mankind.', author: 'Maria Montessori' },
+        { text: 'Children are not things to be molded, but people to be unfolded.', author: 'Jess Lair' },
+        { text: 'Connection is the energy that is created between people when they feel seen, heard, and valued.', author: 'Brene Brown' },
+        { text: 'Play is the highest form of research.', author: 'Albert Einstein' },
+        { text: 'The greatest gifts we can give our children are the roots of responsibility and the wings of independence.', author: 'Maria Montessori' },
+        { text: 'When little people are overwhelmed by big emotions, it is our job to share our calm, not join their chaos.', author: 'L.R. Knost' },
+        { text: 'Every child deserves a champion: an adult who will never give up on them.', author: 'Rita Pierson' },
+        { text: 'Do not train a child to learn by force or harshness; direct them to it by what amuses their minds.', author: 'Plato' },
+        { text: 'Behind every young child who believes in themselves is a parent who believed first.', author: 'Matthew Jacobson' },
+        { text: 'The way we talk to our children becomes their inner voice.', author: 'Peggy O\'Mara' },
+        { text: 'It is easier to build strong children than to repair broken adults.', author: 'Frederick Douglass' },
+        { text: 'Children need at least one person in their life who thinks the sun rises and sets on them.', author: 'Pamela Leo' },
+        { text: 'The child who concentrates is immensely happy.', author: 'Maria Montessori' },
+        { text: 'Your children need your presence more than your presents.', author: 'Jesse Jackson' },
+      ];
+      const todayQuote = quotes[dayOfYear % quotes.length];
+      const quoteEl = document.getElementById('daily-quote-text');
+      const authorEl = document.getElementById('daily-quote-author');
+      if (quoteEl) quoteEl.textContent = '"' + todayQuote.text + '"';
+      if (authorEl) authorEl.textContent = '-- ' + todayQuote.author;
+
+      const copyBtn = document.getElementById('quote-copy-btn');
+      if (copyBtn) {
+        copyBtn.addEventListener('click', function() {
+          navigator.clipboard.writeText(todayQuote.text + ' -- ' + todayQuote.author).then(function() {
+            copyBtn.textContent = copyBtn.dataset.copied || 'Copied!';
+            setTimeout(function() { copyBtn.textContent = copyBtn.dataset.label || 'Copy'; }, 2000);
+          });
+        });
+        copyBtn.dataset.copied = copyBtn.textContent === 'Copy' ? 'Copied!' : copyBtn.textContent;
+        copyBtn.dataset.label = copyBtn.textContent;
+      }
+
+      // === IS THIS NORMAL? ===
+      var behaviorsByAge = {
+        infant: [
+          { label: 'Not smiling yet', value: 'no-smile' },
+          { label: 'Startles at loud sounds', value: 'startle' },
+          { label: 'Cries a lot', value: 'cries' },
+          { label: 'Not rolling over', value: 'no-roll' },
+        ],
+        toddler: [
+          { label: 'Biting other children', value: 'biting' },
+          { label: 'Not talking yet', value: 'no-talk' },
+          { label: 'Frequent tantrums', value: 'tantrums' },
+          { label: 'Picky eating', value: 'picky-eat' },
+        ],
+        preschool: [
+          { label: 'Imaginary friends', value: 'imaginary' },
+          { label: 'Refusing to share', value: 'no-share' },
+          { label: 'Bedwetting', value: 'bedwet' },
+          { label: 'Asks "why" constantly', value: 'why' },
+        ],
+        school: [
+          { label: 'Struggles with reading', value: 'read-struggle' },
+          { label: 'Doesn\'t want to go to school', value: 'school-avoid' },
+          { label: 'Frequent stomach aches', value: 'stomach' },
+          { label: 'Trouble making friends', value: 'friend-trouble' },
+        ],
+        teen: [
+          { label: 'Stays in room all day', value: 'isolation' },
+          { label: 'Mood swings', value: 'moods' },
+          { label: 'Talks back constantly', value: 'talks-back' },
+          { label: 'Sleeps too much', value: 'oversleep' },
+        ],
+      };
+
+      var normalAnswers = {
+        'infant-no-smile': { status: 'watch', text: 'Most babies smile by 2 months. If no social smile by 3 months, mention it to your pediatrician at the next visit.' },
+        'infant-startle': { status: 'normal', text: 'Completely normal. The Moro reflex is present at birth and usually fades by 4-6 months.' },
+        'infant-cries': { status: 'normal', text: 'Newborns cry 1-3 hours per day on average. Peaks around 6-8 weeks, then decreases. If inconsolable for hours, consult your pediatrician.' },
+        'infant-no-roll': { status: 'watch', text: 'Most babies roll by 4-6 months. Offer plenty of tummy time. If no rolling by 7 months, consult your pediatrician.' },
+        'toddler-biting': { status: 'normal', text: 'Very common between 1-3 years. They lack words for frustration. Stay calm, say "No biting," and redirect. Usually resolves by age 3.' },
+        'toddler-no-talk': { status: 'watch', text: 'By 18 months, most toddlers say at least a few words. By 2, they combine two words. If concerned, ask about early intervention screening.' },
+        'toddler-tantrums': { status: 'normal', text: 'Peak tantrum age is 18 months to 3 years. Their emotional brain is developing faster than their ability to regulate. Stay calm and present.' },
+        'toddler-picky-eat': { status: 'normal', text: 'Food neophobia is developmentally normal from ages 2-6. Keep offering variety without pressure. It can take 15-20 exposures before acceptance.' },
+        'preschool-imaginary': { status: 'normal', text: 'Imaginary friends are a sign of healthy creativity and social development. About 65% of children have them at some point. No cause for concern.' },
+        'preschool-no-share': { status: 'normal', text: 'True sharing develops around age 4-5. Before that, children are still developing theory of mind. Model sharing and take turns, but don\'t force it.' },
+        'preschool-bedwet': { status: 'normal', text: 'Nighttime bladder control develops between ages 4-7. About 15% of 5-year-olds still wet the bed. It\'s usually not a concern until after age 7.' },
+        'preschool-why': { status: 'normal', text: 'A beautiful sign of cognitive development. They are building their understanding of cause and effect. Engage when you can, and it\'s okay to say "What do you think?"' },
+        'school-read-struggle': { status: 'watch', text: 'Reading ability varies widely in early grades. If struggling significantly by age 7-8, consider screening for dyslexia or learning differences. Early support helps enormously.' },
+        'school-school-avoid': { status: 'watch', text: 'Occasional reluctance is normal. Persistent avoidance (especially with physical complaints) may signal anxiety, bullying, or learning difficulties. Talk to the school counselor.' },
+        'school-stomach': { status: 'watch', text: 'Recurring stomachaches without medical cause are often linked to anxiety. If happening before school regularly, explore what might be causing stress.' },
+        'school-friend-trouble': { status: 'watch', text: 'Social skills develop at different rates. If your child wants friends but struggles, consider social skills groups. If they\'re content alone, that can be okay too.' },
+        'teen-isolation': { status: 'watch', text: 'Some alone time is normal for teens. But near-total withdrawal from family AND friends for 2+ weeks, combined with other changes, may signal depression. Check in gently.' },
+        'teen-moods': { status: 'normal', text: 'Hormonal changes make mood swings common in adolescence. If mood shifts last 2+ weeks and affect daily functioning, it may be more than typical teen behavior.' },
+        'teen-talks-back': { status: 'normal', text: 'Pushing back is a normal part of developing autonomy and identity. Pick your battles. Set clear boundaries on respectful communication, but allow room for disagreement.' },
+        'teen-oversleep': { status: 'normal', text: 'Teens biologically need 8-10 hours and their circadian rhythm shifts later. Sleeping until noon on weekends is common. Concern if sleeping 12+ hours daily with loss of interest.' },
+      };
+
+      var ageSelect = document.getElementById('normal-age');
+      var behaviorSelect = document.getElementById('normal-behavior');
+      var checkBtn = document.getElementById('normal-check-btn');
+      var resultEl = document.getElementById('normal-result');
+
+      if (ageSelect && behaviorSelect) {
+        ageSelect.addEventListener('change', function() {
+          var age = ageSelect.value;
+          behaviorSelect.innerHTML = '<option value="">Select behavior</option>';
+          if (resultEl) resultEl.innerHTML = '';
+          if (age && behaviorsByAge[age]) {
+            behaviorsByAge[age].forEach(function(b) {
+              var opt = document.createElement('option');
+              opt.value = b.value;
+              opt.textContent = b.label;
+              behaviorSelect.appendChild(opt);
+            });
+          }
+        });
+
+        if (checkBtn) {
+          checkBtn.addEventListener('click', function() {
+            var age = ageSelect.value;
+            var behavior = behaviorSelect.value;
+            if (!age || !behavior) return;
+            var key = age + '-' + behavior;
+            var answer = normalAnswers[key];
+            if (answer && resultEl) {
+              var statusClass = answer.status === 'normal' ? 'daily__result--normal' : 'daily__result--watch';
+              var statusIcon = answer.status === 'normal' ? 'Typically Normal' : 'Worth Watching';
+              resultEl.innerHTML = '<div class="daily__result-badge ' + statusClass + '">' + statusIcon + '</div><p>' + answer.text + '</p>';
+            }
+          });
+        }
+      }
+
+      // === PARENTING JOURNAL ===
+      var journalInput = document.getElementById('journal-input');
+      var journalSaveBtn = document.getElementById('journal-save-btn');
+      var journalSaved = document.getElementById('journal-saved');
+      var journalStreak = document.getElementById('journal-streak');
+
+      function getDateKey() {
+        return today.toISOString().split('T')[0];
+      }
+
+      function calcStreak() {
+        var entries = JSON.parse(localStorage.getItem('bp-journal') || '{}');
+        var streak = 0;
+        var d = new Date(today);
+        while (true) {
+          var key = d.toISOString().split('T')[0];
+          if (entries[key]) {
+            streak++;
+            d.setDate(d.getDate() - 1);
+          } else {
+            break;
+          }
+        }
+        return streak;
+      }
+
+      function updateStreakUI() {
+        var streak = calcStreak();
+        if (journalStreak && streak > 0) {
+          journalStreak.textContent = streak + ' day streak';
+          journalStreak.style.display = 'inline-block';
+        }
+      }
+
+      // Load existing entry for today
+      var entries = JSON.parse(localStorage.getItem('bp-journal') || '{}');
+      var todayKey = getDateKey();
+      if (entries[todayKey] && journalInput) {
+        journalInput.value = entries[todayKey];
+      }
+
+      updateStreakUI();
+
+      if (journalSaveBtn && journalInput) {
+        journalSaveBtn.addEventListener('click', function() {
+          var text = journalInput.value.trim();
+          if (!text) return;
+          var entries = JSON.parse(localStorage.getItem('bp-journal') || '{}');
+          entries[todayKey] = text;
+          localStorage.setItem('bp-journal', JSON.stringify(entries));
+          if (journalSaved) {
+            journalSaved.textContent = 'Saved!';
+            journalSaved.style.opacity = '1';
+            setTimeout(function() { journalSaved.style.opacity = '0'; }, 2000);
+          }
+          updateStreakUI();
+        });
+      }
+    })();
+  </script>
 
   <!-- FEATURED ARTICLES: Asymmetric grid -->
   {featuredPosts.length > 0 && (
@@ -712,6 +1038,253 @@ const stats = [
     margin-top: 0;
   }
 
+  /* ===== DAILY STICKINESS ===== */
+  .daily {
+    padding: 7rem 0;
+    background: var(--color-cream);
+  }
+
+  .daily__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 1.25rem;
+  }
+
+  .daily__card {
+    background: var(--color-white);
+    border-radius: 20px;
+    padding: 1.75rem;
+    border: 1px solid rgba(141, 155, 142, 0.06);
+    transition: all 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .daily__card:hover {
+    border-color: rgba(141, 155, 142, 0.15);
+    box-shadow: 0 12px 36px -12px rgba(141, 155, 142, 0.08);
+    transform: translateY(-2px);
+  }
+
+  .daily__card--normal {
+    grid-column: 1 / 3;
+  }
+
+  .daily__card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+
+  .daily__icon {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .daily__icon--forest { background: rgba(141, 155, 142, 0.08); color: var(--color-forest); }
+  .daily__icon--orange { background: rgba(196, 168, 130, 0.1); color: var(--color-orange-dark); }
+  .daily__icon--pink { background: rgba(212, 181, 176, 0.12); color: #a8706a; }
+
+  .daily__badge {
+    font-size: 0.6875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-forest);
+    background: rgba(141, 155, 142, 0.08);
+    padding: 0.25rem 0.625rem;
+    border-radius: 100px;
+  }
+
+  .daily__card h3 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--color-text);
+    margin-bottom: 0.5rem;
+  }
+
+  .daily__body {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+    flex: 1;
+  }
+
+  .daily__body-sm {
+    font-size: 0.875rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .daily__tag {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-forest);
+    background: rgba(141, 155, 142, 0.06);
+    padding: 0.25rem 0.625rem;
+    border-radius: 6px;
+    display: inline-block;
+    margin-top: 0.875rem;
+    align-self: flex-start;
+  }
+
+  .daily__tag:empty { display: none; }
+
+  .daily__quote {
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--color-text);
+    line-height: 1.7;
+    border: none;
+    padding: 0;
+    margin: 0;
+    background: none;
+    flex: 1;
+  }
+
+  .daily__cite {
+    font-size: 0.8125rem;
+    font-style: normal;
+    color: var(--color-text-light);
+    margin-top: 0.75rem;
+    display: block;
+  }
+
+  .daily__copy-btn {
+    font-family: var(--font-primary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-forest);
+    background: rgba(141, 155, 142, 0.06);
+    border: 1px solid rgba(141, 155, 142, 0.12);
+    padding: 0.25rem 0.75rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .daily__copy-btn:hover {
+    background: rgba(141, 155, 142, 0.12);
+  }
+
+  .daily__form {
+    display: flex;
+    gap: 0.625rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .daily__select {
+    font-family: var(--font-primary);
+    font-size: 0.875rem;
+    padding: 0.5rem 0.875rem;
+    border-radius: 10px;
+    border: 1px solid rgba(141, 155, 142, 0.15);
+    background: var(--color-white);
+    color: var(--color-text);
+    cursor: pointer;
+    min-width: 140px;
+    transition: border-color 0.2s ease;
+  }
+
+  .daily__select:focus {
+    outline: none;
+    border-color: var(--color-forest);
+  }
+
+  .btn--sm {
+    padding: 0.5rem 1.25rem;
+    font-size: 0.8125rem;
+    border-radius: 10px;
+  }
+
+  .daily__result {
+    margin-top: 1rem;
+    font-size: 0.9375rem;
+    color: var(--color-text);
+    line-height: 1.65;
+  }
+
+  .daily__result:empty { display: none; }
+
+  .daily__result-badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.25rem 0.75rem;
+    border-radius: 100px;
+    margin-bottom: 0.5rem;
+  }
+
+  .daily__result--normal {
+    background: rgba(141, 155, 142, 0.1);
+    color: var(--color-forest);
+  }
+
+  .daily__result--watch {
+    background: rgba(196, 168, 130, 0.12);
+    color: var(--color-orange-dark);
+  }
+
+  .daily__disclaimer {
+    font-size: 0.6875rem;
+    color: var(--color-text-light);
+    margin-top: 0.875rem;
+    opacity: 0.7;
+  }
+
+  .daily__textarea {
+    font-family: var(--font-primary);
+    font-size: 0.9375rem;
+    padding: 0.75rem 1rem;
+    border-radius: 12px;
+    border: 1px solid rgba(141, 155, 142, 0.12);
+    background: rgba(141, 155, 142, 0.02);
+    color: var(--color-text);
+    width: 100%;
+    resize: vertical;
+    line-height: 1.6;
+    transition: border-color 0.2s ease;
+    margin-bottom: 0.75rem;
+  }
+
+  .daily__textarea:focus {
+    outline: none;
+    border-color: var(--color-forest);
+  }
+
+  .daily__streak {
+    font-size: 0.6875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-orange-dark);
+    background: rgba(196, 168, 130, 0.1);
+    padding: 0.25rem 0.625rem;
+    border-radius: 100px;
+    display: none;
+  }
+
+  .daily__saved {
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-forest);
+    margin-top: 0.5rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
   /* ===== FEATURED ARTICLES ===== */
   .articles {
     padding: 7rem 0;
@@ -985,6 +1558,13 @@ const stats = [
       grid-row: auto;
     }
 
+    .daily__grid {
+      grid-template-columns: 1fr 1fr;
+    }
+    .daily__card--normal {
+      grid-column: 1 / 3;
+    }
+
     .app-preview__inner { grid-template-columns: 1fr; text-align: center; }
     .app-preview__content p { margin-inline: auto; }
     .app-preview__phone { width: 220px; }
@@ -1009,6 +1589,11 @@ const stats = [
     }
 
     .stats-bar__grid { grid-template-columns: 1fr; gap: 1.75rem; }
+
+    .daily__grid { grid-template-columns: 1fr; }
+    .daily__card--normal { grid-column: 1; }
+    .daily__form { flex-direction: column; align-items: stretch; }
+    .daily__select { min-width: unset; }
 
     .articles__grid { grid-template-columns: 1fr; }
     .articles__card--featured { grid-column: 1; }
