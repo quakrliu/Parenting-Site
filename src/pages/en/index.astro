@@ -23,13 +23,21 @@ const categories = [
   { title: t('cat.reviews'), desc: t('cat.reviews.desc'), icon: 'M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z' },
   { title: t('cat.nutrition'), desc: t('cat.nutrition.desc'), icon: 'M18.06 22.99h.01c.35-.01.67-.19.89-.49l.01-.02c.28-.38.4-.85.34-1.32-.06-.47-.26-.9-.57-1.22l-3.6-3.6c-.31-.31-.74-.49-1.18-.49h-1.44l-3.58-3.58c.74-1.54.47-3.42-.8-4.69-1.56-1.56-4.09-1.56-5.66 0-1.56 1.56-1.56 4.09 0 5.66 1.27 1.27 3.15 1.54 4.69.8l3.58 3.58v1.44c0 .44.18.87.49 1.18l3.6 3.6c.32.31.75.51 1.22.57.47.06.94-.06 1.32-.34z' },
 ];
+
+const windows = [
+  { title: t('windows.language.title'), age: t('windows.language.age'), desc: t('windows.language.desc'), color: 'forest' },
+  { title: t('windows.movement.title'), age: t('windows.movement.age'), desc: t('windows.movement.desc'), color: 'orange' },
+  { title: t('windows.order.title'), age: t('windows.order.age'), desc: t('windows.order.desc'), color: 'forest' },
+  { title: t('windows.social.title'), age: t('windows.social.age'), desc: t('windows.social.desc'), color: 'orange' },
+];
 ---
 
 <BaseLayout title={`${t('site.title')} | ${t('site.tagline')}`} description={t('site.description')} lang={lang}>
   <Header lang={lang} />
 
+  <!-- HERO: Asymmetric split, Montessori + positive parenting front and center -->
   <section class="hero">
-    <div class="container hero-inner">
+    <div class="container hero-grid">
       <div class="hero-content">
         <span class="hero-badge">{t('hero.badge')}</span>
         <h1 set:html={t('hero.heading')} />
@@ -40,35 +48,81 @@ const categories = [
         </div>
         <div class="hero-trust">
           <div class="trust-item">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
             <span>{t('hero.trust.evidence')}</span>
           </div>
           <div class="trust-item">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
             <span>{t('hero.trust.parents')}</span>
           </div>
           <div class="trust-item">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
             <span>{t('hero.trust.free')}</span>
           </div>
         </div>
       </div>
-      <div class="hero-visual">
-        <div class="hero-shape hero-shape-1"></div>
-        <div class="hero-shape hero-shape-2"></div>
-        <div class="hero-shape hero-shape-3"></div>
-        <div class="hero-card floating">
-          <div class="card-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#2D6A4F" stroke-width="2" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+      <div class="hero-visual" aria-hidden="true">
+        <div class="hero-orb hero-orb-1"></div>
+        <div class="hero-orb hero-orb-2"></div>
+        <div class="hero-orb hero-orb-3"></div>
+        <div class="hero-float-card hero-float-card-1">
+          <div class="float-card-icon float-card-icon--forest">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#2D6A4F" stroke-width="2" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
           <span>{t('hero.card.trusted')}</span>
         </div>
-        <div class="hero-card floating-delayed">
-          <div class="card-icon"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#F4A261" stroke-width="2" stroke-linecap="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
+        <div class="hero-float-card hero-float-card-2">
+          <div class="float-card-icon float-card-icon--orange">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#F4A261" stroke-width="2" stroke-linecap="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+          </div>
           <span>{t('hero.card.milestones')}</span>
         </div>
       </div>
     </div>
   </section>
 
+  <!-- PHILOSOPHY: Two pillars - Montessori & Positive Parenting -->
+  <section class="philosophy">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">{t('section.philosophy')}</span>
+        <h2>{t('section.philosophy.title')}</h2>
+        <p class="section-desc">{t('section.philosophy.desc')}</p>
+      </div>
+      <div class="philosophy-grid">
+        <div class="philosophy-card philosophy-card--montessori">
+          <div class="philosophy-icon">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#2D6A4F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+            </svg>
+          </div>
+          <h3>{t('philosophy.montessori.title')}</h3>
+          <p>{t('philosophy.montessori.desc')}</p>
+          <ul class="philosophy-points">
+            <li>{t('philosophy.montessori.point1')}</li>
+            <li>{t('philosophy.montessori.point2')}</li>
+            <li>{t('philosophy.montessori.point3')}</li>
+          </ul>
+        </div>
+        <div class="philosophy-card philosophy-card--positive">
+          <div class="philosophy-icon">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#F4A261" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+            </svg>
+          </div>
+          <h3>{t('philosophy.positive.title')}</h3>
+          <p>{t('philosophy.positive.desc')}</p>
+          <ul class="philosophy-points">
+            <li>{t('philosophy.positive.point1')}</li>
+            <li>{t('philosophy.positive.point2')}</li>
+            <li>{t('philosophy.positive.point3')}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TOPICS: Categories in asymmetric grid -->
   <section id="categories" class="categories">
     <div class="container">
       <div class="section-header">
@@ -78,9 +132,9 @@ const categories = [
       </div>
       <div class="categories-grid">
         {categories.map((cat, i) => (
-          <div class="category-item" style={`--delay: ${i * 0.08}s`}>
-            <div class="category-icon">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="var(--color-forest)" opacity="0.8"><path d={cat.icon}/></svg>
+          <div class="category-item" style={`--delay: ${i * 0.06}s`}>
+            <div class={`category-icon ${i % 2 === 0 ? 'category-icon--forest' : 'category-icon--orange'}`}>
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" opacity="0.85"><path d={cat.icon}/></svg>
             </div>
             <div class="category-text">
               <h3>{cat.title}</h3>
@@ -92,6 +146,7 @@ const categories = [
     </div>
   </section>
 
+  <!-- FEATURED ARTICLES -->
   {featuredPosts.length > 0 && (
     <section class="featured">
       <div class="container">
@@ -102,7 +157,7 @@ const categories = [
         </div>
         <div class="articles-grid">
           {featuredPosts.map((post, i) => (
-            <article class="article-card" style={`--delay: ${i * 0.1}s`}>
+            <article class={`article-card ${i === 0 ? 'article-card--featured' : ''}`}>
               <div class="article-meta">
                 <time datetime={post.data.pubDate.toISOString()}>
                   {post.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
@@ -125,6 +180,27 @@ const categories = [
     </section>
   )}
 
+  <!-- DEVELOPMENTAL WINDOWS (Octalysis #8: Loss Avoidance) -->
+  <section class="windows">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">{t('section.windows')}</span>
+        <h2>{t('section.windows.title')}</h2>
+        <p class="section-desc">{t('section.windows.desc')}</p>
+      </div>
+      <div class="windows-grid">
+        {windows.map((w, i) => (
+          <div class={`window-card window-card--${w.color}`} style={`--delay: ${i * 0.08}s`}>
+            <div class="window-age">{w.age}</div>
+            <h3>{w.title}</h3>
+            <p>{w.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- TOOLS PREVIEW -->
   <section id="tools" class="tools">
     <div class="container">
       <div class="section-header">
@@ -135,16 +211,16 @@ const categories = [
       <div class="tools-grid">
         <div class="tool-card">
           <div class="tool-badge">{t('section.tools.badge')}</div>
-          <div class="tool-icon">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--color-forest)" stroke-width="1.5" stroke-linecap="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/><path d="M8 14l2 2 4-4"/></svg>
+          <div class="tool-icon tool-icon--forest">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/><path d="M8 14l2 2 4-4"/></svg>
           </div>
           <h3>{t('section.tools.milestone')}</h3>
           <p>{t('section.tools.milestone.desc')}</p>
         </div>
         <div class="tool-card">
           <div class="tool-badge">{t('section.tools.badge')}</div>
-          <div class="tool-icon">
-            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--color-orange)" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M8 12l2 2 4-4"/></svg>
+          <div class="tool-icon tool-icon--orange">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M8 12l2 2 4-4"/></svg>
           </div>
           <h3>{t('section.tools.activity')}</h3>
           <p>{t('section.tools.activity.desc')}</p>
@@ -153,6 +229,7 @@ const categories = [
     </div>
   </section>
 
+  <!-- NEWSLETTER -->
   <section id="newsletter" class="newsletter">
     <div class="container">
       <div class="newsletter-inner">
@@ -168,6 +245,7 @@ const categories = [
     </div>
   </section>
 
+  <!-- ABOUT -->
   <section id="about" class="about">
     <div class="container">
       <div class="about-inner">
@@ -191,8 +269,11 @@ const categories = [
             </div>
           </div>
         </div>
-        <div class="about-visual">
-          <div class="about-shape"></div>
+        <div class="about-visual" aria-hidden="true">
+          <div class="about-organic">
+            <div class="about-blob about-blob-1"></div>
+            <div class="about-blob about-blob-2"></div>
+          </div>
         </div>
       </div>
     </div>
@@ -202,84 +283,749 @@ const categories = [
 </BaseLayout>
 
 <style>
-  .hero { padding: 4rem 0 5rem; position: relative; overflow: hidden; background: linear-gradient(135deg, var(--color-bg) 60%, var(--color-cream) 100%); }
-  .hero-inner { display: grid; grid-template-columns: 1fr; gap: 3rem; align-items: center; }
-  .hero-badge { display: inline-block; font-size: 0.8125rem; font-weight: 600; letter-spacing: 0.04em; color: var(--color-forest); background: rgba(45, 106, 79, 0.08); padding: 0.375rem 1rem; border-radius: 100px; margin-bottom: 1.25rem; }
-  .hero h1 { font-size: clamp(2.25rem, 5vw, 3.75rem); font-weight: 800; line-height: 1.1; letter-spacing: -0.03em; color: var(--color-text); }
-  .hero-desc { font-size: 1.0625rem; color: var(--color-text-light); line-height: 1.7; max-width: 50ch; margin-top: 1.25rem; }
-  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 2rem; }
-  .btn { display: inline-flex; align-items: center; font-size: 0.9375rem; font-weight: 600; padding: 0.75rem 1.5rem; border-radius: 10px; border: none; text-decoration: none; transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1); }
+  /* ===== HERO ===== */
+  .hero {
+    padding: 3.5rem 0 4rem;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(160deg, var(--color-bg) 50%, var(--color-cream) 100%);
+  }
+
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    align-items: center;
+  }
+
+  .hero-badge {
+    display: inline-block;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--color-forest);
+    background: rgba(45, 106, 79, 0.08);
+    padding: 0.375rem 1rem;
+    border-radius: 100px;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 800;
+    line-height: 1.08;
+    letter-spacing: -0.03em;
+    color: var(--color-text);
+  }
+
+  .hero-desc {
+    font-size: 1.0625rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+    max-width: 48ch;
+    margin-top: 1.25rem;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 2rem;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    padding: 0.75rem 1.5rem;
+    border-radius: 10px;
+    border: none;
+    text-decoration: none;
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
   .btn:active { transform: translateY(1px) scale(0.98); }
-  .btn-primary { background: var(--color-forest); color: var(--color-white); }
-  .btn-primary:hover { background: var(--color-forest-dark); color: var(--color-white); }
-  .btn-outline { background: transparent; color: var(--color-forest); border: 1.5px solid var(--color-forest); }
-  .btn-outline:hover { background: var(--color-forest); color: var(--color-white); }
-  .hero-trust { display: flex; flex-wrap: wrap; gap: 1.25rem; margin-top: 2rem; }
-  .trust-item { display: flex; align-items: center; gap: 0.375rem; font-size: 0.8125rem; color: var(--color-text-light); }
+
+  .btn-primary {
+    background: var(--color-forest);
+    color: var(--color-white);
+  }
+
+  .btn-primary:hover {
+    background: var(--color-forest-dark);
+    color: var(--color-white);
+  }
+
+  .btn-outline {
+    background: transparent;
+    color: var(--color-forest);
+    border: 1.5px solid var(--color-forest);
+  }
+
+  .btn-outline:hover {
+    background: var(--color-forest);
+    color: var(--color-white);
+  }
+
+  .hero-trust {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    margin-top: 1.75rem;
+  }
+
+  .trust-item {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    font-size: 0.8125rem;
+    color: var(--color-text-light);
+  }
+
   .trust-item svg { color: var(--color-forest); flex-shrink: 0; }
-  .hero-visual { position: relative; min-height: 280px; display: none; }
-  .hero-shape { position: absolute; border-radius: 50%; }
-  .hero-shape-1 { width: 320px; height: 320px; background: radial-gradient(circle, rgba(45, 106, 79, 0.08) 0%, transparent 70%); top: -20px; right: 20px; }
-  .hero-shape-2 { width: 200px; height: 200px; background: radial-gradient(circle, rgba(244, 162, 97, 0.1) 0%, transparent 70%); bottom: 20px; right: 140px; }
-  .hero-shape-3 { width: 120px; height: 120px; background: radial-gradient(circle, rgba(45, 106, 79, 0.06) 0%, transparent 70%); top: 60px; left: 20px; }
-  .hero-card { position: absolute; background: var(--color-white); border: 1px solid rgba(45, 106, 79, 0.1); border-radius: 16px; padding: 1.25rem 1.5rem; display: flex; align-items: center; gap: 0.875rem; box-shadow: 0 8px 30px -10px rgba(0, 0, 0, 0.06); font-size: 0.9375rem; font-weight: 500; color: var(--color-text); }
-  .hero-card .card-icon { width: 44px; height: 44px; border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
-  .hero-card:nth-child(4) .card-icon { background: rgba(45, 106, 79, 0.08); }
-  .hero-card:nth-child(5) .card-icon { background: rgba(244, 162, 97, 0.12); }
-  .floating { top: 40px; right: 40px; animation: float 6s ease-in-out infinite; }
-  .floating-delayed { bottom: 60px; left: 20px; animation: float 6s ease-in-out infinite; animation-delay: -3s; }
-  @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+
+  .hero-visual {
+    position: relative;
+    min-height: 320px;
+    display: none;
+  }
+
+  .hero-orb {
+    position: absolute;
+    border-radius: 50%;
+  }
+
+  .hero-orb-1 {
+    width: 340px;
+    height: 340px;
+    background: radial-gradient(circle, rgba(45, 106, 79, 0.1) 0%, transparent 70%);
+    top: -30px;
+    right: 10px;
+    animation: breathe 8s ease-in-out infinite;
+  }
+
+  .hero-orb-2 {
+    width: 220px;
+    height: 220px;
+    background: radial-gradient(circle, rgba(244, 162, 97, 0.12) 0%, transparent 70%);
+    bottom: 10px;
+    right: 120px;
+    animation: breathe 8s ease-in-out infinite;
+    animation-delay: -4s;
+  }
+
+  .hero-orb-3 {
+    width: 140px;
+    height: 140px;
+    background: radial-gradient(circle, rgba(254, 250, 224, 0.4) 0%, transparent 70%);
+    top: 80px;
+    left: 30px;
+    animation: breathe 6s ease-in-out infinite;
+    animation-delay: -2s;
+  }
+
+  @keyframes breathe {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.08); opacity: 0.85; }
+  }
+
+  .hero-float-card {
+    position: absolute;
+    background: var(--color-white);
+    border: 1px solid rgba(45, 106, 79, 0.1);
+    border-radius: 14px;
+    padding: 1rem 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    box-shadow: 0 12px 40px -12px rgba(0, 0, 0, 0.06);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text);
+  }
+
+  .float-card-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .float-card-icon--forest { background: rgba(45, 106, 79, 0.08); }
+  .float-card-icon--orange { background: rgba(244, 162, 97, 0.12); }
+
+  .hero-float-card-1 {
+    top: 50px;
+    right: 30px;
+    animation: float-gentle 7s ease-in-out infinite;
+  }
+
+  .hero-float-card-2 {
+    bottom: 50px;
+    left: 30px;
+    animation: float-gentle 7s ease-in-out infinite;
+    animation-delay: -3.5s;
+  }
+
+  @keyframes float-gentle {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+
+  /* ===== SHARED SECTION STYLES ===== */
   .section-header { margin-bottom: 3rem; }
-  .section-label { display: inline-block; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-orange); margin-bottom: 0.5rem; }
-  .section-header h2 { font-size: clamp(1.75rem, 3.5vw, 2.5rem); font-weight: 700; letter-spacing: -0.02em; color: var(--color-text); line-height: 1.2; }
-  .section-desc { font-size: 1rem; color: var(--color-text-light); margin-top: 0.625rem; max-width: 55ch; line-height: 1.6; }
+
+  .section-label {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-orange);
+    margin-bottom: 0.5rem;
+  }
+
+  .section-header h2 {
+    font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--color-text);
+    line-height: 1.2;
+  }
+
+  .section-desc {
+    font-size: 1rem;
+    color: var(--color-text-light);
+    margin-top: 0.625rem;
+    max-width: 55ch;
+    line-height: 1.6;
+  }
+
   .section-cta { text-align: center; margin-top: 2.5rem; }
+
+  /* ===== PHILOSOPHY ===== */
+  .philosophy {
+    padding: 5rem 0;
+    background: var(--color-cream);
+  }
+
+  .philosophy-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .philosophy-card {
+    background: var(--color-white);
+    border-radius: 20px;
+    padding: 2.5rem 2rem;
+    border: 1px solid transparent;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .philosophy-card:hover {
+    transform: translateY(-2px);
+  }
+
+  .philosophy-card--montessori {
+    border-color: rgba(45, 106, 79, 0.12);
+  }
+
+  .philosophy-card--montessori:hover {
+    box-shadow: 0 16px 48px -12px rgba(45, 106, 79, 0.1);
+  }
+
+  .philosophy-card--positive {
+    border-color: rgba(244, 162, 97, 0.15);
+  }
+
+  .philosophy-card--positive:hover {
+    box-shadow: 0 16px 48px -12px rgba(244, 162, 97, 0.12);
+  }
+
+  .philosophy-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .philosophy-card--montessori .philosophy-icon {
+    background: rgba(45, 106, 79, 0.06);
+  }
+
+  .philosophy-card--positive .philosophy-icon {
+    background: rgba(244, 162, 97, 0.1);
+  }
+
+  .philosophy-card h3 {
+    font-size: 1.375rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--color-text);
+    margin-bottom: 0.75rem;
+  }
+
+  .philosophy-card p {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+    max-width: 50ch;
+  }
+
+  .philosophy-points {
+    list-style: none;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+  }
+
+  .philosophy-points li {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text);
+    padding-left: 1.5rem;
+    position: relative;
+  }
+
+  .philosophy-points li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.5em;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+
+  .philosophy-card--montessori .philosophy-points li::before {
+    background: rgba(45, 106, 79, 0.3);
+  }
+
+  .philosophy-card--positive .philosophy-points li::before {
+    background: rgba(244, 162, 97, 0.4);
+  }
+
+  /* ===== CATEGORIES ===== */
   .categories { padding: 5rem 0; }
-  .categories-grid { display: grid; grid-template-columns: 1fr; gap: 1px; background: rgba(45, 106, 79, 0.08); border-radius: 20px; overflow: hidden; }
-  .category-item { display: flex; gap: 1.25rem; padding: 1.75rem; background: var(--color-white); transition: background 0.2s ease; }
-  .category-item:hover { background: var(--color-cream); }
-  .category-icon { width: 48px; height: 48px; border-radius: 14px; background: rgba(45, 106, 79, 0.06); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
-  .category-text h3 { font-size: 1.0625rem; font-weight: 600; color: var(--color-text); line-height: 1.3; }
-  .category-text p { font-size: 0.9375rem; color: var(--color-text-light); line-height: 1.6; margin-top: 0.375rem; }
-  .featured { padding: 5rem 0; background: var(--color-cream); }
-  .articles-grid { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
-  .article-card { background: var(--color-white); border-radius: 16px; padding: 1.75rem; border: 1px solid rgba(45, 106, 79, 0.06); transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1); }
-  .article-card:hover { border-color: rgba(45, 106, 79, 0.15); box-shadow: 0 8px 30px -10px rgba(45, 106, 79, 0.08); }
-  .article-meta { display: flex; align-items: center; gap: 0.625rem; margin-bottom: 0.75rem; }
-  .article-meta time { font-size: 0.8125rem; color: var(--color-text-light); }
-  .article-card h3 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; letter-spacing: -0.01em; }
-  .article-card h3 a { color: var(--color-text); text-decoration: none; }
+
+  .categories-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1px;
+    background: rgba(45, 106, 79, 0.06);
+    border-radius: 20px;
+    overflow: hidden;
+  }
+
+  .category-item {
+    display: flex;
+    gap: 1.25rem;
+    padding: 1.5rem 1.75rem;
+    background: var(--color-white);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .category-item:hover {
+    background: var(--color-cream);
+    padding-left: 2rem;
+  }
+
+  .category-icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .category-icon--forest {
+    background: rgba(45, 106, 79, 0.06);
+    color: var(--color-forest);
+  }
+
+  .category-icon--orange {
+    background: rgba(244, 162, 97, 0.1);
+    color: var(--color-orange-dark);
+  }
+
+  .category-text h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-text);
+    line-height: 1.3;
+  }
+
+  .category-text p {
+    font-size: 0.875rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    margin-top: 0.25rem;
+  }
+
+  /* ===== FEATURED ARTICLES ===== */
+  .featured {
+    padding: 5rem 0;
+    background: linear-gradient(180deg, var(--color-cream) 0%, var(--color-bg) 100%);
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .article-card {
+    background: var(--color-white);
+    border-radius: 16px;
+    padding: 1.75rem;
+    border: 1px solid rgba(45, 106, 79, 0.06);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .article-card:hover {
+    border-color: rgba(45, 106, 79, 0.15);
+    box-shadow: 0 8px 30px -10px rgba(45, 106, 79, 0.08);
+    transform: translateY(-2px);
+  }
+
+  .article-meta { margin-bottom: 0.75rem; }
+
+  .article-meta time {
+    font-size: 0.8125rem;
+    color: var(--color-text-light);
+  }
+
+  .article-card h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    line-height: 1.4;
+    letter-spacing: -0.01em;
+  }
+
+  .article-card h3 a {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
   .article-card h3 a:hover { color: var(--color-forest); }
-  .article-card p { font-size: 0.9375rem; color: var(--color-text-light); line-height: 1.6; margin-top: 0.5rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-  .article-tags { display: flex; flex-wrap: wrap; gap: 0.375rem; margin-top: 0.875rem; }
-  .tag { font-size: 0.75rem; color: var(--color-text-light); background: rgba(45, 106, 79, 0.05); padding: 0.1875rem 0.625rem; border-radius: 6px; }
-  .tools { padding: 5rem 0; }
-  .tools-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
-  .tool-card { position: relative; background: var(--color-white); border: 1px solid rgba(45, 106, 79, 0.08); border-radius: 20px; padding: 2.5rem 2rem; transition: all 0.25s ease; }
-  .tool-card:hover { border-color: rgba(45, 106, 79, 0.15); box-shadow: 0 12px 40px -15px rgba(45, 106, 79, 0.08); }
-  .tool-badge { position: absolute; top: 1.25rem; right: 1.25rem; font-size: 0.6875rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-orange-dark); background: rgba(244, 162, 97, 0.12); padding: 0.25rem 0.75rem; border-radius: 6px; }
-  .tool-icon { width: 56px; height: 56px; border-radius: 16px; background: rgba(45, 106, 79, 0.06); display: flex; align-items: center; justify-content: center; margin-bottom: 1.25rem; }
-  .tool-card:nth-child(2) .tool-icon { background: rgba(244, 162, 97, 0.1); }
-  .tool-card h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: 0.5rem; }
-  .tool-card p { font-size: 0.9375rem; color: var(--color-text-light); line-height: 1.6; max-width: 45ch; }
-  .newsletter { padding: 5rem 0; background: var(--color-forest-dark); color: var(--color-white); }
-  .newsletter-inner { display: grid; grid-template-columns: 1fr; gap: 2.5rem; align-items: center; }
+
+  .article-card p {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    margin-top: 0.5rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .article-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.375rem;
+    margin-top: 0.875rem;
+  }
+
+  .tag {
+    font-size: 0.75rem;
+    color: var(--color-text-light);
+    background: rgba(45, 106, 79, 0.05);
+    padding: 0.1875rem 0.625rem;
+    border-radius: 6px;
+  }
+
+  /* ===== DEVELOPMENTAL WINDOWS ===== */
+  .windows { padding: 5rem 0; }
+
+  .windows-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .window-card {
+    padding: 2rem;
+    border-radius: 16px;
+    border: 1px solid;
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .window-card:hover { transform: translateY(-2px); }
+
+  .window-card--forest {
+    border-color: rgba(45, 106, 79, 0.1);
+    background: rgba(45, 106, 79, 0.02);
+  }
+
+  .window-card--forest:hover {
+    box-shadow: 0 12px 36px -12px rgba(45, 106, 79, 0.1);
+  }
+
+  .window-card--orange {
+    border-color: rgba(244, 162, 97, 0.12);
+    background: rgba(244, 162, 97, 0.02);
+  }
+
+  .window-card--orange:hover {
+    box-shadow: 0 12px 36px -12px rgba(244, 162, 97, 0.12);
+  }
+
+  .window-age {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.25rem 0.75rem;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+  }
+
+  .window-card--forest .window-age {
+    background: rgba(45, 106, 79, 0.08);
+    color: var(--color-forest);
+  }
+
+  .window-card--orange .window-age {
+    background: rgba(244, 162, 97, 0.12);
+    color: var(--color-orange-dark);
+  }
+
+  .window-card h3 {
+    font-size: 1.1875rem;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 0.5rem;
+  }
+
+  .window-card p {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    max-width: 50ch;
+  }
+
+  /* ===== TOOLS ===== */
+  .tools { padding: 5rem 0; background: var(--color-cream); }
+
+  .tools-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .tool-card {
+    position: relative;
+    background: var(--color-white);
+    border: 1px solid rgba(45, 106, 79, 0.08);
+    border-radius: 20px;
+    padding: 2.5rem 2rem;
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .tool-card:hover {
+    border-color: rgba(45, 106, 79, 0.15);
+    box-shadow: 0 12px 40px -15px rgba(45, 106, 79, 0.08);
+    transform: translateY(-2px);
+  }
+
+  .tool-badge {
+    position: absolute;
+    top: 1.25rem;
+    right: 1.25rem;
+    font-size: 0.6875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-orange-dark);
+    background: rgba(244, 162, 97, 0.12);
+    padding: 0.25rem 0.75rem;
+    border-radius: 6px;
+  }
+
+  .tool-icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.25rem;
+  }
+
+  .tool-icon--forest { background: rgba(45, 106, 79, 0.06); color: var(--color-forest); }
+  .tool-icon--orange { background: rgba(244, 162, 97, 0.1); color: var(--color-orange-dark); }
+
+  .tool-card h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .tool-card p {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    max-width: 45ch;
+  }
+
+  /* ===== NEWSLETTER ===== */
+  .newsletter {
+    padding: 5rem 0;
+    background: var(--color-forest-dark);
+    color: var(--color-white);
+  }
+
+  .newsletter-inner {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    align-items: center;
+  }
+
   .newsletter .section-label { color: var(--color-orange); }
-  .newsletter h2 { color: var(--color-white); font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 700; letter-spacing: -0.02em; }
-  .newsletter-content p { color: rgba(255, 255, 255, 0.7); font-size: 1rem; line-height: 1.7; margin-top: 0.75rem; max-width: 45ch; }
-  .newsletter-placeholder { background: rgba(255, 255, 255, 0.08); border: 1px dashed rgba(255, 255, 255, 0.2); border-radius: 12px; padding: 2rem; text-align: center; color: rgba(255, 255, 255, 0.5); font-size: 0.9375rem; }
+
+  .newsletter h2 {
+    color: var(--color-white);
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  .newsletter-content p {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-top: 0.75rem;
+    max-width: 45ch;
+  }
+
+  .newsletter-placeholder {
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px dashed rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.45);
+    font-size: 0.9375rem;
+  }
+
+  /* ===== ABOUT ===== */
   .about { padding: 5rem 0; }
-  .about-inner { display: grid; grid-template-columns: 1fr; gap: 3rem; align-items: center; }
-  .about h2 { font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.25; }
-  .about-content p { font-size: 1rem; color: var(--color-text-light); line-height: 1.7; margin-top: 1rem; max-width: 55ch; }
-  .about-values { display: flex; flex-direction: column; gap: 1rem; margin-top: 2rem; padding-top: 2rem; border-top: 1px solid rgba(45, 106, 79, 0.1); }
+
+  .about-inner {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    align-items: center;
+  }
+
+  .about h2 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    line-height: 1.25;
+  }
+
+  .about-content p {
+    font-size: 1rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+    margin-top: 1rem;
+    max-width: 55ch;
+  }
+
+  .about-values {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(45, 106, 79, 0.1);
+  }
+
   .value { display: flex; flex-direction: column; gap: 0.125rem; }
   .value strong { font-size: 0.9375rem; font-weight: 600; color: var(--color-forest); }
   .value span { font-size: 0.875rem; color: var(--color-text-light); }
+
   .about-visual { display: none; }
-  .about-shape { width: 300px; height: 300px; border-radius: 50%; background: radial-gradient(circle, rgba(45, 106, 79, 0.06) 0%, rgba(244, 162, 97, 0.04) 50%, transparent 70%); }
-  @media (min-width: 640px) { .categories-grid { grid-template-columns: repeat(2, 1fr); } .articles-grid { grid-template-columns: repeat(2, 1fr); } .tools-grid { grid-template-columns: repeat(2, 1fr); } .about-values { flex-direction: row; gap: 2rem; } }
-  @media (min-width: 768px) { .hero { padding: 6rem 0 7rem; } .hero-inner { grid-template-columns: 1fr 1fr; } .hero-visual { display: block; } .newsletter-inner { grid-template-columns: 1fr 1fr; } .about-inner { grid-template-columns: 3fr 2fr; } .about-visual { display: flex; justify-content: center; } }
-  @media (min-width: 1024px) { .categories-grid { grid-template-columns: repeat(3, 1fr); } }
-  @media (min-width: 1280px) { .hero-inner { grid-template-columns: 55% 45%; } }
+
+  .about-organic { position: relative; width: 280px; height: 280px; }
+
+  .about-blob {
+    position: absolute;
+    border-radius: 50%;
+  }
+
+  .about-blob-1 {
+    width: 240px;
+    height: 240px;
+    background: radial-gradient(circle, rgba(45, 106, 79, 0.07) 0%, transparent 70%);
+    top: 0;
+    left: 0;
+    animation: breathe 10s ease-in-out infinite;
+  }
+
+  .about-blob-2 {
+    width: 160px;
+    height: 160px;
+    background: radial-gradient(circle, rgba(244, 162, 97, 0.08) 0%, transparent 70%);
+    bottom: 0;
+    right: 0;
+    animation: breathe 10s ease-in-out infinite;
+    animation-delay: -5s;
+  }
+
+  /* ===== RESPONSIVE ===== */
+  @media (min-width: 640px) {
+    .philosophy-grid { grid-template-columns: repeat(2, 1fr); }
+    .categories-grid { grid-template-columns: repeat(2, 1fr); }
+    .articles-grid { grid-template-columns: repeat(2, 1fr); }
+    .windows-grid { grid-template-columns: repeat(2, 1fr); }
+    .tools-grid { grid-template-columns: repeat(2, 1fr); }
+    .about-values { flex-direction: row; gap: 2rem; }
+  }
+
+  @media (min-width: 768px) {
+    .hero { padding: 5rem 0 6rem; }
+    .hero-grid { grid-template-columns: 55% 45%; }
+    .hero-visual { display: block; }
+    .newsletter-inner { grid-template-columns: 1fr 1fr; }
+    .about-inner { grid-template-columns: 3fr 2fr; }
+    .about-visual { display: flex; justify-content: center; }
+  }
+
+  @media (min-width: 1024px) {
+    .windows-grid { grid-template-columns: repeat(4, 1fr); }
+
+    .articles-grid {
+      grid-template-columns: 2fr 1fr;
+      grid-template-rows: auto auto;
+    }
+
+    .article-card--featured {
+      grid-row: 1 / 3;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 2.5rem;
+    }
+
+    .article-card--featured h3 { font-size: 1.375rem; }
+    .article-card--featured p { -webkit-line-clamp: 4; }
+  }
+
+  @media (min-width: 1280px) {
+    .hero-grid { grid-template-columns: 52% 48%; }
+  }
 </style>
