@@ -1,4 +1,6 @@
 ---
+import { getLangFromUrl, getAlternateLang } from '../i18n/utils';
+
 interface Props {
   title: string;
   description?: string;
@@ -6,24 +8,36 @@ interface Props {
   ogImage?: string;
 }
 
+const currentLang = getLangFromUrl(Astro.url);
+const altLang = getAlternateLang(currentLang);
+
 const {
   title,
   description = 'BloomPath - Research-backed parenting guides, developmental milestones, and practical tools for raising confident children.',
-  lang = 'en',
+  lang = currentLang,
   ogImage,
 } = Astro.props;
 
+const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+// Build alternate URL: swap /en/ <-> /zh/ in pathname
+const altPathname = Astro.url.pathname.replace(`/${currentLang}/`, `/${altLang}/`);
+const alternateURL = new URL(altPathname, Astro.site);
+const altHreflang = altLang === 'zh' ? 'zh-TW' : 'en';
 ---
 
 <!doctype html>
-<html lang={lang}>
+<html lang={htmlLang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="canonical" href={canonicalURL} />
+    <link rel="alternate" hreflang={htmlLang} href={canonicalURL} />
+    <link rel="alternate" hreflang={altHreflang} href={alternateURL} />
+    <link rel="alternate" hreflang="x-default" href={new URL('/en/', Astro.site)} />
     <meta name="generator" content={Astro.generator} />
 
     <title>{title}</title>
@@ -34,6 +48,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    <meta property="og:locale" content={htmlLang === 'zh-TW' ? 'zh_TW' : 'en_US'} />
     {ogImage && <meta property="og:image" content={ogImage} />}
 
     <!-- Twitter -->

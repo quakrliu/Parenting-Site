@@ -1,31 +1,39 @@
 ---
+import { useTranslations, localePath } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  lang?: Lang;
+}
+const { lang = 'en' } = Astro.props;
+const t = useTranslations(lang);
 const year = new Date().getFullYear();
 ---
 
 <footer class="site-footer">
   <div class="container footer-inner">
     <div class="footer-brand">
-      <span class="footer-logo">BloomPath</span>
-      <p class="footer-tagline">Research-backed guidance for the journey of parenthood.</p>
+      <span class="footer-logo">{lang === 'zh' ? '育見未來' : 'BloomPath'}</span>
+      <p class="footer-tagline">{t('footer.tagline')}</p>
     </div>
 
     <div class="footer-links">
       <div class="footer-col">
-        <h4>Explore</h4>
-        <a href="/blog">All Articles</a>
-        <a href="/#categories">Topics</a>
-        <a href="/#tools">Free Tools</a>
+        <h4>{t('footer.explore')}</h4>
+        <a href={localePath('/blog', lang)}>{t('footer.allArticles')}</a>
+        <a href={`${localePath('/', lang)}#categories`}>{t('footer.topics')}</a>
+        <a href={`${localePath('/', lang)}#tools`}>{t('footer.freeTools')}</a>
       </div>
       <div class="footer-col">
-        <h4>Connect</h4>
-        <a href="/#newsletter">Newsletter</a>
-        <a href="/#about">About Us</a>
+        <h4>{t('footer.connect')}</h4>
+        <a href={`${localePath('/', lang)}#newsletter`}>{t('footer.newsletter')}</a>
+        <a href={`${localePath('/', lang)}#about`}>{t('footer.aboutUs')}</a>
       </div>
     </div>
 
     <div class="footer-bottom">
-      <p>&copy; {year} BloomPath. Built with care by parents, for parents.</p>
-      <p class="footer-disclaimer">Content is for informational purposes only. Not medical or professional advice. Consult qualified professionals for your family's specific needs.</p>
+      <p>&copy; {year} {t('footer.copyright')}</p>
+      <p class="footer-disclaimer">{t('footer.disclaimer')}</p>
     </div>
   </div>
 </footer>
@@ -38,10 +46,7 @@ const year = new Date().getFullYear();
     margin-top: 6rem;
   }
 
-  .footer-inner {
-    display: grid;
-    gap: 3rem;
-  }
+  .footer-inner { display: grid; gap: 3rem; }
 
   .footer-logo {
     font-size: 1.25rem;
@@ -73,11 +78,7 @@ const year = new Date().getFullYear();
     margin-bottom: 0.75rem;
   }
 
-  .footer-col {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-  }
+  .footer-col { display: flex; flex-direction: column; gap: 0.5rem; }
 
   .footer-col a {
     font-size: 0.9375rem;
@@ -86,9 +87,7 @@ const year = new Date().getFullYear();
     transition: color 0.2s ease;
   }
 
-  .footer-col a:hover {
-    color: var(--color-orange);
-  }
+  .footer-col a:hover { color: var(--color-orange); }
 
   .footer-bottom {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -101,18 +100,10 @@ const year = new Date().getFullYear();
     line-height: 1.6;
   }
 
-  .footer-disclaimer {
-    margin-top: 0.5rem;
-    font-size: 0.75rem !important;
-  }
+  .footer-disclaimer { margin-top: 0.5rem; font-size: 0.75rem !important; }
 
   @media (min-width: 768px) {
-    .footer-inner {
-      grid-template-columns: 1fr 1fr;
-    }
-
-    .footer-bottom {
-      grid-column: 1 / -1;
-    }
+    .footer-inner { grid-template-columns: 1fr 1fr; }
+    .footer-bottom { grid-column: 1 / -1; }
   }
 </style>
