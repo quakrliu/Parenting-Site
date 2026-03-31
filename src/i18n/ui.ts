@@ -95,6 +95,33 @@ export const ui = {
     'section.about.practical.desc': 'Actionable steps, not abstract theory',
     'section.about.inclusive': 'Bilingual',
     'section.about.inclusive.desc': 'Content in English and Traditional Chinese',
+    // Age Navigator
+    'age.section': 'Find Your Stage',
+    'age.section.title': 'Where is your child right now?',
+    'age.section.desc': 'Every stage brings new milestones, challenges, and joys. Select your child\'s age to find guides tailored to this moment.',
+    'age.0-6m': 'Newborn',
+    'age.0-6m.range': '0\u20136 months',
+    'age.6-12m': 'Explorer',
+    'age.6-12m.range': '6\u201312 months',
+    'age.1-2y': 'Toddler',
+    'age.1-2y.range': '1\u20132 years',
+    'age.2-3y': 'Talker',
+    'age.2-3y.range': '2\u20133 years',
+    'age.3-6y': 'Preschooler',
+    'age.3-6y.range': '3\u20136 years',
+
+    // Stats bar
+    'stats.indicators': '224+ developmental indicators',
+    'stats.domains': '8 growth domains',
+    'stats.years': '0\u201318 years covered',
+    'stats.research': 'Research-backed',
+
+    // App preview
+    'app.section': 'Coming Soon',
+    'app.section.title': 'Your parenting companion, in your pocket',
+    'app.section.desc': 'Track milestones, get personalized activity ideas, and access expert-curated content \u2014 all in one app designed for real parents.',
+    'app.cta': 'Join the Waitlist',
+
     'footer.tagline': 'Evidence-based Montessori and positive parenting guidance for the journey of parenthood.',
     'footer.explore': 'Explore',
     'footer.allArticles': 'All Articles',
@@ -209,6 +236,33 @@ export const ui = {
     'section.about.practical.desc': '可執行的步驟，非抽象理論',
     'section.about.inclusive': '雙語支援',
     'section.about.inclusive.desc': '英文與繁體中文內容',
+    // Age Navigator
+    'age.section': '找到你的階段',
+    'age.section.title': '你的孩子現在在哪個階段？',
+    'age.section.desc': '每個階段都帶來新的里程碑、挑戰與喜悅。選擇孩子的年齡，找到為此刻量身打造的指南。',
+    'age.0-6m': '新生兒',
+    'age.0-6m.range': '0\u20136 個月',
+    'age.6-12m': '探索者',
+    'age.6-12m.range': '6\u201312 個月',
+    'age.1-2y': '學步兒',
+    'age.1-2y.range': '1\u20132 歲',
+    'age.2-3y': '小話家',
+    'age.2-3y.range': '2\u20133 歲',
+    'age.3-6y': '學齡前',
+    'age.3-6y.range': '3\u20136 歲',
+
+    // Stats bar
+    'stats.indicators': '224+ 項發展指標',
+    'stats.domains': '8 大成長領域',
+    'stats.years': '涵蓋 0\u201318 歲',
+    'stats.research': '以研究為基礎',
+
+    // App preview
+    'app.section': '即將推出',
+    'app.section.title': '你的育兒夥伴，就在口袋裡',
+    'app.section.desc': '追蹤里程碑、獲得個人化活動建議、存取專家策劃的內容 \u2014 一個為真實父母設計的 App。',
+    'app.cta': '加入候補名單',
+
     'footer.tagline': '以研究為基礎的蒙特梭利與正向教養旅程指南。',
     'footer.explore': '探索',
     'footer.allArticles': '所有文章',
