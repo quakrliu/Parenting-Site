@@ -1,13 +1,13 @@
 {
-  "active": false,
+  "active": true,
   "en": {
-    "message": "",
-    "link": "",
-    "linkText": "Read more"
+    "message": "⚠️ 2026 Baby Formula Recall: ByHeart, Enfamil & European Brands Affected",
+    "link": "/en/blog/2026-baby-formula-recall-guide",
+    "linkText": "Read the full guide →"
   },
   "zh": {
-    "message": "",
-    "link": "",
-    "linkText": "了解更多"
+    "message": "⚠️ 2026 嬰兒配方奶粉召回警報：ByHeart、Enfamil、歐洲品牌受影響",
+    "link": "/zh/blog/2026-baby-formula-recall-guide",
+    "linkText": "查看完整指南 →"
   }
 }
