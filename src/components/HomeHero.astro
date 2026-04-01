@@ -23,10 +23,7 @@ const t = useTranslations(lang);
   </div>
   <div class="container hero__grid">
     <div class="hero__content">
-      {lang === 'en'
-        ? <h1>The science of growing up, simplified.</h1>
-        : <h1 set:html={t('hero.heading')} />
-      }
+      <h1 set:html={t('hero.heading')} />
       <p class="hero__desc">{t('hero.desc')}</p>
       <div class="hero__actions">
         <a href={`/${lang}/blog`} class="btn btn--primary btn--lg">
