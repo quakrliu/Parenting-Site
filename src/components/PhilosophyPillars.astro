@@ -1,0 +1,220 @@
+---
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+  lang: 'en' | 'zh';
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const montessoriSlug = lang === 'en' ? 'montessori-at-home-guide-en' : 'montessori-at-home-guide-zh';
+const positiveSlug = lang === 'en' ? 'positive-parenting-guide-en' : 'positive-parenting-guide-zh';
+const montessoriAlt = lang === 'en' ? 'Child exploring Montessori materials' : '孩子探索蒙特梭利教具';
+const parentReadingAlt = lang === 'en' ? 'Parent and child sharing a warm moment' : '親子共讀的溫馨時刻';
+const ctaLabel = lang === 'en' ? 'Read the full guide' : '閱讀完整指南';
+---
+
+<section class="pillars">
+  <div class="container">
+    <div class="section-header section-header--center">
+      <span class="eyebrow">{t('section.philosophy')}</span>
+      <h2>{t('section.philosophy.title')}</h2>
+      <p class="section-desc section-desc--center">{t('section.philosophy.desc')}</p>
+    </div>
+    <div class="pillars__grid">
+      <div class="pillars__card">
+        <div class="pillars__img-wrap">
+          <img
+            src="/images/montessori-play.jpg"
+            alt={montessoriAlt}
+            width="800"
+            height="600"
+            loading="lazy"
+            class="pillars__img"
+          />
+        </div>
+        <div class="pillars__body">
+          <div class="pillars__icon pillars__icon--forest">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+            </svg>
+          </div>
+          <h3>{t('philosophy.montessori.title')}</h3>
+          <p>{t('philosophy.montessori.desc')}</p>
+          <ul class="pillars__points">
+            <li>{t('philosophy.montessori.point1')}</li>
+            <li>{t('philosophy.montessori.point2')}</li>
+            <li>{t('philosophy.montessori.point3')}</li>
+          </ul>
+          <a href={`/${lang}/blog/${montessoriSlug}`} class="pillars__cta">
+            {ctaLabel}
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+      <div class="pillars__card">
+        <div class="pillars__img-wrap">
+          <img
+            src="/images/parent-reading.jpg"
+            alt={parentReadingAlt}
+            width="800"
+            height="600"
+            loading="lazy"
+            class="pillars__img"
+          />
+        </div>
+        <div class="pillars__body">
+          <div class="pillars__icon pillars__icon--orange">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+            </svg>
+          </div>
+          <h3>{t('philosophy.positive.title')}</h3>
+          <p>{t('philosophy.positive.desc')}</p>
+          <ul class="pillars__points">
+            <li>{t('philosophy.positive.point1')}</li>
+            <li>{t('philosophy.positive.point2')}</li>
+            <li>{t('philosophy.positive.point3')}</li>
+          </ul>
+          <a href={`/${lang}/blog/${positiveSlug}`} class="pillars__cta">
+            {ctaLabel}
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .pillars {
+    padding: 7rem 0;
+    background: var(--color-cream);
+  }
+
+  .pillars__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+
+  .pillars__card {
+    background: var(--color-white);
+    border-radius: 24px;
+    overflow: hidden;
+    border: 1px solid rgba(141, 155, 142, 0.06);
+    transition: all 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  .pillars__card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 24px 56px -16px rgba(74, 69, 67, 0.08);
+  }
+
+  .pillars__img-wrap {
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+  }
+
+  .pillars__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  .pillars__card:hover .pillars__img {
+    transform: scale(1.03);
+  }
+
+  .pillars__body {
+    padding: 2.25rem 2rem 2.5rem;
+  }
+
+  .pillars__icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.25rem;
+  }
+
+  .pillars__icon--forest { background: rgba(141, 155, 142, 0.08); color: var(--color-forest); }
+  .pillars__icon--orange { background: rgba(196, 168, 130, 0.1); color: var(--color-orange-dark); }
+
+  .pillars__body h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--color-text);
+    margin-bottom: 0.625rem;
+  }
+
+  .pillars__body p {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+    max-width: 50ch;
+  }
+
+  .pillars__points {
+    list-style: none;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .pillars__points li {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text);
+    padding-left: 1.375rem;
+    position: relative;
+    line-height: 1.5;
+  }
+
+  .pillars__points li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.5em;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--color-forest-light);
+  }
+
+  .pillars__cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1.25rem;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--color-forest);
+    text-decoration: none;
+    transition: gap 0.2s ease;
+  }
+  .pillars__cta:hover { gap: 0.75rem; color: var(--color-forest-dark); }
+
+  @media (max-width: 1023px) {
+    .pillars__grid { grid-template-columns: 1fr; }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .pillars__card {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fade-up 0.6s cubic-bezier(0.32, 0.72, 0, 1) forwards;
+    }
+    .pillars__card:nth-child(1) { animation-delay: 0.05s; }
+    .pillars__card:nth-child(2) { animation-delay: 0.15s; }
+    @keyframes fade-up {
+      to { opacity: 1; transform: translateY(0); }
+    }
+  }
+</style>

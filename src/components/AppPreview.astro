@@ -1,0 +1,108 @@
+---
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+  lang: 'en' | 'zh';
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<section class="app-preview">
+  <div class="container">
+    <div class="app-preview__inner">
+      <div class="app-preview__content">
+        <span class="eyebrow">{t('app.section')}</span>
+        <h2>{t('app.section.title')}</h2>
+        <p>{t('app.section.desc')}</p>
+        <a href="#newsletter" class="btn btn--primary">{t('app.cta')}</a>
+      </div>
+      <div class="app-preview__visual" aria-hidden="true">
+        <div class="app-preview__phone">
+          <div class="app-preview__screen">
+            <img
+              src="/images/montessori-play.jpg"
+              alt=""
+              width="390"
+              height="844"
+              loading="lazy"
+              class="app-preview__screen-img"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .app-preview {
+    padding: 7rem 0;
+    background: var(--color-cream);
+  }
+
+  .app-preview__inner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: center;
+  }
+
+  .app-preview h2 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    letter-spacing: -0.035em;
+    line-height: 1.1;
+    color: var(--color-text);
+  }
+
+  .app-preview__content p {
+    font-size: 1.0625rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+    margin-top: 1rem;
+    max-width: 48ch;
+  }
+
+  .app-preview__content .btn {
+    margin-top: 2rem;
+  }
+
+  .app-preview__visual {
+    display: flex;
+    justify-content: center;
+  }
+
+  .app-preview__phone {
+    width: 260px;
+    background: var(--color-text);
+    border-radius: 36px;
+    padding: 10px;
+    box-shadow:
+      0 40px 80px -20px rgba(74, 69, 67, 0.15),
+      0 0 0 1px rgba(74, 69, 67, 0.05);
+  }
+
+  .app-preview__screen {
+    border-radius: 28px;
+    overflow: hidden;
+    aspect-ratio: 390 / 844;
+  }
+
+  .app-preview__screen-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 1023px) {
+    .app-preview__inner { grid-template-columns: 1fr; text-align: center; }
+    .app-preview__content p { margin-inline: auto; }
+    .app-preview__phone { width: 220px; }
+  }
+
+  @media (max-width: 639px) {
+    .app-preview { padding: 4rem 0; }
+  }
+</style>
