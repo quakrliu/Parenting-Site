@@ -1,0 +1,146 @@
+---
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+  lang: 'en' | 'zh';
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const ageStages = [
+  { key: 'infant', img: '/images/age-newborn.jpg', color: 'forest' },
+  { key: 'toddler', img: '/images/age-toddler.jpg', color: 'orange' },
+  { key: 'preschool', img: '/images/age-preschool.jpg', color: 'pink' },
+  { key: 'school', img: '/images/age-explorer.jpg', color: 'forest' },
+  { key: 'teen', img: '/images/age-talker.jpg', color: 'orange' },
+];
+---
+
+<section class="age-nav">
+  <div class="container">
+    <div class="section-header section-header--center">
+      <span class="eyebrow">{t('age.section')}</span>
+      <h2>{t('age.section.title')}</h2>
+      <p class="section-desc section-desc--center">{t('age.section.desc')}</p>
+    </div>
+    <div class="age-nav__grid">
+      {ageStages.map((stage) => (
+        <a href={`/${lang}/blog`} class={`age-nav__card age-nav__card--${stage.color}`}>
+          <div class="age-nav__img-wrap">
+            <img
+              src={stage.img}
+              alt={t(`age.${stage.key}` as any)}
+              width="480"
+              height="560"
+              loading="lazy"
+              class="age-nav__img"
+            />
+          </div>
+          <div class="age-nav__label">
+            <span class="age-nav__name">{t(`age.${stage.key}` as any)}</span>
+            <span class="age-nav__range">{t(`age.${stage.key}.range` as any)}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .age-nav {
+    padding: 7rem 0 6rem;
+  }
+
+  .age-nav__grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.25rem;
+  }
+
+  .age-nav__card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    overflow: hidden;
+    text-decoration: none;
+    background: var(--color-white);
+    border: 1px solid rgba(141, 155, 142, 0.06);
+    transition: all 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  .age-nav__card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 48px -16px rgba(74, 69, 67, 0.1);
+  }
+
+  .age-nav__card:hover .age-nav__img {
+    transform: scale(1.04);
+  }
+
+  .age-nav__img-wrap {
+    aspect-ratio: 6 / 7;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .age-nav__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  .age-nav__label {
+    padding: 1.125rem 1.25rem 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.125rem;
+  }
+
+  .age-nav__name {
+    font-size: 1.0625rem;
+    font-weight: 600;
+    color: var(--color-text);
+    letter-spacing: -0.01em;
+  }
+
+  .age-nav__range {
+    font-size: 0.8125rem;
+    color: var(--color-text-light);
+  }
+
+  .age-nav__card--forest { border-bottom: 3px solid var(--color-forest); }
+  .age-nav__card--orange { border-bottom: 3px solid var(--color-orange); }
+  .age-nav__card--pink { border-bottom: 3px solid var(--color-pink); }
+
+  @media (max-width: 1023px) {
+    .age-nav__grid { grid-template-columns: repeat(3, 1fr); }
+  }
+
+  @media (max-width: 639px) {
+    .age-nav { padding: 4rem 0; }
+    .age-nav__grid { grid-template-columns: repeat(2, 1fr); }
+    .age-nav__card:last-child {
+      grid-column: 1 / -1;
+      max-width: 50%;
+      justify-self: center;
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .age-nav__card {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fade-up 0.6s cubic-bezier(0.32, 0.72, 0, 1) forwards;
+    }
+    .age-nav__card:nth-child(1) { animation-delay: 0.05s; }
+    .age-nav__card:nth-child(2) { animation-delay: 0.1s; }
+    .age-nav__card:nth-child(3) { animation-delay: 0.15s; }
+    .age-nav__card:nth-child(4) { animation-delay: 0.2s; }
+    .age-nav__card:nth-child(5) { animation-delay: 0.25s; }
+    @keyframes fade-up {
+      to { opacity: 1; transform: translateY(0); }
+    }
+  }
+</style>

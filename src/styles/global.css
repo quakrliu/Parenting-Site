@@ -92,3 +92,106 @@ button, .btn {
 button:active, .btn:active {
   transform: scale(0.98);
 }
+
+/* ===== SHARED HOME COMPONENTS ===== */
+
+/* Eyebrow label */
+.eyebrow {
+  display: inline-block;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--color-orange-dark);
+  background: rgba(196, 168, 130, 0.1);
+  padding: 0.3125rem 0.875rem;
+  border-radius: 100px;
+  margin-bottom: 1rem;
+}
+
+.eyebrow--light {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--color-orange);
+}
+
+/* Section headers */
+.section-header { margin-bottom: 3.5rem; }
+.section-header--center { text-align: center; }
+
+.section-header h2 {
+  font-size: 2.75rem;
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  color: var(--color-text);
+  line-height: 1.1;
+  text-wrap: balance;
+}
+
+.section-desc {
+  font-size: 1.0625rem;
+  color: var(--color-text-light);
+  margin-top: 0.875rem;
+  max-width: 55ch;
+  line-height: 1.7;
+}
+
+.section-desc--center { margin-inline: auto; }
+
+.section-cta {
+  text-align: center;
+  margin-top: 3.5rem;
+}
+
+@media (max-width: 639px) {
+  .section-header h2 { font-size: 1.875rem; }
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-primary);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  padding: 0.8125rem 1.75rem;
+  border-radius: 12px;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.btn:active { transform: translateY(1px) scale(0.98); }
+
+.btn--primary {
+  background: var(--color-forest);
+  color: var(--color-white);
+}
+
+.btn--primary:hover {
+  background: var(--color-forest-dark);
+  color: var(--color-white);
+  transform: translateY(-1px);
+  box-shadow: 0 8px 28px -8px rgba(112, 125, 114, 0.35);
+}
+
+.btn--lg { padding: 0.9375rem 2rem; font-size: 1rem; }
+
+.btn--sm {
+  padding: 0.5rem 1.25rem;
+  font-size: 0.8125rem;
+  border-radius: 10px;
+}
+
+.btn--ghost {
+  background: transparent;
+  color: var(--color-forest);
+  border: 1.5px solid rgba(141, 155, 142, 0.25);
+}
+
+.btn--ghost:hover {
+  border-color: var(--color-forest);
+  background: rgba(141, 155, 142, 0.04);
+  color: var(--color-forest);
+}

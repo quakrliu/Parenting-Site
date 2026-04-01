@@ -1,0 +1,704 @@
+---
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+  lang: 'en' | 'zh';
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<section class="daily">
+  <div class="container">
+    <div class="section-header section-header--center">
+      <span class="eyebrow">{t('daily.section')}</span>
+      <h2>{t('daily.section.title')}</h2>
+      <p class="section-desc section-desc--center">{t('daily.section.desc')}</p>
+    </div>
+    <div class="daily__grid">
+      <!-- Today's Growth Activity -->
+      <div class="daily__card daily__card--task">
+        <div class="daily__card-header">
+          <div class="daily__icon daily__icon--forest">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          </div>
+          <span class="daily__badge">{t('daily.task.time')}</span>
+        </div>
+        <h3>{t('daily.task.title')}</h3>
+        <p id="daily-task-text" class="daily__body">Loading...</p>
+        <div id="daily-task-age" class="daily__tag"></div>
+      </div>
+
+      <!-- Weekly Focus -->
+      <div class="daily__card daily__card--focus">
+        <div class="daily__card-header">
+          <div class="daily__icon daily__icon--orange">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+          </div>
+        </div>
+        <h3>{t('daily.focus.title')}</h3>
+        <p id="weekly-focus-text" class="daily__body">Loading...</p>
+        <div id="weekly-focus-age" class="daily__tag"></div>
+      </div>
+
+      <!-- Daily Quote -->
+      <div class="daily__card daily__card--quote">
+        <div class="daily__card-header">
+          <div class="daily__icon daily__icon--pink">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V21z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"/></svg>
+          </div>
+          <button id="quote-copy-btn" class="daily__copy-btn" aria-label={lang === 'en' ? 'Copy quote' : '複製名言'}>{t('daily.quote.btn')}</button>
+        </div>
+        <h3>{t('daily.quote.title')}</h3>
+        <blockquote id="daily-quote-text" class="daily__quote">Loading...</blockquote>
+        <cite id="daily-quote-author" class="daily__cite"></cite>
+      </div>
+
+      <!-- Is This Normal? -->
+      <div class="daily__card daily__card--normal">
+        <div class="daily__card-header">
+          <div class="daily__icon daily__icon--forest">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+          </div>
+        </div>
+        <h3>{t('daily.normal.title')}</h3>
+        <p class="daily__body-sm">{t('daily.normal.desc')}</p>
+        <div class="daily__form">
+          <select id="normal-age" class="daily__select" aria-label={t('daily.normal.select.age')}>
+            <option value="">{t('daily.normal.select.age')}</option>
+            {lang === 'en' ? (
+              <>
+                <option value="infant">0-1</option>
+                <option value="toddler">1-3</option>
+                <option value="preschool">3-6</option>
+                <option value="school">6-12</option>
+                <option value="teen">12-18</option>
+              </>
+            ) : (
+              <>
+                <option value="infant">0-1 歲</option>
+                <option value="toddler">1-3 歲</option>
+                <option value="preschool">3-6 歲</option>
+                <option value="school">6-12 歲</option>
+                <option value="teen">12-18 歲</option>
+              </>
+            )}
+          </select>
+          <select id="normal-behavior" class="daily__select" aria-label={t('daily.normal.select.behavior')}>
+            <option value="">{t('daily.normal.select.behavior')}</option>
+          </select>
+          <button id="normal-check-btn" class="btn btn--primary btn--sm">{t('daily.normal.check')}</button>
+        </div>
+        <div id="normal-result" class="daily__result"></div>
+        <p class="daily__disclaimer">{t('daily.normal.disclaimer')}</p>
+      </div>
+
+      <!-- Parenting Journal -->
+      <div class="daily__card daily__card--journal">
+        <div class="daily__card-header">
+          <div class="daily__icon daily__icon--orange">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+          </div>
+          <div id="journal-streak" class="daily__streak"></div>
+        </div>
+        <h3>{t('daily.journal.title')}</h3>
+        <textarea id="journal-input" class="daily__textarea" placeholder={t('daily.journal.prompt')} rows="3"></textarea>
+        <button id="journal-save-btn" class="btn btn--primary btn--sm">{t('daily.journal.save')}</button>
+        <div id="journal-saved" class="daily__saved"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script define:vars={{ lang }}>
+  (function() {
+    var today = new Date();
+    var dayOfYear = Math.floor((today.getTime() - new Date(today.getFullYear(), 0, 0).getTime()) / 86400000);
+    var weekOfYear = Math.floor(dayOfYear / 7);
+
+    var activitiesEn = [
+      { text: 'Build a blanket fort together and read a story inside it. Let your child choose the book and lead the setup.', age: 'Preschool (3-6)' },
+      { text: 'Play "I Spy" using only colors during a walk. Great for vocabulary and observation skills.', age: 'Toddler (1-3)' },
+      { text: 'Let your baby explore different textures: silk, wool, sandpaper, a cool spoon. Narrate what they feel.', age: 'Infant (0-1)' },
+      { text: 'Ask your school-age child to teach you something they learned this week. Reversal of roles builds confidence.', age: 'School Age (6-12)' },
+      { text: 'Cook a simple meal together. Measuring ingredients teaches math; following steps teaches sequencing.', age: 'Preschool (3-6)' },
+      { text: 'Have a "feelings check-in" at dinner: everyone shares one high and one low from their day.', age: 'All Ages' },
+      { text: 'Create a nature journal: go outside for 10 minutes and sketch or describe three things you notice.', age: 'School Age (6-12)' },
+      { text: 'Practice pouring water between two cups. Start with a small pitcher for little hands.', age: 'Toddler (1-3)' },
+      { text: 'Ask your teen: "What is something you wish adults understood better?" Then just listen.', age: 'Adolescent (12-18)' },
+      { text: 'Do tummy time with your baby while lying face-to-face. Sing a simple song and watch them respond.', age: 'Infant (0-1)' },
+      { text: 'Challenge your child to sort laundry by color. Practical life skill + pattern recognition.', age: 'Preschool (3-6)' },
+      { text: 'Write a short note to your teen and leave it in their backpack. Simple, no strings attached.', age: 'Adolescent (12-18)' },
+      { text: 'Play "grocery store" with real items from the pantry. Practice counting and making change.', age: 'School Age (6-12)' },
+      { text: 'Dance party. Put on music and move together for 5 minutes. No rules, just movement.', age: 'All Ages' },
+    ];
+
+    var activitiesZh = [
+      { text: '一起蓋毛毯城堡，在裡面讀一本故事書。讓孩子選書、主導搭建。', age: '學齡前 (3-6)' },
+      { text: '散步時玩「我看到」遊戲，只用顏色描述。訓練觀察力和詞彙。', age: '學步期 (1-3)' },
+      { text: '讓寶寶探索不同觸感：絲綢、毛線、砂紙、涼涼的湯匙。邊摸邊說給他聽。', age: '嬰兒期 (0-1)' },
+      { text: '請學齡孩子教你一件他這週學到的事。角色反轉能建立自信。', age: '學齡期 (6-12)' },
+      { text: '一起做一道簡單的料理。量食材教數學，按步驟教排序。', age: '學齡前 (3-6)' },
+      { text: '晚餐時做「感受打卡」：每個人分享今天一件開心的事和一件不開心的事。', age: '全年齡' },
+      { text: '做一本自然觀察日記：去外面10分鐘，畫下或寫下你注意到的三件事。', age: '學齡期 (6-12)' },
+      { text: '練習把水從一個杯子倒到另一個杯子。用小壺讓小手練習。', age: '學步期 (1-3)' },
+      { text: '問你的青少年：「你覺得大人最不了解什麼？」然後只是聽。', age: '青少年期 (12-18)' },
+      { text: '和寶寶面對面做趴趴時間。唱一首簡單的歌，觀察他的反應。', age: '嬰兒期 (0-1)' },
+      { text: '挑戰孩子按顏色分類衣服。生活實踐技能 + 模式辨識。', age: '學齡前 (3-6)' },
+      { text: '寫一張小紙條放進青少年的書包裡。簡單的，不附帶條件的。', age: '青少年期 (12-18)' },
+      { text: '用家裡的食材玩「雜貨店」遊戲。練習數數和找零。', age: '學齡期 (6-12)' },
+      { text: '跳舞時間！放音樂，一起動5分鐘。沒有規則，只有律動。', age: '全年齡' },
+    ];
+
+    var weeklyFocusesEn = [
+      { text: 'Emotional Vocabulary: Help your child name their feelings this week. "You seem frustrated" is more powerful than "Stop crying."', age: 'All Ages' },
+      { text: 'Independence Practice: Let your child do one thing themselves that you normally do for them. Button a shirt, pour their own drink, walk to school.', age: 'Toddler - School Age' },
+      { text: 'Screen-Free Connection: Spend 15 uninterrupted minutes with your child each day this week. No phones, no agenda.', age: 'All Ages' },
+      { text: 'Routine Building: Create a visual schedule for morning or bedtime. Let your child help design it.', age: 'Preschool (3-6)' },
+      { text: 'Gratitude Practice: At dinner, each family member shares one thing they are grateful for today.', age: 'School Age - Adolescent' },
+      { text: 'Sensory Exploration: Offer your baby one new sensory experience each day: music, texture, scent, taste, movement.', age: 'Infant (0-1)' },
+      { text: 'Active Listening Week: When your teen talks, pause before responding. Repeat back what you heard before offering your thoughts.', age: 'Adolescent (12-18)' },
+      { text: 'Movement & Coordination: Set up a simple obstacle course indoors or outdoors. Crawl, jump, balance.', age: 'Toddler - Preschool' },
+    ];
+
+    var weeklyFocusesZh = [
+      { text: '情緒詞彙週：幫助孩子為感受命名。「你好像很挫折」比「不要哭」更有力量。', age: '全年齡' },
+      { text: '獨立練習週：讓孩子自己做一件你平常幫他做的事。扣鈕扣、倒自己的水、走路去學校。', age: '學步期 - 學齡期' },
+      { text: '無螢幕連結週：每天花15分鐘不被打斷地和孩子在一起。不看手機，沒有議程。', age: '全年齡' },
+      { text: '常規建立週：為早晨或睡前做一個視覺化時間表。讓孩子一起設計。', age: '學齡前 (3-6)' },
+      { text: '感恩練習週：晚餐時，每個家人分享今天一件感恩的事。', age: '學齡期 - 青少年期' },
+      { text: '感官探索週：每天提供寶寶一個新的感官體驗：音樂、觸感、氣味、味道、律動。', age: '嬰兒期 (0-1)' },
+      { text: '積極聆聽週：當青少年說話時，先停頓再回應。在給意見前先重複你聽到的。', age: '青少年期 (12-18)' },
+      { text: '動作與協調週：在室內或戶外設置簡單的障礙賽。爬、跳、平衡。', age: '學步期 - 學齡前' },
+    ];
+
+    var quotesEn = [
+      { text: 'The child is both a hope and a promise for mankind.', author: 'Maria Montessori' },
+      { text: 'Children are not things to be molded, but people to be unfolded.', author: 'Jess Lair' },
+      { text: 'Connection is the energy that is created between people when they feel seen, heard, and valued.', author: 'Brene Brown' },
+      { text: 'Play is the highest form of research.', author: 'Albert Einstein' },
+      { text: 'The greatest gifts we can give our children are the roots of responsibility and the wings of independence.', author: 'Maria Montessori' },
+      { text: 'When little people are overwhelmed by big emotions, it is our job to share our calm, not join their chaos.', author: 'L.R. Knost' },
+      { text: 'Every child deserves a champion: an adult who will never give up on them.', author: 'Rita Pierson' },
+      { text: 'Do not train a child to learn by force or harshness; direct them to it by what amuses their minds.', author: 'Plato' },
+      { text: 'Behind every young child who believes in themselves is a parent who believed first.', author: 'Matthew Jacobson' },
+      { text: "The way we talk to our children becomes their inner voice.", author: "Peggy O'Mara" },
+      { text: 'It is easier to build strong children than to repair broken adults.', author: 'Frederick Douglass' },
+      { text: 'Children need at least one person in their life who thinks the sun rises and sets on them.', author: 'Pamela Leo' },
+      { text: 'The child who concentrates is immensely happy.', author: 'Maria Montessori' },
+      { text: 'Your children need your presence more than your presents.', author: 'Jesse Jackson' },
+    ];
+
+    var quotesZh = [
+      { text: '孩子是人類的希望與承諾。', author: '瑪麗亞．蒙特梭利' },
+      { text: '孩子不是要被塑造的東西，而是要被展開的人。', author: 'Jess Lair' },
+      { text: '當人們感到被看見、被聽見、被重視時，連結的能量就產生了。', author: '布芮尼．布朗' },
+      { text: '遊戲是最高形式的研究。', author: '愛因斯坦' },
+      { text: '我們能給孩子最好的禮物，是責任的根和獨立的翅膀。', author: '瑪麗亞．蒙特梭利' },
+      { text: '當小小的人被大大的情緒淹沒時，我們的工作是分享我們的平靜，而不是加入他們的混亂。', author: 'L.R. Knost' },
+      { text: '每個孩子都值得擁有一個冠軍：一個永遠不會放棄他們的大人。', author: 'Rita Pierson' },
+      { text: '不要用強迫或嚴厲來訓練孩子學習；用能引起他們興趣的方式引導。', author: '柏拉圖' },
+      { text: '每個相信自己的孩子背後，都有一個先相信他的父母。', author: 'Matthew Jacobson' },
+      { text: '我們和孩子說話的方式，會成為他們內心的聲音。', author: "Peggy O'Mara" },
+      { text: '建造堅強的孩子比修復破碎的大人容易得多。', author: 'Frederick Douglass' },
+      { text: '孩子的生命中至少需要一個人，認為太陽是為他們升起和落下的。', author: 'Pamela Leo' },
+      { text: '專注的孩子是無比快樂的。', author: '瑪麗亞．蒙特梭利' },
+      { text: '你的孩子需要你的陪伴，勝過你的禮物。', author: 'Jesse Jackson' },
+    ];
+
+    var behaviorsByAgeEn = {
+      infant: [
+        { label: 'Not smiling yet', value: 'no-smile' },
+        { label: 'Startles at loud sounds', value: 'startle' },
+        { label: 'Cries a lot', value: 'cries' },
+        { label: 'Not rolling over', value: 'no-roll' },
+      ],
+      toddler: [
+        { label: 'Biting other children', value: 'biting' },
+        { label: 'Not talking yet', value: 'no-talk' },
+        { label: 'Frequent tantrums', value: 'tantrums' },
+        { label: 'Picky eating', value: 'picky-eat' },
+      ],
+      preschool: [
+        { label: 'Imaginary friends', value: 'imaginary' },
+        { label: 'Refusing to share', value: 'no-share' },
+        { label: 'Bedwetting', value: 'bedwet' },
+        { label: 'Asks "why" constantly', value: 'why' },
+      ],
+      school: [
+        { label: 'Struggles with reading', value: 'read-struggle' },
+        { label: "Doesn't want to go to school", value: 'school-avoid' },
+        { label: 'Frequent stomach aches', value: 'stomach' },
+        { label: 'Trouble making friends', value: 'friend-trouble' },
+      ],
+      teen: [
+        { label: 'Stays in room all day', value: 'isolation' },
+        { label: 'Mood swings', value: 'moods' },
+        { label: 'Talks back constantly', value: 'talks-back' },
+        { label: 'Sleeps too much', value: 'oversleep' },
+      ],
+    };
+
+    var behaviorsByAgeZh = {
+      infant: [
+        { label: '還沒有笑', value: 'no-smile' },
+        { label: '聽到大聲音會囧啊', value: 'startle' },
+        { label: '很愛哭', value: 'cries' },
+        { label: '還不會翻身', value: 'no-roll' },
+      ],
+      toddler: [
+        { label: '會咬其他小朋友', value: 'biting' },
+        { label: '還不會說話', value: 'no-talk' },
+        { label: '經常大哭大鬧', value: 'tantrums' },
+        { label: '挑食', value: 'picky-eat' },
+      ],
+      preschool: [
+        { label: '有幻想朋友', value: 'imaginary' },
+        { label: '不肯分享', value: 'no-share' },
+        { label: '尿床', value: 'bedwet' },
+        { label: '一直問「為什麼」', value: 'why' },
+      ],
+      school: [
+        { label: '閱讀困難', value: 'read-struggle' },
+        { label: '不想上學', value: 'school-avoid' },
+        { label: '經常肚子痛', value: 'stomach' },
+        { label: '交友困難', value: 'friend-trouble' },
+      ],
+      teen: [
+        { label: '整天待在房間', value: 'isolation' },
+        { label: '情緒起伏大', value: 'moods' },
+        { label: '經常頂嘴', value: 'talks-back' },
+        { label: '睡太多', value: 'oversleep' },
+      ],
+    };
+
+    var normalAnswersEn = {
+      'infant-no-smile': { status: 'watch', text: 'Most babies smile by 2 months. If no social smile by 3 months, mention it to your pediatrician at the next visit.' },
+      'infant-startle': { status: 'normal', text: 'Completely normal. The Moro reflex is present at birth and usually fades by 4-6 months.' },
+      'infant-cries': { status: 'normal', text: 'Newborns cry 1-3 hours per day on average. Peaks around 6-8 weeks, then decreases. If inconsolable for hours, consult your pediatrician.' },
+      'infant-no-roll': { status: 'watch', text: 'Most babies roll by 4-6 months. Offer plenty of tummy time. If no rolling by 7 months, consult your pediatrician.' },
+      'toddler-biting': { status: 'normal', text: 'Very common between 1-3 years. They lack words for frustration. Stay calm, say "No biting," and redirect. Usually resolves by age 3.' },
+      'toddler-no-talk': { status: 'watch', text: 'By 18 months, most toddlers say at least a few words. By 2, they combine two words. If concerned, ask about early intervention screening.' },
+      'toddler-tantrums': { status: 'normal', text: 'Peak tantrum age is 18 months to 3 years. Their emotional brain is developing faster than their ability to regulate. Stay calm and present.' },
+      'toddler-picky-eat': { status: 'normal', text: 'Food neophobia is developmentally normal from ages 2-6. Keep offering variety without pressure. It can take 15-20 exposures before acceptance.' },
+      'preschool-imaginary': { status: 'normal', text: 'Imaginary friends are a sign of healthy creativity and social development. About 65% of children have them at some point. No cause for concern.' },
+      'preschool-no-share': { status: 'normal', text: "True sharing develops around age 4-5. Before that, children are still developing theory of mind. Model sharing and take turns, but don't force it." },
+      'preschool-bedwet': { status: 'normal', text: "Nighttime bladder control develops between ages 4-7. About 15% of 5-year-olds still wet the bed. It's usually not a concern until after age 7." },
+      'preschool-why': { status: 'normal', text: 'A beautiful sign of cognitive development. They are building their understanding of cause and effect. Engage when you can, and it\'s okay to say "What do you think?"' },
+      'school-read-struggle': { status: 'watch', text: 'Reading ability varies widely in early grades. If struggling significantly by age 7-8, consider screening for dyslexia or learning differences. Early support helps enormously.' },
+      'school-school-avoid': { status: 'watch', text: 'Occasional reluctance is normal. Persistent avoidance (especially with physical complaints) may signal anxiety, bullying, or learning difficulties. Talk to the school counselor.' },
+      'school-stomach': { status: 'watch', text: 'Recurring stomachaches without medical cause are often linked to anxiety. If happening before school regularly, explore what might be causing stress.' },
+      'school-friend-trouble': { status: 'watch', text: "Social skills develop at different rates. If your child wants friends but struggles, consider social skills groups. If they're content alone, that can be okay too." },
+      'teen-isolation': { status: 'watch', text: 'Some alone time is normal for teens. But near-total withdrawal from family AND friends for 2+ weeks, combined with other changes, may signal depression. Check in gently.' },
+      'teen-moods': { status: 'normal', text: 'Hormonal changes make mood swings common in adolescence. If mood shifts last 2+ weeks and affect daily functioning, it may be more than typical teen behavior.' },
+      'teen-talks-back': { status: 'normal', text: 'Pushing back is a normal part of developing autonomy and identity. Pick your battles. Set clear boundaries on respectful communication, but allow room for disagreement.' },
+      'teen-oversleep': { status: 'normal', text: 'Teens biologically need 8-10 hours and their circadian rhythm shifts later. Sleeping until noon on weekends is common. Concern if sleeping 12+ hours daily with loss of interest.' },
+    };
+
+    var normalAnswersZh = {
+      'infant-no-smile': { status: 'watch', text: '大部分寶寶在2個月大會開始笑。3個月大仍沒有社交性微笑的話，建議在下次健檢時提出。' },
+      'infant-startle': { status: 'normal', text: '完全正常。驚嚇反射出生就有，通常在4-6個月消失。' },
+      'infant-cries': { status: 'normal', text: '新生兒平均每天哭1-3小時。在約6-8週大時達到高峰，然後減少。如果持續哭鬧數小時無法安撫，請諮詢兒科醫師。' },
+      'infant-no-roll': { status: 'watch', text: '大部分寶寶在4-6個月學會翻身。多提供趴趴時間。如果7個月大仍不會翻身，請諮詢兒科醫師。' },
+      'toddler-biting': { status: 'normal', text: '1-3歲非常常見。他們缺乏表達挫折感的詞彙。保持平靜，說「不可以咬」，然後轉移注意力。通常3歲前會改善。' },
+      'toddler-no-talk': { status: 'watch', text: '18個月大時大部分孩子至少會說幾個詞。2歲時會組合兩個詞。如果擔心，可以詢問早期療育篩檢。' },
+      'toddler-tantrums': { status: 'normal', text: '大哭大鬧的18個月到3歲是高峰期。他們的情緒腦發展得比調節能力快。保持平靜，陪在。' },
+      'toddler-picky-eat': { status: 'normal', text: '食物恐新症在2-6歲是發展性正常的。繼續提供多樣化食物但不施壓。可能需要15-20次接觸才會接受。' },
+      'preschool-imaginary': { status: 'normal', text: '幻想朋友是健康創造力和社交發展的表現。約65%的孩子在某個時候會有。不用擔心。' },
+      'preschool-no-share': { status: 'normal', text: '真正的分享能力在4-5歲左右發展。在那之前，孩子仍在發展心智理論。示範分享和輪流，但不要強迫。' },
+      'preschool-bedwet': { status: 'normal', text: '夜間膀胱控制在4-7歲間發展。約15%的5歲孩子仍會尿床。7歲之前通常不是問題。' },
+      'preschool-why': { status: 'normal', text: '認知發展的美麗表現！他們正在建立因果關係的理解。能回答就回答，也可以說「你覺得呢？」' },
+      'school-read-struggle': { status: 'watch', text: '早期年級的閱讀能力差異很大。7-8歲仍明顯困難的話，考慮篩檢讀寫障礙或學習差異。早期支持幫助很大。' },
+      'school-school-avoid': { status: 'watch', text: '偶爾不想上學是正常的。持續迴避（特別是伴隨身體不適）可能表示焦慮、霸凌或學習困難。請與學校輔導老師談談。' },
+      'school-stomach': { status: 'watch', text: '沒有醫學原因的反覆肚子痛通常與焦慮有關。如果經常在上學前發生，探索可能造成壓力的原因。' },
+      'school-friend-trouble': { status: 'watch', text: '社交技巧發展速度不同。如果孩子想交朋友但有困難，考慮社交技巧團體。如果他們單獨也很滿足，那也可以。' },
+      'teen-isolation': { status: 'watch', text: '青少年需要一些獨處時間是正常的。但如果完全退縮超過兩週，加上其他變化，可能是抑鬱的跡象。溫柔地關心。' },
+      'teen-moods': { status: 'normal', text: '荷爾蒙變化讓情緒起伏在青春期很常見。如果情緒變化持續兩週以上且影響日常功能，可能不只是典型的青少年行為。' },
+      'teen-talks-back': { status: 'normal', text: '反抗是發展自主和身分認同的正常部分。選擇你的戰場。在尊重溝通上設定清楚的界線，但允許不同意見。' },
+      'teen-oversleep': { status: 'normal', text: '青少年生理上需要8-10小時睡眠，且生理時鐘會往後移。週末睡到中午是常見的。如果每天睡12小時以上且失去興趣，則需關注。' },
+    };
+
+    var activities = lang === 'en' ? activitiesEn : activitiesZh;
+    var weeklyFocuses = lang === 'en' ? weeklyFocusesEn : weeklyFocusesZh;
+    var quotes = lang === 'en' ? quotesEn : quotesZh;
+    var behaviorsByAge = lang === 'en' ? behaviorsByAgeEn : behaviorsByAgeZh;
+    var normalAnswers = lang === 'en' ? normalAnswersEn : normalAnswersZh;
+
+    // === TODAY'S GROWTH ACTIVITY ===
+    var todayActivity = activities[dayOfYear % activities.length];
+    var taskEl = document.getElementById('daily-task-text');
+    var taskAgeEl = document.getElementById('daily-task-age');
+    if (taskEl) taskEl.textContent = todayActivity.text;
+    if (taskAgeEl) taskAgeEl.textContent = todayActivity.age;
+
+    // === WEEKLY FOCUS ===
+    var thisWeekFocus = weeklyFocuses[weekOfYear % weeklyFocuses.length];
+    var focusEl = document.getElementById('weekly-focus-text');
+    var focusAgeEl = document.getElementById('weekly-focus-age');
+    if (focusEl) focusEl.textContent = thisWeekFocus.text;
+    if (focusAgeEl) focusAgeEl.textContent = thisWeekFocus.age;
+
+    // === DAILY QUOTE ===
+    var todayQuote = quotes[dayOfYear % quotes.length];
+    var quoteEl = document.getElementById('daily-quote-text');
+    var authorEl = document.getElementById('daily-quote-author');
+    if (quoteEl) quoteEl.textContent = '\u201C' + todayQuote.text + '\u201D';
+    if (authorEl) authorEl.textContent = (lang === 'en' ? '-- ' : '\u2014\u2014 ') + todayQuote.author;
+
+    var copyBtn = document.getElementById('quote-copy-btn');
+    if (copyBtn) {
+      copyBtn.addEventListener('click', function() {
+        var sep = lang === 'en' ? ' -- ' : ' \u2014\u2014 ';
+        navigator.clipboard.writeText(todayQuote.text + sep + todayQuote.author).then(function() {
+          copyBtn.textContent = lang === 'en' ? 'Copied!' : '\u5DF2\u8907\u88FD\uFF01';
+          setTimeout(function() {
+            copyBtn.textContent = lang === 'en' ? 'Copy' : '\u8907\u88FD';
+          }, 2000);
+        });
+      });
+    }
+
+    // === IS THIS NORMAL? ===
+    var ageSelect = document.getElementById('normal-age');
+    var behaviorSelect = document.getElementById('normal-behavior');
+    var checkBtn = document.getElementById('normal-check-btn');
+    var resultEl = document.getElementById('normal-result');
+
+    if (ageSelect && behaviorSelect) {
+      ageSelect.addEventListener('change', function() {
+        var age = ageSelect.value;
+        var placeholder = lang === 'en' ? 'Select behavior' : '\u9078\u64C7\u884C\u70BA';
+        behaviorSelect.innerHTML = '<option value="">' + placeholder + '</option>';
+        if (resultEl) resultEl.innerHTML = '';
+        if (age && behaviorsByAge[age]) {
+          behaviorsByAge[age].forEach(function(b) {
+            var opt = document.createElement('option');
+            opt.value = b.value;
+            opt.textContent = b.label;
+            behaviorSelect.appendChild(opt);
+          });
+        }
+      });
+
+      if (checkBtn) {
+        checkBtn.addEventListener('click', function() {
+          var age = ageSelect.value;
+          var behavior = behaviorSelect.value;
+          if (!age || !behavior) return;
+          var key = age + '-' + behavior;
+          var answer = normalAnswers[key];
+          if (answer && resultEl) {
+            var statusClass = answer.status === 'normal' ? 'daily__result--normal' : 'daily__result--watch';
+            var statusIcon = answer.status === 'normal'
+              ? (lang === 'en' ? 'Typically Normal' : '\u901A\u5E38\u6B63\u5E38')
+              : (lang === 'en' ? 'Worth Watching' : '\u503C\u5F97\u95DC\u6CE8');
+            resultEl.innerHTML = '<div class="daily__result-badge ' + statusClass + '">' + statusIcon + '</div><p>' + answer.text + '</p>';
+          }
+        });
+      }
+    }
+
+    // === PARENTING JOURNAL ===
+    var journalInput = document.getElementById('journal-input');
+    var journalSaveBtn = document.getElementById('journal-save-btn');
+    var journalSaved = document.getElementById('journal-saved');
+    var journalStreak = document.getElementById('journal-streak');
+
+    function getDateKey() { return today.toISOString().split('T')[0]; }
+
+    function calcStreak() {
+      var entries = JSON.parse(localStorage.getItem('bp-journal') || '{}');
+      var streak = 0;
+      var d = new Date(today);
+      while (true) {
+        var key = d.toISOString().split('T')[0];
+        if (entries[key]) { streak++; d.setDate(d.getDate() - 1); } else { break; }
+      }
+      return streak;
+    }
+
+    function updateStreakUI() {
+      var streak = calcStreak();
+      if (journalStreak && streak > 0) {
+        journalStreak.textContent = streak + (lang === 'en' ? ' day streak' : ' \u5929\u9023\u7E8C\u8A18\u9304');
+        journalStreak.style.display = 'inline-block';
+      }
+    }
+
+    var entries = JSON.parse(localStorage.getItem('bp-journal') || '{}');
+    var todayKey = getDateKey();
+    if (entries[todayKey] && journalInput) journalInput.value = entries[todayKey];
+    updateStreakUI();
+
+    if (journalSaveBtn && journalInput) {
+      journalSaveBtn.addEventListener('click', function() {
+        var text = journalInput.value.trim();
+        if (!text) return;
+        var entries = JSON.parse(localStorage.getItem('bp-journal') || '{}');
+        entries[todayKey] = text;
+        localStorage.setItem('bp-journal', JSON.stringify(entries));
+        if (journalSaved) {
+          journalSaved.textContent = lang === 'en' ? 'Saved!' : '\u5DF2\u5132\u5B58\uFF01';
+          journalSaved.style.opacity = '1';
+          setTimeout(function() { journalSaved.style.opacity = '0'; }, 2000);
+        }
+        updateStreakUI();
+      });
+    }
+  })();
+</script>
+
+<style>
+  .daily {
+    padding: 7rem 0;
+    background: var(--color-cream);
+  }
+
+  .daily__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 1.25rem;
+  }
+
+  .daily__card {
+    background: var(--color-white);
+    border-radius: 20px;
+    padding: 1.75rem;
+    border: 1px solid rgba(141, 155, 142, 0.06);
+    transition: all 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .daily__card:hover {
+    border-color: rgba(141, 155, 142, 0.15);
+    box-shadow: 0 12px 36px -12px rgba(141, 155, 142, 0.08);
+    transform: translateY(-2px);
+  }
+
+  .daily__card--normal {
+    grid-column: 1 / 3;
+  }
+
+  .daily__card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+
+  .daily__icon {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .daily__icon--forest { background: rgba(141, 155, 142, 0.08); color: var(--color-forest); }
+  .daily__icon--orange { background: rgba(196, 168, 130, 0.1); color: var(--color-orange-dark); }
+  .daily__icon--pink { background: rgba(212, 181, 176, 0.12); color: #a8706a; }
+
+  .daily__badge {
+    font-size: 0.6875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-forest);
+    background: rgba(141, 155, 142, 0.08);
+    padding: 0.25rem 0.625rem;
+    border-radius: 100px;
+  }
+
+  .daily__card h3 {
+    font-size: 1.125rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--color-text);
+    margin-bottom: 0.5rem;
+  }
+
+  .daily__body {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.7;
+    flex: 1;
+  }
+
+  .daily__body-sm {
+    font-size: 0.875rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .daily__tag {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-forest);
+    background: rgba(141, 155, 142, 0.06);
+    padding: 0.25rem 0.625rem;
+    border-radius: 6px;
+    display: inline-block;
+    margin-top: 0.875rem;
+    align-self: flex-start;
+  }
+
+  .daily__tag:empty { display: none; }
+
+  .daily__quote {
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--color-text);
+    line-height: 1.7;
+    border: none;
+    padding: 0;
+    margin: 0;
+    background: none;
+    flex: 1;
+  }
+
+  .daily__cite {
+    font-size: 0.8125rem;
+    font-style: normal;
+    color: var(--color-text-light);
+    margin-top: 0.75rem;
+    display: block;
+  }
+
+  .daily__copy-btn {
+    font-family: var(--font-primary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-forest);
+    background: rgba(141, 155, 142, 0.06);
+    border: 1px solid rgba(141, 155, 142, 0.12);
+    padding: 0.25rem 0.75rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .daily__copy-btn:hover {
+    background: rgba(141, 155, 142, 0.12);
+  }
+
+  .daily__form {
+    display: flex;
+    gap: 0.625rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .daily__select {
+    font-family: var(--font-primary);
+    font-size: 0.875rem;
+    padding: 0.5rem 0.875rem;
+    border-radius: 10px;
+    border: 1px solid rgba(141, 155, 142, 0.15);
+    background: var(--color-white);
+    color: var(--color-text);
+    cursor: pointer;
+    min-width: 140px;
+    transition: border-color 0.2s ease;
+  }
+
+  .daily__select:focus {
+    outline: none;
+    border-color: var(--color-forest);
+  }
+
+  .daily__result {
+    margin-top: 1rem;
+    font-size: 0.9375rem;
+    color: var(--color-text);
+    line-height: 1.65;
+  }
+
+  .daily__result:empty { display: none; }
+
+  .daily__result-badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.25rem 0.75rem;
+    border-radius: 100px;
+    margin-bottom: 0.5rem;
+  }
+
+  .daily__result--normal {
+    background: rgba(141, 155, 142, 0.1);
+    color: var(--color-forest);
+  }
+
+  .daily__result--watch {
+    background: rgba(196, 168, 130, 0.12);
+    color: var(--color-orange-dark);
+  }
+
+  .daily__disclaimer {
+    font-size: 0.6875rem;
+    color: var(--color-text-light);
+    margin-top: 0.875rem;
+    opacity: 0.7;
+  }
+
+  .daily__textarea {
+    font-family: var(--font-primary);
+    font-size: 0.9375rem;
+    padding: 0.75rem 1rem;
+    border-radius: 12px;
+    border: 1px solid rgba(141, 155, 142, 0.12);
+    background: rgba(141, 155, 142, 0.02);
+    color: var(--color-text);
+    width: 100%;
+    resize: vertical;
+    line-height: 1.6;
+    transition: border-color 0.2s ease;
+    margin-bottom: 0.75rem;
+  }
+
+  .daily__textarea:focus {
+    outline: none;
+    border-color: var(--color-forest);
+  }
+
+  .daily__streak {
+    font-size: 0.6875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-orange-dark);
+    background: rgba(196, 168, 130, 0.1);
+    padding: 0.25rem 0.625rem;
+    border-radius: 100px;
+    display: none;
+  }
+
+  .daily__saved {
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-forest);
+    margin-top: 0.5rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  @media (max-width: 1023px) {
+    .daily__grid { grid-template-columns: 1fr 1fr; }
+    .daily__card--normal { grid-column: 1 / 3; }
+  }
+
+  @media (max-width: 639px) {
+    .daily__grid { grid-template-columns: 1fr; }
+    .daily__card--normal { grid-column: 1; }
+    .daily__form { flex-direction: column; align-items: stretch; }
+    .daily__select { min-width: unset; }
+  }
+</style>

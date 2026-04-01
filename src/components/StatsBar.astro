@@ -1,0 +1,112 @@
+---
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+  lang: 'en' | 'zh';
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const stats = [
+  { value: '224+', label: t('stats.indicators') },
+  { value: '8', label: t('stats.domains') },
+  { value: '0-18', label: t('stats.years') },
+];
+---
+
+<section class="stats-bar">
+  <div class="container">
+    <div class="stats-bar__grid">
+      {stats.map((stat) => (
+        <div class="stats-bar__item">
+          <span class="stats-bar__value">{stat.value}</span>
+          <span class="stats-bar__label">{stat.label}</span>
+        </div>
+      ))}
+      <div class="stats-bar__item stats-bar__item--badge">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        <span class="stats-bar__label">{t('stats.research')}</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .stats-bar {
+    padding: 4rem 0;
+    background: var(--color-forest-dark);
+    color: var(--color-white);
+  }
+
+  .stats-bar__grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    text-align: center;
+  }
+
+  .stats-bar__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .stats-bar__value {
+    font-size: 2.5rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1;
+    color: var(--color-white);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .stats-bar__label {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 0.25rem;
+  }
+
+  .stats-bar__item--badge {
+    flex-direction: row;
+    gap: 0.625rem;
+  }
+
+  .stats-bar__item--badge svg {
+    color: var(--color-orange);
+    flex-shrink: 0;
+  }
+
+  .stats-bar__item--badge .stats-bar__label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.85);
+    margin-top: 0;
+  }
+
+  @media (max-width: 1023px) {
+    .stats-bar__grid { grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
+  }
+
+  @media (max-width: 639px) {
+    .stats-bar { padding: 3rem 0; }
+    .stats-bar__grid { grid-template-columns: 1fr; gap: 1.75rem; }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .stats-bar__item {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fade-up 0.6s cubic-bezier(0.32, 0.72, 0, 1) forwards;
+    }
+    .stats-bar__item:nth-child(1) { animation-delay: 0.05s; }
+    .stats-bar__item:nth-child(2) { animation-delay: 0.1s; }
+    .stats-bar__item:nth-child(3) { animation-delay: 0.15s; }
+    .stats-bar__item:nth-child(4) { animation-delay: 0.2s; }
+    @keyframes fade-up {
+      to { opacity: 1; transform: translateY(0); }
+    }
+  }
+</style>
