@@ -13,7 +13,7 @@ export const ui = {
     'site.tagline': 'Montessori & Positive Parenting Guides',
     'site.description': 'Evidence-based Montessori and positive parenting guides, developmental milestones, and practical tools for raising confident, self-directed children.',
     'hero.badge': 'Montessori & Positive Parenting',
-    'hero.heading': 'Raise Confident Children<br/>Through Montessori & Positive Parenting',
+    'hero.heading': 'Raise Confident Children,<br/>Ages 0\u201318',
     'hero.desc': 'Practical, research-backed guides that help you nurture independence, build connection, and support your child\'s natural development from birth through age eighteen.',
     'hero.cta.articles': 'Start Reading',
     'hero.cta.newsletter': 'Get Weekly Tips',
@@ -45,7 +45,7 @@ export const ui = {
     // Topics
     'section.topics': 'Topics',
     'section.topics.title': 'What We Cover',
-    'section.topics.desc': 'Deep dives into the topics that matter most during the early years.',
+    'section.topics.desc': 'Evidence-based guides across every stage\u2014from infancy through adolescence.',
     'section.latest': 'Latest',
     'section.latest.title': 'Recent Articles',
     'section.latest.desc': 'Practical, research-backed guides updated regularly.',
@@ -67,6 +67,12 @@ export const ui = {
     'windows.social.title': 'Social Awareness',
     'windows.social.age': '2.5 to 5 years',
     'windows.social.desc': 'Grace, courtesy, and empathy emerge naturally when modeled. This is when positive parenting skills pay off most.',
+    'windows.school.title': 'School-Age Growth',
+    'windows.school.age': '6 to 12 years',
+    'windows.school.desc': 'Academic foundations, peer relationships, and emotional regulation deepen. Children build the habits and identity that carry into adulthood.',
+    'windows.teen.title': 'Adolescent Development',
+    'windows.teen.age': '12 to 18 years',
+    'windows.teen.desc': 'Identity, autonomy, and critical thinking take center stage. Connection and clear boundaries help teens navigate puberty, social media, and independence.',
 
     // Tools
     'section.tools': 'Free Tools',
@@ -169,6 +175,10 @@ export const ui = {
     'cat.reviews.desc': 'Honest toy, book, and resource reviews from parents who test everything.',
     'cat.nutrition': 'Nutrition & Health',
     'cat.nutrition.desc': 'Practical feeding guides and wellness tips backed by pediatric research.',
+    'cat.school': 'School Age (6\u201312)',
+    'cat.school.desc': 'Homework habits, peer relationships, emotional regulation, and sports\u2014building the foundations for lifelong success.',
+    'cat.teen': 'Adolescent (12\u201318)',
+    'cat.teen.desc': 'Identity, puberty, teen communication, social media literacy, and growing independence\u2014navigating the teenage years together.',
   },
   zh: {
     'site.title': '育見未來',
@@ -207,7 +217,7 @@ export const ui = {
     // Topics
     'section.topics': '主題',
     'section.topics.title': '我們涵蓋的內容',
-    'section.topics.desc': '深入探討早期教養中最重要的主題。',
+    'section.topics.desc': '以實證為基礎的指南，涵蓋從嬰兒期到青少年期的每個階段。',
     'section.latest': '最新',
     'section.latest.title': '近期文章',
     'section.latest.desc': '定期更新的實用、以研究為基礎的指南。',
@@ -229,6 +239,12 @@ export const ui = {
     'windows.social.title': '社會意識',
     'windows.social.age': '2.5 至 5 歲',
     'windows.social.desc': '優雅、禮貌和同理心在被示範時自然萌芽。這是正向教養技巧最能發揮效果的時期。',
+    'windows.school.title': '學齡期成長',
+    'windows.school.age': '6 至 12 歲',
+    'windows.school.desc': '學業基礎、同儕關係和情緒調節能力持續深化。孩子在此階段建立影響一生的習慣與身分認同。',
+    'windows.teen.title': '青少年期發展',
+    'windows.teen.age': '12 至 18 歲',
+    'windows.teen.desc': '身分認同、自主性和批判思考成為核心。連結與清晰的界線幫助青少年在青春期、社群媒體和獨立生活中找到方向。',
 
     // Tools
     'section.tools': '免費工具',
@@ -331,5 +347,9 @@ export const ui = {
     'cat.reviews.desc': '由實際測試一切的父母撰寫的誠實玩具、書籍和資源評測。',
     'cat.nutrition': '營養與健康',
     'cat.nutrition.desc': '以兒科研究為依據的實用餵養指南和健康小技巧。',
+    'cat.school': '學齡期（6\u201312 歲）',
+    'cat.school.desc': '作業習慣、同儕關係、情緒調節與體育運動\u2014建立終身成功的基礎。',
+    'cat.teen': '青少年期（12\u201318 歲）',
+    'cat.teen.desc': '身分認同、青春期、親子溝通、社群媒體素養與自主發展\u2014陪孩子走過青少年時期。',
   },
 } as const;
