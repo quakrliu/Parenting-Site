@@ -1,0 +1,89 @@
+---
+interface Props {
+  lang: 'en' | 'zh';
+  pageUrl: string;
+  pageIdentifier: string;
+}
+
+const { lang, pageUrl, pageIdentifier } = Astro.props;
+
+const heading = lang === 'zh' ? '分享你的看法' : 'Share Your Experience';
+---
+
+<section class="disqus-section" aria-label={heading}>
+  <div class="disqus-header">
+    <svg
+      class="disqus-icon"
+      width="20"
+      height="20"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="1.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+    </svg>
+    <h2 class="disqus-heading">{heading}</h2>
+  </div>
+
+  <div id="disqus_thread" class="disqus-thread"></div>
+</section>
+
+<script define:vars={{ pageUrl, pageIdentifier }}>
+  var disqus_config = function () {
+    this.page.url = pageUrl;
+    this.page.identifier = pageIdentifier;
+  };
+  (function () {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://bloompath.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+
+<noscript>
+  <p style="color: var(--color-text-light); font-size: 0.875rem;">
+    Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow noopener">comments powered by Disqus</a>.
+  </p>
+</noscript>
+
+<style>
+  .disqus-section {
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 1px solid rgba(141, 155, 142, 0.12);
+    max-width: 72ch;
+  }
+
+  .disqus-header {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .disqus-icon {
+    color: var(--color-forest);
+    flex-shrink: 0;
+  }
+
+  .disqus-heading {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text);
+    letter-spacing: -0.015em;
+  }
+
+  .disqus-thread {
+    min-height: 200px;
+  }
+
+  /* Soften Disqus iframe border to blend with Morandi palette */
+  :global(#disqus_thread iframe) {
+    color-scheme: light;
+  }
+</style>
