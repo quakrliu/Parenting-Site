@@ -4,7 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://parenting.quakr.dev',
+  site: 'https://bloom-path.app',
   integrations: [mdx(), sitemap()],
   i18n: {
     defaultLocale: 'en',
