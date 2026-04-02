@@ -7,6 +7,11 @@ interface Props {
 
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+
+const suffix = lang === 'zh' ? '-zh' : '';
+const imgMentor = `/images/app-mentor${suffix}.png`;
+const imgRoadmap = `/images/app-roadmap${suffix}.png`;
+const imgStory = `/images/app-bedtime-story${suffix}.png`;
 ---
 
 <section class="app-preview">
@@ -21,17 +26,17 @@ const t = useTranslations(lang);
       <div class="app-preview__visual" aria-hidden="true">
         <div class="app-preview__phone app-preview__phone--back-left">
           <div class="app-preview__screen">
-            <img src="/images/app-mentor.png" alt="" width="390" height="844" loading="lazy" class="app-preview__screen-img" />
+            <img src={imgMentor} alt="" width="390" height="844" loading="lazy" class="app-preview__screen-img" />
           </div>
         </div>
         <div class="app-preview__phone app-preview__phone--main">
           <div class="app-preview__screen">
-            <img src="/images/app-roadmap.png" alt="" width="390" height="844" loading="lazy" class="app-preview__screen-img" />
+            <img src={imgRoadmap} alt="" width="390" height="844" loading="lazy" class="app-preview__screen-img" />
           </div>
         </div>
         <div class="app-preview__phone app-preview__phone--back-right">
           <div class="app-preview__screen">
-            <img src="/images/app-bedtime-story.png" alt="" width="390" height="844" loading="lazy" class="app-preview__screen-img" />
+            <img src={imgStory} alt="" width="390" height="844" loading="lazy" class="app-preview__screen-img" />
           </div>
         </div>
       </div>
