@@ -1,0 +1,84 @@
+---
+interface Props {
+  lang: 'en' | 'zh';
+}
+
+const { lang } = Astro.props;
+
+const heading = lang === 'zh' ? '分享你的看法' : 'Share Your Experience';
+const giscusLang = lang === 'zh' ? 'zh-TW' : 'en';
+---
+
+<section class="comments-section" aria-label={heading}>
+  <div class="comments-header">
+    <svg
+      class="comments-icon"
+      width="20"
+      height="20"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="1.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+    </svg>
+    <h2 class="comments-heading">{heading}</h2>
+  </div>
+
+  <div class="giscus"></div>
+</section>
+
+<script define:vars={{ giscusLang }}>
+  const script = document.createElement('script');
+  script.src = 'https://giscus.app/client.js';
+  script.setAttribute('data-repo', 'quakrliu/Parenting-Site');
+  script.setAttribute('data-repo-id', 'R_kgDOR1StQw');
+  script.setAttribute('data-category', 'General');
+  script.setAttribute('data-category-id', 'DIC_kwDOR1StQ84C54fW');
+  script.setAttribute('data-mapping', 'pathname');
+  script.setAttribute('data-strict', '0');
+  script.setAttribute('data-reactions-enabled', '1');
+  script.setAttribute('data-emit-metadata', '0');
+  script.setAttribute('data-input-position', 'top');
+  script.setAttribute('data-theme', 'light');
+  script.setAttribute('data-lang', giscusLang);
+  script.setAttribute('data-loading', 'lazy');
+  script.crossOrigin = 'anonymous';
+  script.async = true;
+  document.querySelector('.giscus')?.appendChild(script);
+</script>
+
+<style>
+  .comments-section {
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 1px solid rgba(141, 155, 142, 0.12);
+    max-width: 72ch;
+  }
+
+  .comments-header {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .comments-icon {
+    color: var(--color-forest);
+    flex-shrink: 0;
+  }
+
+  .comments-heading {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text);
+    letter-spacing: -0.015em;
+  }
+
+  .giscus {
+    min-height: 200px;
+  }
+</style>
