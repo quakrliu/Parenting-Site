@@ -149,20 +149,5 @@ const topics = [
     .topics__grid { grid-template-columns: 1fr; }
   }
 
-  @media (prefers-reduced-motion: no-preference) {
-    .topics__card {
-      opacity: 0;
-      transform: translateY(20px);
-      animation: fade-up 0.6s cubic-bezier(0.32, 0.72, 0, 1) forwards;
-    }
-    .topics__card:nth-child(1) { animation-delay: 0.05s; }
-    .topics__card:nth-child(2) { animation-delay: 0.1s; }
-    .topics__card:nth-child(3) { animation-delay: 0.15s; }
-    .topics__card:nth-child(4) { animation-delay: 0.2s; }
-    .topics__card:nth-child(5) { animation-delay: 0.25s; }
-    .topics__card:nth-child(6) { animation-delay: 0.3s; }
-    @keyframes fade-up {
-      to { opacity: 1; transform: translateY(0); }
-    }
-  }
+  /* Animations handled by GSAP ScrollTrigger */
 </style>

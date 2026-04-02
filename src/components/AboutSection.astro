@@ -114,14 +114,5 @@ const t = useTranslations(lang);
     .about__values { grid-template-columns: 1fr; }
   }
 
-  @media (prefers-reduced-motion: no-preference) {
-    .about__visual {
-      opacity: 0;
-      transform: translateY(20px);
-      animation: fade-up 0.6s cubic-bezier(0.32, 0.72, 0, 1) forwards;
-    }
-    @keyframes fade-up {
-      to { opacity: 1; transform: translateY(0); }
-    }
-  }
+  /* Animations handled by GSAP ScrollTrigger */
 </style>
