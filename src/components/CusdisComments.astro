@@ -69,6 +69,13 @@ const heading = lang === 'zh' ? '分享你的看法' : 'Share Your Experience';
   }
 
   #cusdis_thread {
-    min-height: 200px;
+    min-height: 350px;
+  }
+
+  /* Make Cusdis iframe expand fully without internal scrollbar */
+  :global(#cusdis_thread iframe) {
+    width: 100% !important;
+    min-height: 350px !important;
+    border: none !important;
   }
 </style>
