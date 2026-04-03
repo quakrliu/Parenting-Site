@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import CusdisComments from '../../../components/CusdisComments.astro';
+import BookCTA from '../../../components/BookCTA.astro';
 import { getCollection, render } from 'astro:content';
 import { useTranslations } from '../../../i18n/utils';
 
@@ -54,6 +55,8 @@ const postLang = post.data.lang === 'zh-TW' ? 'zh' : 'en';
           </footer>
         )}
       </article>
+
+      <BookCTA lang="zh" />
 
       <CusdisComments
         lang="zh"
