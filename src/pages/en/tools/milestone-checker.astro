@@ -1,0 +1,789 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+
+const lang = 'en';
+---
+
+<BaseLayout
+  title="Development Milestone Checker | BloomPath"
+  description="Check your child's developmental milestones across motor, language, cognitive, social-emotional, and self-care domains. Free interactive tool by BloomPath."
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="tool-page">
+    <div class="container">
+
+      <div class="tool-hero">
+        <div class="tool-badge">Free Tool</div>
+        <h1>Development Milestone Checker</h1>
+        <p class="tool-intro">
+          Explore what most children are doing at each age across five key developmental domains.
+          Remember — every child grows at their own pace.
+        </p>
+      </div>
+
+      <div class="tool-card">
+        <div class="input-section">
+          <label for="age-select" class="input-label">Your child's age</label>
+          <div class="age-control">
+            <input
+              type="range"
+              id="age-slider"
+              min="0"
+              max="72"
+              value="12"
+              step="1"
+              class="age-slider"
+              aria-label="Child age in months"
+            />
+            <div class="age-display">
+              <span id="age-value">12</span>
+              <span class="age-unit">months</span>
+            </div>
+          </div>
+          <div class="age-presets">
+            <button class="preset-btn" data-age="3">3 mo</button>
+            <button class="preset-btn" data-age="6">6 mo</button>
+            <button class="preset-btn" data-age="9">9 mo</button>
+            <button class="preset-btn" data-age="12">1 yr</button>
+            <button class="preset-btn" data-age="18">18 mo</button>
+            <button class="preset-btn" data-age="24">2 yr</button>
+            <button class="preset-btn" data-age="36">3 yr</button>
+            <button class="preset-btn" data-age="48">4 yr</button>
+            <button class="preset-btn" data-age="60">5 yr</button>
+            <button class="preset-btn" data-age="72">6 yr</button>
+          </div>
+        </div>
+
+        <div id="results" class="results-section" aria-live="polite">
+          <!-- Populated by JS -->
+        </div>
+
+        <div class="disclaimer-box">
+          <span class="disclaimer-icon">&#x2665;</span>
+          <p>Every child develops at their own unique pace. These milestones reflect typical ranges — not strict deadlines. If you have concerns, speak with your pediatrician.</p>
+        </div>
+      </div>
+
+      <div class="related-articles">
+        <h2>Related Articles</h2>
+        <div class="article-links">
+          <a href="/en/blog/developmental-milestones-first-year" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>Developmental Milestones in the First Year</span>
+          </a>
+          <a href="/en/blog/language-development-stages" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>Language Development: What to Expect</span>
+          </a>
+          <a href="/en/blog/when-to-talk-to-pediatrician" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>When to Talk to Your Pediatrician About Development</span>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .tool-page {
+    padding: 4rem 0 2rem;
+    min-height: 60vh;
+  }
+
+  .tool-hero {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .tool-badge {
+    display: inline-block;
+    background: rgba(141, 155, 142, 0.12);
+    color: #8D9B8E;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.75rem;
+    border-radius: 100px;
+    margin-bottom: 1rem;
+  }
+
+  .tool-hero h1 {
+    font-size: clamp(1.75rem, 4vw, 2.75rem);
+    font-weight: 700;
+    color: #4A4543;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.75rem;
+  }
+
+  .tool-intro {
+    font-size: 1.0625rem;
+    color: #7A7573;
+    max-width: 52ch;
+    margin: 0 auto;
+    line-height: 1.65;
+  }
+
+  .tool-card {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 0 2px 24px rgba(74, 69, 67, 0.06);
+    max-width: 860px;
+    margin: 0 auto 3rem;
+  }
+
+  .input-label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #4A4543;
+    margin-bottom: 1rem;
+    letter-spacing: 0.01em;
+  }
+
+  .age-control {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .age-slider {
+    flex: 1;
+    -webkit-appearance: none;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(to right, #8D9B8E 0%, #8D9B8E var(--progress, 16.7%), #EDE6DF var(--progress, 16.7%), #EDE6DF 100%);
+    outline: none;
+    cursor: pointer;
+  }
+
+  .age-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #8D9B8E;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(141, 155, 142, 0.4);
+    transition: transform 0.15s ease;
+  }
+
+  .age-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.15);
+  }
+
+  .age-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 60px;
+  }
+
+  #age-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #8D9B8E;
+    line-height: 1;
+  }
+
+  .age-unit {
+    font-size: 0.75rem;
+    color: #7A7573;
+    margin-top: 0.125rem;
+  }
+
+  .age-presets {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .preset-btn {
+    padding: 0.3rem 0.75rem;
+    border: 1.5px solid #EDE6DF;
+    border-radius: 100px;
+    background: transparent;
+    color: #7A7573;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: inherit;
+  }
+
+  .preset-btn:hover,
+  .preset-btn.active {
+    border-color: #8D9B8E;
+    background: rgba(141, 155, 142, 0.08);
+    color: #4A4543;
+  }
+
+  .results-section {
+    margin-top: 2rem;
+  }
+
+  .results-header {
+    text-align: center;
+    margin-bottom: 1.75rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid #F5F0EB;
+  }
+
+  .results-age-label {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #4A4543;
+  }
+
+  .results-age-label span {
+    color: #8D9B8E;
+  }
+
+  .domains-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 640px) {
+    .domains-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .domain-card {
+    background: #F5F0EB;
+    border-radius: 14px;
+    padding: 1.25rem 1.375rem;
+  }
+
+  .domain-header {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    margin-bottom: 0.875rem;
+  }
+
+  .domain-icon {
+    font-size: 1.25rem;
+  }
+
+  .domain-name {
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: #4A4543;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .milestone-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .milestone-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    color: #4A4543;
+    line-height: 1.5;
+  }
+
+  .milestone-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #8D9B8E;
+    flex-shrink: 0;
+    margin-top: 0.375rem;
+  }
+
+  .disclaimer-box {
+    margin-top: 2rem;
+    background: rgba(212, 181, 176, 0.12);
+    border: 1px solid rgba(212, 181, 176, 0.3);
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .disclaimer-icon {
+    color: #D4B5B0;
+    font-size: 1rem;
+    flex-shrink: 0;
+    margin-top: 0.125rem;
+  }
+
+  .disclaimer-box p {
+    font-size: 0.875rem;
+    color: #7A7573;
+    line-height: 1.6;
+  }
+
+  .related-articles {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  .related-articles h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #4A4543;
+    margin-bottom: 1rem;
+  }
+
+  .article-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+  }
+
+  .article-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: #FFFFFF;
+    border: 1px solid #F5F0EB;
+    border-radius: 12px;
+    padding: 0.875rem 1.125rem;
+    color: #4A4543;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .article-link:hover {
+    border-color: #8D9B8E;
+    background: rgba(141, 155, 142, 0.04);
+    color: #4A4543;
+  }
+
+  .article-link-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+  }
+</style>
+
+<script>
+  const MILESTONES: Record<string, Record<string, string[]>> = {
+    '0-6': {
+      Motor: [
+        'Lifts head briefly when on tummy',
+        'Moves arms and legs actively',
+        'Brings hands to mouth',
+        'Holds head steady when upright (by 4 mo)',
+        'Rolls from tummy to back (by 5-6 mo)',
+      ],
+      Language: [
+        'Startles to loud sounds',
+        'Coos and makes soft vowel sounds',
+        'Turns head toward voices',
+        'Laughs and squeals (by 4 mo)',
+        'Babbles with consonants: "ba," "ga" (by 6 mo)',
+      ],
+      Cognitive: [
+        'Follows moving objects with eyes',
+        'Recognizes familiar faces',
+        'Explores objects with mouth',
+        'Shows curiosity and interest in surroundings',
+        'Begins to understand cause and effect',
+      ],
+      'Social-Emotional': [
+        'Social smile (by 6 weeks)',
+        'Enjoys interacting with people',
+        'Responds to faces and voices with excitement',
+        'May become fussy when interaction stops',
+        'Begins to show preferences for familiar caregivers',
+      ],
+      'Self-Care': [
+        'Signals hunger and discomfort by crying',
+        'Calms when held and soothed',
+        'Establishes a feeding rhythm',
+        'Begins sleeping in longer stretches',
+      ],
+    },
+    '6-12': {
+      Motor: [
+        'Sits without support (by 8 mo)',
+        'Pulls to stand and cruises along furniture',
+        'Pincer grasp — picks up small objects (by 9-10 mo)',
+        'May take first independent steps (by 12 mo)',
+        'Claps hands and bangs objects together',
+      ],
+      Language: [
+        'Babbles long strings: "babababa"',
+        'Imitates sounds and simple words',
+        'Understands "no" and their own name',
+        'May say first word (mama, dada) (by 12 mo)',
+        'Points to get attention or express wants',
+      ],
+      Cognitive: [
+        'Object permanence — searches for hidden objects',
+        'Imitates simple actions',
+        'Explores objects by banging, shaking, dropping',
+        'Responds to simple requests with gestures',
+        'Shows intentional problem-solving',
+      ],
+      'Social-Emotional': [
+        'Shows stranger anxiety',
+        'Develops strong attachment to caregivers',
+        'Tests reactions with different people',
+        'Expresses a range of emotions',
+        'Enjoys social games like peek-a-boo',
+      ],
+      'Self-Care': [
+        'Begins finger foods',
+        'Drinks from a cup with help',
+        'Participates in dressing (lifts arms)',
+        'May begin to show preferences for certain foods',
+      ],
+    },
+    '12-18': {
+      Motor: [
+        'Walks independently (most by 14-15 mo)',
+        'Stoops and stands without support',
+        'Throws a ball overhand',
+        'Stacks 2-3 blocks',
+        'Scribbles with crayon',
+      ],
+      Language: [
+        'Uses 5-20+ words meaningfully',
+        'Points to body parts when named',
+        'Understands simple 1-step instructions',
+        'Uses "more," "no," names of familiar objects',
+        'Combines gestures with words',
+      ],
+      Cognitive: [
+        'Imitates simple pretend play (feeding a doll)',
+        'Explores cause-and-effect toys',
+        'Identifies familiar objects in pictures',
+        'Sorts shapes and colors (beginning)',
+        'Purposefully completes simple puzzles',
+      ],
+      'Social-Emotional': [
+        'Shows affection for familiar people',
+        'Tantrums when frustrated (normal!)',
+        'Asserts independence ("no!")',
+        'Plays near other children (parallel play)',
+        'Shows empathy — comforts when others are upset',
+      ],
+      'Self-Care': [
+        'Uses spoon with spilling',
+        'Drinks from cup independently',
+        'Helps with undressing',
+        'Indicates when diaper is wet/dirty',
+      ],
+    },
+    '18-24': {
+      Motor: [
+        'Runs (though may fall)',
+        'Kicks a ball forward',
+        'Climbs onto furniture',
+        'Walks up steps with support',
+        'Stacks 4-6 blocks',
+      ],
+      Language: [
+        'Vocabulary of 50+ words (by 24 mo)',
+        'Begins combining two words: "more milk," "daddy go"',
+        'Refers to self by name',
+        'Follows 2-step instructions',
+        'Uses words more than gestures to communicate',
+      ],
+      Cognitive: [
+        'Engages in simple pretend play',
+        'Sorts objects by shape and color',
+        'Points to pictures in books when named',
+        'Begins to grasp "mine" vs "yours"',
+        'Shows early problem-solving with trial and error',
+      ],
+      'Social-Emotional': [
+        'Increasingly independent ("me do it!")',
+        'Plays alongside other children',
+        'Shows frustration when can\'t communicate',
+        'May have imaginary friends beginning to form',
+        'Seeks comfort from trusted adults',
+      ],
+      'Self-Care': [
+        'Uses spoon and fork with some spilling',
+        'Begins to dress/undress with help',
+        'Washes hands with help',
+        'Shows interest in toilet training readiness',
+      ],
+    },
+    '24-36': {
+      Motor: [
+        'Jumps with both feet',
+        'Pedals a tricycle',
+        'Kicks and throws ball with aim',
+        'Walks up and down stairs alternating feet',
+        'Draws simple shapes (circles)',
+      ],
+      Language: [
+        'Vocabulary of 200-1000 words',
+        'Uses 3-4 word sentences',
+        'Asks "why?" and "what?" questions',
+        'Strangers can understand most speech (by 36 mo)',
+        'Uses plurals and past tense (with errors)',
+      ],
+      Cognitive: [
+        'Engages in complex pretend play',
+        'Understands concepts: big/little, more/less',
+        'Matches and sorts by color, shape, size',
+        'Completes 3-4 piece puzzles',
+        'Begins to understand time: "yesterday," "later"',
+      ],
+      'Social-Emotional': [
+        'Takes turns and shares (with reminders)',
+        'Shows concern for others',
+        'Separates from caregivers more easily',
+        'Plays cooperatively with peers at times',
+        'Has wider range of emotional expression',
+      ],
+      'Self-Care': [
+        'Feeds self with minimal spilling',
+        'Dresses with some help',
+        'Toilet trained or in training (wide range is normal)',
+        'Washes hands independently',
+      ],
+    },
+    '36-48': {
+      Motor: [
+        'Hops on one foot',
+        'Catches a bounced ball',
+        'Draws recognizable people (head + body)',
+        'Uses scissors to cut paper',
+        'Buttons large buttons',
+      ],
+      Language: [
+        'Speaks in 4-6 word sentences',
+        'Tells stories about past events',
+        'Understands most of what is said to them',
+        'Asks "who," "what," "where," "why" constantly',
+        'Uses pronouns correctly most of the time',
+      ],
+      Cognitive: [
+        'Counts 4-10 objects',
+        'Understands the concept of same and different',
+        'Engages in rich fantasy/pretend play',
+        'Begins to understand letters and numbers',
+        'Sorts by multiple attributes',
+      ],
+      'Social-Emotional': [
+        'Cooperates with other children',
+        'Negotiates and compromises',
+        'Aware of gender identity',
+        'Begins to understand rules of games',
+        'Talks about feelings and emotions',
+      ],
+      'Self-Care': [
+        'Dresses and undresses independently',
+        'Brushes teeth with supervision',
+        'Uses toilet independently (nighttime may take longer)',
+        'Pours liquid with minimal spilling',
+      ],
+    },
+    '48-60': {
+      Motor: [
+        'Skips and gallops',
+        'Bounces and catches a ball reliably',
+        'Prints some letters and numbers',
+        'Uses fork and knife with help',
+        'Draws detailed pictures with head, arms, legs, body',
+      ],
+      Language: [
+        'Speaks clearly — strangers understand easily',
+        'Uses 5-8 word sentences',
+        'Tells elaborate stories',
+        'Counts to 20 or higher',
+        'Identifies rhyming words',
+      ],
+      Cognitive: [
+        'Understands and follows multi-step instructions',
+        'Recognizes most letters of the alphabet',
+        'Understands the concept of time (days of week)',
+        'Focuses attention for 10-15 minutes',
+        'Understands opposites',
+      ],
+      'Social-Emotional': [
+        'Prefers playing with friends to playing alone',
+        'More aware of other children\'s feelings',
+        'Can take turns and follow rules in games',
+        'May have a "best friend"',
+        'Negotiates and solves conflicts (sometimes)',
+      ],
+      'Self-Care': [
+        'Dresses completely independently',
+        'Brushes teeth independently',
+        'Prepares simple snacks',
+        'Manages personal hygiene with reminders',
+      ],
+    },
+    '60-72': {
+      Motor: [
+        'Rides a bike with training wheels or without',
+        'Skips, hops, jumps with coordination',
+        'Writes name and copies letters',
+        'Ties shoelaces (many by end of this period)',
+        'Skilled at cutting with scissors',
+      ],
+      Language: [
+        'Uses complex sentences with clauses',
+        'Retells stories in correct sequence',
+        'Understands and explains most concepts',
+        'Vocabulary of 2000+ words',
+        'Beginning to read simple words (many by 6)',
+      ],
+      Cognitive: [
+        'Counts objects and understands number concepts',
+        'Understands and uses logical reasoning',
+        'Beginning to read and write',
+        'Solves simple math problems',
+        'Curious, asks thoughtful questions',
+      ],
+      'Social-Emotional': [
+        'Understands rules and importance of fairness',
+        'Shows more independence and confidence',
+        'Manages emotions better (with coaching)',
+        'Genuine friendships with peers',
+        'Can distinguish real from fantasy',
+      ],
+      'Self-Care': [
+        'Fully independent with dressing and hygiene',
+        'Helps with simple household tasks',
+        'Manages belongings at school',
+        'Pours and prepares simple foods',
+      ],
+    },
+  };
+
+  const DOMAIN_ICONS: Record<string, string> = {
+    Motor: '🏃',
+    Language: '💬',
+    Cognitive: '🧠',
+    'Social-Emotional': '🤝',
+    'Self-Care': '⭐',
+  };
+
+  const DOMAIN_COLORS: Record<string, string> = {
+    Motor: '#8D9B8E',
+    Language: '#C4A882',
+    Cognitive: '#D4B5B0',
+    'Social-Emotional': '#A3B0A5',
+    'Self-Care': '#B09670',
+  };
+
+  function getBucket(months: number): string {
+    if (months < 6) return '0-6';
+    if (months < 12) return '6-12';
+    if (months < 18) return '12-18';
+    if (months < 24) return '18-24';
+    if (months < 36) return '24-36';
+    if (months < 48) return '36-48';
+    if (months < 60) return '48-60';
+    return '60-72';
+  }
+
+  function formatAge(months: number): string {
+    if (months === 0) return '0 months (newborn)';
+    if (months < 12) return `${months} month${months === 1 ? '' : 's'}`;
+    const years = Math.floor(months / 12);
+    const rem = months % 12;
+    if (rem === 0) return `${years} year${years === 1 ? '' : 's'} (${months} months)`;
+    return `${years} yr ${rem} mo (${months} months)`;
+  }
+
+  function renderResults(months: number) {
+    const bucket = getBucket(months);
+    const data = MILESTONES[bucket];
+    const resultsEl = document.getElementById('results')!;
+
+    const domainsHtml = Object.entries(data)
+      .map(([domain, items]) => {
+        const color = DOMAIN_COLORS[domain] || '#8D9B8E';
+        const icon = DOMAIN_ICONS[domain] || '•';
+        const itemsHtml = items
+          .map(
+            (item) => `
+          <li class="milestone-item">
+            <span class="milestone-dot" style="background:${color}"></span>
+            <span>${item}</span>
+          </li>`
+          )
+          .join('');
+        return `
+        <div class="domain-card">
+          <div class="domain-header">
+            <span class="domain-icon">${icon}</span>
+            <span class="domain-name" style="color:${color}">${domain}</span>
+          </div>
+          <ul class="milestone-list">${itemsHtml}</ul>
+        </div>`;
+      })
+      .join('');
+
+    resultsEl.innerHTML = `
+      <div class="results-header">
+        <p class="results-age-label">Milestones for <span>${formatAge(months)}</span></p>
+      </div>
+      <div class="domains-grid">${domainsHtml}</div>
+    `;
+  }
+
+  const slider = document.getElementById('age-slider') as HTMLInputElement;
+  const ageValueEl = document.getElementById('age-value')!;
+  const presetBtns = document.querySelectorAll<HTMLButtonElement>('.preset-btn');
+
+  function updateSliderBackground(val: number) {
+    const pct = (val / 72) * 100;
+    slider.style.setProperty('--progress', `${pct}%`);
+    slider.style.background = `linear-gradient(to right, #8D9B8E 0%, #8D9B8E ${pct}%, #EDE6DF ${pct}%, #EDE6DF 100%)`;
+  }
+
+  function updateActivePreset(val: number) {
+    presetBtns.forEach((btn) => {
+      btn.classList.toggle('active', Number(btn.dataset.age) === val);
+    });
+  }
+
+  slider.addEventListener('input', () => {
+    const val = Number(slider.value);
+    ageValueEl.textContent = String(val);
+    updateSliderBackground(val);
+    updateActivePreset(val);
+    renderResults(val);
+  });
+
+  presetBtns.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const val = Number(btn.dataset.age);
+      slider.value = String(val);
+      ageValueEl.textContent = String(val);
+      updateSliderBackground(val);
+      updateActivePreset(val);
+      renderResults(val);
+    });
+  });
+
+  // Initial render
+  const initialVal = 12;
+  updateSliderBackground(initialVal);
+  updateActivePreset(initialVal);
+  renderResults(initialVal);
+</script>

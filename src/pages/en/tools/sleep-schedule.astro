@@ -1,0 +1,218 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+
+const lang = 'en';
+---
+
+<BaseLayout
+  title="Baby & Toddler Sleep Schedule Generator | BloomPath"
+  description="Generate a personalized sleep schedule for your baby or toddler based on age-appropriate nap and sleep recommendations."
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="tool-page">
+    <div class="container">
+      <div class="tool-header">
+        <div class="tool-icon">🌙</div>
+        <h1>Sleep Schedule Generator</h1>
+        <p class="tool-subtitle">
+          Enter your child's age and wake/bedtime to get a personalized daily sleep schedule with nap timings.
+        </p>
+      </div>
+
+      <div class="tool-card">
+        <div class="inputs-grid">
+          <div class="input-group">
+            <label for="child-age" class="input-label">Child age (months)</label>
+            <div class="age-input-row">
+              <input type="number" id="child-age" min="0" max="60" value="6" class="number-input" />
+              <span class="input-unit">months</span>
+            </div>
+          </div>
+          <div class="input-group">
+            <label for="wake-time" class="input-label">Morning wake time</label>
+            <input type="time" id="wake-time" value="07:00" class="time-input" />
+          </div>
+          <div class="input-group">
+            <label for="bed-time" class="input-label">Target bedtime</label>
+            <input type="time" id="bed-time" value="19:30" class="time-input" />
+          </div>
+        </div>
+        <button id="generate-btn" class="generate-btn">Generate Schedule</button>
+      </div>
+
+      <div id="results" class="results hidden">
+        <div class="sleep-summary" id="sleep-summary"></div>
+        <div class="schedule-timeline">
+          <h3 class="section-title">Your Daily Sleep Schedule</h3>
+          <div id="timeline" class="timeline"></div>
+        </div>
+        <div class="tips-section">
+          <h3 class="section-title">Sleep Tips for This Age</h3>
+          <ul id="tips-list" class="tips-list"></ul>
+        </div>
+        <div class="disclaimer">
+          <span class="disclaimer-icon">🌟</span>
+          <p>Every baby is different. This schedule is a starting point — adjust based on your child's sleepy cues. When in doubt, contact your pediatrician.</p>
+        </div>
+        <div class="related-articles">
+          <h3>Related Articles</h3>
+          <div class="article-links">
+            <a href="https://bloom-path.app/en/blog/newborn-sleep-guide" class="article-link">Newborn Sleep Guide</a>
+            <a href="https://bloom-path.app/en/blog/baby-nap-schedule-by-age" class="article-link">Nap Schedules by Age</a>
+            <a href="https://bloom-path.app/en/blog/toddler-sleep-regression" class="article-link">Sleep Regressions Explained</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .tool-page { min-height: 80vh; padding: 3rem 0 6rem; background: #F5F0EB; }
+  .container { max-width: 800px; margin: 0 auto; padding: 0 1.5rem; }
+  .tool-header { text-align: center; margin-bottom: 2.5rem; }
+  .tool-icon { font-size: 3rem; margin-bottom: 1rem; }
+  h1 { font-size: clamp(1.75rem, 4vw, 2.5rem); font-weight: 700; color: #4A4543; margin-bottom: 0.75rem; letter-spacing: -0.02em; }
+  .tool-subtitle { font-size: 1.0625rem; color: #6b6461; max-width: 52ch; margin: 0 auto; line-height: 1.65; }
+  .tool-card { background: #fff; border-radius: 16px; padding: 2rem; box-shadow: 0 2px 16px rgba(74,69,67,0.06); margin-bottom: 2rem; }
+  .inputs-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.5rem; margin-bottom: 2rem; }
+  .input-label { display: block; font-size: 0.875rem; font-weight: 600; color: #4A4543; margin-bottom: 0.5rem; }
+  .age-input-row { display: flex; align-items: center; gap: 0.625rem; border: 2px solid #e8e4e0; border-radius: 10px; padding: 0.625rem 1rem; background: #faf8f6; transition: border-color 0.2s; }
+  .age-input-row:focus-within { border-color: #8D9B8E; }
+  .number-input { border: none; background: transparent; font-size: 1.125rem; font-weight: 700; color: #4A4543; width: 60px; outline: none; }
+  .input-unit { font-size: 0.875rem; color: #9d9896; }
+  .time-input { width: 100%; border: 2px solid #e8e4e0; border-radius: 10px; padding: 0.75rem 1rem; font-size: 1.0625rem; font-weight: 600; color: #4A4543; background: #faf8f6; outline: none; transition: border-color 0.2s; cursor: pointer; }
+  .time-input:focus { border-color: #8D9B8E; }
+  .generate-btn { width: 100%; padding: 0.875rem; background: #8D9B8E; color: #fff; font-size: 1rem; font-weight: 700; border: none; border-radius: 10px; cursor: pointer; transition: background 0.2s, transform 0.1s; }
+  .generate-btn:hover { background: #7a8a7b; }
+  .generate-btn:active { transform: scale(0.98); }
+  .hidden { display: none; }
+  .results { animation: fadeIn 0.35s ease; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  .sleep-summary { display: grid; grid-template-columns: repeat(3,1fr); gap: 1rem; margin-bottom: 2rem; }
+  .summary-card { background: #fff; border-radius: 14px; padding: 1.25rem; text-align: center; box-shadow: 0 2px 12px rgba(74,69,67,0.05); }
+  .summary-icon { font-size: 1.5rem; margin-bottom: 0.375rem; }
+  .summary-value { font-size: 1.375rem; font-weight: 800; color: #4A4543; margin-bottom: 0.25rem; }
+  .summary-label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #9d9896; }
+  .schedule-timeline { background: #fff; border-radius: 16px; padding: 2rem; box-shadow: 0 2px 12px rgba(74,69,67,0.05); margin-bottom: 1.5rem; }
+  .section-title { font-size: 1rem; font-weight: 700; color: #4A4543; margin-bottom: 1.5rem; }
+  .timeline { display: flex; flex-direction: column; }
+  .timeline-item { display: flex; align-items: stretch; gap: 1rem; }
+  .timeline-line-wrap { display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 20px; }
+  .timeline-dot { width: 14px; height: 14px; border-radius: 50%; background: var(--dot-color, #8D9B8E); flex-shrink: 0; margin-top: 0.375rem; border: 2px solid #fff; box-shadow: 0 0 0 2px var(--dot-color, #8D9B8E); }
+  .timeline-connector { flex: 1; width: 2px; background: #e8e4e0; margin: 4px auto 0; }
+  .timeline-item:last-child .timeline-connector { display: none; }
+  .timeline-content { padding-bottom: 1.25rem; flex: 1; }
+  .timeline-time { font-size: 0.8125rem; font-weight: 700; margin-bottom: 0.125rem; }
+  .timeline-event { font-size: 0.9375rem; font-weight: 600; color: #4A4543; }
+  .timeline-detail { font-size: 0.8125rem; color: #6b6461; margin-top: 0.125rem; line-height: 1.5; }
+  .tips-section { background: #fff; border-radius: 14px; padding: 1.5rem; box-shadow: 0 2px 12px rgba(74,69,67,0.05); margin-bottom: 1.5rem; }
+  .tips-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.75rem; }
+  .tips-list li { font-size: 0.9375rem; color: #5c5856; line-height: 1.55; padding-left: 1.5rem; position: relative; }
+  .tips-list li::before { content: "\2192"; position: absolute; left: 0; color: #8D9B8E; font-weight: 700; }
+  .disclaimer { background: rgba(212,181,176,0.15); border: 1px solid rgba(212,181,176,0.4); border-radius: 12px; padding: 1.25rem 1.5rem; display: flex; gap: 0.75rem; align-items: flex-start; margin-bottom: 2rem; }
+  .disclaimer-icon { font-size: 1.125rem; flex-shrink: 0; margin-top: 0.1rem; }
+  .disclaimer p { font-size: 0.875rem; color: #6b6461; line-height: 1.65; margin: 0; }
+  .related-articles h3 { font-size: 1rem; font-weight: 700; color: #4A4543; margin-bottom: 0.875rem; }
+  .article-links { display: flex; flex-wrap: wrap; gap: 0.625rem; }
+  .article-link { font-size: 0.875rem; color: #8D9B8E; text-decoration: none; padding: 0.375rem 0.875rem; border: 1px solid rgba(141,155,142,0.4); border-radius: 20px; transition: all 0.2s ease; }
+  .article-link:hover { background: #8D9B8E; color: #fff; border-color: #8D9B8E; }
+  @media (max-width: 640px) { .inputs-grid { grid-template-columns: 1fr; } .sleep-summary { grid-template-columns: 1fr; } }
+</style>
+
+<script>
+  interface SleepProfile {
+    label: string;
+    totalMin: number;
+    totalMax: number;
+    naps: number;
+    napMin: number;
+    napMax: number;
+    wakeWindows: number[];
+    tips: string[];
+  }
+
+  function getSleepProfile(months: number): SleepProfile {
+    if (months <= 1) return { label: "Newborn", totalMin: 14, totalMax: 17, naps: 4, napMin: 30, napMax: 90, wakeWindows: [0.75, 1, 1, 1], tips: ["Newborns sleep in 2-4 hour bursts around the clock.", "Watch for sleepy cues: rubbing eyes, yawning, going quiet.", "A consistent pre-nap routine (even 2 minutes) signals sleep.", "Safe sleep: back to sleep, firm flat surface, no loose bedding.", "Night and day confusion is normal — keep nights dark and boring."] };
+    if (months <= 3) return { label: "0-3 months", totalMin: 14, totalMax: 17, naps: 4, napMin: 45, napMax: 90, wakeWindows: [1, 1.25, 1.25, 1.25], tips: ["Most babies take 4-5 naps. Long stretches come later.", "Wake windows are just 45-90 minutes at this age.", "White noise can help baby transition between sleep cycles.", "By 6-8 weeks, many show a longer night stretch — encourage it.", "Follow wake windows rather than the clock."] };
+    if (months <= 5) return { label: "4-5 months", totalMin: 12, totalMax: 16, naps: 3, napMin: 45, napMax: 90, wakeWindows: [1.5, 1.75, 2], tips: ["The 4-month sleep regression: sleep cycles mature and wakings increase.", "Three naps: 2 longer naps plus a short catnap in late afternoon.", "Last nap should end by 5:00-5:30 PM to protect night sleep.", "Start a simple bedtime routine: bath, feed, song, sleep.", "Drowsy but awake at bedtime builds independent sleep skills."] };
+    if (months <= 8) return { label: "6-8 months", totalMin: 12, totalMax: 15, naps: 2, napMin: 60, napMax: 90, wakeWindows: [2.5, 2.75, 3], tips: ["Most babies transition to 2 naps around 6-8 months.", "Signs: fighting 3rd nap, very short nap, or late bedtime.", "Nap 1 about 2.5 hr after wake; Nap 2 about 3 hr after Nap 1.", "Leave 3-4 hours between last nap wake-up and bedtime.", "Sleep regressions at 6 and 8 months are common — stay consistent."] };
+    if (months <= 11) return { label: "9-11 months", totalMin: 12, totalMax: 15, naps: 2, napMin: 60, napMax: 90, wakeWindows: [3, 3.25, 3.5], tips: ["Two naps typically continue through 12-15 months.", "Separation anxiety peaks at 9 months and can disrupt sleep.", "Avoid naps running too late in the afternoon.", "Night feeds can be gently reduced at 9 months if weight is on track.", "Predictable schedule is your best tool — babies thrive on routine."] };
+    if (months <= 15) return { label: "12-15 months", totalMin: 11, totalMax: 14, naps: 2, napMin: 60, napMax: 90, wakeWindows: [3.5, 3.5, 4], tips: ["Average 1-nap transition happens at 15-18 months. No rush.", "Signs of readiness: fighting both naps or very late bedtime.", "Alternating 1-nap and 2-nap days during transition is normal.", "Keep a consistent calming bedtime routine every single night.", "The 12-month regression surprises many parents — it passes."] };
+    if (months <= 24) return { label: "16-24 months", totalMin: 11, totalMax: 14, naps: 1, napMin: 60, napMax: 120, wakeWindows: [5, 6], tips: ["One nap after lunch is ideal, usually 12:00-12:30 PM.", "Nap length varies: 1-2.5 hours is normal.", "Cap nap at 2 hours if it starts crowding bedtime.", "Even without sleeping, quiet rest time in bed preserves the routine.", "18-month regression can cause nap refusal — hold firm."] };
+    if (months <= 36) return { label: "2-3 years", totalMin: 11, totalMax: 14, naps: 1, napMin: 60, napMax: 90, wakeWindows: [5.5, 6.5], tips: ["Most 2-3 year olds still benefit from one midday nap.", "Some 3-year-olds drop it — replace with 45 min quiet time.", "Bedtime is typically 7:00-8:00 PM.", "Avoid screens 1 hour before bed — they delay melatonin.", "Nighttime fears emerge now — keep a reassuring routine."] };
+    return { label: "3-5 years", totalMin: 10, totalMax: 13, naps: 0, napMin: 0, napMax: 0, wakeWindows: [], tips: ["Most children drop naps between ages 3 and 5.", "Replace with 30-45 min quiet rest time in their room.", "Bedtime shifts slightly later: 7:30-8:30 PM.", "Sleep needs are still high — aim for 10-13 total hours.", "Consistent bedtimes support focus, mood, and learning.", "Avoid screens in the bedroom entirely at this age."] };
+  }
+
+  function parseTime(t: string): number {
+    const p = t.split(":");
+    return parseInt(p[0]) * 60 + parseInt(p[1]);
+  }
+
+  function toAmPm(mins: number): string {
+    const n = ((mins % 1440) + 1440) % 1440;
+    const h = Math.floor(n / 60);
+    const m = n % 60;
+    const ap = h < 12 ? "AM" : "PM";
+    const dh = h === 0 ? 12 : h > 12 ? h - 12 : h;
+    return dh + ":" + String(m).padStart(2,"0") + " " + ap;
+  }
+
+  const COLORS: Record<string,string> = { wake:"#8D9B8E", nap:"#a8b8c8", rest:"#C4A882", routine:"#D4B5B0", sleep:"#4A4543" };
+
+  document.getElementById("generate-btn")?.addEventListener("click", () => {
+    const ageEl = document.getElementById("child-age") as HTMLInputElement;
+    const wakeEl = document.getElementById("wake-time") as HTMLInputElement;
+    const bedEl = document.getElementById("bed-time") as HTMLInputElement;
+    const months = parseInt(ageEl.value) || 0;
+    const wake = parseTime(wakeEl.value || "07:00");
+    const bed = parseTime(bedEl.value || "19:30");
+    const p = getSleepProfile(months);
+
+    const events: Array<{time:number;event:string;detail:string;type:string}> = [];
+    events.push({ time: wake, event: "Wake up", detail: "Start the day with natural light exposure.", type: "wake" });
+
+    if (p.naps === 0) {
+      events.push({ time: wake + 300, event: "Quiet rest time", detail: "45 min in bed with books. No screens.", type: "rest" });
+    } else {
+      let cur = wake;
+      for (let i = 0; i < p.naps; i++) {
+        const ww = p.wakeWindows[i] !== undefined ? p.wakeWindows[i] : p.wakeWindows[p.wakeWindows.length - 1];
+        const ns = cur + Math.round(ww * 60);
+        const nl = Math.round((p.napMin + p.napMax) / 2);
+        const name = i === 0 ? "Nap 1" : i === 1 ? "Nap 2" : "Catnap";
+        events.push({ time: ns, event: name, detail: "~" + nl + " min. Pre-nap wind-down: 5 min.", type: "nap" });
+        cur = ns + nl;
+        events.push({ time: cur, event: "Wake from " + name, detail: "Allow 5 min to wake fully before activity.", type: "wake" });
+      }
+    }
+    events.push({ time: bed - 30, event: "Bedtime routine begins", detail: "Bath, PJs, milk/water, story, song. Dim lights.", type: "routine" });
+    events.push({ time: bed, event: "Lights out / Bedtime", detail: "Dark, cool room (65-68F / 18-20C).", type: "sleep" });
+    events.sort((a,b) => a.time - b.time);
+
+    const nightSleep = bed > wake ? 1440 - (bed - wake) : wake - bed;
+
+    const summaryEl = document.getElementById("sleep-summary")!;
+    summaryEl.innerHTML =
+      '<div class="summary-card"><div class="summary-icon">😴</div><div class="summary-value">' + p.totalMin + "–" + p.totalMax + 'h</div><div class="summary-label">Recommended total</div></div>' +
+      '<div class="summary-card"><div class="summary-icon">☀️</div><div class="summary-value">' + (p.naps === 0 ? "Rest only" : p.naps === 1 ? "1 nap" : p.naps + " naps") + '</div><div class="summary-label">Daytime sleep</div></div>' +
+      '<div class="summary-card"><div class="summary-icon">🌙</div><div class="summary-value">' + (nightSleep/60).toFixed(1) + 'h</div><div class="summary-label">Night sleep (approx)</div></div>';
+
+    document.getElementById("timeline")!.innerHTML = events.map((item, idx) => {
+      const c = COLORS[item.type] || "#8D9B8E";
+      return '<div class="timeline-item"><div class="timeline-line-wrap"><div class="timeline-dot" style="--dot-color:' + c + '"></div>' + (idx < events.length-1 ? '<div class="timeline-connector"></div>' : '') + '</div><div class="timeline-content"><div class="timeline-time" style="color:' + c + '">' + toAmPm(item.time) + '</div><div class="timeline-event">' + item.event + '</div><div class="timeline-detail">' + item.detail + '</div></div></div>';
+    }).join("");
+
+    document.getElementById("tips-list")!.innerHTML = p.tips.map(t => "<li>" + t + "</li>").join("");
+
+    const res = document.getElementById("results")!;
+    res.classList.remove("hidden");
+    res.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });
+</script>

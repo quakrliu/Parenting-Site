@@ -1,0 +1,696 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+
+const lang = 'en';
+---
+
+<BaseLayout
+  title="Screen Time Calculator | BloomPath"
+  description="See how your child's screen time compares to AAP recommendations and get personalized tips for healthier habits. Free tool by BloomPath."
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="tool-page">
+    <div class="container">
+
+      <div class="tool-hero">
+        <div class="tool-badge">Free Tool</div>
+        <h1>Screen Time Calculator</h1>
+        <p class="tool-intro">
+          Compare your child's current screen habits to AAP guidelines and get warm, practical tips to bring more balance to your family's day.
+        </p>
+      </div>
+
+      <div class="tool-card">
+        <div class="inputs-grid">
+
+          <div class="input-group">
+            <label for="child-age" class="input-label">Child's age</label>
+            <select id="child-age" class="select-input">
+              <option value="0">Under 18 months</option>
+              <option value="1">18–24 months</option>
+              <option value="2" selected>2–5 years</option>
+              <option value="3">6 years and older</option>
+            </select>
+          </div>
+
+          <div class="input-group">
+            <label for="daily-hours" class="input-label">Average daily screen time</label>
+            <div class="hours-control">
+              <input type="range" id="daily-hours" min="0" max="8" step="0.5" value="2" class="hours-slider" />
+              <div class="hours-display">
+                <span id="hours-value">2.0</span>
+                <span class="hours-unit">hrs/day</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="input-group full-width">
+            <label class="input-label">Types of screen time (select all that apply)</label>
+            <div class="checkbox-group">
+              <label class="checkbox-item">
+                <input type="checkbox" id="type-educational" checked />
+                <span class="checkbox-box"></span>
+                <span>Educational content (PBS Kids, learning apps)</span>
+              </label>
+              <label class="checkbox-item">
+                <input type="checkbox" id="type-entertainment" checked />
+                <span class="checkbox-box"></span>
+                <span>Entertainment (YouTube, streaming, games)</span>
+              </label>
+              <label class="checkbox-item">
+                <input type="checkbox" id="type-video-calls" />
+                <span class="checkbox-box"></span>
+                <span>Video calls (grandparents, family)</span>
+              </label>
+              <label class="checkbox-item">
+                <input type="checkbox" id="type-co-viewing" />
+                <span class="checkbox-box"></span>
+                <span>Co-viewing with parent (watching together)</span>
+              </label>
+            </div>
+          </div>
+
+        </div>
+
+        <button id="calculate-btn" class="cta-btn">Calculate</button>
+
+        <div id="results" class="results-section" aria-live="polite" style="display:none">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+
+      <div class="related-articles">
+        <h2>Related Articles</h2>
+        <div class="article-links">
+          <a href="/en/blog/screen-time-guidelines-by-age" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>Screen Time Guidelines by Age: What Parents Need to Know</span>
+          </a>
+          <a href="/en/blog/screen-free-activities-toddlers" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>30 Screen-Free Activities Your Toddler Will Love</span>
+          </a>
+          <a href="/en/blog/educational-apps-preschoolers" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>Best Educational Apps for Preschoolers</span>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .tool-page {
+    padding: 4rem 0 2rem;
+    min-height: 60vh;
+  }
+
+  .tool-hero {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .tool-badge {
+    display: inline-block;
+    background: rgba(141, 155, 142, 0.12);
+    color: #8D9B8E;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.75rem;
+    border-radius: 100px;
+    margin-bottom: 1rem;
+  }
+
+  .tool-hero h1 {
+    font-size: clamp(1.75rem, 4vw, 2.75rem);
+    font-weight: 700;
+    color: #4A4543;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.75rem;
+  }
+
+  .tool-intro {
+    font-size: 1.0625rem;
+    color: #7A7573;
+    max-width: 52ch;
+    margin: 0 auto;
+    line-height: 1.65;
+  }
+
+  .tool-card {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 0 2px 24px rgba(74, 69, 67, 0.06);
+    max-width: 860px;
+    margin: 0 auto 3rem;
+  }
+
+  .inputs-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+    margin-bottom: 2rem;
+  }
+
+  @media (min-width: 640px) {
+    .inputs-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+    .full-width {
+      grid-column: 1 / -1;
+    }
+  }
+
+  .input-group {}
+
+  .input-label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #4A4543;
+    margin-bottom: 0.625rem;
+  }
+
+  .select-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1.5px solid #EDE6DF;
+    border-radius: 10px;
+    background: #F5F0EB;
+    color: #4A4543;
+    font-size: 0.9375rem;
+    font-family: inherit;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238D9B8E' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.875rem center;
+    cursor: pointer;
+    transition: border-color 0.2s ease;
+  }
+
+  .select-input:focus {
+    outline: none;
+    border-color: #8D9B8E;
+  }
+
+  .hours-control {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .hours-slider {
+    flex: 1;
+    -webkit-appearance: none;
+    height: 6px;
+    border-radius: 3px;
+    background: #EDE6DF;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .hours-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #8D9B8E;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(141, 155, 142, 0.4);
+    transition: transform 0.15s ease;
+  }
+
+  .hours-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.15);
+  }
+
+  .hours-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 52px;
+  }
+
+  #hours-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #8D9B8E;
+    line-height: 1;
+  }
+
+  .hours-unit {
+    font-size: 0.7rem;
+    color: #7A7573;
+    margin-top: 0.1rem;
+  }
+
+  .checkbox-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+  }
+
+  .checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    cursor: pointer;
+    font-size: 0.9375rem;
+    color: #4A4543;
+  }
+
+  .checkbox-item input[type="checkbox"] {
+    display: none;
+  }
+
+  .checkbox-box {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #EDE6DF;
+    border-radius: 5px;
+    flex-shrink: 0;
+    background: #F5F0EB;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .checkbox-item input[type="checkbox"]:checked + .checkbox-box {
+    background: #8D9B8E;
+    border-color: #8D9B8E;
+  }
+
+  .checkbox-item input[type="checkbox"]:checked + .checkbox-box::after {
+    content: '';
+    display: block;
+    width: 5px;
+    height: 9px;
+    border: 2px solid white;
+    border-top: none;
+    border-left: none;
+    transform: rotate(45deg);
+    margin-top: -2px;
+  }
+
+  .cta-btn {
+    width: 100%;
+    padding: 0.875rem 1.5rem;
+    background: #8D9B8E;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    letter-spacing: 0.01em;
+  }
+
+  .cta-btn:hover {
+    background: #707D72;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(141, 155, 142, 0.35);
+  }
+
+  .results-section {
+    margin-top: 2rem;
+    border-top: 1px solid #F5F0EB;
+    padding-top: 2rem;
+  }
+
+  .results-recommendation {
+    background: #F5F0EB;
+    border-radius: 14px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .rec-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #8D9B8E;
+    margin-bottom: 0.5rem;
+  }
+
+  .rec-guideline {
+    font-size: 1.0625rem;
+    font-weight: 600;
+    color: #4A4543;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+  }
+
+  .rec-note {
+    font-size: 0.875rem;
+    color: #7A7573;
+    line-height: 1.6;
+  }
+
+  .comparison-bar-section {
+    margin-bottom: 1.75rem;
+  }
+
+  .bar-label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #4A4543;
+    margin-bottom: 0.75rem;
+  }
+
+  .bar-track {
+    height: 28px;
+    background: #F5F0EB;
+    border-radius: 100px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 0.5rem;
+  }
+
+  .bar-fill {
+    height: 100%;
+    border-radius: 100px;
+    transition: width 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 0.75rem;
+    min-width: 40px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: white;
+  }
+
+  .bar-recommended {
+    height: 28px;
+    background: rgba(141, 155, 142, 0.15);
+    border-radius: 100px;
+    overflow: hidden;
+    margin-bottom: 0.5rem;
+  }
+
+  .bar-recommended-fill {
+    height: 100%;
+    background: #8D9B8E;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: white;
+  }
+
+  .bar-legend {
+    display: flex;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+  }
+
+  .bar-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    font-size: 0.8rem;
+    color: #7A7573;
+  }
+
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+
+  .tips-section h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #4A4543;
+    margin-bottom: 0.875rem;
+  }
+
+  .tips-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+  }
+
+  .tip-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    background: #F5F0EB;
+    border-radius: 10px;
+    padding: 0.875rem 1rem;
+    font-size: 0.9375rem;
+    color: #4A4543;
+    line-height: 1.5;
+  }
+
+  .tip-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+    margin-top: 0.05rem;
+  }
+
+  .status-good { background: rgba(141, 155, 142, 0.15); color: #4A4543; }
+  .status-warning { background: rgba(196, 168, 130, 0.2); color: #4A4543; }
+  .status-over { background: rgba(212, 181, 176, 0.2); color: #4A4543; }
+
+  .status-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: 100px;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+  }
+
+  .related-articles {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  .related-articles h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #4A4543;
+    margin-bottom: 1rem;
+  }
+
+  .article-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+  }
+
+  .article-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: #FFFFFF;
+    border: 1px solid #F5F0EB;
+    border-radius: 12px;
+    padding: 0.875rem 1.125rem;
+    color: #4A4543;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .article-link:hover {
+    border-color: #8D9B8E;
+    background: rgba(141, 155, 142, 0.04);
+    color: #4A4543;
+  }
+
+  .article-link-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+  }
+</style>
+
+<script>
+  interface AgeConfig {
+    label: string;
+    maxHrs: number | null;
+    guideline: string;
+    note: string;
+  }
+
+  const AGE_CONFIGS: AgeConfig[] = [
+    {
+      label: 'Under 18 months',
+      maxHrs: 0,
+      guideline: 'Avoid screen time (except video calls)',
+      note: 'The AAP recommends no screen time for children under 18 months, with the exception of video chatting with family. Babies learn best through real-world interactions with people and objects.',
+    },
+    {
+      label: '18–24 months',
+      maxHrs: 0.5,
+      guideline: 'Limited, high-quality content only — with a parent',
+      note: 'If you introduce media at this age, choose high-quality programming and watch it together so you can help your child understand what they see. Avoid solo viewing.',
+    },
+    {
+      label: '2–5 years',
+      maxHrs: 1,
+      guideline: 'No more than 1 hour per day of quality programming',
+      note: 'Co-view with your child when possible. Choose programs like Sesame Street or PBS Kids. Avoid fast-paced content and apps that are entertainment-only with no educational value.',
+    },
+    {
+      label: '6 years and older',
+      maxHrs: null,
+      guideline: 'Consistent limits — ensure it doesn\'t displace sleep, activity, or homework',
+      note: 'No specific hour limit, but screen time shouldn\'t crowd out sleep (9–12 hours), physical activity (60 min/day), or family time. Create a family media plan together.',
+    },
+  ];
+
+  const GENERAL_TIPS = [
+    { icon: '🌿', text: 'Create screen-free zones: bedrooms, dinner table, and the first hour after school.' },
+    { icon: '📚', text: 'Replace one screen session with a physical book, outdoor play, or a craft activity.' },
+    { icon: '⏰', text: 'Use a visual timer so children know when screen time ends — it reduces protests.' },
+    { icon: '🤝', text: 'When possible, co-view and discuss what you\'re watching together.' },
+    { icon: '🌙', text: 'Switch off all screens at least 1 hour before bedtime to protect sleep quality.' },
+    { icon: '🎨', text: 'Keep art supplies, blocks, and puzzles easily accessible as quick alternatives.' },
+  ];
+
+  const UNDER18_TIPS = [
+    { icon: '👶', text: 'At this age, your face, voice, and touch are the best "screen" your baby could have.' },
+    { icon: '📖', text: 'Read board books aloud — even babies benefit from hearing language-rich stories.' },
+    { icon: '🎵', text: 'Sing songs, play peekaboo, and narrate your day to build language foundations.' },
+    { icon: '📱', text: 'Video calls with grandparents are the one exception — interactive face-to-face chat is fine!' },
+    { icon: '🌿', text: 'Tummy time, stacking toys, and sensory play are far richer than any screen content.' },
+  ];
+
+  const ENTERTAINMENT_TIPS = [
+    { icon: '🎬', text: 'Try swapping one entertainment session per day for a co-created activity instead.' },
+    { icon: '🔍', text: 'Review what your child watches — many "entertainment" apps sneak in auto-play features that extend viewing without intention.' },
+    { icon: '🏃', text: 'For every 30 minutes of entertainment screen time, plan 30 minutes of active play.' },
+  ];
+
+  const EDUCATIONAL_TIPS = [
+    { icon: '🧑‍🏫', text: 'Educational content is most effective when a parent watches alongside and asks questions.' },
+    { icon: '📓', text: 'Follow up on educational shows with real-world activities — if they watched about dinosaurs, visit a museum or draw one together.' },
+  ];
+
+  const slider = document.getElementById('daily-hours') as HTMLInputElement;
+  const hoursValueEl = document.getElementById('hours-value')!;
+  const btn = document.getElementById('calculate-btn')!;
+  const resultsEl = document.getElementById('results') as HTMLElement;
+
+  slider.addEventListener('input', () => {
+    hoursValueEl.textContent = Number(slider.value).toFixed(1);
+  });
+
+  btn.addEventListener('click', () => {
+    const ageIndex = Number((document.getElementById('child-age') as HTMLSelectElement).value);
+    const dailyHours = Number(slider.value);
+    const hasEducational = (document.getElementById('type-educational') as HTMLInputElement).checked;
+    const hasEntertainment = (document.getElementById('type-entertainment') as HTMLInputElement).checked;
+    const hasVideoCalls = (document.getElementById('type-video-calls') as HTMLInputElement).checked;
+    const hasCoViewing = (document.getElementById('type-co-viewing') as HTMLInputElement).checked;
+
+    const config = AGE_CONFIGS[ageIndex];
+
+    // Determine status
+    let statusClass = 'status-good';
+    let statusText = '✓ Within guidelines';
+    let barColor = '#8D9B8E';
+
+    if (config.maxHrs === 0) {
+      if (dailyHours === 0 || (dailyHours <= 0.5 && hasVideoCalls && !hasEducational && !hasEntertainment)) {
+        statusClass = 'status-good';
+        statusText = '✓ On track';
+      } else {
+        statusClass = 'status-over';
+        statusText = '↑ Above AAP recommendation';
+        barColor = '#D4B5B0';
+      }
+    } else if (config.maxHrs !== null) {
+      if (dailyHours <= config.maxHrs) {
+        statusClass = 'status-good';
+        statusText = '✓ Within guidelines';
+      } else if (dailyHours <= config.maxHrs * 1.5) {
+        statusClass = 'status-warning';
+        statusText = '~ Slightly above guidelines';
+        barColor = '#C4A882';
+      } else {
+        statusClass = 'status-over';
+        statusText = '↑ Above AAP recommendation';
+        barColor = '#D4B5B0';
+      }
+    }
+
+    // Build bar
+    const maxDisplay = config.maxHrs === null ? 3 : Math.max(config.maxHrs * 2.5, dailyHours + 1);
+    const currentPct = Math.min((dailyHours / maxDisplay) * 100, 100);
+    const recPct = config.maxHrs !== null ? Math.min((config.maxHrs / maxDisplay) * 100, 100) : 33;
+
+    // Build tips
+    let tips = [...GENERAL_TIPS];
+    if (ageIndex === 0) tips = [...UNDER18_TIPS, ...GENERAL_TIPS.slice(0, 3)];
+    if (hasEntertainment) tips = [...ENTERTAINMENT_TIPS, ...tips.slice(0, 4)];
+    if (hasEducational && !hasEntertainment) tips = [...EDUCATIONAL_TIPS, ...tips.slice(0, 4)];
+
+    const tipsHtml = tips.slice(0, 5).map(t => `
+      <li class="tip-item">
+        <span class="tip-icon">${t.icon}</span>
+        <span>${t.text}</span>
+      </li>`).join('');
+
+    const barHtml = `
+      <div class="comparison-bar-section">
+        <p class="bar-label">Your child's screen time vs. AAP recommendation</p>
+        <div style="margin-bottom:0.5rem">
+          <div style="font-size:0.75rem;color:#7A7573;margin-bottom:0.25rem">Current: ${dailyHours.toFixed(1)} hr/day</div>
+          <div class="bar-track">
+            <div class="bar-fill" style="width:${currentPct}%;background:${barColor}">${dailyHours.toFixed(1)}h</div>
+          </div>
+        </div>
+        ${config.maxHrs !== null ? `
+        <div>
+          <div style="font-size:0.75rem;color:#7A7573;margin-bottom:0.25rem">Recommended: max ${config.maxHrs} hr/day</div>
+          <div class="bar-track">
+            <div class="bar-fill" style="width:${recPct}%;background:#8D9B8E">${config.maxHrs}h</div>
+          </div>
+        </div>` : `
+        <div style="font-size:0.8125rem;color:#7A7573;font-style:italic;padding:0.5rem 0">No specific hour limit for this age — focus on ensuring screens don't displace sleep, physical activity, or learning time.</div>
+        `}
+      </div>`;
+
+    resultsEl.style.display = 'block';
+    resultsEl.innerHTML = `
+      <div class="results-recommendation">
+        <p class="rec-label">AAP Guideline — ${config.label}</p>
+        <span class="status-badge ${statusClass}">${statusText}</span>
+        <p class="rec-guideline">${config.guideline}</p>
+        <p class="rec-note">${config.note}</p>
+      </div>
+      ${barHtml}
+      <div class="tips-section">
+        <h3>Personalized tips for your family</h3>
+        <ul class="tips-list">${tipsHtml}</ul>
+      </div>
+    `;
+
+    resultsEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
+</script>
