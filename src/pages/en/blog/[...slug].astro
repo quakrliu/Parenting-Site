@@ -2,7 +2,7 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
-import GiscusComments from '../../../components/GiscusComments.astro';
+import CusdisComments from '../../../components/CusdisComments.astro';
 import { getCollection, render } from 'astro:content';
 import { useTranslations } from '../../../i18n/utils';
 
@@ -55,7 +55,12 @@ const postLang = post.data.lang === 'zh-TW' ? 'zh' : 'en';
         )}
       </article>
 
-      <GiscusComments lang="en" />
+      <CusdisComments
+        lang="en"
+        pageUrl={Astro.url.href}
+        pageId={`/en/blog/${post.id}`}
+        pageTitle={post.data.title}
+      />
 
       <nav class="post-nav">
         <a href={`/${lang}/blog`} class="back-link">

@@ -1,0 +1,74 @@
+---
+interface Props {
+  lang: 'en' | 'zh';
+  pageUrl: string;
+  pageId: string;
+  pageTitle: string;
+}
+
+const { lang, pageUrl, pageId, pageTitle } = Astro.props;
+const heading = lang === 'zh' ? '分享你的看法' : 'Share Your Experience';
+---
+
+<section class="comments-section" aria-label={heading}>
+  <div class="comments-header">
+    <svg
+      class="comments-icon"
+      width="20"
+      height="20"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="1.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+    </svg>
+    <h2 class="comments-heading">{heading}</h2>
+  </div>
+
+  <div
+    id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="452c89df-5af8-42bc-b36a-ba3d46adc918"
+    data-page-id={pageId}
+    data-page-url={pageUrl}
+    data-page-title={pageTitle}
+    data-theme="light"
+  ></div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+</section>
+
+<style>
+  .comments-section {
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 1px solid rgba(141, 155, 142, 0.12);
+    max-width: 72ch;
+  }
+
+  .comments-header {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .comments-icon {
+    color: var(--color-forest);
+    flex-shrink: 0;
+  }
+
+  .comments-heading {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text);
+    letter-spacing: -0.015em;
+  }
+
+  #cusdis_thread {
+    min-height: 200px;
+  }
+</style>
