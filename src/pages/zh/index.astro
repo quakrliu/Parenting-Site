@@ -11,7 +11,7 @@ import DailyStickiness from '../../components/DailyStickiness.astro';
 import FeaturedArticles from '../../components/FeaturedArticles.astro';
 import TopicsSection from '../../components/TopicsSection.astro';
 import DevelopmentalWindows from '../../components/DevelopmentalWindows.astro';
-import AppPreview from '../../components/AppPreview.astro';
+import CommunitySection from '../../components/CommunitySection.astro';
 import NewsletterSection from '../../components/NewsletterSection.astro';
 import AboutSection from '../../components/AboutSection.astro';
 import { getCollection } from 'astro:content';
@@ -39,7 +39,7 @@ const featuredPosts = allPosts
   <StatsBar lang={lang} />
   <DailyStickiness lang={lang} />
   <FeaturedArticles lang={lang} posts={featuredPosts} />
-  <AppPreview lang={lang} />
+  <CommunitySection lang={lang} />
   <NewsletterSection lang={lang} />
   <AboutSection lang={lang} />
   <Footer lang={lang} />
