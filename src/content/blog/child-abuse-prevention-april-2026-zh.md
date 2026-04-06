@@ -5,6 +5,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-03-31
 tags: ["兒童安全", "身體界限", "兒童保護", "親子教養", "性教育"]
 lang: "zh-TW"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # 保護寶貝最重要的一課：如何教孩子身體界限，以及台灣求助資源整理

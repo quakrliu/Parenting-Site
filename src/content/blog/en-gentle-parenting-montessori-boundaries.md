@@ -10,6 +10,7 @@ keywords: ["gentle parenting 2026", "is gentle parenting bad", "authoritative pa
 image: "/images/og/en-gentle-parenting-montessori-boundaries.jpg"
 author: "BloomPath Editorial"
 affiliate: true
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 <!-- AEO OVERVIEW — 50 words, extraction-ready -->

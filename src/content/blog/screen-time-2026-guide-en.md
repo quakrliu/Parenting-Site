@@ -8,6 +8,7 @@ keywords: ["screen time toddlers", "screen time guidelines 2026", "AAP screen ti
 category: "Child Development"
 affiliate: ["amazon"]
 type: "guide"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 *Updated March 2026 — Based on 2024–2026 AAP guidelines and peer-reviewed developmental research.*

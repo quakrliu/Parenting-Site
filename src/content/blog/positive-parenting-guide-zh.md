@@ -4,6 +4,7 @@ description: "有研究支持的正向教養完整攻略：情緒輔導、自然
 pubDate: 2026-04-01
 lang: "zh-TW"
 tags: ["正向教養", "正向教養技巧", "情緒輔導兒童", "正向管教", "自然結果法", "兒童內在動機", "正向教養台灣"]
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # 正向教養完整指南：從理論到每天的實際應用

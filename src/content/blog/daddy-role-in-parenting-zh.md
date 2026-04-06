@@ -4,6 +4,7 @@ description: "研究一再證明：爸爸參與育兒，不只是媽媽的幫手
 pubDate: 2026-03-31
 tags: ["爸爸育兒", "父親參與", "兒童發展", "正向教養", "新手爸爸"]
 lang: "zh-TW"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # 爸爸的角色有多重要？父親參與育兒的科學實證

@@ -5,6 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-03-31
 tags: ["digital safety", "parenting", "internet safety", "screen time", "AI toys"]
 lang: "en"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # Children's Internet Safety in 2026: AI Toys, New Laws, and What Actually Works

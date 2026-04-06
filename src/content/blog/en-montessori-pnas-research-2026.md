@@ -6,6 +6,7 @@ lastUpdated: 2026-04-03
 author: bloompath
 slug: montessori-preschool-evidence-pnas-study-2026
 tags: ["montessori", "preschool", "child development", "executive function", "research", "early childhood education"]
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 *Last updated: April 2026 | Based on: PNAS (2025), Harvard Center on the Developing Child*

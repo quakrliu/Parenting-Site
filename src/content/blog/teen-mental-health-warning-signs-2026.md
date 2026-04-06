@@ -6,6 +6,7 @@ updatedDate: 2026-04-01
 tags: ["teen mental health", "parenting teenagers", "teen anxiety signs", "teen depression warning signs", "how to help a depressed teenager"]
 author: "BloomPath Editorial"
 lang: "en"
+ageGroup: ["school", "teen"]
 ---
 
 Before my daughter was born, I thought I understood teenagers pretty well. After all, I'd been one. I remembered the mood swings, the door-slamming, the inexplicable rage when someone breathed too loudly. I figured I'd handle it fine.

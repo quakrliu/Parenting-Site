@@ -8,6 +8,7 @@ tags: ["產後憂鬱症症狀", "產後情緒低落怎麼辦", "postpartum depre
 image: "/images/postpartum-depression-guide.jpg"
 imageAlt: "產後憂鬱症完整指南"
 lang: "zh-TW"
+ageGroup: ["infant"]
 ---
 
 # 產後憂鬱症完整指南：妳不孤單

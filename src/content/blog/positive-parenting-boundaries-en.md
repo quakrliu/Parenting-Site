@@ -8,6 +8,7 @@ keywords: ["boundaries without punishment", "positive parenting boundaries", "ho
 category: "Positive Parenting"
 affiliate: ["amazon", "udemy"]
 type: "guide"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 *Updated March 2026*

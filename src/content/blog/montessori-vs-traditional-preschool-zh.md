@@ -5,6 +5,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-03-31
 lang: zh-TW
 tags: ["蒙特梭利", "幼兒園", "教育研究", "兒童發展", "蒙特梭利 vs 傳統教育"]
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 # 蒙特梭利 vs 傳統幼兒園：科學終於給出答案了（PNAS 最新研究）

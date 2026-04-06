@@ -8,6 +8,7 @@ tags: ["台灣生育補助2026", "生育津貼怎麼領", "各縣市生育補助
 image: "/images/taiwan-birth-subsidy-2026.jpg"
 imageAlt: "台灣2026生育補助完整指南"
 lang: "zh-TW"
+ageGroup: ["infant"]
 ---
 
 # 台灣 2026 生育補助完整攻略：每個寶寶 NT$100,000 怎麼領？

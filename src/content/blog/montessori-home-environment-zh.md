@@ -4,6 +4,7 @@ description: "從嬰兒房到廚房，從全新購置到 IKEA 改造，這份指
 pubDate: 2026-04-01
 lang: "zh-TW"
 tags: ["蒙特梭利環境", "蒙特梭利房間布置", "蒙特梭利嬰兒房", "蒙特梭利學步兒房間", "IKEA蒙特梭利", "小坪數蒙特梭利", "矮書架", "地板床"]
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 # 蒙特梭利居家環境布置完整攻略

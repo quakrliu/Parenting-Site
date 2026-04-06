@@ -8,6 +8,7 @@ tags: ["AAP螢幕時間2026", "兒童手機平板時間", "幼兒看電視幾小
 image: "/images/aap-screen-time-2026.jpg"
 imageAlt: "AAP 2026螢幕時間新指引"
 lang: "zh-TW"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # AAP 2026 螢幕時間新指引：不再只看「幾小時」

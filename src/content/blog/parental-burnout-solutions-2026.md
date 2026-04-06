@@ -8,6 +8,7 @@ tags: ["父母倦怠", "育兒精疲力竭", "親職壓力解決方法", "parent
 image: "/images/parental-burnout-2026.jpg"
 imageAlt: "家長職業倦怠指南"
 lang: "zh-TW"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # 家長職業倦怠：92% 父母精疲力竭，你也中了嗎？

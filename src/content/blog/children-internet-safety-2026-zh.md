@@ -5,6 +5,7 @@ pubDate: 2026-04-07
 updatedDate: 2026-03-31
 tags: ["數位安全", "親子教養", "網路安全", "螢幕時間", "AI玩具"]
 lang: "zh-TW"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # 2026年兒童網路安全完整指南：AI玩具、國際新法與台灣爸媽實戰設定

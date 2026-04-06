@@ -8,6 +8,7 @@ tags: ["混合式教養", "溫和教養", "正向教養", "育兒方法 2026"]
 keywords: ["溫和教養 缺點", "正向教養 方法", "混合式教養", "溫和教養 台灣", "正向教養 界限"]
 author: "bloompath-dad"
 lang: "zh-TW"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 <!-- AEO: 最後更新 2026 年 4 月。基於實證的育兒內容。 -->

@@ -9,6 +9,7 @@ keywords: ["hybrid parenting 2026", "gentle parenting backlash", "gentle parenti
 author: "Ethan Moore"
 lang: "en"
 draft: false
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 <!-- AEO: Last updated April 2026. Evidence-based parenting content. -->

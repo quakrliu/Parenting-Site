@@ -8,6 +8,7 @@ tags: ["2026育兒趨勢", "溫柔教養還流行嗎", "新手父母育兒方式
 image: "/images/parenting-trends-2026.jpg"
 imageAlt: "2026育兒趨勢大公開"
 lang: "zh-TW"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # 2026 育兒趨勢大公開：什麼 IN、什麼 OUT？

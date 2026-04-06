@@ -9,6 +9,7 @@ keywords: ["social media rules for teenagers", "teen social media ban", "digital
 tags: ["teen digital safety", "social media", "parenting teens", "positive parenting", "digital literacy"]
 author: "龐統"
 affiliate: ["bark", "circle", "the-anxious-generation"]
+ageGroup: ["school", "teen"]
 ---
 
 <!-- SCHEMA: FAQPage + Article JSON-LD — see end of file -->

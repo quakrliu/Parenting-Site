@@ -8,6 +8,7 @@ keywords: ["montessori activities at home", "montessori activities toddler", "mo
 category: "Montessori Education"
 affiliate: ["amazon", "lovevery"]
 type: "guide"
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 *Updated March 2026*

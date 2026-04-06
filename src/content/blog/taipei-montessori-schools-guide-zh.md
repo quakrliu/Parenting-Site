@@ -6,6 +6,7 @@ pubDate: 2026-03-31
 lang: "zh-TW"
 tags: ["蒙特梭利", "台灣學校", "選校", "實驗教育", "教育"]
 keywords: ["台北蒙特梭利學校推薦", "台灣蒙特梭利幼兒園", "Montessori台灣費用", "蒙特梭利實驗教育"]
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 # 台灣蒙特梭利學校完整指南 2026 — 選校攻略、費用與各年齡建議

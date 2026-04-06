@@ -8,6 +8,7 @@ tags: ["台北蒙特梭利學校", "台灣蒙特梭利幼兒園", "Montessori台
 image: "/images/taipei-montessori-schools-2026.jpg"
 imageAlt: "台北蒙特梭利學校指南 2026"
 lang: "zh-TW"
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 **最後更新：2026年3月31日**

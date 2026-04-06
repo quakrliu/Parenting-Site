@@ -6,6 +6,7 @@ lastUpdated: 2026-04-02
 author: bloompath
 slug: montessori-preschool-does-it-work-pnas-study
 tags: ["montessori", "preschool", "child development", "executive function", "research"]
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 # Does Montessori Actually Work? A Landmark Study Just Answered That.

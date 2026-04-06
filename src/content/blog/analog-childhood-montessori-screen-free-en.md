@@ -6,6 +6,7 @@ tags: ["montessori", "screen-free", "analog childhood", "unstructured play", "ch
 lang: "en"
 author: "Ethan Moore"
 draft: false
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 Before I became a dad, I thought I had a healthy relationship with screens. One phone, moderate use, nothing excessive. Then my daughter turned two and I caught myself handing her the iPad at 7 a.m. because I needed five more minutes of coffee and silence.

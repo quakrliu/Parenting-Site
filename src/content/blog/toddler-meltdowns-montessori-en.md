@@ -8,6 +8,7 @@ keywords: ["toddler meltdowns", "toddler tantrums", "montessori tantrums", "how 
 category: "Montessori Education"
 affiliate: ["amazon", "lovevery"]
 type: "guide"
+ageGroup: ["toddler", "preschool"]
 ---
 
 *Updated March 2026*

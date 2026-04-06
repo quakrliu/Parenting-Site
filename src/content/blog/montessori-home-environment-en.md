@@ -4,6 +4,7 @@ description: "A practical guide to creating a Montessori-inspired home environme
 pubDate: 2026-04-01
 lang: en
 tags: ["montessori home environment", "montessori room setup", "montessori bedroom ideas", "montessori playroom setup", "montessori ikea hacks", "montessori small space", "montessori nursery", "montessori toddler room"]
+ageGroup: ["infant", "toddler", "preschool"]
 ---
 
 # Montessori Home Environment: Room-by-Room Setup Guide

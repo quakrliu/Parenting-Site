@@ -4,6 +4,7 @@ description: "A comprehensive, evidence-based guide to infant and toddler nutrit
 pubDate: 2026-04-01
 lang: en
 tags: ["baby nutrition", "starting solids", "baby led weaning", "infant feeding guide", "toddler nutrition", "when to start solids", "BLW guide", "baby food introduction", "first foods baby"]
+ageGroup: ["infant", "toddler"]
 ---
 
 # Baby & Toddler Nutrition: The Complete Guide (0–3 Years)

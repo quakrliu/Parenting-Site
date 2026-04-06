@@ -5,6 +5,7 @@ pubDate: 2026-03-31
 updatedDate: 2026-03-31
 tags: ["screen time", "AAP guidelines", "school age", "parenting", "digital wellness"]
 lang: "en"
+ageGroup: ["school"]
 ---
 
 *Last updated: March 2026 | Covers ages 6–12 | Sources: AAP Pediatrics January 2026, SickKids Hospital Toronto 2026, Internet Matters Wellbeing Index 2026*

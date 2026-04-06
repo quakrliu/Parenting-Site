@@ -8,6 +8,7 @@ tags: ["幼稚園入學準備", "孩子上小學準備", "kindergarten readiness
 image: "/images/kindergarten-readiness-guide.jpg"
 imageAlt: "幼稚園入學準備完整指南"
 lang: "zh-TW"
+ageGroup: ["preschool", "school"]
 ---
 
 # 幼稚園入學準備完整指南：孩子準備好了嗎？

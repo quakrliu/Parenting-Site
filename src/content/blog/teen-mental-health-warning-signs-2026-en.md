@@ -10,6 +10,7 @@ category: "Parenting Teens"
 affiliate: true
 schema:
   type: "Article"
+ageGroup: ["school", "teen"]
 ---
 
 Before my daughter was born, I thought I understood teenagers pretty well. After all, I'd been one. I remembered the mood swings, the door-slamming, the inexplicable rage when someone breathed too loudly. I figured I'd handle it fine.

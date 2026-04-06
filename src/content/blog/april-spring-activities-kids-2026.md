@@ -8,6 +8,7 @@ tags: ["四月親子活動", "春天帶小孩去哪", "春季幼兒戶外活動"
 image: "/images/april-spring-activities-kids.jpg"
 imageAlt: "四月春季親子活動創意"
 lang: "zh-TW"
+ageGroup: ["toddler", "preschool", "school"]
 ---
 
 # 四月春季親子活動大全：50 個不花錢的創意玩法

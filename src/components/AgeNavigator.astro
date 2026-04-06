@@ -26,7 +26,7 @@ const ageStages = [
     </div>
     <div class="age-nav__grid">
       {ageStages.map((stage) => (
-        <a href={`/${lang}/blog`} class={`age-nav__card age-nav__card--${stage.color}`}>
+        <a href={`/${lang}/age/${stage.key}`} class={`age-nav__card age-nav__card--${stage.color}`}>
           <div class="age-nav__img-wrap">
             <img
               src={stage.img}

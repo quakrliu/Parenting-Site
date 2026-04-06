@@ -5,6 +5,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-03-31
 tags: ["child safety", "child abuse prevention", "body safety", "parenting", "April"]
 lang: "en"
+ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 # April Is Child Abuse Prevention Month: What Research Says Parents Can Actually Do

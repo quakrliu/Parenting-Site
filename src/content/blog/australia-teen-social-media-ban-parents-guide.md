@@ -6,6 +6,7 @@ updatedDate: 2026-03-31
 tags: ["social media rules for teenagers", "teen social media ban", "digital literacy teens", "australia social media ban", "parental controls for teens", "teen digital safety", "positive parenting"]
 author: "BloomPath Editorial"
 lang: "en"
+ageGroup: ["school", "teen"]
 ---
 
 <!-- SCHEMA: FAQPage + Article JSON-LD — see end of file -->
