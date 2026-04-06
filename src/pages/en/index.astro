@@ -6,7 +6,6 @@ import Footer from '../../components/Footer.astro';
 import HomeHero from '../../components/HomeHero.astro';
 import AgeNavigator from '../../components/AgeNavigator.astro';
 import FeaturedArticles from '../../components/FeaturedArticles.astro';
-import CommunitySection from '../../components/CommunitySection.astro';
 import NewsletterSection from '../../components/NewsletterSection.astro';
 import AboutSection from '../../components/AboutSection.astro';
 import { getCollection } from 'astro:content';
@@ -29,7 +28,6 @@ const featuredPosts = allPosts
   <HomeHero lang={lang} />
   <AgeNavigator lang={lang} />
   <FeaturedArticles lang={lang} posts={featuredPosts} />
-  <CommunitySection lang={lang} />
   <NewsletterSection lang={lang} />
   <AboutSection lang={lang} />
   <Footer lang={lang} />
