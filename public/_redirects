@@ -1,0 +1,3 @@
+# Redirect /blog/* to /en/blog/* (Cloudflare Pages redirects)
+/blog/*  /en/blog/:splat  301
+/guides/*  /en/guides/:splat  301
