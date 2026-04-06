@@ -1,0 +1,59 @@
+---
+interface Props {
+  lang: 'en' | 'zh';
+  current?: string;
+}
+
+const { lang, current = '' } = Astro.props;
+
+const tools = [
+  { slug: 'milestone-checker', en: 'Milestones', zh: '里程碑' },
+  { slug: 'screen-time-calculator', en: 'Screen Time', zh: '螢幕時間' },
+  { slug: 'activity-finder', en: 'Activities', zh: '活動搜尋' },
+  { slug: 'sleep-schedule', en: 'Sleep', zh: '睡眠' },
+  { slug: 'vocabulary-tracker', en: 'Vocabulary', zh: '詞彙' },
+];
+---
+
+<nav class="tools-nav">
+  {tools.map((t) => (
+    <a
+      href={`/${lang}/tools/${t.slug}`}
+      class:list={['tools-nav__link', { active: current === t.slug }]}
+    >
+      {lang === 'zh' ? t.zh : t.en}
+    </a>
+  ))}
+</nav>
+
+<style>
+  .tools-nav {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(141, 155, 142, 0.1);
+  }
+
+  .tools-nav__link {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--color-text-light);
+    text-decoration: none;
+    padding: 0.375rem 0.875rem;
+    border-radius: 999px;
+    background: rgba(141, 155, 142, 0.06);
+    transition: all 0.2s ease;
+  }
+
+  .tools-nav__link:hover {
+    background: rgba(141, 155, 142, 0.12);
+    color: var(--color-text);
+  }
+
+  .tools-nav__link.active {
+    background: var(--color-forest);
+    color: var(--color-white);
+  }
+</style>
