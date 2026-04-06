@@ -1,0 +1,679 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+
+const lang = 'zh';
+---
+
+<BaseLayout
+  title="Montessori Activity Finder | BloomPath"
+  description="Find the perfect Montessori activity for your child by age and developmental area. Practical, hands-on ideas you can do at home today."
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="tool-page">
+    <div class="container">
+
+      <div class="tool-hero">
+        <div class="tool-badge">Free Tool</div>
+        <h1>Montessori Activity Finder</h1>
+        <p class="tool-intro">
+          Find age-appropriate, hands-on Montessori activities by developmental area. Real activities you can set up with things you already have at home.
+        </p>
+      </div>
+
+      <div class="tool-card">
+        <div class="inputs-row">
+          <div class="input-group">
+            <label for="age-range" class="input-label">Child's age</label>
+            <select id="age-range" class="select-input">
+              <option value="0-1">0–1 year</option>
+              <option value="1-2" selected>1–2 years</option>
+              <option value="2-3">2–3 years</option>
+              <option value="3-4">3–4 years</option>
+              <option value="4-5">4–5 years</option>
+              <option value="5-6">5–6 years</option>
+            </select>
+          </div>
+          <div class="input-group">
+            <label for="dev-area" class="input-label">Development area</label>
+            <select id="dev-area" class="select-input">
+              <option value="Motor">Motor Skills</option>
+              <option value="Language" selected>Language</option>
+              <option value="Sensory">Sensory</option>
+              <option value="Practical Life">Practical Life</option>
+              <option value="Math">Math &amp; Logic</option>
+              <option value="Culture">Culture &amp; Science</option>
+            </select>
+          </div>
+          <button id="find-btn" class="find-btn">Find Activities</button>
+        </div>
+
+        <div id="results" class="results-section" aria-live="polite" style="display:none">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+
+      <div class="philosophy-note">
+        <div class="philosophy-icon">🌱</div>
+        <div>
+          <h3>The Montessori approach</h3>
+          <p>Montessori activities follow the child's natural curiosity. They're designed to be hands-on, self-correcting, and intrinsically rewarding — building independence, focus, and a love of learning from the very start.</p>
+        </div>
+      </div>
+
+      <div class="related-articles">
+        <h2>Go deeper</h2>
+        <div class="article-links">
+          <a href="/en/blog/montessori-at-home" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>Montessori at Home: Setting Up Your Space</span>
+          </a>
+          <a href="/en/blog/montessori-activities" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>50 Montessori Activities for Every Age</span>
+          </a>
+          <a href="/en/blog/montessori-vs-traditional" class="article-link">
+            <span class="article-link-icon">&#x1F4D6;</span>
+            <span>Montessori vs. Traditional Learning: What the Research Says</span>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .tool-page {
+    padding: 4rem 0 2rem;
+    min-height: 60vh;
+  }
+
+  .tool-hero {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .tool-badge {
+    display: inline-block;
+    background: rgba(141, 155, 142, 0.12);
+    color: #8D9B8E;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.75rem;
+    border-radius: 100px;
+    margin-bottom: 1rem;
+  }
+
+  .tool-hero h1 {
+    font-size: clamp(1.75rem, 4vw, 2.75rem);
+    font-weight: 700;
+    color: #4A4543;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.75rem;
+  }
+
+  .tool-intro {
+    font-size: 1.0625rem;
+    color: #7A7573;
+    max-width: 52ch;
+    margin: 0 auto;
+    line-height: 1.65;
+  }
+
+  .tool-card {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 0 2px 24px rgba(74, 69, 67, 0.06);
+    max-width: 860px;
+    margin: 0 auto 2rem;
+  }
+
+  .inputs-row {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .inputs-row {
+      flex-direction: row;
+      align-items: flex-end;
+      gap: 1rem;
+    }
+    .inputs-row .input-group {
+      flex: 1;
+    }
+  }
+
+  .input-group {}
+
+  .input-label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #4A4543;
+    margin-bottom: 0.5rem;
+  }
+
+  .select-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1.5px solid #EDE6DF;
+    border-radius: 10px;
+    background: #F5F0EB;
+    color: #4A4543;
+    font-size: 0.9375rem;
+    font-family: inherit;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238D9B8E' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.875rem center;
+    cursor: pointer;
+    transition: border-color 0.2s ease;
+  }
+
+  .select-input:focus {
+    outline: none;
+    border-color: #8D9B8E;
+  }
+
+  .find-btn {
+    padding: 0.75rem 1.75rem;
+    background: #8D9B8E;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    align-self: flex-end;
+  }
+
+  .find-btn:hover {
+    background: #707D72;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(141, 155, 142, 0.35);
+  }
+
+  .results-section {
+    border-top: 1px solid #F5F0EB;
+    padding-top: 1.75rem;
+  }
+
+  .results-heading {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #4A4543;
+    margin-bottom: 1.25rem;
+  }
+
+  .results-heading span {
+    color: #8D9B8E;
+  }
+
+  .activities-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  @media (min-width: 560px) {
+    .activities-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  .activity-card {
+    background: #F5F0EB;
+    border-radius: 14px;
+    padding: 1.25rem;
+    transition: transform 0.2s ease;
+  }
+
+  .activity-card:hover {
+    transform: translateY(-2px);
+  }
+
+  .activity-title {
+    font-size: 0.9375rem;
+    font-weight: 700;
+    color: #4A4543;
+    margin-bottom: 0.5rem;
+  }
+
+  .activity-desc {
+    font-size: 0.875rem;
+    color: #7A7573;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+  }
+
+  .activity-meta {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .activity-tag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.15rem 0.5rem;
+    border-radius: 100px;
+    background: rgba(141, 155, 142, 0.12);
+    color: #8D9B8E;
+  }
+
+  .activity-tag.materials {
+    background: rgba(196, 168, 130, 0.12);
+    color: #B09670;
+  }
+
+  .philosophy-note {
+    max-width: 860px;
+    margin: 0 auto 3rem;
+    background: rgba(141, 155, 142, 0.07);
+    border-radius: 16px;
+    padding: 1.5rem;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .philosophy-icon {
+    font-size: 1.5rem;
+    flex-shrink: 0;
+    margin-top: 0.125rem;
+  }
+
+  .philosophy-note h3 {
+    font-size: 0.9375rem;
+    font-weight: 700;
+    color: #4A4543;
+    margin-bottom: 0.375rem;
+  }
+
+  .philosophy-note p {
+    font-size: 0.875rem;
+    color: #7A7573;
+    line-height: 1.6;
+  }
+
+  .related-articles {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  .related-articles h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #4A4543;
+    margin-bottom: 1rem;
+  }
+
+  .article-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.625rem;
+  }
+
+  .article-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: #FFFFFF;
+    border: 1px solid #F5F0EB;
+    border-radius: 12px;
+    padding: 0.875rem 1.125rem;
+    color: #4A4543;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .article-link:hover {
+    border-color: #8D9B8E;
+    background: rgba(141, 155, 142, 0.04);
+    color: #4A4543;
+  }
+
+  .article-link-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+  }
+</style>
+
+<script>
+  interface Activity {
+    title: string;
+    desc: string;
+    materials: string;
+  }
+
+  type AgeKey = '0-1' | '1-2' | '2-3' | '3-4' | '4-5' | '5-6';
+  type DomainKey = 'Motor' | 'Language' | 'Sensory' | 'Practical Life' | 'Math' | 'Culture';
+
+  const ACTIVITIES: Record<AgeKey, Record<DomainKey, Activity[]>> = {
+    '0-1': {
+      Motor: [
+        { title: 'Tummy Time with Mirror', desc: 'Place a baby-safe mirror in front of baby during tummy time. Strengthens neck, shoulder, and core muscles while engaging visual curiosity.', materials: 'Baby mirror, soft mat' },
+        { title: 'Grasping Ribbon Rings', desc: 'Offer large wooden or fabric rings for baby to grasp, pull, and transfer between hands. Builds hand-eye coordination and grip strength.', materials: 'Wooden rings or fabric loops' },
+        { title: 'Kicking Mobile', desc: 'Attach soft objects to a bar near baby\'s feet so they can kick and watch them move — introducing cause-and-effect through movement.', materials: 'Soft hanging objects, bar attachment' },
+        { title: 'Rolling Ball Tracking', desc: 'Slowly roll a large, brightly colored ball across the floor while baby watches. Develops visual tracking and encourages reaching.', materials: 'Large soft ball' },
+        { title: 'Texture Exploration Basket', desc: 'Fill a low basket with objects of different textures (smooth, rough, soft, bumpy). Supervised exploration builds sensory-motor connections.', materials: 'Basket, safe household objects' },
+      ],
+      Language: [
+        { title: 'Narrated Daily Routines', desc: 'Narrate every diaper change, feeding, and walk in simple, warm language. This immersive "language bath" is the foundation of all vocabulary.', materials: 'Just your voice!' },
+        { title: 'Board Book Sharing', desc: 'Point to pictures and name them clearly. Pause and wait — even young babies absorb language before they can respond.', materials: 'Simple board books' },
+        { title: 'Singing Nursery Rhymes', desc: 'Rhythmic rhymes help babies tune into the patterns of language. Repeat favorites daily.', materials: 'Your voice' },
+        { title: 'Peek-a-Boo Language Games', desc: 'Combine peek-a-boo with words: "Where\'s mama? There she is!" Teaches language in a joyful, turn-taking context.', materials: 'Just a cloth or your hands' },
+        { title: 'Name Object Baskets', desc: 'Show baby one object at a time from a small basket and name it clearly and slowly. Real objects (keys, spoon) are more stimulating than toys.', materials: 'Small basket, 3-4 real objects' },
+      ],
+      Sensory: [
+        { title: 'Water Exploration Tub', desc: 'A shallow tub of warm water with a few floating objects. Baby can splash and feel the temperature difference — a rich sensory experience.', materials: 'Shallow tub, safe floating objects' },
+        { title: 'Nature Texture Walk', desc: 'Hold baby and gently guide their hand to touch leaves, bark, grass, and smooth stones while naming each texture.', materials: 'Outdoor space' },
+        { title: 'Sensory Bottle', desc: 'Fill a sealed clear bottle with water, glitter, and small objects. Baby can shake, roll, and watch the contents move.', materials: 'Clear bottle, glitter, small objects, glue' },
+        { title: 'Fabric Texture Squares', desc: 'Sew or collect squares of velvet, denim, cotton, silk, and burlap. Let baby feel and explore each one while you name the texture.', materials: 'Fabric scraps' },
+        { title: 'Sound Shakers', desc: 'Fill sealed containers with rice, bells, or sand. Each makes a different sound when shaken — builds auditory discrimination.', materials: 'Small containers with lids, rice/bells/sand' },
+      ],
+      'Practical Life': [
+        { title: 'Self-Feeding Finger Foods', desc: 'From around 8-9 months, offer appropriate soft finger foods. Let baby practice picking up and self-feeding — messy is part of the learning.', materials: 'Appropriate soft finger foods, high chair' },
+        { title: 'Assisted Cup Drinking', desc: 'Offer a small open cup with a tiny amount of water during meals. Builds coordination and independence.', materials: 'Small open cup, water' },
+        { title: 'Helping Hold Clothes', desc: 'During dressing, slow down and give baby a chance to push arm through sleeve or lift foot for sock. Builds body awareness.', materials: 'Just clothes' },
+        { title: 'Object In/Out Basket', desc: 'Show baby how to take objects out of a basket and put them back in. Teaches purposeful movement and early "work" concepts.', materials: 'Small basket, 5-6 safe objects' },
+      ],
+      Math: [
+        { title: 'One Object at a Time', desc: 'Offer and name single objects before adding more. This builds the conceptual foundation for "one" before numbers can mean anything.', materials: 'Any single object' },
+        { title: 'Stacking Cups', desc: 'Nesting and stacking cups introduce size relationships — bigger, smaller — through direct hands-on exploration.', materials: 'Stacking cups or containers' },
+        { title: 'Shape Sorter (supervised)', desc: 'Even if baby can\'t sort yet, showing them the shapes and holes builds early spatial awareness and pattern recognition.', materials: 'Simple shape sorter' },
+      ],
+      Culture: [
+        { title: 'Nature Observation Window', desc: 'Hold baby near a window and narrate what you see — birds, leaves moving, rain. Builds wonder and early science vocabulary.', materials: 'Window, outdoor view' },
+        { title: 'Photo Book of Family', desc: 'Create a simple photo book of family members, pets, and familiar places. Helps baby build a sense of identity and belonging.', materials: 'Family photos, small album' },
+        { title: 'World Music Listening', desc: 'Play music from different cultures during quiet time. Introduces tonal variety and rhythmic patterns from around the world.', materials: 'Speaker, curated playlist' },
+      ],
+    },
+    '1-2': {
+      Motor: [
+        { title: 'Posting Box', desc: 'A box with a slot to post large coins or shapes into. The precise grip and release needed builds fine motor control and concentration.', materials: 'Box with slot, large wooden discs' },
+        { title: 'Ball Rolling Ramp', desc: 'Set up a simple inclined ramp for rolling balls down. Child can push balls and observe cause-and-effect with full body engagement.', materials: 'Board or cardboard, balls' },
+        { title: 'Stacking and Knocking Blocks', desc: 'Simple wooden blocks to stack as high as possible — then joyfully knock down. Develops hand steadiness and spatial reasoning.', materials: 'Unit blocks' },
+        { title: 'Peg Puzzles', desc: 'Large single-piece peg puzzles of animals or shapes. Lifting, rotating, and placing builds hand-eye coordination and spatial skills.', materials: 'Peg puzzle' },
+        { title: 'Pushing a Laundry Basket', desc: 'Let toddler push a light laundry basket across the floor. Great for new walkers — gives stability and purposeful movement.', materials: 'Light laundry basket' },
+        { title: 'Large Bead Threading', desc: 'Thread large wooden beads onto a thick lace. Requires bimanual coordination and intense focus.', materials: 'Large wooden beads, thick shoelace' },
+      ],
+      Language: [
+        { title: 'Object-Picture Matching', desc: 'Place real objects (spoon, cup, apple) next to their picture card equivalents. Connects word, object, and symbol.', materials: 'Real objects, matching picture cards' },
+        { title: '3-Part Cards: Animals', desc: 'Use simple picture cards with the name below. Show the picture, say the name, and invite the child to repeat. Montessori 3-part card style.', materials: 'Printed animal picture cards' },
+        { title: 'Book Reading with Questions', desc: 'Read slowly and ask "Where is the dog?" rather than just narrating. Turns passive listening into active language participation.', materials: 'Picture books' },
+        { title: 'Body Parts Pointing Game', desc: '"Show me your nose!" Games that name body parts build vocabulary quickly and are delightfully motivating for toddlers.', materials: 'Just you and your child' },
+        { title: 'Simple Action Songs', desc: 'Songs like "Head, Shoulders, Knees and Toes" connect language to movement and accelerate word learning.', materials: 'Your voice' },
+        { title: 'Naming Basket Rotation', desc: 'Introduce a new category of objects each week (kitchen items, animals, vehicles). Name each object clearly, then let child explore freely.', materials: 'Small basket, 4-6 thematic objects' },
+      ],
+      Sensory: [
+        { title: 'Cloud Dough', desc: 'Mix 8 cups flour with 1 cup baby oil for moldable, crumbly cloud dough. Rich tactile input that\'s easy to clean up.', materials: 'Flour, baby oil, tray' },
+        { title: 'Ice Excavation', desc: 'Freeze small toys or objects in a block of ice. Child uses tools (spoon, dropper of warm water) to excavate them. Sensory + problem-solving.', materials: 'Water, small toys, freezer, spoon, tray' },
+        { title: 'Dried Bean Transfer', desc: 'A tray with dried beans to scoop, pour, and transfer between containers. Develops sensory discrimination and fine motor control.', materials: 'Dried beans, 2 containers, spoon' },
+        { title: 'Nature Walk Collecting', desc: 'Bring a small basket on a walk and collect leaves, sticks, pebbles, and seed pods. Examine and sort when you return home.', materials: 'Small basket, outdoor space' },
+        { title: 'Sensory Bin: Themed', desc: 'Fill a bin with rice or oats dyed a color, and hide thematic small objects. Change themes monthly (ocean, forest, farm).', materials: 'Bin, rice/oats, small themed objects' },
+      ],
+      'Practical Life': [
+        { title: 'Spooning Dried Pasta', desc: 'Transfer dried pasta from one bowl to another using a large spoon. The quintessential Montessori practical life activity — develops concentration and control.', materials: 'Two bowls, large spoon, dried pasta' },
+        { title: 'Watering Plants', desc: 'Give child a small watering can and responsibility for one easy plant. Builds care, responsibility, and cause-and-effect observation.', materials: 'Small watering can, easy plant' },
+        { title: 'Sponge Squeezing', desc: 'A tray with two bowls of water and a sponge. Transfer water by squeezing. Excellent hand strengthening and focus building.', materials: 'Tray, two bowls, water, sponge' },
+        { title: 'Dusting with a Cloth', desc: 'Fold a small cloth and show child how to dust a low shelf or table. Children love purposeful "real work" far more than pretend chores.', materials: 'Small cloth' },
+        { title: 'Sorting Laundry by Color', desc: 'Help sort clean laundry into piles by color. A natural, purposeful activity that also builds early categorization skills.', materials: 'Clean laundry, bins or sections' },
+        { title: 'Self-Dressing Practice', desc: 'Set up a simple dressing frame or practice board with large buttons or velcro. Builds independence and fine motor skills.', materials: 'Dressing frame or old shirt' },
+      ],
+      Math: [
+        { title: 'Object Counting to 3', desc: 'Count out 1, 2, or 3 objects with deliberate one-to-one correspondence. Always touch each object as you count. Keep it playful.', materials: 'Any small countable objects' },
+        { title: 'Size Sorting: Big and Small', desc: 'Provide objects in two clear sizes and sort them into "big" and "small" groups. Builds the concept of quantitative comparison.', materials: 'Objects in 2 sizes' },
+        { title: 'Nesting Bowls', desc: 'Nesting bowls or rings teach ordinal size relationships — smallest inside next, up to largest. Builds seriation thinking.', materials: 'Nesting bowls or rings' },
+        { title: 'One-to-One Matching', desc: 'Match one object to each holder — one egg per egg cup, one peg per hole. Builds the foundation for numerical understanding.', materials: 'Egg carton, small objects' },
+      ],
+      Culture: [
+        { title: 'Leaf Rubbings', desc: 'Place leaves under paper and rub with crayon to reveal their pattern. Introduces botany and the concept that patterns appear in nature.', materials: 'Leaves, paper, crayon' },
+        { title: 'Simple Animal Classification', desc: 'Sort picture cards or small figurines into categories: farm animals, ocean animals, forest animals. Early science classification.', materials: 'Animal cards or figurines, sorting mats' },
+        { title: 'Globe Exploration', desc: 'Use a simple globe or world map. Touch land and water areas, introducing "land" and "water" vocabulary.', materials: 'Globe or world map' },
+        { title: 'Seasonal Table', desc: 'Set up a small tray with items from the current season — pinecones in autumn, flowers in spring, shells in summer. Builds nature awareness.', materials: 'Seasonal natural objects' },
+      ],
+    },
+    '2-3': {
+      Motor: [
+        { title: 'Cutting with Child Scissors', desc: 'Provide strips of play dough or thick paper to snip. Cutting develops the bimanual coordination needed for writing later.', materials: 'Child safety scissors, paper strips or play dough' },
+        { title: 'Lacing Cards', desc: 'Cards with holes around the edge to weave a lace through. Builds hand-eye coordination, spatial reasoning, and concentration.', materials: 'Lacing cards, lace' },
+        { title: 'Playdough Pounding and Rolling', desc: 'Rolling snakes, flattening, and making balls with playdough develops hand strength crucial for writing.', materials: 'Homemade playdough, rolling pin' },
+        { title: 'Transferring with Tongs', desc: 'Transfer pom-poms or small balls between bowls using tongs or tweezers. Major fine motor challenge with immediate, satisfying feedback.', materials: 'Tongs or tweezers, small objects, two bowls' },
+        { title: 'Balance Beam Walking', desc: 'A plank on the ground or a tape line to walk along heel-to-toe. Develops vestibular balance and gross motor control.', materials: 'Board, tape, or low balance beam' },
+      ],
+      Language: [
+        { title: 'Story Sequencing Cards', desc: 'Three-card simple story sequences (seed → plant → flower). Child arranges in order and narrates what happened. Builds narrative language.', materials: '3-part story sequence cards' },
+        { title: 'I Spy Phonics', desc: '"I spy something that starts with the sound \'sss\'." Builds phonemic awareness that is foundational for reading.', materials: 'Just objects around the room' },
+        { title: 'Puppet Storytelling', desc: 'Use two simple sock puppets to act out familiar scenarios. Encourages narrative language, vocabulary, and social scripts.', materials: 'Two simple puppets' },
+        { title: 'Dictated Story Book', desc: 'Ask your child to tell you a story while you write their exact words. Read it back proudly. Their language, their ideas, their book.', materials: 'Paper, stapler, your pen' },
+        { title: 'Object Description Game', desc: 'Pick an object and take turns describing it: color, shape, texture, size, what it\'s used for. Builds descriptive vocabulary.', materials: 'Any household objects' },
+        { title: 'Beginning Sound Basket', desc: 'Fill a basket with objects starting with the same sound. Explore and name them together. One sound per week.', materials: 'Small basket, objects starting with target sound' },
+      ],
+      Sensory: [
+        { title: 'Mystery Bag', desc: 'Place objects in a cloth bag; child reaches in (no peeking!) and identifies by touch alone. Pure stereognostic (touch-based) exploration.', materials: 'Cloth bag, 5-6 familiar objects' },
+        { title: 'Smell Jars', desc: 'Small covered jars with cotton soaked in different scents (vanilla, lemon, mint, lavender). Match pairs or name scents.', materials: '6 small jars with lids, cotton, scents' },
+        { title: 'Watercolor Painting', desc: 'True watercolor painting — not finger painting — with a real brush. Child controls the amount of pigment and water. Sensory + art.', materials: 'Watercolor set, brushes, paper' },
+        { title: 'Kinetic Sand Exploration', desc: 'Moldable kinetic sand for sculpting, pouring, and digging. Deeply calming sensory input with satisfying tactile feedback.', materials: 'Kinetic sand or moon sand, tray, tools' },
+      ],
+      'Practical Life': [
+        { title: 'Folding Cloths', desc: 'Show the child how to fold a small cloth in half, then quarters. A classic Montessori practical life activity that builds exactness and care.', materials: 'Small square cloths' },
+        { title: 'Bread Spreading', desc: 'Use a child-safe spreader to put butter or jam on a cracker. A complete, purposeful activity with a delicious result.', materials: 'Spreader, crackers, butter or jam, small plate' },
+        { title: 'Table Setting', desc: 'Create a placemat with outlines of where each item goes. Child sets the table before meals. Purposeful, sequential, and satisfying.', materials: 'Placemat with outlines drawn on it, cutlery, plate' },
+        { title: 'Hand Washing Sequence', desc: 'Set up a small step stool, soap, towel, and demonstrate the full hand washing sequence. Make it a ritual before every meal.', materials: 'Step stool, soap, small towel' },
+        { title: 'Flower Arranging', desc: 'Provide a small vase, water, and simple flowers. Child cuts stems (with child scissors) and arranges. Develops grace, care, and aesthetics.', materials: 'Small vase, simple flowers, child scissors' },
+      ],
+      Math: [
+        { title: 'Number Rods (simplified)', desc: 'Use rods or strips of paper in lengths 1-10. Compare lengths, order them, and name each number.', materials: 'Paper strips cut in graduated lengths, or unit blocks' },
+        { title: 'Counting with Objects', desc: 'Count out objects into small trays labeled 1-5. Touch each object as you count. Builds one-to-one correspondence firmly.', materials: 'Small trays, countable objects, number labels' },
+        { title: 'Pattern Making', desc: 'Create AB, ABB, and ABC patterns with colored blocks or buttons. Invite child to continue the pattern and then create their own.', materials: 'Colored blocks, buttons, or tiles' },
+        { title: 'Shape Sorting Tray', desc: 'Sort objects or shape cards into categories: circles, squares, triangles. Name properties: "3 sides," "4 equal sides."', materials: 'Shape cards or 3D shapes, sorting tray' },
+        { title: 'More and Less Comparison', desc: 'Pour two amounts into clear containers. "Which has more?" "Which has less?" Builds quantitative reasoning through direct observation.', materials: 'Two clear containers, dried beans or water' },
+      ],
+      Culture: [
+        { title: 'Continent Puzzle Map', desc: 'Use a simple puzzle map of the continents. Name each one and find where you live. Builds global awareness from a young age.', materials: 'World puzzle map (Montessori style)' },
+        { title: 'Sink or Float Experiment', desc: 'Collect objects and predict, then test whether they sink or float. Record results with drawings. Early scientific method.', materials: 'Bowl of water, various objects, paper' },
+        { title: 'Seed Planting', desc: 'Plant fast-growing seeds (beans, sunflowers) in clear cups to watch root growth. Observe and water daily. Science as living practice.', materials: 'Clear cups, potting soil, fast-germinating seeds' },
+        { title: 'Cooking a Simple Recipe', desc: 'Make a two-ingredient recipe together (banana oat cookies, simple soup). Measures, sequences, and transforms ingredients.', materials: 'Simple recipe ingredients, child-safe tools' },
+      ],
+    },
+    '3-4': {
+      Motor: [
+        { title: 'Practical Writing Preparation: Metal Insets', desc: 'Use metal or cardboard insets to trace shapes, then fill in with parallel lines. The Montessori preparation for cursive writing.', materials: 'Metal insets or cardboard shapes, pencil, paper' },
+        { title: 'Weaving on a Simple Loom', desc: 'A small cardboard loom strung with yarn for child to weave through. Develops bimanual coordination and patience.', materials: 'Cardboard loom, yarn' },
+        { title: 'Hammering Nails into Cork', desc: 'Use a child-sized hammer to tap nails or golf tees into a thick cork or foam board. Excellent hand strength and precision development.', materials: 'Cork or foam board, blunt nails or golf tees, child hammer' },
+        { title: 'Obstacle Course', desc: 'Build an indoor course: crawl under table, jump over pillow, balance on tape line. Full-body proprioceptive challenge.', materials: 'Pillows, tape, furniture, your creativity' },
+        { title: 'Peg Sewing', desc: 'Sewing running stitch through large holes in cardboard or fabric. Thread a large plastic needle and practice going in and out.', materials: 'Stiff cardboard or fabric, large plastic needle, yarn' },
+      ],
+      Language: [
+        { title: 'Sandpaper Letters', desc: 'Trace sandpaper letter shapes while saying the phonetic sound ("sss," not "ess"). Multisensory approach connects sound, shape, and movement.', materials: 'Sandpaper letters or DIY: cut letters from sandpaper' },
+        { title: 'Moveable Alphabet', desc: 'Use foam or wooden letters to spell CVC words (cat, hat, pin). Child encodes words before they can write — a breakthrough Montessori insight.', materials: 'Moveable alphabet or foam letters' },
+        { title: 'Story Box', desc: 'A box of small objects to arrange into a narrative. Child picks objects and makes up a story. Builds vocabulary, narrative, and imagination.', materials: 'Small box, 8-10 tiny objects' },
+        { title: 'Rhyming Games', desc: 'Say a word and take turns naming rhymes. Progress to written word families. Builds phonological awareness essential for reading.', materials: 'Just your voice, later simple CVC word cards' },
+        { title: 'Labeling the Environment', desc: 'Print labels for objects in your home (table, chair, window, door). Place them at child\'s eye level. Builds print awareness in a functional context.', materials: 'Printed labels, tape' },
+      ],
+      Sensory: [
+        { title: 'Blindfold Texture Walk', desc: 'Blindfold child (willing only!) and guide them to feel different surfaces — carpet, tile, wood, grass. Name and describe each.', materials: 'Blindfold, varied surfaces' },
+        { title: 'Color Mixing with Paint', desc: 'Three primary color paints and white paper. Discover what happens when colors combine. Document results in a "color journal."', materials: 'Red, blue, yellow paint, brushes, paper' },
+        { title: 'Sound Walk', desc: 'Sit still outside for 2 minutes and list every sound heard. Develops auditory discrimination and mindful listening.', materials: 'Outdoor space, paper to record' },
+        { title: 'Taste Test Lab', desc: 'Offer small tastes of sweet, sour, salty, and bitter foods. Child categorizes and describes. Builds gustatory vocabulary.', materials: 'Small portions of 4 taste category foods' },
+      ],
+      'Practical Life': [
+        { title: 'Using a Real Knife (Butter)', desc: 'A real child-safe table knife for spreading and cutting soft foods (banana, soft cheese). Builds respect for tools and fine motor precision.', materials: 'Child-safe table knife, soft foods, cutting board' },
+        { title: 'Sewing a Simple Pocket', desc: 'Stitch two pieces of felt together with running stitch to make a pocket. A complete practical sewing project with a real result.', materials: 'Felt pieces, large-eye needle, yarn, scissors' },
+        { title: 'Shoe Polishing', desc: 'Polish leather shoes with a cloth and appropriate polish. Highly satisfying practical work that children request repeatedly.', materials: 'Leather shoes, polish, cloth' },
+        { title: 'Cooking: Salad Making', desc: 'Child washes, tears, and assembles a simple salad. Uses real tools (vegetable peeler, child-safe knife). A complete, nutritious project.', materials: 'Lettuce, cucumber, cherry tomatoes, child tools' },
+        { title: 'Mopping Up Spills', desc: 'Keep a dedicated small mop and bucket accessible. When spills happen, child cleans up independently. Builds accountability and capability.', materials: 'Small mop, bucket' },
+      ],
+      Math: [
+        { title: 'Bead Chain Counting', desc: 'Count beads along a chain of 100 or 1000. Montessori bead chains build understanding of quantity far beyond abstract counting.', materials: 'Bead chain (or string 100 beads yourself)' },
+        { title: 'Number Symbol Matching', desc: 'Match numeral cards to corresponding quantities of objects. Builds the symbol-quantity connection that makes arithmetic possible.', materials: 'Number cards 0-10, small objects' },
+        { title: 'Simple Addition with Objects', desc: '"Here are 3 apples. I add 2 more. How many now?" Use real objects before any abstract symbols. Concrete → pictorial → abstract.', materials: 'Any countable objects' },
+        { title: 'Clock Introduction', desc: 'Use a large-faced teaching clock. Learn "o\'clock" hours first. Connect to daily schedule ("we eat lunch at 12 o\'clock").', materials: 'Large teaching clock' },
+        { title: 'Geometric Cabinet Exploration', desc: 'Trace wooden or cardboard geometric shapes and sort by number of sides. Introduces precise geometric vocabulary.', materials: 'Geometric shape cards or wooden pieces' },
+      ],
+      Culture: [
+        { title: 'Weather Journal', desc: 'Each morning observe and record the weather with a drawing and weather symbol. Builds observation habits and time awareness.', materials: 'Notebook, colored pencils, weather symbol stamps or stickers' },
+        { title: 'Animal Kingdom Sorting', desc: 'Sort animal pictures into mammals, birds, fish, reptiles, insects. Use a key reference card. Early taxonomy.', materials: 'Animal picture cards, classification labels' },
+        { title: 'Globe Land and Water', desc: 'Use a sandpaper globe (rough = land, smooth = water). Child discovers the proportion of land to water on Earth by touch.', materials: 'Sandpaper globe or DIY version' },
+        { title: 'Cooking from Another Culture', desc: 'Make a simple dish from a different country. Explore where it comes from on the map. Builds cultural curiosity.', materials: 'Simple recipe, world map, ingredients' },
+      ],
+    },
+    '4-5': {
+      Motor: [
+        { title: 'Calligraphy Introduction', desc: 'Practice forming letters beautifully with a real calligraphy or italic pen. The tactile resistance slows movement and deepens letter formation.', materials: 'Calligraphy pen or italic nib, paper' },
+        { title: 'Sewing a Small Book', desc: 'Fold and stitch paper together to make a hand-bound book. Child writes and illustrates their own story inside.', materials: 'Paper, large needle, thread, cardstock covers' },
+        { title: 'Clay Sculpting', desc: 'Real clay (not playdough) with tools for sculpting animals or bowls. Air-dry or bake. Develops strength, form awareness, and follow-through.', materials: 'Air-dry clay, sculpting tools' },
+        { title: 'Jump Rope Skipping', desc: 'Learn to jump rope — first with a still rope, then swinging. Builds timing, coordination, and rhythm.', materials: 'Jump rope' },
+        { title: 'Origami Beginner Folds', desc: 'Simple origami shapes (boat, tulip, dog face) introduce precise folding, spatial reasoning, and following sequential steps.', materials: 'Origami paper, instruction sheet' },
+      ],
+      Language: [
+        { title: 'Journaling with Invented Spelling', desc: 'Child writes a sentence daily using their best guesses for spelling. Don\'t correct — invented spelling is a critical developmental step.', materials: 'Journal, pencil' },
+        { title: 'Grammar Symbols', desc: 'Use colored Montessori grammar symbols to identify parts of speech in simple sentences. Black triangle = noun, red circle = verb.', materials: 'Printed grammar symbol key, sentence strips' },
+        { title: 'Reading Decodable Books', desc: 'Phonics-based decodable books that child can truly read independently. Match to their current phonics level.', materials: 'Decodable reader series' },
+        { title: 'Research Book on Favorite Topic', desc: 'Child chooses a topic (dinosaurs, dogs, space). Together research, and child dictates or writes facts. Creates a personal reference book.', materials: 'Books, paper, pencil, scissors, glue' },
+        { title: 'Parts of Speech Sorting', desc: 'Sort word cards into nouns, verbs, adjectives. Use pictures for nouns, action pictures for verbs. Builds intuitive grammar understanding.', materials: 'Word cards or picture cards' },
+      ],
+      Sensory: [
+        { title: 'Blindfold Sound Identification', desc: 'While blindfolded, identify sounds made behind them (clapping, a coin dropping, crumpling paper). Sharpens auditory discrimination.', materials: 'Blindfold, sound-making objects' },
+        { title: 'Nature Drawing', desc: 'Sit outside and draw exactly what you see — a leaf, a flower, a tree branch. Scientific observation drawing develops detail perception.', materials: 'Sketchbook, pencils, nature specimens' },
+        { title: 'Pressure Painting', desc: 'Use a brayer or roller with paint to explore how pressure affects mark-making. Develops tactile sensitivity and artistic control.', materials: 'Brayer roller, paint, paper' },
+      ],
+      'Practical Life': [
+        { title: 'Full Meal Preparation', desc: 'Child leads preparation of a simple complete meal — chopping (with child-safe knife), mixing, and serving. Complete independence within capability.', materials: 'Child-safe knife, cutting board, simple recipe' },
+        { title: 'Minor Clothing Repair', desc: 'Sew on a loose button. Thread needle, anchor thread, and complete the repair. Builds real-world capability and pride.', materials: 'Needle, thread, button, garment' },
+        { title: 'Grocery List and Shopping', desc: 'Child writes (or draws) a shopping list of 3-4 items, then accompanies parent to find and cross off items. Real-world literacy in action.', materials: 'Paper, pencil, grocery store trip' },
+        { title: 'Plant Care Schedule', desc: 'Child takes full responsibility for a set of plants — watering schedule, misting, checking soil. Builds sustained responsibility over time.', materials: 'Several houseplants, watering can, schedule chart' },
+      ],
+      Math: [
+        { title: 'Golden Bead Material', desc: 'Use Montessori golden beads to physically build numbers in thousands, hundreds, tens, and units. Makes place value beautifully concrete.', materials: 'Golden bead material or equivalent' },
+        { title: 'Stamp Game Addition', desc: 'Use color-coded number tiles to perform addition with carrying. Bridges concrete bead work to abstract written addition.', materials: 'Montessori stamp game tiles' },
+        { title: 'Multiplication with Skip Counting', desc: 'Skip count by 2s, 5s, 10s with bead chains. Lays the foundation for multiplication tables through physical counting.', materials: 'Bead chains, or skip counting number lines' },
+        { title: 'Graph Making', desc: 'Survey family members (favorite fruit, eye color) and create a simple bar graph. Introduces data collection and representation.', materials: 'Graph paper, pencil, colored pencils' },
+        { title: 'Measurement with Non-Standard Units', desc: 'Measure objects using hands, feet, or blocks. Then introduce centimeters. Builds understanding of what measurement means.', materials: 'Ruler, measuring tape, non-standard units' },
+      ],
+      Culture: [
+        { title: 'Timeline of My Life', desc: 'Create a personal timeline with photos and drawings from birth to now. Introduces chronology and personal history.', materials: 'Long strip of paper, photos, pencils' },
+        { title: 'Parts of a Flower', desc: 'Dissect a simple flower (lily or tulip) and label the parts: petal, sepal, stamen, pistil, stem. Real biology with real specimens.', materials: 'Fresh flower, paper, labels, magnifier' },
+        { title: 'Continent Research Project', desc: 'Choose one continent per month. Research animals, food, famous landmarks. Create a poster or small book. Builds sustained research habits.', materials: 'Books, atlas, paper, colored pencils' },
+        { title: 'Simple Mapping', desc: 'Draw a map of your home or classroom. Include a key. Introduces cartography and spatial representation of known space.', materials: 'Paper, pencil, ruler' },
+      ],
+    },
+    '5-6': {
+      Motor: [
+        { title: 'Book Binding', desc: 'Create a hand-bound book with Coptic or Japanese stab binding. A complete craft with real tools that produces a lasting, usable object.', materials: 'Paper, cardstock covers, needle, waxed thread, awl' },
+        { title: 'Woodworking: Sanding and Finishing', desc: 'Sand a small piece of wood to smooth with progression through grits, then apply beeswax finish. Develops patience and sensory precision.', materials: 'Wood piece, sandpaper grits (80, 120, 220), beeswax' },
+        { title: 'Knitting or Finger Knitting', desc: 'Finger knitting with thick yarn builds rhythm, bilateral coordination, and sustained concentration. Progress to needles when ready.', materials: 'Thick yarn' },
+        { title: 'Juggling (Two Balls)', desc: 'Begin with one ball, then two. Juggling develops timing, bilateral coordination, and the ability to track multiple objects simultaneously.', materials: 'Two juggling balls or beanbags' },
+        { title: 'Complex Origami', desc: 'Multi-step origami (crane, frog, box) requires reading diagrams, sequential logic, and precise motor execution. A complete challenge.', materials: 'Origami paper, instruction guide' },
+      ],
+      Language: [
+        { title: 'Chapter Book Read-Aloud', desc: 'Read chapter books aloud together — a chapter per day. Discuss characters, predictions, themes. Builds sophisticated comprehension.', materials: 'Age-appropriate chapter book' },
+        { title: 'Newspaper/Magazine Article', desc: 'Read a short age-appropriate article together and discuss the who/what/when/where/why. Builds media literacy and summarizing skills.', materials: 'Newsprint or age-appropriate magazine' },
+        { title: 'Writing a Letter', desc: 'Compose a real letter to a grandparent or friend. Address, stamp, and mail it. Real-world writing with authentic audience and purpose.', materials: 'Paper, envelope, stamp, address' },
+        { title: 'Crossword Puzzle', desc: 'Simple crossword puzzles build spelling, vocabulary, and lateral thinking simultaneously. Use a kid-appropriate puzzle book.', materials: 'Children\'s crossword book or printed puzzle' },
+        { title: 'Etymology Exploration', desc: 'Explore where words come from. "Telephone" = tele (far) + phone (sound). Sparks fascination with language as a living system.', materials: 'Simple etymology resource or children\'s dictionary' },
+      ],
+      Sensory: [
+        { title: 'Telescope / Magnifier Journaling', desc: 'Use a magnifier to examine natural objects and sketch what you observe in detail. Combines sensory precision with scientific drawing.', materials: 'Hand magnifier, sketchbook, pencils' },
+        { title: 'Clay Relief Map', desc: 'Sculpt a topographical clay map of a region — mountains, valleys, rivers. Connects sensory-spatial work to geography.', materials: 'Clay, topographic map reference, board' },
+        { title: 'Blind Contour Drawing', desc: 'Draw an object without looking at the paper — only watching the object. Trains the eye-hand connection and observational depth.', materials: 'Paper, pencil, objects to draw' },
+      ],
+      'Practical Life': [
+        { title: 'Weekly Cooking Responsibility', desc: 'Child plans and leads preparation of one weekly family meal. Increases complexity over time. Builds genuine capability and family contribution.', materials: 'Age-appropriate recipe books, real kitchen tools' },
+        { title: 'Basic Home Repair', desc: 'Tighten a loose screw, hang a picture with a level. Introduction to real tools with safe supervision. Builds genuine competence.', materials: 'Screwdriver, level, hammer, small nails' },
+        { title: 'Personal Budget Practice', desc: 'Give a small weekly amount with categories (save, spend, give). Track in a simple notebook. Introduces real financial concepts through practice.', materials: 'Small amounts of real money, notebook' },
+        { title: 'Community Care Project', desc: 'Choose a community contribution: pack care bags, plant flowers in a public space, write notes to elderly neighbors. Practical compassion in action.', materials: 'Varies by project' },
+      ],
+      Math: [
+        { title: 'Long Division with Materials', desc: 'Montessori racks and tubes (or DIY equivalent) make long division concrete before the algorithm. Build deep understanding before shortcuts.', materials: 'Montessori division materials or colored counters' },
+        { title: 'Fraction Work', desc: 'Use Montessori fraction circles to discover equivalences: ½ = 2/4 = 4/8. Operations with fractions made physical and logical.', materials: 'Fraction circles (can be cut from colored paper)' },
+        { title: 'Geometry: Area and Perimeter', desc: 'Measure room dimensions and calculate area and perimeter on graph paper. Real-world application of abstract formulas.', materials: 'Measuring tape, graph paper, pencil' },
+        { title: 'Sudoku (Beginner 4x4)', desc: 'Beginner 4x4 sudoku grids introduce logical deduction and systematic thinking in a number context.', materials: 'Beginner sudoku puzzles' },
+        { title: 'Money Math', desc: 'Use real coins and bills to make change, compare prices, and calculate discounts. Applied math with immediate real-world relevance.', materials: 'Real coins and bills, simple price tags' },
+      ],
+      Culture: [
+        { title: 'Biome Research Project', desc: 'Deep-dive into one biome (rainforest, tundra, desert). Research climate, plants, animals, and human interaction. Multi-week project.', materials: 'Library books, atlas, project board' },
+        { title: 'Timeline of Civilizations', desc: 'Create a timeline from ancient Egypt to today with key civilizations marked. Builds historical perspective and chronological thinking.', materials: 'Long paper roll, pencils, reference books' },
+        { title: 'Experiment: Density Tower', desc: 'Layer liquids of different densities (honey, oil, water, rubbing alcohol) in a clear tube. Introduces density as a physical concept.', materials: 'Clear tall container, honey, dish soap, water, oil, alcohol, food coloring' },
+        { title: 'Interview an Elder', desc: 'Prepare questions and interview a grandparent or elder. Record or write the story. Builds listening skills and family/community history.', materials: 'Prepared questions, recording device or notebook' },
+      ],
+    },
+  };
+
+  const AREA_LABELS: Record<DomainKey, string> = {
+    Motor: 'Motor Skills',
+    Language: 'Language',
+    Sensory: 'Sensory',
+    'Practical Life': 'Practical Life',
+    Math: 'Math & Logic',
+    Culture: 'Culture & Science',
+  };
+
+  const AREA_COLORS: Record<DomainKey, string> = {
+    Motor: '#8D9B8E',
+    Language: '#C4A882',
+    Sensory: '#D4B5B0',
+    'Practical Life': '#A3B0A5',
+    Math: '#B09670',
+    Culture: '#707D72',
+  };
+
+  const findBtn = document.getElementById('find-btn')!;
+  const resultsEl = document.getElementById('results') as HTMLElement;
+
+  findBtn.addEventListener('click', () => {
+    const age = (document.getElementById('age-range') as HTMLSelectElement).value as AgeKey;
+    const area = (document.getElementById('dev-area') as HTMLSelectElement).value as DomainKey;
+
+    const activities = ACTIVITIES[age]?.[area] ?? [];
+    const color = AREA_COLORS[area];
+    const areaLabel = AREA_LABELS[area];
+
+    if (!activities.length) {
+      resultsEl.style.display = 'block';
+      resultsEl.innerHTML = '<p style="color:#7A7573;font-size:0.9375rem">No activities found for this combination.</p>';
+      return;
+    }
+
+    const cardsHtml = activities.map(act => `
+      <div class="activity-card">
+        <div class="activity-title">${act.title}</div>
+        <div class="activity-desc">${act.desc}</div>
+        <div class="activity-meta">
+          <span class="activity-tag" style="background:${color}18;color:${color}">${areaLabel}</span>
+          <span class="activity-tag materials">Materials: ${act.materials}</span>
+        </div>
+      </div>
+    `).join('');
+
+    resultsEl.style.display = 'block';
+    resultsEl.innerHTML = `
+      <p class="results-heading">Activities for <span>${(document.getElementById('age-range') as HTMLSelectElement).options[(document.getElementById('age-range') as HTMLSelectElement).selectedIndex].text}</span> · <span style="color:${color}">${areaLabel}</span></p>
+      <div class="activities-grid">${cardsHtml}</div>
+    `;
+    resultsEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
+
+  // Trigger initial results on load
+  findBtn.click();
+</script>

@@ -24,7 +24,7 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
     <nav class="main-nav" aria-label="Main navigation">
       <a href={localePath('/blog', lang)}>{t('nav.articles')}</a>
       <a href={`${localePath('/', lang)}#categories`}>{t('nav.topics')}</a>
-      <a href="/en/tools/milestone-checker">{t('nav.tools')}</a>
+      <a href={localePath('/tools/milestone-checker', lang)}>{t('nav.tools')}</a>
       <a href={`${localePath('/', lang)}#about`}>{t('nav.about')}</a>
       <a href={altPath} class="lang-switch" aria-label={`Switch to ${languages[altLang]}`}>{languages[altLang]}</a>
     </nav>
