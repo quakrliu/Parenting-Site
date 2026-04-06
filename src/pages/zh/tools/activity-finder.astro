@@ -7,8 +7,8 @@ const lang = 'zh';
 ---
 
 <BaseLayout
-  title="Montessori Activity Finder | BloomPath"
-  description="Find the perfect Montessori activity for your child by age and developmental area. Practical, hands-on ideas you can do at home today."
+  title="蒙特梭利活動搜尋 | BloomPath"
+  description="依年齡和發展領域，找到最適合孩子的蒙特梭利活動。在家就能做的實作點子，今天就可以開始。"
   lang={lang}
 >
   <Header lang={lang} />
@@ -17,38 +17,38 @@ const lang = 'zh';
     <div class="container">
 
       <div class="tool-hero">
-        <div class="tool-badge">Free Tool</div>
-        <h1>Montessori Activity Finder</h1>
+        <div class="tool-badge">免費工具</div>
+        <h1>蒙特梭利活動搜尋</h1>
         <p class="tool-intro">
-          Find age-appropriate, hands-on Montessori activities by developmental area. Real activities you can set up with things you already have at home.
+          依發展領域找到適合年齡的蒙特梭利實作活動。都是用家裡現有的東西就能準備好的真實活動。
         </p>
       </div>
 
       <div class="tool-card">
         <div class="inputs-row">
           <div class="input-group">
-            <label for="age-range" class="input-label">Child's age</label>
+            <label for="age-range" class="input-label">孩子的年齡</label>
             <select id="age-range" class="select-input">
-              <option value="0-1">0–1 year</option>
-              <option value="1-2" selected>1–2 years</option>
-              <option value="2-3">2–3 years</option>
-              <option value="3-4">3–4 years</option>
-              <option value="4-5">4–5 years</option>
-              <option value="5-6">5–6 years</option>
+              <option value="0-1">0–1 歲</option>
+              <option value="1-2" selected>1–2 歲</option>
+              <option value="2-3">2–3 歲</option>
+              <option value="3-4">3–4 歲</option>
+              <option value="4-5">4–5 歲</option>
+              <option value="5-6">5–6 歲</option>
             </select>
           </div>
           <div class="input-group">
-            <label for="dev-area" class="input-label">Development area</label>
+            <label for="dev-area" class="input-label">發展領域</label>
             <select id="dev-area" class="select-input">
-              <option value="Motor">Motor Skills</option>
-              <option value="Language" selected>Language</option>
-              <option value="Sensory">Sensory</option>
-              <option value="Practical Life">Practical Life</option>
-              <option value="Math">Math &amp; Logic</option>
-              <option value="Culture">Culture &amp; Science</option>
+              <option value="Motor">動作技能</option>
+              <option value="Language" selected>語言</option>
+              <option value="Sensory">感官</option>
+              <option value="Practical Life">日常生活</option>
+              <option value="Math">數學與邏輯</option>
+              <option value="Culture">文化與科學</option>
             </select>
           </div>
-          <button id="find-btn" class="find-btn">Find Activities</button>
+          <button id="find-btn" class="find-btn">找活動</button>
         </div>
 
         <div id="results" class="results-section" aria-live="polite" style="display:none">
@@ -59,25 +59,25 @@ const lang = 'zh';
       <div class="philosophy-note">
         <div class="philosophy-icon">🌱</div>
         <div>
-          <h3>The Montessori approach</h3>
-          <p>Montessori activities follow the child's natural curiosity. They're designed to be hands-on, self-correcting, and intrinsically rewarding — building independence, focus, and a love of learning from the very start.</p>
+          <h3>蒙特梭利的理念</h3>
+          <p>蒙特梭利活動跟著孩子天生的好奇心走。這些活動設計成動手操作、能自我修正、本身就有趣——從一開始就培養獨立、專注，和對學習的熱愛。</p>
         </div>
       </div>
 
       <div class="related-articles">
-        <h2>Go deeper</h2>
+        <h2>深入了解</h2>
         <div class="article-links">
           <a href="/en/blog/montessori-at-home" class="article-link">
             <span class="article-link-icon">&#x1F4D6;</span>
-            <span>Montessori at Home: Setting Up Your Space</span>
+            <span>在家實踐蒙特梭利：如何布置你的空間</span>
           </a>
           <a href="/en/blog/montessori-activities" class="article-link">
             <span class="article-link-icon">&#x1F4D6;</span>
-            <span>50 Montessori Activities for Every Age</span>
+            <span>各年齡 50 個蒙特梭利活動</span>
           </a>
           <a href="/en/blog/montessori-vs-traditional" class="article-link">
             <span class="article-link-icon">&#x1F4D6;</span>
-            <span>Montessori vs. Traditional Learning: What the Research Says</span>
+            <span>蒙特梭利 vs 傳統學習：研究怎麼說</span>
           </a>
         </div>
       </div>
@@ -371,262 +371,262 @@ const lang = 'zh';
   const ACTIVITIES: Record<AgeKey, Record<DomainKey, Activity[]>> = {
     '0-1': {
       Motor: [
-        { title: 'Tummy Time with Mirror', desc: 'Place a baby-safe mirror in front of baby during tummy time. Strengthens neck, shoulder, and core muscles while engaging visual curiosity.', materials: 'Baby mirror, soft mat' },
-        { title: 'Grasping Ribbon Rings', desc: 'Offer large wooden or fabric rings for baby to grasp, pull, and transfer between hands. Builds hand-eye coordination and grip strength.', materials: 'Wooden rings or fabric loops' },
-        { title: 'Kicking Mobile', desc: 'Attach soft objects to a bar near baby\'s feet so they can kick and watch them move — introducing cause-and-effect through movement.', materials: 'Soft hanging objects, bar attachment' },
-        { title: 'Rolling Ball Tracking', desc: 'Slowly roll a large, brightly colored ball across the floor while baby watches. Develops visual tracking and encourages reaching.', materials: 'Large soft ball' },
-        { title: 'Texture Exploration Basket', desc: 'Fill a low basket with objects of different textures (smooth, rough, soft, bumpy). Supervised exploration builds sensory-motor connections.', materials: 'Basket, safe household objects' },
+        { title: '趴趴時間配鏡子', desc: '趴趴時間在寶寶前方放一面嬰兒安全鏡。鍛鍊頸部、肩膀和核心肌肉，同時刺激視覺好奇心。', materials: '嬰兒鏡、軟墊' },
+        { title: '抓握布環', desc: '提供大型木環或布環讓寶寶抓握、拉扯和在兩手間轉移。建立手眼協調和握力。', materials: '木環或布環' },
+        { title: '踢腳吊飾', desc: '在寶寶腳附近的橫桿上掛上軟物，讓他踢了就能看到它們動——透過動作認識因果關係。', materials: '軟掛件、橫桿固定器' },
+        { title: '滾球追視', desc: '慢慢把一顆大、顏色鮮豔的球在地板上滾過去，讓寶寶目光追隨。培養視覺追蹤能力，鼓勵伸手。', materials: '大型軟球' },
+        { title: '觸感探索籃', desc: '在一個低矮的籃子裡放入不同觸感的物品（光滑、粗糙、柔軟、凹凸）。在監督下自由探索，建立感官運動連結。', materials: '籃子、安全的家用物品' },
       ],
       Language: [
-        { title: 'Narrated Daily Routines', desc: 'Narrate every diaper change, feeding, and walk in simple, warm language. This immersive "language bath" is the foundation of all vocabulary.', materials: 'Just your voice!' },
-        { title: 'Board Book Sharing', desc: 'Point to pictures and name them clearly. Pause and wait — even young babies absorb language before they can respond.', materials: 'Simple board books' },
-        { title: 'Singing Nursery Rhymes', desc: 'Rhythmic rhymes help babies tune into the patterns of language. Repeat favorites daily.', materials: 'Your voice' },
-        { title: 'Peek-a-Boo Language Games', desc: 'Combine peek-a-boo with words: "Where\'s mama? There she is!" Teaches language in a joyful, turn-taking context.', materials: 'Just a cloth or your hands' },
-        { title: 'Name Object Baskets', desc: 'Show baby one object at a time from a small basket and name it clearly and slowly. Real objects (keys, spoon) are more stimulating than toys.', materials: 'Small basket, 3-4 real objects' },
+        { title: '邊做邊說日常', desc: '換尿布、餵奶、散步的時候，用簡單、溫暖的語言講解每個動作。這種沉浸式的「語言浴」是所有詞彙的基礎。', materials: '只需要你的聲音！' },
+        { title: '一起看硬頁書', desc: '指著圖片清楚說出名稱。停頓一下，等一等——即使是小嬰兒，在能回應之前也在吸收語言。', materials: '簡單的硬頁書' },
+        { title: '唱童謠', desc: '有節奏的童謠幫助寶寶感受語言的節拍規律。每天重複最喜歡的歌。', materials: '你的聲音' },
+        { title: '躲貓貓語言遊戲', desc: '把躲貓貓和語言結合：「媽媽在哪裡？在這裡！」用快樂的輪流情境教語言。', materials: '一塊布或你的手' },
+        { title: '命名物品籃', desc: '每次從小籃子裡拿出一件物品，清楚且慢慢地說出名字給寶寶聽。真實物品（鑰匙、湯匙）比玩具更有刺激性。', materials: '小籃子、3-4 件真實物品' },
       ],
       Sensory: [
-        { title: 'Water Exploration Tub', desc: 'A shallow tub of warm water with a few floating objects. Baby can splash and feel the temperature difference — a rich sensory experience.', materials: 'Shallow tub, safe floating objects' },
-        { title: 'Nature Texture Walk', desc: 'Hold baby and gently guide their hand to touch leaves, bark, grass, and smooth stones while naming each texture.', materials: 'Outdoor space' },
-        { title: 'Sensory Bottle', desc: 'Fill a sealed clear bottle with water, glitter, and small objects. Baby can shake, roll, and watch the contents move.', materials: 'Clear bottle, glitter, small objects, glue' },
-        { title: 'Fabric Texture Squares', desc: 'Sew or collect squares of velvet, denim, cotton, silk, and burlap. Let baby feel and explore each one while you name the texture.', materials: 'Fabric scraps' },
-        { title: 'Sound Shakers', desc: 'Fill sealed containers with rice, bells, or sand. Each makes a different sound when shaken — builds auditory discrimination.', materials: 'Small containers with lids, rice/bells/sand' },
+        { title: '水感探索盆', desc: '一個裝了溫水和幾個漂浮物的淺盆。寶寶可以濺水、感受溫度差異——豐富的感官體驗。', materials: '淺盆、安全漂浮物' },
+        { title: '自然觸感散步', desc: '抱著寶寶輕輕引導他的手去摸葉子、樹皮、草地和光滑的石頭，一邊說出每種觸感。', materials: '戶外空間' },
+        { title: '感官瓶', desc: '在密封的透明瓶子裡裝水、亮粉和小物品。寶寶可以搖、滾，看裡面的東西移動。', materials: '透明瓶、亮粉、小物品、強力膠' },
+        { title: '布料觸感方塊', desc: '縫製或收集天鵝絨、牛仔布、棉、絲和麻布的小方塊。讓寶寶摸索每一塊，一邊說出觸感名稱。', materials: '布料碎片' },
+        { title: '聲音搖搖罐', desc: '在密封的小容器裡裝入米、鈴鐺或沙子。每種搖起來聲音都不同——建立聽覺辨別能力。', materials: '有蓋小容器、米／鈴鐺／沙' },
       ],
       'Practical Life': [
-        { title: 'Self-Feeding Finger Foods', desc: 'From around 8-9 months, offer appropriate soft finger foods. Let baby practice picking up and self-feeding — messy is part of the learning.', materials: 'Appropriate soft finger foods, high chair' },
-        { title: 'Assisted Cup Drinking', desc: 'Offer a small open cup with a tiny amount of water during meals. Builds coordination and independence.', materials: 'Small open cup, water' },
-        { title: 'Helping Hold Clothes', desc: 'During dressing, slow down and give baby a chance to push arm through sleeve or lift foot for sock. Builds body awareness.', materials: 'Just clothes' },
-        { title: 'Object In/Out Basket', desc: 'Show baby how to take objects out of a basket and put them back in. Teaches purposeful movement and early "work" concepts.', materials: 'Small basket, 5-6 safe objects' },
+        { title: '自己吃手指食物', desc: '約 8-9 個月起，提供適合的軟質手指食物。讓寶寶練習自己夾起來吃——弄髒是學習的一部分。', materials: '適合的軟質手指食物、餐椅' },
+        { title: '練習用開口杯喝水', desc: '用餐時提供裝了少量水的小開口杯。建立手部協調和自主能力。', materials: '小開口杯、水' },
+        { title: '穿衣時參與', desc: '穿衣服時放慢速度，讓寶寶有機會把手穿過袖子或抬起腳穿襪子。建立身體意識。', materials: '只需要衣服' },
+        { title: '物品入籃出籃', desc: '示範如何把物品從籃子裡拿出來再放回去。教導有目的的動作和早期「工作」概念。', materials: '小籃子、5-6 個安全物品' },
       ],
       Math: [
-        { title: 'One Object at a Time', desc: 'Offer and name single objects before adding more. This builds the conceptual foundation for "one" before numbers can mean anything.', materials: 'Any single object' },
-        { title: 'Stacking Cups', desc: 'Nesting and stacking cups introduce size relationships — bigger, smaller — through direct hands-on exploration.', materials: 'Stacking cups or containers' },
-        { title: 'Shape Sorter (supervised)', desc: 'Even if baby can\'t sort yet, showing them the shapes and holes builds early spatial awareness and pattern recognition.', materials: 'Simple shape sorter' },
+        { title: '一次一個物品', desc: '先提供並說出一個物品，再增加更多。這在數字有任何意義之前，先打好「一」的概念基礎。', materials: '任何單一物品' },
+        { title: '疊疊杯', desc: '套疊和疊高的杯子透過直接的動手探索，介紹大小關係——大的和小的。', materials: '疊疊杯或容器' },
+        { title: '形狀分類器（陪伴下）', desc: '即使寶寶還不會分類，讓他們看不同形狀和孔洞，也能建立早期的空間意識和圖案辨識。', materials: '簡單形狀分類器' },
       ],
       Culture: [
-        { title: 'Nature Observation Window', desc: 'Hold baby near a window and narrate what you see — birds, leaves moving, rain. Builds wonder and early science vocabulary.', materials: 'Window, outdoor view' },
-        { title: 'Photo Book of Family', desc: 'Create a simple photo book of family members, pets, and familiar places. Helps baby build a sense of identity and belonging.', materials: 'Family photos, small album' },
-        { title: 'World Music Listening', desc: 'Play music from different cultures during quiet time. Introduces tonal variety and rhythmic patterns from around the world.', materials: 'Speaker, curated playlist' },
+        { title: '窗邊自然觀察', desc: '抱著寶寶站在窗邊，說說你看到的——鳥兒、飄動的葉子、下雨。建立對世界的驚奇感和早期科學詞彙。', materials: '窗戶、戶外景觀' },
+        { title: '家人照片書', desc: '製作一本簡單的家人、寵物和熟悉地方的照片書。幫助寶寶建立對身分認同和歸屬感的意識。', materials: '家庭照片、小相冊' },
+        { title: '世界音樂聆聽', desc: '安靜時間播放不同文化的音樂。介紹來自世界各地的音調變化和節奏型態。', materials: '音箱、精選歌單' },
       ],
     },
     '1-2': {
       Motor: [
-        { title: 'Posting Box', desc: 'A box with a slot to post large coins or shapes into. The precise grip and release needed builds fine motor control and concentration.', materials: 'Box with slot, large wooden discs' },
-        { title: 'Ball Rolling Ramp', desc: 'Set up a simple inclined ramp for rolling balls down. Child can push balls and observe cause-and-effect with full body engagement.', materials: 'Board or cardboard, balls' },
-        { title: 'Stacking and Knocking Blocks', desc: 'Simple wooden blocks to stack as high as possible — then joyfully knock down. Develops hand steadiness and spatial reasoning.', materials: 'Unit blocks' },
-        { title: 'Peg Puzzles', desc: 'Large single-piece peg puzzles of animals or shapes. Lifting, rotating, and placing builds hand-eye coordination and spatial skills.', materials: 'Peg puzzle' },
-        { title: 'Pushing a Laundry Basket', desc: 'Let toddler push a light laundry basket across the floor. Great for new walkers — gives stability and purposeful movement.', materials: 'Light laundry basket' },
-        { title: 'Large Bead Threading', desc: 'Thread large wooden beads onto a thick lace. Requires bimanual coordination and intense focus.', materials: 'Large wooden beads, thick shoelace' },
+        { title: '投幣盒', desc: '一個可以投入大硬幣或形狀的盒子。精確的抓握和放開動作，培養精細動作控制和專注力。', materials: '有縫隙的盒子、大木片' },
+        { title: '滾球斜坡', desc: '搭一個簡單的斜坡讓球滾下去。孩子可以推球、觀察因果關係，全身都參與進來。', materials: '木板或紙板、球' },
+        { title: '疊高積木再打倒', desc: '用簡單的木積木疊得越高越好——然後開心地推倒。發展手部穩定性和空間推理。', materials: '積木' },
+        { title: '握把拼圖', desc: '動物或形狀的大型握把拼圖。拿起、旋轉和放置，建立手眼協調和空間技巧。', materials: '握把拼圖' },
+        { title: '推洗衣籃', desc: '讓學步兒推一個輕洗衣籃過地板。對剛學走路的孩子很棒——提供穩定感和有目的的移動。', materials: '輕型洗衣籃' },
+        { title: '大珠子穿線', desc: '把大木珠子穿到粗鞋帶上。需要雙手協調和高度專注。', materials: '大木珠、粗鞋帶' },
       ],
       Language: [
-        { title: 'Object-Picture Matching', desc: 'Place real objects (spoon, cup, apple) next to their picture card equivalents. Connects word, object, and symbol.', materials: 'Real objects, matching picture cards' },
-        { title: '3-Part Cards: Animals', desc: 'Use simple picture cards with the name below. Show the picture, say the name, and invite the child to repeat. Montessori 3-part card style.', materials: 'Printed animal picture cards' },
-        { title: 'Book Reading with Questions', desc: 'Read slowly and ask "Where is the dog?" rather than just narrating. Turns passive listening into active language participation.', materials: 'Picture books' },
-        { title: 'Body Parts Pointing Game', desc: '"Show me your nose!" Games that name body parts build vocabulary quickly and are delightfully motivating for toddlers.', materials: 'Just you and your child' },
-        { title: 'Simple Action Songs', desc: 'Songs like "Head, Shoulders, Knees and Toes" connect language to movement and accelerate word learning.', materials: 'Your voice' },
-        { title: 'Naming Basket Rotation', desc: 'Introduce a new category of objects each week (kitchen items, animals, vehicles). Name each object clearly, then let child explore freely.', materials: 'Small basket, 4-6 thematic objects' },
+        { title: '實物配圖卡', desc: '把真實物品（湯匙、杯子、蘋果）放在對應的圖卡旁邊。連結文字、物品和符號。', materials: '真實物品、配對圖卡' },
+        { title: '三部分卡片：動物', desc: '使用附有名稱的簡單圖片卡。展示圖片、說名字，邀請孩子跟著說。蒙特梭利三部分卡片風格。', materials: '印出的動物圖片卡' },
+        { title: '邊看書邊問問題', desc: '慢慢讀，並問「狗狗在哪裡？」而不只是講故事。把被動聆聽變成主動語言參與。', materials: '圖畫書' },
+        { title: '身體部位指認遊戲', desc: '「給我看看你的鼻子！」指認身體部位的遊戲能快速建立詞彙，而且學步兒特別愛。', materials: '只需要你和孩子' },
+        { title: '簡單律動歌', desc: '像「頭兒肩膀膝腳趾」這樣的歌，把語言和動作連結起來，加速詞彙學習。', materials: '你的聲音' },
+        { title: '主題命名籃輪換', desc: '每週介紹一個新類別的物品（廚房用具、動物、交通工具）。清楚說出每個物品名稱，然後讓孩子自由探索。', materials: '小籃子、4-6 個主題物品' },
       ],
       Sensory: [
-        { title: 'Cloud Dough', desc: 'Mix 8 cups flour with 1 cup baby oil for moldable, crumbly cloud dough. Rich tactile input that\'s easy to clean up.', materials: 'Flour, baby oil, tray' },
-        { title: 'Ice Excavation', desc: 'Freeze small toys or objects in a block of ice. Child uses tools (spoon, dropper of warm water) to excavate them. Sensory + problem-solving.', materials: 'Water, small toys, freezer, spoon, tray' },
-        { title: 'Dried Bean Transfer', desc: 'A tray with dried beans to scoop, pour, and transfer between containers. Develops sensory discrimination and fine motor control.', materials: 'Dried beans, 2 containers, spoon' },
-        { title: 'Nature Walk Collecting', desc: 'Bring a small basket on a walk and collect leaves, sticks, pebbles, and seed pods. Examine and sort when you return home.', materials: 'Small basket, outdoor space' },
-        { title: 'Sensory Bin: Themed', desc: 'Fill a bin with rice or oats dyed a color, and hide thematic small objects. Change themes monthly (ocean, forest, farm).', materials: 'Bin, rice/oats, small themed objects' },
+        { title: '雲朵麵團', desc: '把 8 杯麵粉和 1 杯嬰兒油混在一起，做成可塑形、鬆散的雲朵麵團。豐富的觸覺體驗，而且很好清理。', materials: '麵粉、嬰兒油、托盤' },
+        { title: '冰塊挖寶', desc: '把小玩具或物品凍在冰塊裡。孩子用工具（湯匙、滴有溫水的滴管）把它們挖出來。感官＋解決問題。', materials: '水、小玩具、冰箱、湯匙、托盤' },
+        { title: '乾豆轉移', desc: '一個裝了乾豆的托盤，可以舀、倒，在容器之間轉移。發展感官辨別能力和精細動作控制。', materials: '乾豆、2 個容器、湯匙' },
+        { title: '自然散步採集', desc: '帶著小籃子散步，收集葉子、樹枝、小石頭和種莢。回家後檢視和分類。', materials: '小籃子、戶外空間' },
+        { title: '主題感官箱', desc: '在箱子裡裝入染色的米或燕麥片，藏入主題小物品。每月換主題（海洋、森林、農場）。', materials: '箱子、米／燕麥、小主題物品' },
       ],
       'Practical Life': [
-        { title: 'Spooning Dried Pasta', desc: 'Transfer dried pasta from one bowl to another using a large spoon. The quintessential Montessori practical life activity — develops concentration and control.', materials: 'Two bowls, large spoon, dried pasta' },
-        { title: 'Watering Plants', desc: 'Give child a small watering can and responsibility for one easy plant. Builds care, responsibility, and cause-and-effect observation.', materials: 'Small watering can, easy plant' },
-        { title: 'Sponge Squeezing', desc: 'A tray with two bowls of water and a sponge. Transfer water by squeezing. Excellent hand strengthening and focus building.', materials: 'Tray, two bowls, water, sponge' },
-        { title: 'Dusting with a Cloth', desc: 'Fold a small cloth and show child how to dust a low shelf or table. Children love purposeful "real work" far more than pretend chores.', materials: 'Small cloth' },
-        { title: 'Sorting Laundry by Color', desc: 'Help sort clean laundry into piles by color. A natural, purposeful activity that also builds early categorization skills.', materials: 'Clean laundry, bins or sections' },
-        { title: 'Self-Dressing Practice', desc: 'Set up a simple dressing frame or practice board with large buttons or velcro. Builds independence and fine motor skills.', materials: 'Dressing frame or old shirt' },
+        { title: '舀乾義大利麵', desc: '用大湯匙把乾義大利麵從一個碗轉移到另一個碗。最經典的蒙特梭利日常生活活動——培養專注力和控制力。', materials: '兩個碗、大湯匙、乾義大利麵' },
+        { title: '給植物澆水', desc: '給孩子一個小澆水壺和一株容易照顧的植物的責任。建立關愛、責任感和因果觀察。', materials: '小澆水壺、容易照顧的植物' },
+        { title: '海綿擠水', desc: '一個有兩碗水和一塊海綿的托盤。用擠的方式轉移水。絕佳的手部力量訓練和專注力培養。', materials: '托盤、兩個碗、水、海綿' },
+        { title: '用布擦拭', desc: '折好一塊小布，示範如何擦拭矮架子或桌子。孩子比假扮打掃更喜歡真正的「工作」。', materials: '小布塊' },
+        { title: '按顏色分洗好的衣服', desc: '幫忙把洗乾淨的衣服按顏色分堆。自然、有目的的活動，同時建立早期分類技能。', materials: '乾淨衣服、分類籃' },
+        { title: '穿衣自理練習', desc: '準備一個簡單的穿衣框架或有大鈕扣或魔鬼氈的練習板。建立獨立性和精細動作。', materials: '穿衣框架或舊衣服' },
       ],
       Math: [
-        { title: 'Object Counting to 3', desc: 'Count out 1, 2, or 3 objects with deliberate one-to-one correspondence. Always touch each object as you count. Keep it playful.', materials: 'Any small countable objects' },
-        { title: 'Size Sorting: Big and Small', desc: 'Provide objects in two clear sizes and sort them into "big" and "small" groups. Builds the concept of quantitative comparison.', materials: 'Objects in 2 sizes' },
-        { title: 'Nesting Bowls', desc: 'Nesting bowls or rings teach ordinal size relationships — smallest inside next, up to largest. Builds seriation thinking.', materials: 'Nesting bowls or rings' },
-        { title: 'One-to-One Matching', desc: 'Match one object to each holder — one egg per egg cup, one peg per hole. Builds the foundation for numerical understanding.', materials: 'Egg carton, small objects' },
+        { title: '數到 3', desc: '刻意地一對一對應，數出 1、2 或 3 個物品。數的時候每次都觸碰每個物品。保持輕鬆好玩。', materials: '任何可計數的小物品' },
+        { title: '大小分類', desc: '提供兩個明顯尺寸不同的物品，分成「大」和「小」兩組。建立量化比較的概念。', materials: '兩種尺寸的物品' },
+        { title: '套疊碗', desc: '套疊碗或套環教導序數大小關係——最小的放在次小的裡面，一路到最大的。建立序列思維。', materials: '套疊碗或套環' },
+        { title: '一對一配對', desc: '把一個物品配對到每個位置——一個蛋放入一個蛋格、一個木釘插入一個孔。建立數字理解的基礎。', materials: '蛋盒、小物品' },
       ],
       Culture: [
-        { title: 'Leaf Rubbings', desc: 'Place leaves under paper and rub with crayon to reveal their pattern. Introduces botany and the concept that patterns appear in nature.', materials: 'Leaves, paper, crayon' },
-        { title: 'Simple Animal Classification', desc: 'Sort picture cards or small figurines into categories: farm animals, ocean animals, forest animals. Early science classification.', materials: 'Animal cards or figurines, sorting mats' },
-        { title: 'Globe Exploration', desc: 'Use a simple globe or world map. Touch land and water areas, introducing "land" and "water" vocabulary.', materials: 'Globe or world map' },
-        { title: 'Seasonal Table', desc: 'Set up a small tray with items from the current season — pinecones in autumn, flowers in spring, shells in summer. Builds nature awareness.', materials: 'Seasonal natural objects' },
+        { title: '葉子拓印', desc: '把葉子放在紙下面，用蠟筆塗出葉脈圖案。介紹植物學和大自然中存在圖案的概念。', materials: '葉子、紙、蠟筆' },
+        { title: '簡單動物分類', desc: '把圖卡或小模型分成幾類：農場動物、海洋動物、森林動物。早期科學分類。', materials: '動物卡片或模型、分類墊' },
+        { title: '地球儀探索', desc: '使用簡單的地球儀或世界地圖。觸摸陸地和水域，介紹「陸地」和「水」的詞彙。', materials: '地球儀或世界地圖' },
+        { title: '當季自然桌', desc: '用當季的物品布置一個小托盤——秋天放松果、春天放花、夏天放貝殼。建立自然意識。', materials: '當季自然物品' },
       ],
     },
     '2-3': {
       Motor: [
-        { title: 'Cutting with Child Scissors', desc: 'Provide strips of play dough or thick paper to snip. Cutting develops the bimanual coordination needed for writing later.', materials: 'Child safety scissors, paper strips or play dough' },
-        { title: 'Lacing Cards', desc: 'Cards with holes around the edge to weave a lace through. Builds hand-eye coordination, spatial reasoning, and concentration.', materials: 'Lacing cards, lace' },
-        { title: 'Playdough Pounding and Rolling', desc: 'Rolling snakes, flattening, and making balls with playdough develops hand strength crucial for writing.', materials: 'Homemade playdough, rolling pin' },
-        { title: 'Transferring with Tongs', desc: 'Transfer pom-poms or small balls between bowls using tongs or tweezers. Major fine motor challenge with immediate, satisfying feedback.', materials: 'Tongs or tweezers, small objects, two bowls' },
-        { title: 'Balance Beam Walking', desc: 'A plank on the ground or a tape line to walk along heel-to-toe. Develops vestibular balance and gross motor control.', materials: 'Board, tape, or low balance beam' },
+        { title: '用兒童剪刀剪紙', desc: '提供黏土條或厚紙條讓孩子剪。剪的動作培養雙手協調，這是之後寫字所需的技能。', materials: '兒童安全剪刀、紙條或黏土' },
+        { title: '繩線穿洞卡', desc: '邊緣有洞的卡片，穿入繩線。建立手眼協調、空間推理和專注力。', materials: '繩線穿洞卡、繩線' },
+        { title: '黏土揉捏和滾動', desc: '滾條狀、壓平、做球，這些黏土動作發展寫字所需的手部力量。', materials: '自製黏土、擀麵棍' },
+        { title: '用夾子夾東西', desc: '用夾子或鑷子在兩個碗之間夾移絨球或小球。精細動作的大挑戰，有立即且令人滿足的成就感。', materials: '夾子或鑷子、小物品、兩個碗' },
+        { title: '走平衡木', desc: '放在地上的木板或地板上貼的膠帶線，練習腳跟對腳尖地走。發展前庭平衡感和粗大動作控制。', materials: '木板、膠帶或低矮平衡木' },
       ],
       Language: [
-        { title: 'Story Sequencing Cards', desc: 'Three-card simple story sequences (seed → plant → flower). Child arranges in order and narrates what happened. Builds narrative language.', materials: '3-part story sequence cards' },
-        { title: 'I Spy Phonics', desc: '"I spy something that starts with the sound \'sss\'." Builds phonemic awareness that is foundational for reading.', materials: 'Just objects around the room' },
-        { title: 'Puppet Storytelling', desc: 'Use two simple sock puppets to act out familiar scenarios. Encourages narrative language, vocabulary, and social scripts.', materials: 'Two simple puppets' },
-        { title: 'Dictated Story Book', desc: 'Ask your child to tell you a story while you write their exact words. Read it back proudly. Their language, their ideas, their book.', materials: 'Paper, stapler, your pen' },
-        { title: 'Object Description Game', desc: 'Pick an object and take turns describing it: color, shape, texture, size, what it\'s used for. Builds descriptive vocabulary.', materials: 'Any household objects' },
-        { title: 'Beginning Sound Basket', desc: 'Fill a basket with objects starting with the same sound. Explore and name them together. One sound per week.', materials: 'Small basket, objects starting with target sound' },
+        { title: '故事順序卡', desc: '三張簡單的故事順序卡（種子→植物→花朵）。孩子按順序排列並描述發生了什麼。建立敘事語言。', materials: '三部分故事順序卡' },
+        { title: '我看到什麼音韻遊戲', desc: '「我看到一個聽起來像『ㄅ』的東西。」建立語音意識，這是閱讀的基礎。', materials: '只需要房間裡的物品' },
+        { title: '手偶說故事', desc: '用兩個簡單的手偶演出熟悉的場景。鼓勵敘事語言、詞彙和社交腳本。', materials: '兩個簡單手偶' },
+        { title: '親自說故事書', desc: '請孩子說一個故事，你寫下他說的每一個字。得意地讀回去。他的語言、他的想法、他的書。', materials: '紙、訂書機、你的筆' },
+        { title: '描述物品遊戲', desc: '選一個物品，輪流描述它：顏色、形狀、觸感、大小、用途。建立描述性詞彙。', materials: '任何家用物品' },
+        { title: '開頭音籃', desc: '在籃子裡放入同一個開頭音的物品。一起探索和命名。每週一個音。', materials: '小籃子、以目標音開頭的物品' },
       ],
       Sensory: [
-        { title: 'Mystery Bag', desc: 'Place objects in a cloth bag; child reaches in (no peeking!) and identifies by touch alone. Pure stereognostic (touch-based) exploration.', materials: 'Cloth bag, 5-6 familiar objects' },
-        { title: 'Smell Jars', desc: 'Small covered jars with cotton soaked in different scents (vanilla, lemon, mint, lavender). Match pairs or name scents.', materials: '6 small jars with lids, cotton, scents' },
-        { title: 'Watercolor Painting', desc: 'True watercolor painting — not finger painting — with a real brush. Child controls the amount of pigment and water. Sensory + art.', materials: 'Watercolor set, brushes, paper' },
-        { title: 'Kinetic Sand Exploration', desc: 'Moldable kinetic sand for sculpting, pouring, and digging. Deeply calming sensory input with satisfying tactile feedback.', materials: 'Kinetic sand or moon sand, tray, tools' },
+        { title: '神秘袋', desc: '在布袋裡放入物品；孩子伸手進去（不准偷看！）只靠觸覺辨認。純粹的立體感知（觸覺）探索。', materials: '布袋、5-6 個熟悉物品' },
+        { title: '嗅覺瓶', desc: '小蓋瓶裡放入浸了不同氣味的棉花（香草、檸檬、薄荷、薰衣草）。配對或說出氣味名稱。', materials: '6 個有蓋小瓶、棉花、各種氣味' },
+        { title: '水彩畫', desc: '真正的水彩畫——不是手指畫——用真正的畫筆。孩子控制顏料和水的用量。感官＋藝術。', materials: '水彩顏料、畫筆、紙' },
+        { title: '動力沙探索', desc: '可塑形的動力沙用來雕塑、倒、挖。深度平靜的感官輸入，有令人滿足的觸感回饋。', materials: '動力沙或月亮沙、托盤、工具' },
       ],
       'Practical Life': [
-        { title: 'Folding Cloths', desc: 'Show the child how to fold a small cloth in half, then quarters. A classic Montessori practical life activity that builds exactness and care.', materials: 'Small square cloths' },
-        { title: 'Bread Spreading', desc: 'Use a child-safe spreader to put butter or jam on a cracker. A complete, purposeful activity with a delicious result.', materials: 'Spreader, crackers, butter or jam, small plate' },
-        { title: 'Table Setting', desc: 'Create a placemat with outlines of where each item goes. Child sets the table before meals. Purposeful, sequential, and satisfying.', materials: 'Placemat with outlines drawn on it, cutlery, plate' },
-        { title: 'Hand Washing Sequence', desc: 'Set up a small step stool, soap, towel, and demonstrate the full hand washing sequence. Make it a ritual before every meal.', materials: 'Step stool, soap, small towel' },
-        { title: 'Flower Arranging', desc: 'Provide a small vase, water, and simple flowers. Child cuts stems (with child scissors) and arranges. Develops grace, care, and aesthetics.', materials: 'Small vase, simple flowers, child scissors' },
+        { title: '折布', desc: '示範如何把小布對折，再折成四分之一。這是經典蒙特梭利日常生活活動，培養精確性和細心。', materials: '正方形小布' },
+        { title: '塗抹麵包', desc: '用兒童安全抹刀在餅乾上塗奶油或果醬。一個完整、有目的的活動，有好吃的成果。', materials: '抹刀、餅乾、奶油或果醬、小盤子' },
+        { title: '擺餐具', desc: '做一個有每件物品位置輪廓的餐墊。孩子在吃飯前擺好餐具。有目的、有順序，讓人很有成就感。', materials: '畫有輪廓的餐墊、餐具、盤子' },
+        { title: '洗手步驟', desc: '準備好小踏腳凳、肥皂、毛巾，示範完整的洗手步驟。讓這成為每次吃飯前的儀式。', materials: '踏腳凳、肥皂、小毛巾' },
+        { title: '插花', desc: '準備一個小花瓶、水和簡單的花。孩子剪花莖（用兒童剪刀）並插花。培養優雅、細心和美感。', materials: '小花瓶、簡單的花、兒童剪刀' },
       ],
       Math: [
-        { title: 'Number Rods (simplified)', desc: 'Use rods or strips of paper in lengths 1-10. Compare lengths, order them, and name each number.', materials: 'Paper strips cut in graduated lengths, or unit blocks' },
-        { title: 'Counting with Objects', desc: 'Count out objects into small trays labeled 1-5. Touch each object as you count. Builds one-to-one correspondence firmly.', materials: 'Small trays, countable objects, number labels' },
-        { title: 'Pattern Making', desc: 'Create AB, ABB, and ABC patterns with colored blocks or buttons. Invite child to continue the pattern and then create their own.', materials: 'Colored blocks, buttons, or tiles' },
-        { title: 'Shape Sorting Tray', desc: 'Sort objects or shape cards into categories: circles, squares, triangles. Name properties: "3 sides," "4 equal sides."', materials: 'Shape cards or 3D shapes, sorting tray' },
-        { title: 'More and Less Comparison', desc: 'Pour two amounts into clear containers. "Which has more?" "Which has less?" Builds quantitative reasoning through direct observation.', materials: 'Two clear containers, dried beans or water' },
+        { title: '數字棒（簡化版）', desc: '用棒子或 1-10 長度的紙條。比長短、按順序排列，說出每個數字。', materials: '漸進長度的紙條或積木' },
+        { title: '用物品數數', desc: '把物品數出來放入標有 1-5 的小托盤。數的時候碰每個物品。牢固建立一對一對應。', materials: '小托盤、可計數物品、數字標籤' },
+        { title: '排規律', desc: '用彩色積木或鈕扣排出 AB、ABB 和 ABC 的規律。請孩子繼續規律，然後自己創造。', materials: '彩色積木、鈕扣或磁磚' },
+        { title: '形狀分類盤', desc: '把物品或形狀卡分類：圓形、正方形、三角形。說出屬性：「3 個邊」、「4 個等邊」。', materials: '形狀卡或 3D 形狀、分類盤' },
+        { title: '多和少的比較', desc: '把兩個量倒入透明容器。「哪個多？」「哪個少？」透過直接觀察建立量化推理。', materials: '兩個透明容器、乾豆或水' },
       ],
       Culture: [
-        { title: 'Continent Puzzle Map', desc: 'Use a simple puzzle map of the continents. Name each one and find where you live. Builds global awareness from a young age.', materials: 'World puzzle map (Montessori style)' },
-        { title: 'Sink or Float Experiment', desc: 'Collect objects and predict, then test whether they sink or float. Record results with drawings. Early scientific method.', materials: 'Bowl of water, various objects, paper' },
-        { title: 'Seed Planting', desc: 'Plant fast-growing seeds (beans, sunflowers) in clear cups to watch root growth. Observe and water daily. Science as living practice.', materials: 'Clear cups, potting soil, fast-germinating seeds' },
-        { title: 'Cooking a Simple Recipe', desc: 'Make a two-ingredient recipe together (banana oat cookies, simple soup). Measures, sequences, and transforms ingredients.', materials: 'Simple recipe ingredients, child-safe tools' },
+        { title: '大洲拼圖地圖', desc: '使用簡單的大洲拼圖地圖。說出每個大洲的名字，找到你住的地方。從小建立全球意識。', materials: '世界拼圖地圖（蒙特梭利風格）' },
+        { title: '沉或浮實驗', desc: '收集物品，預測後再測試它們是沉是浮。用畫圖記錄結果。早期科學方法。', materials: '一碗水、各種物品、紙' },
+        { title: '種植種子', desc: '在透明杯子裡種發芽快的種子（豆子、向日葵），觀察根部生長。每天觀察和澆水。科學即生活。', materials: '透明杯子、培養土、容易發芽的種子' },
+        { title: '做簡單食譜', desc: '一起做兩種材料的食譜（香蕉燕麥餅乾、簡單的湯）。量、排序和轉化食材。', materials: '簡單食譜食材、兒童安全工具' },
       ],
     },
     '3-4': {
       Motor: [
-        { title: 'Practical Writing Preparation: Metal Insets', desc: 'Use metal or cardboard insets to trace shapes, then fill in with parallel lines. The Montessori preparation for cursive writing.', materials: 'Metal insets or cardboard shapes, pencil, paper' },
-        { title: 'Weaving on a Simple Loom', desc: 'A small cardboard loom strung with yarn for child to weave through. Develops bimanual coordination and patience.', materials: 'Cardboard loom, yarn' },
-        { title: 'Hammering Nails into Cork', desc: 'Use a child-sized hammer to tap nails or golf tees into a thick cork or foam board. Excellent hand strength and precision development.', materials: 'Cork or foam board, blunt nails or golf tees, child hammer' },
-        { title: 'Obstacle Course', desc: 'Build an indoor course: crawl under table, jump over pillow, balance on tape line. Full-body proprioceptive challenge.', materials: 'Pillows, tape, furniture, your creativity' },
-        { title: 'Peg Sewing', desc: 'Sewing running stitch through large holes in cardboard or fabric. Thread a large plastic needle and practice going in and out.', materials: 'Stiff cardboard or fabric, large plastic needle, yarn' },
+        { title: '書寫前準備：金屬嵌入形', desc: '用金屬或紙板嵌入形描繪形狀，再用平行線填充。這是蒙特梭利為草寫書寫做的準備。', materials: '金屬嵌入形或紙板形狀、鉛筆、紙' },
+        { title: '在簡單織布機上編織', desc: '用紗線在小型紙板織布機上穿梭編織。發展雙手協調和耐心。', materials: '紙板織布機、紗線' },
+        { title: '把釘子釘入軟木', desc: '用兒童鐵槌把釘子或高爾夫球座釘入厚軟木板或泡沫板。絕佳的手部力量和精準度訓練。', materials: '軟木板或泡沫板、鈍釘或高爾夫球座、兒童鐵槌' },
+        { title: '障礙課程', desc: '搭建室內障礙課程：鑽過桌子、跳過枕頭、走膠帶線。全身的本體覺挑戰。', materials: '枕頭、膠帶、家具、你的創意' },
+        { title: '紙板縫紉', desc: '用大塑膠針在紙板或布料的大洞上練習平針縫。穿進去再穿出來。', materials: '硬紙板或布料、大塑膠針、毛線' },
       ],
       Language: [
-        { title: 'Sandpaper Letters', desc: 'Trace sandpaper letter shapes while saying the phonetic sound ("sss," not "ess"). Multisensory approach connects sound, shape, and movement.', materials: 'Sandpaper letters or DIY: cut letters from sandpaper' },
-        { title: 'Moveable Alphabet', desc: 'Use foam or wooden letters to spell CVC words (cat, hat, pin). Child encodes words before they can write — a breakthrough Montessori insight.', materials: 'Moveable alphabet or foam letters' },
-        { title: 'Story Box', desc: 'A box of small objects to arrange into a narrative. Child picks objects and makes up a story. Builds vocabulary, narrative, and imagination.', materials: 'Small box, 8-10 tiny objects' },
-        { title: 'Rhyming Games', desc: 'Say a word and take turns naming rhymes. Progress to written word families. Builds phonological awareness essential for reading.', materials: 'Just your voice, later simple CVC word cards' },
-        { title: 'Labeling the Environment', desc: 'Print labels for objects in your home (table, chair, window, door). Place them at child\'s eye level. Builds print awareness in a functional context.', materials: 'Printed labels, tape' },
+        { title: '砂紙字母', desc: '一邊說出音韻聲音（「嘶嘶聲」而不是字母名），一邊用手指描砂紙字母形狀。多感官方法連結聲音、形狀和動作。', materials: '砂紙字母或自製版：從砂紙剪出字母' },
+        { title: '活動字母', desc: '用泡棉或木製字母拼出 CVC 詞（cat、hat、pin）。孩子在會寫之前就能把詞編碼——這是蒙特梭利的突破性洞見。', materials: '活動字母或泡棉字母' },
+        { title: '故事盒', desc: '一個裝了小物品的盒子，用來排列成故事。孩子選物品、編故事。建立詞彙、敘事和想像力。', materials: '小盒子、8-10 個小物品' },
+        { title: '押韻遊戲', desc: '說一個詞，輪流說押韻的詞。進階到書面詞族。建立閱讀所需的語音意識。', materials: '只需要你的聲音，之後用簡單的 CVC 詞卡' },
+        { title: '給環境貼標籤', desc: '印出家裡物品的標籤（桌子、椅子、窗戶、門）。貼在孩子的視線高度。在實用情境中建立文字意識。', materials: '印出的標籤、膠帶' },
       ],
       Sensory: [
-        { title: 'Blindfold Texture Walk', desc: 'Blindfold child (willing only!) and guide them to feel different surfaces — carpet, tile, wood, grass. Name and describe each.', materials: 'Blindfold, varied surfaces' },
-        { title: 'Color Mixing with Paint', desc: 'Three primary color paints and white paper. Discover what happens when colors combine. Document results in a "color journal."', materials: 'Red, blue, yellow paint, brushes, paper' },
-        { title: 'Sound Walk', desc: 'Sit still outside for 2 minutes and list every sound heard. Develops auditory discrimination and mindful listening.', materials: 'Outdoor space, paper to record' },
-        { title: 'Taste Test Lab', desc: 'Offer small tastes of sweet, sour, salty, and bitter foods. Child categorizes and describes. Builds gustatory vocabulary.', materials: 'Small portions of 4 taste category foods' },
+        { title: '蒙眼觸感走道', desc: '給孩子蒙上眼睛（要自願才行！），引導他感受不同表面——地毯、磁磚、木頭、草地。說出並描述每種感覺。', materials: '眼罩、各種表面' },
+        { title: '顏色混合繪畫', desc: '三種原色顏料和白紙。發現顏色混合後的變化。在「顏色日記」裡記錄結果。', materials: '紅、藍、黃色顏料、畫筆、紙' },
+        { title: '聲音散步', desc: '在戶外靜坐 2 分鐘，列出聽到的每個聲音。培養聽覺辨別能力和專注聆聽。', materials: '戶外空間、紙記錄' },
+        { title: '味覺實驗室', desc: '提供少量甜、酸、鹹和苦的食物。孩子分類和描述。建立味覺詞彙。', materials: '少量 4 種口味的食物' },
       ],
       'Practical Life': [
-        { title: 'Using a Real Knife (Butter)', desc: 'A real child-safe table knife for spreading and cutting soft foods (banana, soft cheese). Builds respect for tools and fine motor precision.', materials: 'Child-safe table knife, soft foods, cutting board' },
-        { title: 'Sewing a Simple Pocket', desc: 'Stitch two pieces of felt together with running stitch to make a pocket. A complete practical sewing project with a real result.', materials: 'Felt pieces, large-eye needle, yarn, scissors' },
-        { title: 'Shoe Polishing', desc: 'Polish leather shoes with a cloth and appropriate polish. Highly satisfying practical work that children request repeatedly.', materials: 'Leather shoes, polish, cloth' },
-        { title: 'Cooking: Salad Making', desc: 'Child washes, tears, and assembles a simple salad. Uses real tools (vegetable peeler, child-safe knife). A complete, nutritious project.', materials: 'Lettuce, cucumber, cherry tomatoes, child tools' },
-        { title: 'Mopping Up Spills', desc: 'Keep a dedicated small mop and bucket accessible. When spills happen, child cleans up independently. Builds accountability and capability.', materials: 'Small mop, bucket' },
+        { title: '使用真正的刀子（奶油刀）', desc: '用真正的兒童安全餐刀塗抹和切軟食物（香蕉、軟起司）。建立對工具的尊重和精細動作精準度。', materials: '兒童安全餐刀、軟質食物、砧板' },
+        { title: '縫一個簡單的口袋', desc: '用平針把兩片毛氈縫在一起做成口袋。一個完整的實用縫紉作品，有真實的成果。', materials: '毛氈片、大針孔針、毛線、剪刀' },
+        { title: '擦鞋', desc: '用布和適合的鞋油擦皮鞋。非常令人滿足的實用工作，孩子會一再要求。', materials: '皮鞋、鞋油、布' },
+        { title: '料理：做沙拉', desc: '孩子洗、撕和組合一份簡單的沙拉。使用真正的工具（削皮器、兒童安全刀）。一個完整的、有營養的作品。', materials: '生菜、小黃瓜、小番茄、兒童工具' },
+        { title: '清理打翻的東西', desc: '準備一個小型拖把和水桶放在容易拿到的地方。打翻東西時，孩子能獨立清理。建立責任感和能力。', materials: '小拖把、水桶' },
       ],
       Math: [
-        { title: 'Bead Chain Counting', desc: 'Count beads along a chain of 100 or 1000. Montessori bead chains build understanding of quantity far beyond abstract counting.', materials: 'Bead chain (or string 100 beads yourself)' },
-        { title: 'Number Symbol Matching', desc: 'Match numeral cards to corresponding quantities of objects. Builds the symbol-quantity connection that makes arithmetic possible.', materials: 'Number cards 0-10, small objects' },
-        { title: 'Simple Addition with Objects', desc: '"Here are 3 apples. I add 2 more. How many now?" Use real objects before any abstract symbols. Concrete → pictorial → abstract.', materials: 'Any countable objects' },
-        { title: 'Clock Introduction', desc: 'Use a large-faced teaching clock. Learn "o\'clock" hours first. Connect to daily schedule ("we eat lunch at 12 o\'clock").', materials: 'Large teaching clock' },
-        { title: 'Geometric Cabinet Exploration', desc: 'Trace wooden or cardboard geometric shapes and sort by number of sides. Introduces precise geometric vocabulary.', materials: 'Geometric shape cards or wooden pieces' },
+        { title: '串珠計數', desc: '沿著 100 或 1000 顆珠子的珠鏈數數。蒙特梭利珠鏈建立對遠超過抽象計數的數量理解。', materials: '珠鏈（或自己穿 100 顆珠子）' },
+        { title: '數字符號配對', desc: '把數字卡配對到對應數量的物品。建立讓算術成為可能的符號與數量連結。', materials: '0-10 數字卡、小物品' },
+        { title: '用物品做簡單加法', desc: '「這裡有 3 個蘋果。我再加 2 個。現在有幾個？」在用任何抽象符號之前先用真實物品。具體→圖像→抽象。', materials: '任何可計數的物品' },
+        { title: '認識時鐘', desc: '使用大字盤教學時鐘。先學「整點」。和日常時程表連結（「我們 12 點整吃午餐」）。', materials: '大字盤教學時鐘' },
+        { title: '幾何形狀探索', desc: '描繪木製或紙板幾何形狀，按邊數分類。介紹精確的幾何詞彙。', materials: '幾何形狀卡或木製片' },
       ],
       Culture: [
-        { title: 'Weather Journal', desc: 'Each morning observe and record the weather with a drawing and weather symbol. Builds observation habits and time awareness.', materials: 'Notebook, colored pencils, weather symbol stamps or stickers' },
-        { title: 'Animal Kingdom Sorting', desc: 'Sort animal pictures into mammals, birds, fish, reptiles, insects. Use a key reference card. Early taxonomy.', materials: 'Animal picture cards, classification labels' },
-        { title: 'Globe Land and Water', desc: 'Use a sandpaper globe (rough = land, smooth = water). Child discovers the proportion of land to water on Earth by touch.', materials: 'Sandpaper globe or DIY version' },
-        { title: 'Cooking from Another Culture', desc: 'Make a simple dish from a different country. Explore where it comes from on the map. Builds cultural curiosity.', materials: 'Simple recipe, world map, ingredients' },
+        { title: '天氣日記', desc: '每天早上觀察並用畫圖和天氣符號記錄天氣。建立觀察習慣和時間意識。', materials: '筆記本、彩色鉛筆、天氣符號印章或貼紙' },
+        { title: '動物界分類', desc: '把動物圖片分成哺乳類、鳥類、魚類、爬蟲類、昆蟲類。使用參考卡。早期分類學。', materials: '動物圖片卡、分類標籤' },
+        { title: '地球儀：陸地和水', desc: '使用砂紙地球儀（粗糙感覺 = 陸地，光滑感覺 = 水域）。孩子透過觸摸感受地球上陸地和水的比例。', materials: '砂紙地球儀或自製版' },
+        { title: '做異國料理', desc: '做一道來自不同國家的簡單料理。在地圖上找到它來自哪裡。建立文化好奇心。', materials: '簡單食譜、世界地圖、食材' },
       ],
     },
     '4-5': {
       Motor: [
-        { title: 'Calligraphy Introduction', desc: 'Practice forming letters beautifully with a real calligraphy or italic pen. The tactile resistance slows movement and deepens letter formation.', materials: 'Calligraphy pen or italic nib, paper' },
-        { title: 'Sewing a Small Book', desc: 'Fold and stitch paper together to make a hand-bound book. Child writes and illustrates their own story inside.', materials: 'Paper, large needle, thread, cardstock covers' },
-        { title: 'Clay Sculpting', desc: 'Real clay (not playdough) with tools for sculpting animals or bowls. Air-dry or bake. Develops strength, form awareness, and follow-through.', materials: 'Air-dry clay, sculpting tools' },
-        { title: 'Jump Rope Skipping', desc: 'Learn to jump rope — first with a still rope, then swinging. Builds timing, coordination, and rhythm.', materials: 'Jump rope' },
-        { title: 'Origami Beginner Folds', desc: 'Simple origami shapes (boat, tulip, dog face) introduce precise folding, spatial reasoning, and following sequential steps.', materials: 'Origami paper, instruction sheet' },
+        { title: '書法入門', desc: '用真正的書法筆或斜體筆練習把字母寫得漂亮。筆的阻力放慢動作，加深字母形成的感知。', materials: '書法筆或斜體筆尖、紙' },
+        { title: '縫製小書', desc: '折疊並縫合紙張做成手工裝訂的書。孩子在裡面寫下並畫出自己的故事。', materials: '紙、大針、線、厚紙板封面' },
+        { title: '陶土雕塑', desc: '用真正的陶土（不是黏土）和工具雕塑動物或碗。風乾或烘乾。發展力量、形體意識和堅持到底的能力。', materials: '空氣乾燥陶土、雕塑工具' },
+        { title: '跳繩', desc: '學跳繩——先用靜止的繩子，再搖動繩子。建立時間感、協調性和節奏感。', materials: '跳繩' },
+        { title: '初級摺紙', desc: '簡單的摺紙形狀（船、鬱金香、狗臉）介紹精確折疊、空間推理和遵循順序步驟。', materials: '摺紙紙張、說明圖' },
       ],
       Language: [
-        { title: 'Journaling with Invented Spelling', desc: 'Child writes a sentence daily using their best guesses for spelling. Don\'t correct — invented spelling is a critical developmental step.', materials: 'Journal, pencil' },
-        { title: 'Grammar Symbols', desc: 'Use colored Montessori grammar symbols to identify parts of speech in simple sentences. Black triangle = noun, red circle = verb.', materials: 'Printed grammar symbol key, sentence strips' },
-        { title: 'Reading Decodable Books', desc: 'Phonics-based decodable books that child can truly read independently. Match to their current phonics level.', materials: 'Decodable reader series' },
-        { title: 'Research Book on Favorite Topic', desc: 'Child chooses a topic (dinosaurs, dogs, space). Together research, and child dictates or writes facts. Creates a personal reference book.', materials: 'Books, paper, pencil, scissors, glue' },
-        { title: 'Parts of Speech Sorting', desc: 'Sort word cards into nouns, verbs, adjectives. Use pictures for nouns, action pictures for verbs. Builds intuitive grammar understanding.', materials: 'Word cards or picture cards' },
+        { title: '用自創拼字寫日記', desc: '孩子每天用自己最好的猜測拼寫寫一個句子。不要糾正——自創拼字是一個關鍵的發展步驟。', materials: '日記、鉛筆' },
+        { title: '文法符號', desc: '用彩色蒙特梭利文法符號識別簡單句子中的詞類。黑色三角形 = 名詞，紅色圓形 = 動詞。', materials: '印出的文法符號表、句子卡' },
+        { title: '閱讀自然發音書', desc: '孩子真正能獨立閱讀的語音解碼書。配合他們目前的語音學程度。', materials: '自然發音閱讀系列' },
+        { title: '最愛主題的研究書', desc: '孩子選擇一個主題（恐龍、狗、太空）。一起研究，孩子口述或書寫事實。製作個人參考書。', materials: '書籍、紙、鉛筆、剪刀、膠水' },
+        { title: '詞類分類', desc: '把詞卡分成名詞、動詞、形容詞。名詞用圖片，動詞用動作圖片。建立直覺性的文法理解。', materials: '詞卡或圖片卡' },
       ],
       Sensory: [
-        { title: 'Blindfold Sound Identification', desc: 'While blindfolded, identify sounds made behind them (clapping, a coin dropping, crumpling paper). Sharpens auditory discrimination.', materials: 'Blindfold, sound-making objects' },
-        { title: 'Nature Drawing', desc: 'Sit outside and draw exactly what you see — a leaf, a flower, a tree branch. Scientific observation drawing develops detail perception.', materials: 'Sketchbook, pencils, nature specimens' },
-        { title: 'Pressure Painting', desc: 'Use a brayer or roller with paint to explore how pressure affects mark-making. Develops tactile sensitivity and artistic control.', materials: 'Brayer roller, paint, paper' },
+        { title: '蒙眼聲音辨識', desc: '蒙眼後，辨認在身後發出的聲音（拍手、硬幣掉落、揉紙）。鍛鍊聽覺辨別能力。', materials: '眼罩、發聲物品' },
+        { title: '自然寫生', desc: '坐在戶外，準確地畫下你看到的——一片葉子、一朵花、一根樹枝。科學觀察畫培養細節感知。', materials: '素描本、鉛筆、自然標本' },
+        { title: '壓力繪畫', desc: '用滾筒和顏料探索壓力如何影響痕跡。發展觸覺敏感性和藝術控制力。', materials: '滾筒、顏料、紙' },
       ],
       'Practical Life': [
-        { title: 'Full Meal Preparation', desc: 'Child leads preparation of a simple complete meal — chopping (with child-safe knife), mixing, and serving. Complete independence within capability.', materials: 'Child-safe knife, cutting board, simple recipe' },
-        { title: 'Minor Clothing Repair', desc: 'Sew on a loose button. Thread needle, anchor thread, and complete the repair. Builds real-world capability and pride.', materials: 'Needle, thread, button, garment' },
-        { title: 'Grocery List and Shopping', desc: 'Child writes (or draws) a shopping list of 3-4 items, then accompanies parent to find and cross off items. Real-world literacy in action.', materials: 'Paper, pencil, grocery store trip' },
-        { title: 'Plant Care Schedule', desc: 'Child takes full responsibility for a set of plants — watering schedule, misting, checking soil. Builds sustained responsibility over time.', materials: 'Several houseplants, watering can, schedule chart' },
+        { title: '完整備餐', desc: '孩子主導準備一頓簡單的完整餐食——切（用兒童安全刀）、攪拌和盛盤。在能力範圍內完全獨立。', materials: '兒童安全刀、砧板、簡單食譜' },
+        { title: '簡單衣物修補', desc: '縫上一顆鬆脫的鈕扣。穿針、打結，完成修補。建立真實能力和自豪感。', materials: '針、線、鈕扣、衣物' },
+        { title: '寫購物清單和採購', desc: '孩子寫（或畫）3-4 件物品的購物清單，然後和爸媽去找到並打勾。生活中的真實識字應用。', materials: '紙、鉛筆、去超市' },
+        { title: '植物照護計畫', desc: '孩子全面負責一組植物——澆水計畫、噴霧、檢查土壤。長期建立持續的責任感。', materials: '幾盆室內植物、澆水壺、計畫表' },
       ],
       Math: [
-        { title: 'Golden Bead Material', desc: 'Use Montessori golden beads to physically build numbers in thousands, hundreds, tens, and units. Makes place value beautifully concrete.', materials: 'Golden bead material or equivalent' },
-        { title: 'Stamp Game Addition', desc: 'Use color-coded number tiles to perform addition with carrying. Bridges concrete bead work to abstract written addition.', materials: 'Montessori stamp game tiles' },
-        { title: 'Multiplication with Skip Counting', desc: 'Skip count by 2s, 5s, 10s with bead chains. Lays the foundation for multiplication tables through physical counting.', materials: 'Bead chains, or skip counting number lines' },
-        { title: 'Graph Making', desc: 'Survey family members (favorite fruit, eye color) and create a simple bar graph. Introduces data collection and representation.', materials: 'Graph paper, pencil, colored pencils' },
-        { title: 'Measurement with Non-Standard Units', desc: 'Measure objects using hands, feet, or blocks. Then introduce centimeters. Builds understanding of what measurement means.', materials: 'Ruler, measuring tape, non-standard units' },
+        { title: '金珠教具', desc: '用蒙特梭利金珠實際建構千位、百位、十位和個位的數字。讓位值變得非常具體。', materials: '金珠教具或等效物' },
+        { title: '印章遊戲加法', desc: '用彩色數字磁磚進行有進位的加法。連接具體的珠子操作和抽象的書面加法。', materials: '蒙特梭利印章遊戲磁磚' },
+        { title: '跳著數做乘法', desc: '用珠鏈跳著數 2、5、10。通過實際計數打下乘法表的基礎。', materials: '珠鏈或跳數數線' },
+        { title: '製作圖表', desc: '調查家庭成員（最喜歡的水果、眼睛顏色）並製作簡單的長條圖。介紹資料收集和呈現。', materials: '方格紙、鉛筆、彩色鉛筆' },
+        { title: '非標準單位測量', desc: '用手、腳或積木測量物品。再介紹公分。建立對測量意義的理解。', materials: '尺、捲尺、非標準單位' },
       ],
       Culture: [
-        { title: 'Timeline of My Life', desc: 'Create a personal timeline with photos and drawings from birth to now. Introduces chronology and personal history.', materials: 'Long strip of paper, photos, pencils' },
-        { title: 'Parts of a Flower', desc: 'Dissect a simple flower (lily or tulip) and label the parts: petal, sepal, stamen, pistil, stem. Real biology with real specimens.', materials: 'Fresh flower, paper, labels, magnifier' },
-        { title: 'Continent Research Project', desc: 'Choose one continent per month. Research animals, food, famous landmarks. Create a poster or small book. Builds sustained research habits.', materials: 'Books, atlas, paper, colored pencils' },
-        { title: 'Simple Mapping', desc: 'Draw a map of your home or classroom. Include a key. Introduces cartography and spatial representation of known space.', materials: 'Paper, pencil, ruler' },
+        { title: '我的生命時間軸', desc: '用出生到現在的照片和畫製作個人時間軸。介紹年代順序和個人歷史。', materials: '長紙條、照片、鉛筆' },
+        { title: '花的構造', desc: '解剖一朵簡單的花（百合或鬱金香）並標示各部位：花瓣、萼片、雄蕊、雌蕊、莖。用真實標本進行真實的生物學。', materials: '新鮮的花、紙、標籤、放大鏡' },
+        { title: '大洲研究計畫', desc: '每個月選擇一個大洲。研究動物、食物、著名地標。製作海報或小書。建立持續的研究習慣。', materials: '書籍、地圖集、紙、彩色鉛筆' },
+        { title: '簡單地圖繪製', desc: '畫出你家或教室的地圖。包含圖例。介紹地圖學和已知空間的圖像表達。', materials: '紙、鉛筆、尺' },
       ],
     },
     '5-6': {
       Motor: [
-        { title: 'Book Binding', desc: 'Create a hand-bound book with Coptic or Japanese stab binding. A complete craft with real tools that produces a lasting, usable object.', materials: 'Paper, cardstock covers, needle, waxed thread, awl' },
-        { title: 'Woodworking: Sanding and Finishing', desc: 'Sand a small piece of wood to smooth with progression through grits, then apply beeswax finish. Develops patience and sensory precision.', materials: 'Wood piece, sandpaper grits (80, 120, 220), beeswax' },
-        { title: 'Knitting or Finger Knitting', desc: 'Finger knitting with thick yarn builds rhythm, bilateral coordination, and sustained concentration. Progress to needles when ready.', materials: 'Thick yarn' },
-        { title: 'Juggling (Two Balls)', desc: 'Begin with one ball, then two. Juggling develops timing, bilateral coordination, and the ability to track multiple objects simultaneously.', materials: 'Two juggling balls or beanbags' },
-        { title: 'Complex Origami', desc: 'Multi-step origami (crane, frog, box) requires reading diagrams, sequential logic, and precise motor execution. A complete challenge.', materials: 'Origami paper, instruction guide' },
+        { title: '書籍裝訂', desc: '用科普特或日式穿孔裝訂法製作手工書。一個用真實工具完成的完整手工藝，產出持久、可用的作品。', materials: '紙、厚紙板封面、針、蠟線、錐子' },
+        { title: '木工：打磨和上蠟', desc: '用不同砂紙粒度由粗到細打磨一小塊木頭，再塗上蜂蠟。培養耐心和感官精準度。', materials: '木塊、砂紙（80、120、220 號）、蜂蠟' },
+        { title: '編織或手指編織', desc: '用粗毛線進行手指編織，建立節奏感、雙側協調和持續專注力。準備好時進階到棒針。', materials: '粗毛線' },
+        { title: '雜耍（兩顆球）', desc: '從一顆球開始，再到兩顆。雜耍培養時間感、雙側協調和同時追蹤多個物品的能力。', materials: '兩顆雜耍球或豆袋' },
+        { title: '複雜摺紙', desc: '多步驟摺紙（仙鶴、青蛙、盒子）需要讀懂圖示、序列邏輯和精確的動作執行。完整的挑戰。', materials: '摺紙紙張、說明書' },
       ],
       Language: [
-        { title: 'Chapter Book Read-Aloud', desc: 'Read chapter books aloud together — a chapter per day. Discuss characters, predictions, themes. Builds sophisticated comprehension.', materials: 'Age-appropriate chapter book' },
-        { title: 'Newspaper/Magazine Article', desc: 'Read a short age-appropriate article together and discuss the who/what/when/where/why. Builds media literacy and summarizing skills.', materials: 'Newsprint or age-appropriate magazine' },
-        { title: 'Writing a Letter', desc: 'Compose a real letter to a grandparent or friend. Address, stamp, and mail it. Real-world writing with authentic audience and purpose.', materials: 'Paper, envelope, stamp, address' },
-        { title: 'Crossword Puzzle', desc: 'Simple crossword puzzles build spelling, vocabulary, and lateral thinking simultaneously. Use a kid-appropriate puzzle book.', materials: 'Children\'s crossword book or printed puzzle' },
-        { title: 'Etymology Exploration', desc: 'Explore where words come from. "Telephone" = tele (far) + phone (sound). Sparks fascination with language as a living system.', materials: 'Simple etymology resource or children\'s dictionary' },
+        { title: '章節書大聲朗讀', desc: '一起大聲朗讀章節書——每天一章。討論角色、預測和主題。建立複雜的理解能力。', materials: '適合年齡的章節書' },
+        { title: '新聞報導/雜誌文章', desc: '一起讀一篇簡短的適齡文章，討論何人、何事、何時、何地、為何。建立媒體識讀和摘要技能。', materials: '報紙或適齡雜誌' },
+        { title: '寫信', desc: '撰寫一封真正的信給祖父母或朋友。寫好地址、貼郵票、寄出去。有真實受眾和目的的真實世界寫作。', materials: '紙、信封、郵票、地址' },
+        { title: '填字遊戲', desc: '簡單的填字遊戲同時建立拼字、詞彙和橫向思維。使用適合兒童的拼圖書。', materials: '兒童填字書或印出的拼圖' },
+        { title: '詞源探索', desc: '探索詞語的由來。「電話」= tele（遠）+ phone（聲音）。激發對語言作為生命系統的迷戀。', materials: '簡單詞源資源或兒童字典' },
       ],
       Sensory: [
-        { title: 'Telescope / Magnifier Journaling', desc: 'Use a magnifier to examine natural objects and sketch what you observe in detail. Combines sensory precision with scientific drawing.', materials: 'Hand magnifier, sketchbook, pencils' },
-        { title: 'Clay Relief Map', desc: 'Sculpt a topographical clay map of a region — mountains, valleys, rivers. Connects sensory-spatial work to geography.', materials: 'Clay, topographic map reference, board' },
-        { title: 'Blind Contour Drawing', desc: 'Draw an object without looking at the paper — only watching the object. Trains the eye-hand connection and observational depth.', materials: 'Paper, pencil, objects to draw' },
+        { title: '望遠鏡／放大鏡日記', desc: '用放大鏡檢視自然物品，並詳細素描觀察到的細節。結合感官精準度和科學繪畫。', materials: '手持放大鏡、素描本、鉛筆' },
+        { title: '陶土浮雕地圖', desc: '雕塑一個地區的地形陶土地圖——山脈、山谷、河流。把感官空間工作與地理連結。', materials: '陶土、地形圖參考、木板' },
+        { title: '盲目輪廓畫', desc: '畫一個物品時不看紙——只看著物品。訓練手眼連結和觀察深度。', materials: '紙、鉛筆、要畫的物品' },
       ],
       'Practical Life': [
-        { title: 'Weekly Cooking Responsibility', desc: 'Child plans and leads preparation of one weekly family meal. Increases complexity over time. Builds genuine capability and family contribution.', materials: 'Age-appropriate recipe books, real kitchen tools' },
-        { title: 'Basic Home Repair', desc: 'Tighten a loose screw, hang a picture with a level. Introduction to real tools with safe supervision. Builds genuine competence.', materials: 'Screwdriver, level, hammer, small nails' },
-        { title: 'Personal Budget Practice', desc: 'Give a small weekly amount with categories (save, spend, give). Track in a simple notebook. Introduces real financial concepts through practice.', materials: 'Small amounts of real money, notebook' },
-        { title: 'Community Care Project', desc: 'Choose a community contribution: pack care bags, plant flowers in a public space, write notes to elderly neighbors. Practical compassion in action.', materials: 'Varies by project' },
+        { title: '每週料理責任', desc: '孩子計劃並主導每週一頓家庭餐的準備。難度隨時間增加。建立真正的能力和對家庭的貢獻。', materials: '適齡食譜書、真實廚房工具' },
+        { title: '基本居家修繕', desc: '鎖緊鬆脫的螺絲、用水平儀掛畫。在安全監督下介紹真實工具。建立真正的能力。', materials: '螺絲起子、水平儀、鐵槌、小釘子' },
+        { title: '個人預算練習', desc: '給少量的週零用錢，分成幾個類別（儲蓄、消費、捐贈）。在簡單的筆記本裡記錄。透過實踐介紹真實的財務概念。', materials: '少量真實零錢、筆記本' },
+        { title: '社區關懷計畫', desc: '選擇一個社區貢獻：準備關懷包、在公共空間種花、給獨居老人寫信。付諸行動的實際關懷。', materials: '依計畫而定' },
       ],
       Math: [
-        { title: 'Long Division with Materials', desc: 'Montessori racks and tubes (or DIY equivalent) make long division concrete before the algorithm. Build deep understanding before shortcuts.', materials: 'Montessori division materials or colored counters' },
-        { title: 'Fraction Work', desc: 'Use Montessori fraction circles to discover equivalences: ½ = 2/4 = 4/8. Operations with fractions made physical and logical.', materials: 'Fraction circles (can be cut from colored paper)' },
-        { title: 'Geometry: Area and Perimeter', desc: 'Measure room dimensions and calculate area and perimeter on graph paper. Real-world application of abstract formulas.', materials: 'Measuring tape, graph paper, pencil' },
-        { title: 'Sudoku (Beginner 4x4)', desc: 'Beginner 4x4 sudoku grids introduce logical deduction and systematic thinking in a number context.', materials: 'Beginner sudoku puzzles' },
-        { title: 'Money Math', desc: 'Use real coins and bills to make change, compare prices, and calculate discounts. Applied math with immediate real-world relevance.', materials: 'Real coins and bills, simple price tags' },
+        { title: '用教具做長除法', desc: '蒙特梭利架和管（或自製等效物）讓長除法在算法之前變得具體。先建立深度理解，再走捷徑。', materials: '蒙特梭利除法教具或彩色計數器' },
+        { title: '分數操作', desc: '用蒙特梭利分數圓盤發現等值分數：½ = 2/4 = 4/8。讓分數運算變得實體和合乎邏輯。', materials: '分數圓盤（可用彩色紙剪成）' },
+        { title: '幾何：面積和周長', desc: '測量房間尺寸，在方格紙上計算面積和周長。抽象公式的真實世界應用。', materials: '捲尺、方格紙、鉛筆' },
+        { title: '數獨（4x4 初級）', desc: '初級 4x4 數獨格子在數字情境中介紹邏輯推理和系統思維。', materials: '初級數獨拼圖' },
+        { title: '金錢數學', desc: '用真實的硬幣和紙鈔找零錢、比較價格和計算折扣。有即時真實世界意義的應用數學。', materials: '真實硬幣和紙鈔、簡單價格標籤' },
       ],
       Culture: [
-        { title: 'Biome Research Project', desc: 'Deep-dive into one biome (rainforest, tundra, desert). Research climate, plants, animals, and human interaction. Multi-week project.', materials: 'Library books, atlas, project board' },
-        { title: 'Timeline of Civilizations', desc: 'Create a timeline from ancient Egypt to today with key civilizations marked. Builds historical perspective and chronological thinking.', materials: 'Long paper roll, pencils, reference books' },
-        { title: 'Experiment: Density Tower', desc: 'Layer liquids of different densities (honey, oil, water, rubbing alcohol) in a clear tube. Introduces density as a physical concept.', materials: 'Clear tall container, honey, dish soap, water, oil, alcohol, food coloring' },
-        { title: 'Interview an Elder', desc: 'Prepare questions and interview a grandparent or elder. Record or write the story. Builds listening skills and family/community history.', materials: 'Prepared questions, recording device or notebook' },
+        { title: '生物群系研究計畫', desc: '深入研究一個生物群系（熱帶雨林、苔原、沙漠）。研究氣候、植物、動物和人類互動。多週計畫。', materials: '圖書館書籍、地圖集、計畫板' },
+        { title: '文明時間軸', desc: '從古埃及到今天製作一個標有重要文明的時間軸。建立歷史視角和年代排序思維。', materials: '長紙卷、鉛筆、參考書' },
+        { title: '實驗：密度塔', desc: '在透明管中層疊不同密度的液體（蜂蜜、油、水、酒精）。將密度作為一個物理概念介紹。', materials: '透明高容器、蜂蜜、洗碗精、水、油、酒精、食用色素' },
+        { title: '採訪長輩', desc: '準備問題，採訪祖父母或長輩。錄下或寫下故事。建立聆聽技能和家族／社區歷史。', materials: '準備好的問題、錄音裝置或筆記本' },
       ],
     },
   };
 
   const AREA_LABELS: Record<DomainKey, string> = {
-    Motor: 'Motor Skills',
-    Language: 'Language',
-    Sensory: 'Sensory',
-    'Practical Life': 'Practical Life',
-    Math: 'Math & Logic',
-    Culture: 'Culture & Science',
+    Motor: '動作技能',
+    Language: '語言',
+    Sensory: '感官',
+    'Practical Life': '日常生活',
+    Math: '數學與邏輯',
+    Culture: '文化與科學',
   };
 
   const AREA_COLORS: Record<DomainKey, string> = {
@@ -651,7 +651,7 @@ const lang = 'zh';
 
     if (!activities.length) {
       resultsEl.style.display = 'block';
-      resultsEl.innerHTML = '<p style="color:#7A7573;font-size:0.9375rem">No activities found for this combination.</p>';
+      resultsEl.innerHTML = '<p style="color:#7A7573;font-size:0.9375rem">找不到符合這個組合的活動。</p>';
       return;
     }
 
@@ -661,14 +661,14 @@ const lang = 'zh';
         <div class="activity-desc">${act.desc}</div>
         <div class="activity-meta">
           <span class="activity-tag" style="background:${color}18;color:${color}">${areaLabel}</span>
-          <span class="activity-tag materials">Materials: ${act.materials}</span>
+          <span class="activity-tag materials">材料：${act.materials}</span>
         </div>
       </div>
     `).join('');
 
     resultsEl.style.display = 'block';
     resultsEl.innerHTML = `
-      <p class="results-heading">Activities for <span>${(document.getElementById('age-range') as HTMLSelectElement).options[(document.getElementById('age-range') as HTMLSelectElement).selectedIndex].text}</span> · <span style="color:${color}">${areaLabel}</span></p>
+      <p class="results-heading"><span>${(document.getElementById('age-range') as HTMLSelectElement).options[(document.getElementById('age-range') as HTMLSelectElement).selectedIndex].text}</span> 的活動 · <span style="color:${color}">${areaLabel}</span></p>
       <div class="activities-grid">${cardsHtml}</div>
     `;
     resultsEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });

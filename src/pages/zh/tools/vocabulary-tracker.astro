@@ -7,8 +7,8 @@ const lang = 'zh';
 ---
 
 <BaseLayout
-  title="Bilingual Vocabulary Tracker | BloomPath"
-  description="Track your bilingual child's vocabulary development. Compare total words across both languages to see how they're progressing."
+  title="雙語詞彙追蹤 | BloomPath"
+  description="追蹤雙語孩子的詞彙發展。比較兩種語言的總詞彙量，看看他們進展如何。"
   lang={lang}
 >
   <Header lang={lang} />
@@ -17,85 +17,85 @@ const lang = 'zh';
     <div class="container">
       <div class="tool-header">
         <div class="tool-icon">🗣️</div>
-        <h1>Bilingual Vocabulary Tracker</h1>
+        <h1>雙語詞彙追蹤</h1>
         <p class="tool-subtitle">
-          For bilingual children, total vocabulary across both languages is what matters — not each language separately. Enter your child's words to see how they compare.
+          對雙語孩子來說，重要的是兩種語言加起來的總詞彙量——不是每種語言各自的數字。輸入孩子的詞彙量，看看進展如何。
         </p>
       </div>
 
       <div class="key-insight">
         <span class="insight-icon">💡</span>
         <div>
-          <strong>The bilingual advantage:</strong> Research shows bilingual children's <em>combined</em> vocabulary across both languages should be compared to typical ranges — not each language individually.
+          <strong>雙語的優勢：</strong>研究顯示，評估雙語孩子的詞彙量時，應該比較兩種語言<em>合計</em>的詞彙數，而不是每種語言分開計算。
         </div>
       </div>
 
       <div class="tool-card">
         <div class="inputs-grid">
           <div class="input-group full-width">
-            <label for="child-age" class="input-label">Child age (months)</label>
+            <label for="child-age" class="input-label">孩子的年齡（月）</label>
             <div class="age-input-row">
               <input type="number" id="child-age" min="12" max="72" value="24" class="number-input" />
-              <span class="input-unit">months old</span>
+              <span class="input-unit">個月</span>
             </div>
           </div>
 
           <div class="input-group">
-            <label for="lang1-name" class="input-label">Language 1 name</label>
-            <input type="text" id="lang1-name" placeholder="e.g. English" class="text-input" value="English" />
+            <label for="lang1-name" class="input-label">語言 1 名稱</label>
+            <input type="text" id="lang1-name" placeholder="例如：中文" class="text-input" value="中文" />
           </div>
 
           <div class="input-group">
-            <label for="lang1-words" class="input-label">Words in Language 1</label>
+            <label for="lang1-words" class="input-label">語言 1 的詞彙數</label>
             <div class="age-input-row">
               <input type="number" id="lang1-words" min="0" max="2000" value="25" class="number-input wide" />
-              <span class="input-unit">words</span>
+              <span class="input-unit">個詞</span>
             </div>
           </div>
 
           <div class="input-group">
-            <label for="lang2-name" class="input-label">Language 2 name</label>
-            <input type="text" id="lang2-name" placeholder="e.g. Mandarin" class="text-input" value="Mandarin" />
+            <label for="lang2-name" class="input-label">語言 2 名稱</label>
+            <input type="text" id="lang2-name" placeholder="例如：英文" class="text-input" value="英文" />
           </div>
 
           <div class="input-group">
-            <label for="lang2-words" class="input-label">Words in Language 2</label>
+            <label for="lang2-words" class="input-label">語言 2 的詞彙數</label>
             <div class="age-input-row">
               <input type="number" id="lang2-words" min="0" max="2000" value="20" class="number-input wide" />
-              <span class="input-unit">words</span>
+              <span class="input-unit">個詞</span>
             </div>
           </div>
         </div>
 
-        <button id="track-btn" class="track-btn">Check Vocabulary</button>
+        <button id="track-btn" class="track-btn">查看詞彙狀況</button>
       </div>
 
       <div id="results" class="results hidden">
         <div class="vocab-summary" id="vocab-summary"></div>
 
         <div class="progress-section" id="progress-section">
-          <h3 class="section-title">Vocabulary Breakdown</h3>
+          <h3 class="section-title">詞彙分布</h3>
           <div id="lang-bars" class="lang-bars"></div>
         </div>
 
         <div id="status-card" class="status-card"></div>
 
         <div class="tips-section">
-          <h3 class="section-title">Tips for Bilingual Language Development</h3>
+          <h3 class="section-title">雙語語言發展小撇步</h3>
           <ul id="tips-list" class="tips-list"></ul>
         </div>
 
         <div class="disclaimer">
           <span class="disclaimer-icon">💛</span>
-          <p>Language development varies widely among children. These ranges are guidelines, not strict targets. If you have concerns about your child's language development, speak with a speech-language pathologist who specializes in bilingualism.</p>
+          <p>孩子的語言發展差異很大。這些範圍是參考指標，不是硬性目標。如果你對孩子的語言發展有疑慮，請諮詢專精雙語的語言治療師。</p>
         </div>
 
         <div class="related-articles">
-          <h3>Related Articles</h3>
+          <h3>相關文章</h3>
           <div class="article-links">
-            <a href="https://bloom-path.app/en/blog/raising-bilingual-children" class="article-link">Raising Bilingual Children</a>
-            <a href="https://bloom-path.app/en/blog/bilingual-language-milestones" class="article-link">Bilingual Language Milestones</a>
-            <a href="https://bloom-path.app/en/blog/opol-method-one-parent-one-language" class="article-link">The OPOL Method</a>
+            <a href="https://bloom-path.app/en/blog/raising-bilingual-children" class="article-link">培養雙語孩子</a>
+            <a href="https://bloom-path.app/en/blog/bilingual-language-milestones" class="article-link">雙語語言里程碑</a>
+            <a href="https://bloom-path.app/en/blog/opol-method-one-parent-one-language" class="article-link">一人一語言教養法</a>
           </div>
         </div>
       </div>
@@ -185,39 +185,39 @@ const lang = 'zh';
   }
 
   function getVocabRange(months: number): VocabRange {
-    if (months < 12) return { label: "Under 12 months", typicalMin: 0, typicalMax: 5, concernBelow: 0, description: "Before 12 months, most children babble and say 1-3 words. Comprehension is developing rapidly even if output is limited." };
-    if (months <= 15) return { label: "12-15 months", typicalMin: 5, typicalMax: 20, concernBelow: 3, description: "Children typically use 5-20 words. Pointing and gestures are also an important part of communication at this stage." };
-    if (months <= 18) return { label: "16-18 months", typicalMin: 10, typicalMax: 50, concernBelow: 5, description: "Most children use 10-50 words. Vocabulary growth accelerates rapidly around 18 months (the vocabulary explosion)." };
-    if (months <= 24) return { label: "19-24 months", typicalMin: 50, typicalMax: 200, concernBelow: 25, description: "By 24 months, most children use 50+ words and begin combining two words. A bilingual total of 50 words is the key milestone." };
-    if (months <= 30) return { label: "25-30 months", typicalMin: 200, typicalMax: 450, concernBelow: 100, description: "Vocabulary grows rapidly. Children use 3-word phrases. For bilingual children, the total combined count is what matters." };
-    if (months <= 36) return { label: "31-36 months", typicalMin: 400, typicalMax: 800, concernBelow: 200, description: "Children know hundreds of words and speak in sentences. Bilingual children may split vocabulary unevenly across languages, which is normal." };
-    if (months <= 48) return { label: "37-48 months", typicalMin: 800, typicalMax: 1500, concernBelow: 400, description: "Vocabulary continues to expand dramatically. Bilingual children often have larger total vocabularies than monolingual peers." };
-    return { label: "49-72 months", typicalMin: 1500, typicalMax: 3000, concernBelow: 800, description: "Children approaching school age have extensive vocabularies. Bilingual children may show varying fluency across contexts and languages." };
+    if (months < 12) return { label: "未滿 12 個月", typicalMin: 0, typicalMax: 5, concernBelow: 0, description: "12 個月前，大多數孩子咿呀發音並說 1-3 個詞。即使輸出有限，理解能力也在快速發展中。" };
+    if (months <= 15) return { label: "12-15 個月", typicalMin: 5, typicalMax: 20, concernBelow: 3, description: "孩子通常能使用 5-20 個詞。指物和手勢也是這個階段溝通的重要部分。" };
+    if (months <= 18) return { label: "16-18 個月", typicalMin: 10, typicalMax: 50, concernBelow: 5, description: "大多數孩子使用 10-50 個詞。詞彙量在 18 個月左右快速增長（詞彙爆發期）。" };
+    if (months <= 24) return { label: "19-24 個月", typicalMin: 50, typicalMax: 200, concernBelow: 25, description: "到 24 個月，大多數孩子使用 50 個以上的詞，並開始組合兩個詞。合計 50 個詞是關鍵里程碑。" };
+    if (months <= 30) return { label: "25-30 個月", typicalMin: 200, typicalMax: 450, concernBelow: 100, description: "詞彙快速增長。孩子使用三個詞的短語。對雙語孩子來說，兩種語言加起來的總量才是重點。" };
+    if (months <= 36) return { label: "31-36 個月", typicalMin: 400, typicalMax: 800, concernBelow: 200, description: "孩子知道幾百個詞，能說出句子。雙語孩子在兩種語言間的詞彙分配可能不均，這是正常的。" };
+    if (months <= 48) return { label: "37-48 個月", typicalMin: 800, typicalMax: 1500, concernBelow: 400, description: "詞彙繼續大幅擴展。雙語孩子的總詞彙量通常比同齡單語孩子更多。" };
+    return { label: "49-72 個月", typicalMin: 1500, typicalMax: 3000, concernBelow: 800, description: "接近入學年齡的孩子詞彙量豐富。雙語孩子在不同情境和語言中的流暢度可能有所不同。" };
   }
 
   function getStatus(total: number, range: VocabRange): { type: string; title: string; text: string } {
     if (total >= range.typicalMin) {
-      return { type: "on-track", title: "On Track", text: "Your child's combined vocabulary of " + total + " words is within the typical range for " + range.label + " (" + range.typicalMin + "-" + range.typicalMax + " words). Keep doing what you are doing!" };
+      return { type: "on-track", title: "進展順利", text: "孩子的合計詞彙量 " + total + " 個詞，在 " + range.label + " 的一般範圍內（" + range.typicalMin + "-" + range.typicalMax + " 個詞）。繼續保持！" };
     } else if (total >= range.concernBelow) {
-      return { type: "monitor", title: "Slightly Below Typical Range", text: "A combined vocabulary of " + total + " words is a little below the typical range of " + range.typicalMin + "-" + range.typicalMax + " for " + range.label + ". This is not necessarily a concern, but worth monitoring. Continue rich language exposure in both languages." };
+      return { type: "monitor", title: "略低於一般範圍", text: "合計詞彙量 " + total + " 個詞，略低於 " + range.label + " 的一般範圍（" + range.typicalMin + "-" + range.typicalMax + " 個詞）。這不一定是問題，但值得持續觀察。繼續在兩種語言中提供豐富的語言輸入。" };
     } else {
-      return { type: "concern", title: "Below Expected Range", text: "A combined vocabulary of " + total + " words is below what is typically expected (" + range.typicalMin + "+ words) for " + range.label + ". We recommend speaking with a speech-language pathologist who specializes in bilingual development for personalized guidance." };
+      return { type: "concern", title: "低於預期範圍", text: "合計詞彙量 " + total + " 個詞，低於 " + range.label + " 通常的預期（" + range.typicalMin + " 個詞以上）。建議諮詢專精雙語發展的語言治療師，取得個人化的指導。" };
     }
   }
 
   function getTips(months: number, total: number, lang1: number, lang2: number, l1Name: string, l2Name: string): string[] {
     const tips = [
-      "Talk, read, and sing in both languages every day. Quality input beats quantity of formal lessons.",
-      "Never correct language mixing (code-switching) — it is a normal sign of bilingual competence, not confusion.",
-      "Read books in both languages. Bilingual books that switch languages on each page can be especially engaging.",
-      "Connect each language to meaningful contexts: one language for cooking, another for bedtime stories.",
-      "Find community exposure: playgroups, shows, or video calls with relatives in each language."
+      "每天用兩種語言說話、讀書和唱歌。高品質的語言輸入比正式課程的量更重要。",
+      "絕對不要糾正語言混用（code-switching）——這是雙語能力的正常表現，不是混淆。",
+      "用兩種語言讀書。每頁換語言的雙語書特別吸引孩子。",
+      "把每種語言連結到有意義的情境：一種語言煮飯，另一種語言說睡前故事。",
+      "尋找社區中的語言接觸機會：玩伴團體、節目或與家人的視訊通話。"
     ];
     if (lang1 === 0 || lang2 === 0) {
-      tips.unshift("Consider increasing exposure to " + (lang1 === 0 ? l1Name : l2Name) + ". Even 30 minutes of daily input can make a significant difference.");
+      tips.unshift("考慮增加" + (lang1 === 0 ? l1Name : l2Name) + "的接觸機會。每天即使只有 30 分鐘的語言輸入，也能帶來顯著的差異。");
     }
     if (total < 50 && months >= 24) {
-      tips.unshift("At 24 months, 50 combined words is the key milestone. Consider consulting a bilingual speech-language pathologist.");
+      tips.unshift("24 個月時，合計 50 個詞是關鍵里程碑。建議諮詢專精雙語的語言治療師。");
     }
     return tips.slice(0, 5);
   }
@@ -230,9 +230,9 @@ const lang = 'zh';
     const l2El = document.getElementById("lang2-words") as HTMLInputElement;
 
     const months = parseInt(ageEl.value) || 24;
-    const l1Name = l1NameEl.value || "Language 1";
+    const l1Name = l1NameEl.value || "語言 1";
     const l1 = parseInt(l1El.value) || 0;
-    const l2Name = l2NameEl.value || "Language 2";
+    const l2Name = l2NameEl.value || "語言 2";
     const l2 = parseInt(l2El.value) || 0;
     const total = l1 + l2;
 
@@ -242,15 +242,15 @@ const lang = 'zh';
 
     const summaryEl = document.getElementById("vocab-summary")!;
     summaryEl.innerHTML =
-      '<div class="summary-card"><div class="summary-icon">📊</div><div class="summary-value">' + total + '</div><div class="summary-label">Total vocabulary</div></div>' +
-      '<div class="summary-card"><div class="summary-icon">🗣️</div><div class="summary-value">' + range.typicalMin + '-' + range.typicalMax + '</div><div class="summary-label">Typical for age</div></div>' +
-      '<div class="summary-card"><div class="summary-icon">⚖️</div><div class="summary-value">' + (total > 0 ? Math.round(l1/total*100) + "/" + Math.round(l2/total*100) : "50/50") + '</div><div class="summary-label">' + l1Name + ' / ' + l2Name + ' split</div></div>';
+      '<div class="summary-card"><div class="summary-icon">📊</div><div class="summary-value">' + total + '</div><div class="summary-label">總詞彙量</div></div>' +
+      '<div class="summary-card"><div class="summary-icon">🗣️</div><div class="summary-value">' + range.typicalMin + '-' + range.typicalMax + '</div><div class="summary-label">同齡一般範圍</div></div>' +
+      '<div class="summary-card"><div class="summary-icon">⚖️</div><div class="summary-value">' + (total > 0 ? Math.round(l1/total*100) + "/" + Math.round(l2/total*100) : "50/50") + '</div><div class="summary-label">' + l1Name + ' / ' + l2Name + ' 比例</div></div>';
 
     const maxWords = Math.max(total, range.typicalMax, 1);
     document.getElementById("lang-bars")!.innerHTML =
-      '<div class="lang-bar-item"><div class="lang-bar-header"><span>' + l1Name + '</span><span>' + l1 + ' words</span></div><div class="lang-bar-track"><div class="lang-bar-fill" style="width:' + (l1/maxWords*100).toFixed(1) + '%;background:#8D9B8E"></div></div></div>' +
-      '<div class="lang-bar-item"><div class="lang-bar-header"><span>' + l2Name + '</span><span>' + l2 + ' words</span></div><div class="lang-bar-track"><div class="lang-bar-fill" style="width:' + (l2/maxWords*100).toFixed(1) + '%;background:#C4A882"></div></div></div>' +
-      '<div class="lang-bar-item"><div class="lang-bar-header"><span>Combined total</span><span>' + total + ' / typical ' + range.typicalMin + '-' + range.typicalMax + '</span></div><div class="lang-bar-track"><div class="lang-bar-fill" style="width:' + Math.min(total/maxWords*100, 100).toFixed(1) + '%;background:#D4B5B0"></div></div></div>' +
+      '<div class="lang-bar-item"><div class="lang-bar-header"><span>' + l1Name + '</span><span>' + l1 + ' 個詞</span></div><div class="lang-bar-track"><div class="lang-bar-fill" style="width:' + (l1/maxWords*100).toFixed(1) + '%;background:#8D9B8E"></div></div></div>' +
+      '<div class="lang-bar-item"><div class="lang-bar-header"><span>' + l2Name + '</span><span>' + l2 + ' 個詞</span></div><div class="lang-bar-track"><div class="lang-bar-fill" style="width:' + (l2/maxWords*100).toFixed(1) + '%;background:#C4A882"></div></div></div>' +
+      '<div class="lang-bar-item"><div class="lang-bar-header"><span>合計總量</span><span>' + total + ' / 一般範圍 ' + range.typicalMin + '-' + range.typicalMax + '</span></div><div class="lang-bar-track"><div class="lang-bar-fill" style="width:' + Math.min(total/maxWords*100, 100).toFixed(1) + '%;background:#D4B5B0"></div></div></div>' +
       '<p style="font-size:0.8125rem;color:#9d9896;margin-top:0.5rem">' + range.description + '</p>';
 
     const statusCard = document.getElementById("status-card")!;

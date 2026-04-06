@@ -7,8 +7,8 @@ const lang = 'zh';
 ---
 
 <BaseLayout
-  title="Development Milestone Checker | BloomPath"
-  description="Check your child's developmental milestones across motor, language, cognitive, social-emotional, and self-care domains. Free interactive tool by BloomPath."
+  title="發展里程碑檢測 | BloomPath"
+  description="從動作、語言、認知、社交情緒到生活自理，查看孩子在各年齡階段的發展里程碑。BloomPath 免費互動工具。"
   lang={lang}
 >
   <Header lang={lang} />
@@ -17,17 +17,17 @@ const lang = 'zh';
     <div class="container">
 
       <div class="tool-hero">
-        <div class="tool-badge">Free Tool</div>
-        <h1>Development Milestone Checker</h1>
+        <div class="tool-badge">免費工具</div>
+        <h1>發展里程碑檢測</h1>
         <p class="tool-intro">
-          Explore what most children are doing at each age across five key developmental domains.
-          Remember — every child grows at their own pace.
+          探索大多數孩子在各年齡階段、五大發展領域的表現。
+          記住——每個孩子都有自己的成長節奏。
         </p>
       </div>
 
       <div class="tool-card">
         <div class="input-section">
-          <label for="age-select" class="input-label">Your child's age</label>
+          <label for="age-select" class="input-label">孩子的年齡</label>
           <div class="age-control">
             <input
               type="range"
@@ -41,20 +41,20 @@ const lang = 'zh';
             />
             <div class="age-display">
               <span id="age-value">12</span>
-              <span class="age-unit">months</span>
+              <span class="age-unit">個月</span>
             </div>
           </div>
           <div class="age-presets">
-            <button class="preset-btn" data-age="3">3 mo</button>
-            <button class="preset-btn" data-age="6">6 mo</button>
-            <button class="preset-btn" data-age="9">9 mo</button>
-            <button class="preset-btn" data-age="12">1 yr</button>
-            <button class="preset-btn" data-age="18">18 mo</button>
-            <button class="preset-btn" data-age="24">2 yr</button>
-            <button class="preset-btn" data-age="36">3 yr</button>
-            <button class="preset-btn" data-age="48">4 yr</button>
-            <button class="preset-btn" data-age="60">5 yr</button>
-            <button class="preset-btn" data-age="72">6 yr</button>
+            <button class="preset-btn" data-age="3">3 個月</button>
+            <button class="preset-btn" data-age="6">6 個月</button>
+            <button class="preset-btn" data-age="9">9 個月</button>
+            <button class="preset-btn" data-age="12">1 歲</button>
+            <button class="preset-btn" data-age="18">18 個月</button>
+            <button class="preset-btn" data-age="24">2 歲</button>
+            <button class="preset-btn" data-age="36">3 歲</button>
+            <button class="preset-btn" data-age="48">4 歲</button>
+            <button class="preset-btn" data-age="60">5 歲</button>
+            <button class="preset-btn" data-age="72">6 歲</button>
           </div>
         </div>
 
@@ -64,24 +64,24 @@ const lang = 'zh';
 
         <div class="disclaimer-box">
           <span class="disclaimer-icon">&#x2665;</span>
-          <p>Every child develops at their own unique pace. These milestones reflect typical ranges — not strict deadlines. If you have concerns, speak with your pediatrician.</p>
+          <p>每個孩子的發展節奏不同。這些里程碑反映的是一般參考範圍，不是硬性截止時間。如果你有任何擔心，請諮詢你的兒科醫師。</p>
         </div>
       </div>
 
       <div class="related-articles">
-        <h2>Related Articles</h2>
+        <h2>相關文章</h2>
         <div class="article-links">
           <a href="/en/blog/developmental-milestones-first-year" class="article-link">
             <span class="article-link-icon">&#x1F4D6;</span>
-            <span>Developmental Milestones in the First Year</span>
+            <span>寶寶第一年的發展里程碑</span>
           </a>
           <a href="/en/blog/language-development-stages" class="article-link">
             <span class="article-link-icon">&#x1F4D6;</span>
-            <span>Language Development: What to Expect</span>
+            <span>語言發展：各階段可以期待什麼</span>
           </a>
           <a href="/en/blog/when-to-talk-to-pediatrician" class="article-link">
             <span class="article-link-icon">&#x1F4D6;</span>
-            <span>When to Talk to Your Pediatrician About Development</span>
+            <span>什麼時候該去找兒科醫師談談孩子的發展</span>
           </a>
         </div>
       </div>
@@ -385,290 +385,290 @@ const lang = 'zh';
   const MILESTONES: Record<string, Record<string, string[]>> = {
     '0-6': {
       Motor: [
-        'Lifts head briefly when on tummy',
-        'Moves arms and legs actively',
-        'Brings hands to mouth',
-        'Holds head steady when upright (by 4 mo)',
-        'Rolls from tummy to back (by 5-6 mo)',
+        '趴著時能短暫抬頭',
+        '手腳會主動亂動',
+        '把手送進嘴巴',
+        '坐直時頭部能保持穩定（約 4 個月）',
+        '能從趴翻到仰躺（約 5-6 個月）',
       ],
       Language: [
-        'Startles to loud sounds',
-        'Coos and makes soft vowel sounds',
-        'Turns head toward voices',
-        'Laughs and squeals (by 4 mo)',
-        'Babbles with consonants: "ba," "ga" (by 6 mo)',
+        '聽到大聲響會嚇到',
+        '會發出咕咕聲和柔軟的母音',
+        '聽到聲音會轉頭',
+        '會笑、會發出尖叫聲（約 4 個月）',
+        '開始咿呀發音：「ba」、「ga」（約 6 個月）',
       ],
       Cognitive: [
-        'Follows moving objects with eyes',
-        'Recognizes familiar faces',
-        'Explores objects with mouth',
-        'Shows curiosity and interest in surroundings',
-        'Begins to understand cause and effect',
+        '眼睛會追著移動的東西看',
+        '認得熟悉的臉',
+        '用嘴巴探索東西',
+        '對周圍環境感到好奇、有興趣',
+        '開始理解因果關係',
       ],
       'Social-Emotional': [
-        'Social smile (by 6 weeks)',
-        'Enjoys interacting with people',
-        'Responds to faces and voices with excitement',
-        'May become fussy when interaction stops',
-        'Begins to show preferences for familiar caregivers',
+        '社交性微笑（約 6 週）',
+        '喜歡和人互動',
+        '看到臉或聽到聲音會開心回應',
+        '互動停止時可能會鬧脾氣',
+        '開始對熟悉的照顧者有偏好',
       ],
       'Self-Care': [
-        'Signals hunger and discomfort by crying',
-        'Calms when held and soothed',
-        'Establishes a feeding rhythm',
-        'Begins sleeping in longer stretches',
+        '用哭聲表達餓了或不舒服',
+        '被抱著、被安撫時會平靜下來',
+        '建立起固定的喝奶節奏',
+        '開始有比較長的睡眠時段',
       ],
     },
     '6-12': {
       Motor: [
-        'Sits without support (by 8 mo)',
-        'Pulls to stand and cruises along furniture',
-        'Pincer grasp — picks up small objects (by 9-10 mo)',
-        'May take first independent steps (by 12 mo)',
-        'Claps hands and bangs objects together',
+        '不需要支撐能獨立坐（約 8 個月）',
+        '能扶著東西站起來、沿著家具走',
+        '拇指食指夾取小物品（約 9-10 個月）',
+        '可能邁出第一步（約 12 個月）',
+        '會拍手、會把東西敲在一起',
       ],
       Language: [
-        'Babbles long strings: "babababa"',
-        'Imitates sounds and simple words',
-        'Understands "no" and their own name',
-        'May say first word (mama, dada) (by 12 mo)',
-        'Points to get attention or express wants',
+        '發出一長串咿呀聲：「babababa」',
+        '模仿聲音和簡單的詞',
+        '聽懂「不行」和自己的名字',
+        '可能說出第一個詞（媽媽、爸爸）（約 12 個月）',
+        '用手指引起注意或表達需求',
       ],
       Cognitive: [
-        'Object permanence — searches for hidden objects',
-        'Imitates simple actions',
-        'Explores objects by banging, shaking, dropping',
-        'Responds to simple requests with gestures',
-        'Shows intentional problem-solving',
+        '物體恆存——會去找藏起來的東西',
+        '模仿簡單的動作',
+        '用敲打、搖晃、丟東西來探索',
+        '會用手勢回應簡單的要求',
+        '展現出有目的的解決問題行為',
       ],
       'Social-Emotional': [
-        'Shows stranger anxiety',
-        'Develops strong attachment to caregivers',
-        'Tests reactions with different people',
-        'Expresses a range of emotions',
-        'Enjoys social games like peek-a-boo',
+        '出現認生（怕陌生人）',
+        '對照顧者產生強烈的依附感',
+        '對不同的人測試各種反應',
+        '表達多種情緒',
+        '喜歡玩躲貓貓等社交遊戲',
       ],
       'Self-Care': [
-        'Begins finger foods',
-        'Drinks from a cup with help',
-        'Participates in dressing (lifts arms)',
-        'May begin to show preferences for certain foods',
+        '開始吃手指食物',
+        '在協助下用杯子喝水',
+        '會配合穿衣（舉起手臂）',
+        '可能開始對某些食物有偏好',
       ],
     },
     '12-18': {
       Motor: [
-        'Walks independently (most by 14-15 mo)',
-        'Stoops and stands without support',
-        'Throws a ball overhand',
-        'Stacks 2-3 blocks',
-        'Scribbles with crayon',
+        '能獨立走路（大多數在 14-15 個月）',
+        '能蹲下再站起來，不需要支撐',
+        '過肩丟球',
+        '疊 2-3 個積木',
+        '用蠟筆亂畫',
       ],
       Language: [
-        'Uses 5-20+ words meaningfully',
-        'Points to body parts when named',
-        'Understands simple 1-step instructions',
-        'Uses "more," "no," names of familiar objects',
-        'Combines gestures with words',
+        '有意義地使用 5-20 個以上的詞',
+        '被點名時能指出身體部位',
+        '聽懂簡單的一步指令',
+        '使用「more（更多）」、「no（不要）」、熟悉物品的名稱',
+        '把手勢和詞語結合在一起',
       ],
       Cognitive: [
-        'Imitates simple pretend play (feeding a doll)',
-        'Explores cause-and-effect toys',
-        'Identifies familiar objects in pictures',
-        'Sorts shapes and colors (beginning)',
-        'Purposefully completes simple puzzles',
+        '模仿簡單的假扮遊戲（餵玩具娃娃）',
+        '探索因果玩具',
+        '在圖片中認出熟悉的物品',
+        '開始嘗試分類形狀和顏色',
+        '能刻意完成簡單的拼圖',
       ],
       'Social-Emotional': [
-        'Shows affection for familiar people',
-        'Tantrums when frustrated (normal!)',
-        'Asserts independence ("no!")',
-        'Plays near other children (parallel play)',
-        'Shows empathy — comforts when others are upset',
+        '對熟悉的人表達感情',
+        '挫折時會發脾氣（完全正常！）',
+        '主張自己的獨立（「不要！」）',
+        '在其他小朋友旁邊玩（平行遊戲）',
+        '展現同理心——其他人難過時會去安慰',
       ],
       'Self-Care': [
-        'Uses spoon with spilling',
-        'Drinks from cup independently',
-        'Helps with undressing',
-        'Indicates when diaper is wet/dirty',
+        '用湯匙吃東西但會灑出來',
+        '能獨立用杯子喝水',
+        '協助脫衣服',
+        '知道尿布濕了或髒了會表示',
       ],
     },
     '18-24': {
       Motor: [
-        'Runs (though may fall)',
-        'Kicks a ball forward',
-        'Climbs onto furniture',
-        'Walks up steps with support',
-        'Stacks 4-6 blocks',
+        '會跑（但可能跌倒）',
+        '往前踢球',
+        '爬上家具',
+        '扶著走上台階',
+        '疊 4-6 個積木',
       ],
       Language: [
-        'Vocabulary of 50+ words (by 24 mo)',
-        'Begins combining two words: "more milk," "daddy go"',
-        'Refers to self by name',
-        'Follows 2-step instructions',
-        'Uses words more than gestures to communicate',
+        '詞彙量超過 50 個詞（到 24 個月）',
+        '開始把兩個詞組合在一起：「再要」、「爸爸走」',
+        '用自己的名字稱呼自己',
+        '理解兩步指令',
+        '比起手勢，更多用語言來溝通',
       ],
       Cognitive: [
-        'Engages in simple pretend play',
-        'Sorts objects by shape and color',
-        'Points to pictures in books when named',
-        'Begins to grasp "mine" vs "yours"',
-        'Shows early problem-solving with trial and error',
+        '進行簡單的假扮遊戲',
+        '按形狀和顏色分類物品',
+        '被點名時能指出書裡的圖片',
+        '開始理解「我的」和「你的」',
+        '展現早期的嘗試錯誤解決問題能力',
       ],
       'Social-Emotional': [
-        'Increasingly independent ("me do it!")',
-        'Plays alongside other children',
-        'Shows frustration when can\'t communicate',
-        'May have imaginary friends beginning to form',
-        'Seeks comfort from trusted adults',
+        '越來越有獨立意識（「我自己來！」）',
+        '在其他小朋友旁邊玩',
+        '溝通不了時會感到挫折',
+        '可能開始形成想像中的朋友',
+        '向信任的大人尋求安慰',
       ],
       'Self-Care': [
-        'Uses spoon and fork with some spilling',
-        'Begins to dress/undress with help',
-        'Washes hands with help',
-        'Shows interest in toilet training readiness',
+        '用湯匙和叉子吃東西，但還是會灑',
+        '開始在協助下穿脫衣服',
+        '在協助下洗手',
+        '對如廁訓練顯示出準備好的跡象',
       ],
     },
     '24-36': {
       Motor: [
-        'Jumps with both feet',
-        'Pedals a tricycle',
-        'Kicks and throws ball with aim',
-        'Walks up and down stairs alternating feet',
-        'Draws simple shapes (circles)',
+        '雙腳跳',
+        '騎三輪車',
+        '踢球和丟球都有點方向感',
+        '上下樓梯時能左右腳交替',
+        '畫簡單的形狀（圓形）',
       ],
       Language: [
-        'Vocabulary of 200-1000 words',
-        'Uses 3-4 word sentences',
-        'Asks "why?" and "what?" questions',
-        'Strangers can understand most speech (by 36 mo)',
-        'Uses plurals and past tense (with errors)',
+        '詞彙量 200-1000 個詞',
+        '使用 3-4 個詞的句子',
+        '不停地問「為什麼？」和「什麼？」',
+        '陌生人能聽懂大部分的話（到 36 個月）',
+        '使用複數和過去式（會有錯誤）',
       ],
       Cognitive: [
-        'Engages in complex pretend play',
-        'Understands concepts: big/little, more/less',
-        'Matches and sorts by color, shape, size',
-        'Completes 3-4 piece puzzles',
-        'Begins to understand time: "yesterday," "later"',
+        '進行複雜的假扮遊戲',
+        '理解概念：大/小、多/少',
+        '按顏色、形狀、大小配對和分類',
+        '完成 3-4 片拼圖',
+        '開始理解時間概念：「昨天」、「待會」',
       ],
       'Social-Emotional': [
-        'Takes turns and shares (with reminders)',
-        'Shows concern for others',
-        'Separates from caregivers more easily',
-        'Plays cooperatively with peers at times',
-        'Has wider range of emotional expression',
+        '輪流和分享（需要提醒）',
+        '關心他人',
+        '更容易與照顧者分開',
+        '有時候能和同伴合作玩',
+        '情緒表達範圍更廣了',
       ],
       'Self-Care': [
-        'Feeds self with minimal spilling',
-        'Dresses with some help',
-        'Toilet trained or in training (wide range is normal)',
-        'Washes hands independently',
+        '自己吃東西，灑得比較少了',
+        '穿衣服需要一點協助',
+        '已如廁訓練或正在訓練中（範圍很廣都正常）',
+        '能獨立洗手',
       ],
     },
     '36-48': {
       Motor: [
-        'Hops on one foot',
-        'Catches a bounced ball',
-        'Draws recognizable people (head + body)',
-        'Uses scissors to cut paper',
-        'Buttons large buttons',
+        '單腳跳',
+        '接住彈跳的球',
+        '畫出看得出來是人的圖（有頭和身體）',
+        '用剪刀剪紙',
+        '能扣大顆的鈕扣',
       ],
       Language: [
-        'Speaks in 4-6 word sentences',
-        'Tells stories about past events',
-        'Understands most of what is said to them',
-        'Asks "who," "what," "where," "why" constantly',
-        'Uses pronouns correctly most of the time',
+        '說 4-6 個詞的句子',
+        '描述過去發生的事',
+        '理解大部分說給他們聽的話',
+        '一直問「誰」、「什麼」、「在哪裡」、「為什麼」',
+        '大多數時候能正確使用代名詞',
       ],
       Cognitive: [
-        'Counts 4-10 objects',
-        'Understands the concept of same and different',
-        'Engages in rich fantasy/pretend play',
-        'Begins to understand letters and numbers',
-        'Sorts by multiple attributes',
+        '數 4-10 個物品',
+        '理解「相同」和「不同」的概念',
+        '有豐富的幻想／假扮遊戲',
+        '開始認識字母和數字',
+        '按多種屬性分類',
       ],
       'Social-Emotional': [
-        'Cooperates with other children',
-        'Negotiates and compromises',
-        'Aware of gender identity',
-        'Begins to understand rules of games',
-        'Talks about feelings and emotions',
+        '能和其他小朋友合作',
+        '協商和妥協',
+        '有性別認同意識',
+        '開始理解遊戲規則',
+        '談論自己的感受和情緒',
       ],
       'Self-Care': [
-        'Dresses and undresses independently',
-        'Brushes teeth with supervision',
-        'Uses toilet independently (nighttime may take longer)',
-        'Pours liquid with minimal spilling',
+        '能獨立穿脫衣服',
+        '在監督下刷牙',
+        '能獨立上廁所（夜間可能需要更長時間）',
+        '倒液體時灑得很少',
       ],
     },
     '48-60': {
       Motor: [
-        'Skips and gallops',
-        'Bounces and catches a ball reliably',
-        'Prints some letters and numbers',
-        'Uses fork and knife with help',
-        'Draws detailed pictures with head, arms, legs, body',
+        '會跳步和跑跳步',
+        '能穩定地彈跳接球',
+        '能印出一些字母和數字',
+        '在協助下使用叉子和刀',
+        '畫出有頭、手臂、腿和身體的詳細圖畫',
       ],
       Language: [
-        'Speaks clearly — strangers understand easily',
-        'Uses 5-8 word sentences',
-        'Tells elaborate stories',
-        'Counts to 20 or higher',
-        'Identifies rhyming words',
+        '說話清楚——陌生人也聽得懂',
+        '使用 5-8 個詞的句子',
+        '說出詳細的故事',
+        '數到 20 或更高',
+        '能辨識押韻的詞',
       ],
       Cognitive: [
-        'Understands and follows multi-step instructions',
-        'Recognizes most letters of the alphabet',
-        'Understands the concept of time (days of week)',
-        'Focuses attention for 10-15 minutes',
-        'Understands opposites',
+        '理解並遵循多步驟指示',
+        '認識大部分的字母',
+        '理解時間概念（一週的幾天）',
+        '能專注 10-15 分鐘',
+        '理解反義詞',
       ],
       'Social-Emotional': [
-        'Prefers playing with friends to playing alone',
-        'More aware of other children\'s feelings',
-        'Can take turns and follow rules in games',
-        'May have a "best friend"',
-        'Negotiates and solves conflicts (sometimes)',
+        '比起一個人玩，更喜歡和朋友一起玩',
+        '更能感受到其他小朋友的感受',
+        '能輪流並在遊戲中遵守規則',
+        '可能有「最好的朋友」',
+        '協商並解決衝突（有時候啦）',
       ],
       'Self-Care': [
-        'Dresses completely independently',
-        'Brushes teeth independently',
-        'Prepares simple snacks',
-        'Manages personal hygiene with reminders',
+        '能完全獨立穿衣服',
+        '能獨立刷牙',
+        '準備簡單的點心',
+        '在提醒下管理個人衛生',
       ],
     },
     '60-72': {
       Motor: [
-        'Rides a bike with training wheels or without',
-        'Skips, hops, jumps with coordination',
-        'Writes name and copies letters',
-        'Ties shoelaces (many by end of this period)',
-        'Skilled at cutting with scissors',
+        '騎有輔助輪或沒有輔助輪的腳踏車',
+        '跳步、單腳跳、跳躍，都能協調地做',
+        '能寫出自己的名字並抄寫字母',
+        '繫鞋帶（很多在這個階段末期會）',
+        '用剪刀剪得很熟練',
       ],
       Language: [
-        'Uses complex sentences with clauses',
-        'Retells stories in correct sequence',
-        'Understands and explains most concepts',
-        'Vocabulary of 2000+ words',
-        'Beginning to read simple words (many by 6)',
+        '使用有子句的複雜句子',
+        '能按正確的順序重述故事',
+        '理解並能解釋大多數概念',
+        '詞彙量超過 2000 個詞',
+        '開始讀簡單的詞（很多在 6 歲前）',
       ],
       Cognitive: [
-        'Counts objects and understands number concepts',
-        'Understands and uses logical reasoning',
-        'Beginning to read and write',
-        'Solves simple math problems',
-        'Curious, asks thoughtful questions',
+        '數物品並理解數字概念',
+        '理解並使用邏輯推理',
+        '開始讀和寫',
+        '解決簡單的數學問題',
+        '好奇心強，會問有深度的問題',
       ],
       'Social-Emotional': [
-        'Understands rules and importance of fairness',
-        'Shows more independence and confidence',
-        'Manages emotions better (with coaching)',
-        'Genuine friendships with peers',
-        'Can distinguish real from fantasy',
+        '理解規則和公平的重要性',
+        '更獨立、更有自信',
+        '情緒管理越來越好（需要引導）',
+        '與同伴建立真正的友誼',
+        '能區分真實和幻想',
       ],
       'Self-Care': [
-        'Fully independent with dressing and hygiene',
-        'Helps with simple household tasks',
-        'Manages belongings at school',
-        'Pours and prepares simple foods',
+        '穿衣和個人衛生完全獨立',
+        '幫忙做簡單的家務',
+        '管理自己在學校的東西',
+        '能倒和準備簡單的食物',
       ],
     },
   };
@@ -679,6 +679,14 @@ const lang = 'zh';
     Cognitive: '🧠',
     'Social-Emotional': '🤝',
     'Self-Care': '⭐',
+  };
+
+  const DOMAIN_LABELS: Record<string, string> = {
+    Motor: '動作發展',
+    Language: '語言',
+    Cognitive: '認知',
+    'Social-Emotional': '社交情緒',
+    'Self-Care': '生活自理',
   };
 
   const DOMAIN_COLORS: Record<string, string> = {
@@ -701,12 +709,12 @@ const lang = 'zh';
   }
 
   function formatAge(months: number): string {
-    if (months === 0) return '0 months (newborn)';
-    if (months < 12) return `${months} month${months === 1 ? '' : 's'}`;
+    if (months === 0) return '0 個月（新生兒）';
+    if (months < 12) return `${months} 個月`;
     const years = Math.floor(months / 12);
     const rem = months % 12;
-    if (rem === 0) return `${years} year${years === 1 ? '' : 's'} (${months} months)`;
-    return `${years} yr ${rem} mo (${months} months)`;
+    if (rem === 0) return `${years} 歲（${months} 個月）`;
+    return `${years} 歲 ${rem} 個月（${months} 個月）`;
   }
 
   function renderResults(months: number) {
@@ -718,6 +726,7 @@ const lang = 'zh';
       .map(([domain, items]) => {
         const color = DOMAIN_COLORS[domain] || '#8D9B8E';
         const icon = DOMAIN_ICONS[domain] || '•';
+        const label = DOMAIN_LABELS[domain] || domain;
         const itemsHtml = items
           .map(
             (item) => `
@@ -731,7 +740,7 @@ const lang = 'zh';
         <div class="domain-card">
           <div class="domain-header">
             <span class="domain-icon">${icon}</span>
-            <span class="domain-name" style="color:${color}">${domain}</span>
+            <span class="domain-name" style="color:${color}">${label}</span>
           </div>
           <ul class="milestone-list">${itemsHtml}</ul>
         </div>`;
@@ -740,7 +749,7 @@ const lang = 'zh';
 
     resultsEl.innerHTML = `
       <div class="results-header">
-        <p class="results-age-label">Milestones for <span>${formatAge(months)}</span></p>
+        <p class="results-age-label"><span>${formatAge(months)}</span> 的里程碑</p>
       </div>
       <div class="domains-grid">${domainsHtml}</div>
     `;
