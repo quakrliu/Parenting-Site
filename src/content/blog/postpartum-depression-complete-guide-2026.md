@@ -3,7 +3,7 @@ title: "產後憂鬱症完整指南：50% 未被診斷，妳不孤單"
 description: "產後憂鬱症影響7分之1的新手媽媽，卻有高達50%未被診斷。了解症狀識別、2026年最新治療選項（zuranolone、brexanolone），及台灣心理健康求助資源。"
 pubDate: 2026-03-31
 updatedDate: 2026-03-31
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 tags: ["產後憂鬱症症狀", "產後情緒低落怎麼辦", "postpartum depression台灣", "產後心理健康", "新手媽媽"]
 image: "/images/postpartum-depression-guide.jpg"
 imageAlt: "產後憂鬱症完整指南"

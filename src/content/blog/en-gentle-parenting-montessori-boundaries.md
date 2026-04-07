@@ -8,7 +8,7 @@ lang: "en"
 tags: ["gentle parenting", "Montessori parenting", "positive parenting", "authoritative parenting", "toddler discipline", "parenting 2026"]
 keywords: ["gentle parenting 2026", "is gentle parenting bad", "authoritative parenting vs gentle parenting", "positive parenting boundaries", "Montessori discipline", "hybrid parenting"]
 image: "/images/og/en-gentle-parenting-montessori-boundaries.jpg"
-author: "BloomPath Editorial"
+author: "Ethan Moore"
 affiliate: true
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---

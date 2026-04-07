@@ -3,7 +3,7 @@ title: "AAP 2026 螢幕時間新指引：從「限時」到「重質」，家長
 description: "AAP 2026年2月發布重大政策轉向：移除每日螢幕時間硬性上限，改以內容品質、家長陪伴、數位生態系統為核心框架。台灣爸媽應如何調整？"
 pubDate: 2026-03-31
 updatedDate: 2026-03-31
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 tags: ["AAP螢幕時間2026", "兒童手機平板時間", "幼兒看電視幾小時", "兒童數位健康", "育兒科技"]
 image: "/images/aap-screen-time-2026.jpg"
 imageAlt: "AAP 2026螢幕時間新指引"

@@ -7,7 +7,7 @@ lastUpdated: 2026-03-31
 description: "Australia banned social media for under-16s in December 2025. Ten more countries are following. Here's what the research says, what actually works, and how to have the conversation with your teen."
 keywords: ["social media rules for teenagers", "teen social media ban", "digital literacy teens", "australia social media ban", "parental controls for teens"]
 tags: ["teen digital safety", "social media", "parenting teens", "positive parenting", "digital literacy"]
-author: "龐統"
+author: "Ethan Moore"
 affiliate: ["bark", "circle", "the-anxious-generation"]
 ageGroup: ["school", "teen"]
 ---

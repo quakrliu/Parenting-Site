@@ -3,7 +3,7 @@ title: "Does Montessori Actually Work? A Landmark Study Just Settled the Debate.
 description: "The first national randomized controlled trial of public Montessori preschool found stronger reading, executive function, and social skills — at $13,127 less per child. Here's what every parent needs to know."
 pubDate: 2026-04-03
 lastUpdated: 2026-04-03
-author: bloompath
+author: "Ethan Moore"
 slug: montessori-preschool-evidence-pnas-study-2026
 tags: ["montessori", "preschool", "child development", "executive function", "research", "early childhood education"]
 ageGroup: ["infant", "toddler", "preschool"]

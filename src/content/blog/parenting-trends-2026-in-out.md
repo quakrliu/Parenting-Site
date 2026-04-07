@@ -3,7 +3,7 @@ title: "2026 育兒趨勢大公開：什麼 IN、什麼 OUT？慢養、分班育
 description: "2026年育兒觀念大轉變！溫柔教養式微、同理+界限崛起、慢養運動興起、分班育兒法流行。78%父母新年目標是「減少育兒罪惡感」，你跟上了嗎？"
 pubDate: 2026-03-31
 updatedDate: 2026-03-31
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 tags: ["2026育兒趨勢", "溫柔教養還流行嗎", "新手父母育兒方式", "slow parenting", "同理教養"]
 image: "/images/parenting-trends-2026.jpg"
 imageAlt: "2026育兒趨勢大公開"

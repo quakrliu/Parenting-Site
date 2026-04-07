@@ -3,7 +3,7 @@ title: "2026 台北蒙特梭利學校完整指南：TMIS、T.I.M.E.S、Y2MAC 選
 description: "台北有哪些蒙特梭利學校？TMIS、T.I.M.E.S、Y2MAC 特色、費用、適合年齡完整比較。2026 最新整理，幫助台灣爸媽做出最適合孩子的選校決定。"
 pubDate: 2026-04-01
 updatedDate: 2026-03-31
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 tags: ["台北蒙特梭利學校", "台灣蒙特梭利幼兒園", "Montessori台灣", "蒙特梭利費用", "選校指南"]
 image: "/images/taipei-montessori-schools-2026.jpg"
 imageAlt: "台北蒙特梭利學校指南 2026"

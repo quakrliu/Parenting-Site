@@ -5,7 +5,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-04-01
 tags: ["teen mental health", "parenting teenagers", "teen anxiety signs", "teen depression warning signs", "how to help a depressed teenager"]
 slug: "teen-mental-health-warning-signs-2026"
-author: "BloomPath Editorial"
+author: "Ethan Moore"
 category: "Parenting Teens"
 affiliate: true
 schema:

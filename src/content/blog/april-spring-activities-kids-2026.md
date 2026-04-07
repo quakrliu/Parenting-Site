@@ -3,7 +3,7 @@ title: "四月春季親子活動大全：50 個不花錢的創意玩法（2-8歲
 description: "四月春暖花開，帶孩子走出家門！50個春季親子活動創意，包含自然尋寶、蝴蝶觀察、小菜園種植、戶外野餐，全部低成本或免費，適合2-8歲。"
 pubDate: 2026-03-31
 updatedDate: 2026-03-31
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 tags: ["四月親子活動", "春天帶小孩去哪", "春季幼兒戶外活動", "復活節活動兒童", "親子戶外遊戲"]
 image: "/images/april-spring-activities-kids.jpg"
 imageAlt: "四月春季親子活動創意"

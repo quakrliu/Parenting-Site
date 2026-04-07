@@ -3,7 +3,7 @@ title: "家長職業倦怠：92% 父母精疲力竭，你也中了嗎？（含37
 description: "2026年研究顯示92%職場父母感到倦怠，65%達臨床程度。了解育兒精疲力竭的成因、症狀、及有效的恢復策略，心理教育介入可降低倦怠37%。"
 pubDate: 2026-03-31
 updatedDate: 2026-03-31
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 tags: ["父母倦怠", "育兒精疲力竭", "親職壓力解決方法", "parental burnout", "育兒心理健康"]
 image: "/images/parental-burnout-2026.jpg"
 imageAlt: "家長職業倦怠指南"

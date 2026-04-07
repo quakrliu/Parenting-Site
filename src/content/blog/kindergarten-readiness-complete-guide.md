@@ -3,7 +3,7 @@ title: "幼稚園入學準備完整指南：孩子準備好了嗎？（學術、
 description: "研究顯示40%孩子上幼稚園時落後1-3年。本文完整解析幼稚園準備度的5大面向、家長可做的具體練習，及台灣入學資訊，幫助孩子自信展開校園生活。"
 pubDate: 2026-03-31
 updatedDate: 2026-03-31
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 tags: ["幼稚園入學準備", "孩子上小學準備", "kindergarten readiness台灣", "幼兒學習", "入學準備清單"]
 image: "/images/kindergarten-readiness-guide.jpg"
 imageAlt: "幼稚園入學準備完整指南"

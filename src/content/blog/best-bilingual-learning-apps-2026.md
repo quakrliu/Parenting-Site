@@ -3,7 +3,7 @@ title: "2026 最佳中英雙語學習 App 推薦（0-8歲）：Studycat、LingoD
 description: "台灣及海外華人家庭雙語育兒首選！深度評測 Studycat Chinese、LingoDodo 等中英雙語學習 App，依年齡分級推薦，讓寶貝輕鬆愛上中英文。"
 pubDate: 2026-03-31
 updatedDate: 2026-03-31
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 tags: ["中文學習app兒童", "雙語學習app推薦", "Studycat評測", "雙語育兒", "兒童英語學習"]
 image: "/images/bilingual-learning-apps-2026.jpg"
 imageAlt: "2026最佳中英雙語兒童學習App推薦"

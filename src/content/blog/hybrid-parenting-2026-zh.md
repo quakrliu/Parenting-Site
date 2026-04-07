@@ -6,7 +6,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-04-01
 tags: ["混合式教養", "溫和教養", "正向教養", "育兒方法 2026"]
 keywords: ["溫和教養 缺點", "正向教養 方法", "混合式教養", "溫和教養 台灣", "正向教養 界限"]
-author: "bloompath-dad"
+author: "Ethan Moore"
 lang: "zh-TW"
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---

@@ -4,7 +4,7 @@ description: "孩子進入青春期後，問什麼都說「不知道」？台灣
 pubDate: 2026-03-31
 updatedDate: 2026-03-31
 tags: ["怎麼跟青少年溝通", "青春期孩子不理人怎麼辦", "叛逆期親子關係", "青少年溝通技巧", "親子溝通腳本"]
-author: "BloomPath 育見未來編輯團隊"
+author: "Ethan Moore"
 lang: "zh-TW"
 ageGroup: ["school", "teen"]
 ---

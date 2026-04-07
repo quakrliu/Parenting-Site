@@ -7,7 +7,7 @@ updatedDate: "2026-04-04"
 lang: "zh-TW"
 tags: ["台灣兒童幸福感", "親子關係", "父母情緒影響孩子", "正向教養", "螢幕時間"]
 keywords: ["台灣兒童幸福感", "親子關係研究", "父母情緒影響孩子", "正向教養方法", "兒童心理健康"]
-author: "龐統（工程師爸爸）"
+author: "Ethan Moore"
 category: "正向教養"
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
