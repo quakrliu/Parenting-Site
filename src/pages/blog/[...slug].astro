@@ -11,5 +11,17 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const lang = post.data.lang === 'zh-TW' ? 'zh' : 'en';
-return Astro.redirect(`/${lang}/blog/${post.id}`, 301);
+const redirectUrl = `/${lang}/blog/${post.id}`;
 ---
+
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="refresh" content={`0;url=${redirectUrl}`} />
+  <link rel="canonical" href={redirectUrl} />
+  <title>Redirecting...</title>
+</head>
+<body>
+  <p>Redirecting to <a href={redirectUrl}>{redirectUrl}</a>...</p>
+</body>
+</html>
