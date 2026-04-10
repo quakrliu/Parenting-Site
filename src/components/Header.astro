@@ -14,6 +14,12 @@ const currentPath = Astro.url.pathname;
 const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}/`;
 ---
 
+<div class="app-banner">
+  <div class="container app-banner-inner">
+    <span>{lang === 'zh' ? '🌱 BloomPath App 已上架！追蹤寶貝 224 項發展里程碑' : '🌱 BloomPath App is live! Track 224 developmental milestones'}</span>
+    <a href="https://bloompath.quakr.dev" target="_blank" class="app-banner-cta">{lang === 'zh' ? '免費下載' : 'Download Free'}</a>
+  </div>
+</div>
 <header class="site-header">
   <div class="container header-inner">
     <a href={localePath('/', lang)} class="logo" aria-label="BloomPath Home">
@@ -43,6 +49,31 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
 </header>
 
 <style>
+  .app-banner {
+    background: var(--color-forest, #8D9B8E);
+    color: white;
+    font-size: 0.85rem;
+    padding: 0.5rem 0;
+  }
+  .app-banner-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .app-banner-cta {
+    background: white;
+    color: var(--color-forest, #8D9B8E);
+    padding: 0.25rem 0.75rem;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 0.8rem;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .app-banner-cta:hover { opacity: 0.9; }
+
   .site-header {
     position: sticky;
     top: 0;
