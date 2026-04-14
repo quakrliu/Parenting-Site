@@ -92,15 +92,27 @@ export const ui = {
 
     // About
     'section.about': 'About',
-    'section.about.title': 'Built by Parents, Backed by Research',
-    'section.about.p1': 'BloomPath started from a simple frustration: parenting advice is everywhere, but finding reliable, evidence-based Montessori and positive parenting guidance shouldn\'t require a PhD.',
-    'section.about.p2': 'Every article references peer-reviewed studies, pediatric guidelines, or expert recommendations. We translate the research so you can act on it today.',
+    'section.about.title': 'Meet Ethan and Mei',
+    'section.about.p1': 'Ethan is a software engineer turned stay-at-home dad. Mei is a former early childhood educator. Together they\'re raising their daughter in Bali — and sharing everything they learn along the way.',
+    'section.about.p2': 'No perfect-parent nonsense. Just honest reflections, Montessori-inspired ideas, and positive parenting tools that actually work in real life.',
     'section.about.evidence': 'Evidence First',
     'section.about.evidence.desc': 'Every claim links to its source',
     'section.about.practical': 'Practical Focus',
     'section.about.practical.desc': 'Actionable steps, not abstract theory',
     'section.about.inclusive': 'Bilingual',
     'section.about.inclusive.desc': 'Content in English and Traditional Chinese',
+    'section.about.youtube': 'Watch on YouTube',
+    // Hero personal
+    'hero.name': 'We\'re Ethan and Mei.',
+    'hero.tagline': 'Two real parents, figuring it out — one meltdown at a time.',
+    'hero.subtext': 'Montessori-inspired. Positive parenting. No guilt, no judgment.',
+    'hero.trust.real': 'Written by real parents',
+    'hero.trust.montessori': 'Montessori-inspired',
+    // Podcast
+    'section.podcast': 'On YouTube',
+    'section.podcast.title': 'Watch the Latest Episode',
+    'section.podcast.desc': 'We film real parenting moments — the wins, the messes, and everything in between.',
+    'section.podcast.cta': 'See All Episodes',
     // Age Navigator
     'age.section': 'Find Your Stage',
     'age.section.title': 'Where is your child right now?',
@@ -263,16 +275,28 @@ export const ui = {
     'section.newsletter.placeholder': '電子報訂閱功能即將上線，敬請期待。',
 
     // About
-    'section.about': '關於',
-    'section.about.title': '由父母打造，以研究為後盾',
-    'section.about.p1': '育見未來源於一個簡單的困擾：育兒建議到處都是，但找到可靠的、以證據為基礎的蒙特梭利與正向教養指引，不應該需要一個博士學位。',
-    'section.about.p2': '我們發表的每篇文章都引用同儕審查的研究、兒科指南或專家建議。我們翻譯研究成果，讓你今天就能付諸行動。',
+    'section.about': '關於我們',
+    'section.about.title': '認識 Ethan 和 Mei',
+    'section.about.p1': 'Ethan 是轉職全職奶爸的軟體工程師，Mei 是前幼兒教育工作者。他們在峇里島一起養育女兒，並把沿途學到的一切分享出來。',
+    'section.about.p2': '沒有完美父母的壓力，只有誠實的反思、蒙特梭利啟發的想法，以及真正有用的正向教養方式。',
     'section.about.evidence': '證據優先',
     'section.about.evidence.desc': '每個主張都附有來源連結',
     'section.about.practical': '實用導向',
     'section.about.practical.desc': '可執行的步驟，非抽象理論',
     'section.about.inclusive': '雙語支援',
     'section.about.inclusive.desc': '英文與繁體中文內容',
+    'section.about.youtube': '觀看 YouTube 頻道',
+    // Hero personal
+    'hero.name': '我們是 Ethan 和 Mei。',
+    'hero.tagline': '兩個真實的父母，在每一次崩潰中慢慢摸索。',
+    'hero.subtext': '蒙特梭利啟發。正向教養。不批判，不內疚。',
+    'hero.trust.real': '由真實父母撰寫',
+    'hero.trust.montessori': '蒙特梭利啟發',
+    // Podcast
+    'section.podcast': 'YouTube 頻道',
+    'section.podcast.title': '觀看最新集數',
+    'section.podcast.desc': '我們記錄真實的育兒片段，包括成功、混亂，以及一切的一切。',
+    'section.podcast.cta': '查看所有集數',
     // Age Navigator
     'age.section': '找到你的階段',
     'age.section.title': '你的孩子現在在哪個階段？',

@@ -10,21 +10,11 @@ const t = useTranslations(lang);
 ---
 
 <section class="hero">
-  <div class="hero__bg" aria-hidden="true">
-    <img
-      src="/images/hero-family.jpg"
-      alt=""
-      width="1920"
-      height="1080"
-      loading="eager"
-      class="hero__bg-img"
-    />
-    <div class="hero__bg-overlay"></div>
-  </div>
   <div class="container hero__grid">
     <div class="hero__content">
-      <h1 set:html={t('hero.heading')} />
-      <p class="hero__desc">{t('hero.desc')}</p>
+      <p class="hero__name">{t('hero.name')}</p>
+      <h1>{t('hero.tagline')}</h1>
+      <p class="hero__subtext">{t('hero.subtext')}</p>
       <div class="hero__actions">
         <a href={`/${lang}/blog`} class="btn btn--primary btn--lg">
           {t('hero.cta.articles')}
@@ -34,11 +24,11 @@ const t = useTranslations(lang);
       <div class="hero__trust">
         <span class="hero__trust-item">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-          {t('hero.trust.evidence')}
+          {t('hero.trust.real')}
         </span>
         <span class="hero__trust-item">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-          {t('hero.trust.parents')}
+          {t('hero.trust.montessori')}
         </span>
         <span class="hero__trust-item">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
@@ -46,76 +36,75 @@ const t = useTranslations(lang);
         </span>
       </div>
     </div>
+
+    <div class="hero__aside" aria-hidden="true">
+      <div class="hero__card hero__card--1">
+        <div class="hero__card-dot"></div>
+        <p class="hero__card-label">{t('hero.trust.real')}</p>
+      </div>
+      <div class="hero__card hero__card--2">
+        <div class="hero__card-dot hero__card-dot--coral"></div>
+        <p class="hero__card-label">{t('hero.trust.montessori')}</p>
+      </div>
+      <div class="hero__card hero__card--3">
+        <div class="hero__card-dot hero__card-dot--sage"></div>
+        <p class="hero__card-label">{t('hero.trust.free')}</p>
+      </div>
+    </div>
   </div>
 </section>
 
 <style>
   .hero {
-    position: relative;
-    min-height: 65vh;
-    min-height: 65dvh;
-    display: flex;
-    align-items: center;
+    padding: 7rem 0 5.5rem;
+    background: var(--color-cream, #F5F0EB);
     overflow: hidden;
   }
 
-  .hero__bg {
-    position: absolute;
-    inset: 0;
-    z-index: 0;
-  }
-
-  .hero__bg-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 30%;
-  }
-
-  .hero__bg-overlay {
-    position: absolute;
-    inset: 0;
-    background:
-      linear-gradient(105deg, rgba(250, 248, 245, 0.95) 0%, rgba(250, 248, 245, 0.82) 45%, rgba(250, 248, 245, 0.3) 75%, transparent 100%);
-  }
-
   .hero__grid {
-    position: relative;
-    z-index: 1;
-    padding: 8rem 0 6rem;
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 4rem;
+    align-items: center;
   }
 
-  .hero__content {
-    max-width: 620px;
+  .hero__name {
+    font-size: 1.0625rem;
+    font-weight: 600;
+    color: var(--color-forest, #8D9B8E);
+    letter-spacing: 0.01em;
+    margin-bottom: 1.125rem;
   }
 
-  .hero :global(h1) {
-    font-size: 4rem;
+  .hero h1 {
+    font-size: clamp(2.25rem, 4.5vw, 3.5rem);
     font-weight: 800;
-    line-height: 1.04;
+    line-height: 1.08;
     letter-spacing: -0.04em;
     color: var(--color-text);
     text-wrap: balance;
+    max-width: 18ch;
   }
 
-  .hero__desc {
-    font-size: 1.1875rem;
+  .hero__subtext {
+    font-size: 1.0625rem;
     color: var(--color-text-light);
     line-height: 1.7;
-    max-width: 50ch;
-    margin-top: 1.75rem;
+    max-width: 46ch;
+    margin-top: 1.5rem;
   }
 
   .hero__actions {
-    margin-top: 2.5rem;
+    margin-top: 2.25rem;
   }
 
   .hero__trust {
     display: flex;
-    gap: 1.75rem;
-    margin-top: 2.75rem;
-    padding-top: 2rem;
-    border-top: 1px solid rgba(141, 155, 142, 0.12);
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+    padding-top: 1.75rem;
+    border-top: 1px solid rgba(141, 155, 142, 0.15);
   }
 
   .hero__trust-item {
@@ -128,29 +117,98 @@ const t = useTranslations(lang);
   }
 
   .hero__trust-item svg {
-    color: var(--color-forest);
+    color: var(--color-forest, #8D9B8E);
     flex-shrink: 0;
   }
 
+  /* Right side floating trust cards */
+  .hero__aside {
+    position: relative;
+    height: 320px;
+  }
+
+  .hero__card {
+    position: absolute;
+    background: var(--color-white, #fff);
+    border-radius: 16px;
+    padding: 1rem 1.375rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    box-shadow: 0 8px 32px -8px rgba(141, 155, 142, 0.18);
+    border: 1px solid rgba(141, 155, 142, 0.08);
+  }
+
+  .hero__card--1 { top: 20px; right: 0; }
+  .hero__card--2 { top: 110px; left: 0; }
+  .hero__card--3 { bottom: 20px; right: 20px; }
+
+  .hero__card-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--color-forest, #8D9B8E);
+    flex-shrink: 0;
+  }
+
+  .hero__card-dot--coral {
+    background: var(--color-coral, #D4B5B0);
+  }
+
+  .hero__card-dot--sage {
+    background: var(--color-forest, #8D9B8E);
+    opacity: 0.5;
+  }
+
+  .hero__card-label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-text);
+    white-space: nowrap;
+  }
+
   @media (max-width: 1023px) {
-    .hero { min-height: auto; }
-    .hero__grid { padding: 4rem 0 3rem; }
-    .hero :global(h1) { font-size: clamp(2.25rem, 5.5vw, 3.5rem); }
-    .hero__content { max-width: 100%; }
+    .hero {
+      padding: 5rem 0 4rem;
+    }
+    .hero__grid {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+    .hero__aside {
+      display: none;
+    }
+    .hero h1 {
+      max-width: none;
+    }
   }
 
   @media (max-width: 639px) {
-    .hero :global(h1) { font-size: 2.125rem; }
-    .hero__trust { flex-direction: column; gap: 0.5rem; }
+    .hero {
+      padding: 3.5rem 0 3rem;
+    }
+    .hero h1 {
+      font-size: 2rem;
+    }
+    .hero__trust {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
   }
 
   @media (prefers-reduced-motion: no-preference) {
-    .hero__bg-img {
-      animation: hero-ken-burns 25s ease-in-out infinite alternate;
+    .hero__card {
+      animation: hero-float 6s ease-in-out infinite alternate;
     }
-    @keyframes hero-ken-burns {
-      0% { transform: scale(1) translate(0, 0); }
-      100% { transform: scale(1.06) translate(-1%, -1%); }
+    .hero__card--2 {
+      animation-delay: -2s;
+    }
+    .hero__card--3 {
+      animation-delay: -4s;
+    }
+    @keyframes hero-float {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-8px); }
     }
   }
 </style>

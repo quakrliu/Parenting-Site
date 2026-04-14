@@ -7,6 +7,8 @@ interface Props {
 
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+
+const youtubeChannelUrl = 'https://www.youtube.com/@BloomPathParenting';
 ---
 
 <section id="about" class="about">
@@ -17,6 +19,19 @@ const t = useTranslations(lang);
         <h2>{t('section.about.title')}</h2>
         <p>{t('section.about.p1')}</p>
         <p>{t('section.about.p2')}</p>
+
+        <a
+          href={youtubeChannelUrl}
+          class="about__yt-link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <svg class="about__yt-icon" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+          </svg>
+          {t('section.about.youtube')}
+        </a>
+
         <div class="about__values">
           <div class="about__value">
             <strong>{t('section.about.evidence')}</strong>
@@ -32,15 +47,20 @@ const t = useTranslations(lang);
           </div>
         </div>
       </div>
+
       <div class="about__visual" aria-hidden="true">
-        <img
-          src="/images/about-family.jpg"
-          alt=""
-          width="640"
-          height="800"
-          loading="lazy"
-          class="about__img"
-        />
+        <div class="about__avatar-stack">
+          <div class="about__avatar about__avatar--ethan">
+            <span class="about__avatar-initial">E</span>
+          </div>
+          <div class="about__avatar about__avatar--mei">
+            <span class="about__avatar-initial">M</span>
+          </div>
+        </div>
+        <div class="about__location">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          <span>Bali, Indonesia</span>
+        </div>
       </div>
     </div>
   </div>
@@ -49,6 +69,7 @@ const t = useTranslations(lang);
 <style>
   .about {
     padding: 7rem 0;
+    background: var(--color-white, #fff);
   }
 
   .about__inner {
@@ -63,6 +84,7 @@ const t = useTranslations(lang);
     font-weight: 800;
     letter-spacing: -0.03em;
     line-height: 1.15;
+    margin-top: 0.5rem;
   }
 
   .about__content p {
@@ -73,46 +95,140 @@ const t = useTranslations(lang);
     max-width: 55ch;
   }
 
+  .about__yt-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1.75rem;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--color-text);
+    text-decoration: none;
+    border: 1.5px solid rgba(141, 155, 142, 0.2);
+    border-radius: 10px;
+    padding: 0.6rem 1.125rem;
+    transition: border-color 0.2s ease, background 0.2s ease;
+  }
+
+  .about__yt-link:hover {
+    border-color: rgba(141, 155, 142, 0.45);
+    background: rgba(141, 155, 142, 0.04);
+  }
+
+  .about__yt-icon {
+    color: #FF0000;
+    flex-shrink: 0;
+  }
+
   .about__values {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
     margin-top: 2.5rem;
     padding-top: 2rem;
-    border-top: 1px solid rgba(141, 155, 142, 0.08);
+    border-top: 1px solid rgba(141, 155, 142, 0.1);
   }
 
   .about__value { display: flex; flex-direction: column; gap: 0.125rem; }
-  .about__value strong { font-size: 0.9375rem; font-weight: 600; color: var(--color-forest); }
+  .about__value strong { font-size: 0.9375rem; font-weight: 600; color: var(--color-forest, #8D9B8E); }
   .about__value span { font-size: 0.8125rem; color: var(--color-text-light); line-height: 1.5; }
 
+  /* Right side visual — avatar stack */
   .about__visual {
-    border-radius: 24px;
-    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
   }
 
-  .about__img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    aspect-ratio: 4 / 5;
-    border-radius: 24px;
-    transition: transform 0.5s cubic-bezier(0.32, 0.72, 0, 1);
+  .about__avatar-stack {
+    display: flex;
+    gap: -1rem;
+    position: relative;
+    width: 200px;
+    height: 200px;
   }
 
-  .about__visual:hover .about__img {
-    transform: scale(1.02);
+  .about__avatar {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 4px solid var(--color-white, #fff);
+    box-shadow: 0 8px 28px -8px rgba(141, 155, 142, 0.22);
+  }
+
+  .about__avatar--ethan {
+    background: linear-gradient(135deg, #8D9B8E 0%, #6b7a6c 100%);
+    top: 0;
+    left: 0;
+  }
+
+  .about__avatar--mei {
+    background: linear-gradient(135deg, #D4B5B0 0%, #c4998f 100%);
+    bottom: 0;
+    right: 0;
+  }
+
+  .about__avatar-initial {
+    font-size: 3rem;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 0.92);
+    line-height: 1;
+  }
+
+  .about__location {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-text-light);
+    background: rgba(141, 155, 142, 0.06);
+    padding: 0.4rem 0.875rem;
+    border-radius: 100px;
+  }
+
+  .about__location svg {
+    color: var(--color-forest, #8D9B8E);
+    flex-shrink: 0;
   }
 
   @media (max-width: 1023px) {
-    .about__inner { grid-template-columns: 1fr; }
-    .about__visual { max-width: 480px; }
+    .about__inner {
+      grid-template-columns: 1fr;
+    }
+    .about__visual {
+      flex-direction: row;
+      justify-content: flex-start;
+      align-items: center;
+    }
+    .about__avatar-stack {
+      width: 160px;
+      height: 160px;
+    }
+    .about__avatar {
+      width: 112px;
+      height: 112px;
+    }
+    .about__avatar-initial {
+      font-size: 2.25rem;
+    }
   }
 
   @media (max-width: 639px) {
-    .about { padding: 4rem 0; }
-    .about__values { grid-template-columns: 1fr; }
+    .about {
+      padding: 4rem 0;
+    }
+    .about__values {
+      grid-template-columns: 1fr;
+    }
+    .about__visual {
+      flex-direction: column;
+      align-items: flex-start;
+    }
   }
-
-  /* Animations handled by GSAP ScrollTrigger */
 </style>

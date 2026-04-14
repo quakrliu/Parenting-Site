@@ -1,13 +1,12 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Header from '../../components/Header.astro';
-import AlertBanner from '../../components/AlertBanner.astro';
 import Footer from '../../components/Footer.astro';
 import HomeHero from '../../components/HomeHero.astro';
-import AgeNavigator from '../../components/AgeNavigator.astro';
 import FeaturedArticles from '../../components/FeaturedArticles.astro';
 import NewsletterSection from '../../components/NewsletterSection.astro';
 import AboutSection from '../../components/AboutSection.astro';
+import PodcastSection from '../../components/PodcastSection.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations } from '../../i18n/utils';
 
@@ -24,10 +23,9 @@ const featuredPosts = allPosts
 
 <BaseLayout title={`${t('site.title')} | ${t('site.tagline')}`} description={t('site.description')} lang={lang}>
   <Header lang={lang} />
-  <AlertBanner lang={lang} />
   <HomeHero lang={lang} />
-  <AgeNavigator lang={lang} />
   <FeaturedArticles lang={lang} posts={featuredPosts} />
+  <PodcastSection lang={lang} />
   <NewsletterSection lang={lang} />
   <AboutSection lang={lang} />
   <Footer lang={lang} />
