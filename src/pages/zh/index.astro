@@ -7,6 +7,7 @@ import FeaturedArticles from '../../components/FeaturedArticles.astro';
 import NewsletterSection from '../../components/NewsletterSection.astro';
 import AboutSection from '../../components/AboutSection.astro';
 import PodcastSection from '../../components/PodcastSection.astro';
+import BooksSection from '../../components/BooksSection.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations } from '../../i18n/utils';
 
@@ -25,6 +26,7 @@ const featuredPosts = allPosts
   <Header lang={lang} />
   <HomeHero lang={lang} />
   <FeaturedArticles lang={lang} posts={featuredPosts} />
+  <BooksSection lang={lang} />
   <PodcastSection lang={lang} />
   <NewsletterSection lang={lang} />
   <AboutSection lang={lang} />

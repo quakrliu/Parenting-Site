@@ -191,6 +191,12 @@ export const ui = {
     'cat.school.desc': 'Homework habits, peer relationships, emotional regulation, and sports\u2014building the foundations for lifelong success.',
     'cat.teen': 'Adolescent (12\u201318)',
     'cat.teen.desc': 'Identity, puberty, teen communication, social media literacy, and growing independence\u2014navigating the teenage years together.',
+
+    // Books section
+    'books.section': 'Our Books',
+    'books.section.title': 'Take Your Parenting Journey Deeper',
+    'books.section.desc': 'Practical guides for every stage — available on Amazon Kindle.',
+    'books.cta': 'Get on Amazon',
   },
   zh: {
     'site.title': '育見未來',
@@ -375,5 +381,11 @@ export const ui = {
     'cat.school.desc': '作業習慣、同儕關係、情緒調節與體育運動\u2014建立終身成功的基礎。',
     'cat.teen': '青少年期（12\u201318 歲）',
     'cat.teen.desc': '身分認同、青春期、親子溝通、社群媒體素養與自主發展\u2014陪孩子走過青少年時期。',
+
+    // Books section
+    'books.section': '推薦書籍',
+    'books.section.title': '深入你的教養之旅',
+    'books.section.desc': '涵蓋每個成長階段的實用指南，於 Amazon Kindle 上架。',
+    'books.cta': '前往 Amazon',
   },
 } as const;
