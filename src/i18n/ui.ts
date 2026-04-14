@@ -111,7 +111,7 @@ export const ui = {
     // Podcast
     'section.podcast': 'On YouTube',
     'section.podcast.title': 'Watch the Latest Episode',
-    'section.podcast.desc': 'We film real parenting moments — the wins, the messes, and everything in between.',
+    'section.podcast.desc': 'Every week, Ethan and Mei share honest conversations about parenting — the wins, the struggles, and what actually works.',
     'section.podcast.cta': 'See All Episodes',
     // Age Navigator
     'age.section': 'Find Your Stage',
@@ -295,7 +295,7 @@ export const ui = {
     // Podcast
     'section.podcast': 'YouTube 頻道',
     'section.podcast.title': '觀看最新集數',
-    'section.podcast.desc': '我們記錄真實的育兒片段，包括成功、混亂，以及一切的一切。',
+    'section.podcast.desc': '每週 Ethan 和 Mei 分享真實的育兒對話——成功的、掙扎的、以及真正有效的方法。',
     'section.podcast.cta': '查看所有集數',
     // Age Navigator
     'age.section': '找到你的階段',
