@@ -381,3 +381,20 @@ Most anxiety disorders in teens begin before age 14, and the peak onset for depr
 }
 </script>
 -->
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — Helps parents understand the 'why' behind teen behavior before it escalates to crisis.
+- [**The Anxious Generation** by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — The research context every parent of a teen or pre-teen should have.
+
+---
+
+**Related Reading:**
+
+- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)
+- [Australia's Teen Social Media Ban](/blog/australia-teen-social-media-ban-parents-guide-en)
+- [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-school-age-kids-2026-en)

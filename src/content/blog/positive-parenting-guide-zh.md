@@ -269,3 +269,20 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 ---
 
 *明天繼續：[0–6歲發展里程碑完整指南](/guides/fa-zhan-li-cheng-bei-zhinan) — 什麼是正常範圍、什麼值得注意，以及什麼時候該找兒科醫師。*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 重新定義「好行為」的教養聖經。很多台灣父母說這本書改變了他們和孩子的關係。
+- [**No Bad Kids（沒有壞孩子）** — Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — 蘭斯伯里最經典的正向教養入門書。讀完會讓你對「規矩」這件事有全新看法。
+
+---
+
+**延伸閱讀：**
+
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [孩子崩潰怎麼辦](/blog/toddler-tantrum-positive-parenting-zh)

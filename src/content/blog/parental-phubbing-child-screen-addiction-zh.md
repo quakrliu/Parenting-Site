@@ -324,3 +324,19 @@ WHO 建議：2 歲以下避免（視訊通話除外）；2–4 歲每日不超�
   ]
 }
 </script>
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**The Anxious Generation（焦慮世代）** — Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — 研究智慧型手機如何改變了兒童的大腦和心理健康。台灣爸媽必讀。
+
+---
+
+**延伸閱讀：**
+
+- [兒童網路安全指南 2026](/blog/children-internet-safety-2026-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)

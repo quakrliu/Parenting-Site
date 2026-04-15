@@ -355,3 +355,20 @@ No. Patterns that begin to form in the early years are still actively shaping th
 ---
 
 **Tomorrow:** Montessori at Home — The Complete Beginner's Guide
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — The best modern framework for holding limits warmly. Dr. Becky's 'two things can be true' approach finally clicked for me.
+- [**How to Talk So Little Kids Will Listen** by Joanna Faber & Julie King](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — Packed with scripts and real-world scenarios for setting limits without triggering a war.
+
+---
+
+**Related Reading:**
+
+- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
+- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)
+- [Gentle Parenting vs. Authoritative Parenting](/blog/en-gentle-parenting-montessori-boundaries)

@@ -303,3 +303,20 @@ Split-shift 最適合雙薪家庭，且爸媽都有彈性工時的情況。核�
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — The book behind the biggest parenting shift of 2025-2026: from behavior management to understanding what's driving the behavior.
+- [**Hunt, Gather, Parent** by Michaeleen Doucleff](https://www.amazon.com/dp/1982149671?tag=bloompath-20) — Challenges Western parenting defaults by looking at what has actually worked across cultures for millennia.
+
+---
+
+**Related Reading:**
+
+- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
+- [Hybrid Parenting: Beyond Gentle Parenting](/blog/hybrid-parenting-2026-gentle-parenting-en)
+- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)

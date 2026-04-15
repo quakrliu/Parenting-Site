@@ -294,3 +294,19 @@ Pick the three platforms your child uses most. Run each through the AAP's 5 C's:
 ---
 
 *Sources: American Academy of Pediatrics, "Digital Ecosystems, Children, and Adolescents," Pediatrics January 2026; Internet Matters, Children's Wellbeing in a Digital World Index 2026; The Hospital for Sick Children (SickKids) Toronto / Scienceline February 2026; American Psychological Association, Screen Time and Emotional Problems Meta-Analysis, June 2025; Lancet Child & Adolescent Health, 2018 and 2021; Jonathan Haidt and Catherine Price, The Amazing Generation, December 2025; Florida State University, February 2026; CHOC (Children's Hospital of Orange County), Updated AAP Screen Time Recommendations, 2026.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Anxious Generation** by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — The essential backdrop for school-age screen time rules -- explains what the research says about social media, gaming, and device use.
+
+---
+
+**Related Reading:**
+
+- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)
+- [AAP Screen Time Guidelines 2026](/blog/aap-screen-time-guidelines-2026)
+- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)

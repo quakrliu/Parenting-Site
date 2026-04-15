@@ -292,3 +292,20 @@ You're raising a brilliant, curious, developmentally on-track kid. That's who's 
 *Wondering how your toddler's development stacks up across other domains? [BloomPath](https://bloompath.quakr.dev) tracks 224 developmental milestones and flags when sleep disruptions correlate with growth leaps—so you know you're on track.*
 
 *Data sources: American Academy of Sleep Medicine guidelines; Sleep Medicine Reviews (2026); Taking Cara Babies developmental research summaries; Nature npj Biological Timing and Sleep (2026).*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Happy Sleeper** by Heather Turgeon & Julie Wright](https://www.amazon.com/dp/0399166025?tag=bloompath-20) — The book we actually used. Science-based, kind, and -- rare for sleep books -- actually respects both the child and the parents' sanity.
+- [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Emily Oster's evidence-based look at sleep training myths and realities. Perfect if you're paralyzed by conflicting advice.
+
+---
+
+**Related Reading:**
+
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)
+- [Baby & Toddler Nutrition Guide](/blog/baby-nutrition-health-guide-en)

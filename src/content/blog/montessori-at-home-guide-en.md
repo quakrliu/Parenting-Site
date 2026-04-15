@@ -316,3 +316,20 @@ A: Start with what you have. Treasure baskets from your kitchen. Beans and conta
 ---
 
 *Tomorrow: [Positive Parenting: The Complete Guide](/guides/positive-parenting-guide) — emotion coaching, natural consequences, and building intrinsic motivation.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — The clearest step-by-step guide to implementing Montessori from birth to age 3. We keep a copy on the coffee table.
+- [**No Bad Kids: Toddler Discipline Without Shame** by Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — Pairs perfectly with any Montessori setup. Lansbury's calm, boundary-based approach works in real homes, not just theory.
+
+---
+
+**Related Reading:**
+
+- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
+- [Setting Up a Montessori Home Environment](/blog/montessori-home-environment-en)
+- [Montessori vs. Traditional Preschool](/blog/montessori-vs-traditional-preschool-en)

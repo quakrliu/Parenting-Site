@@ -306,3 +306,20 @@ A: A delay means a child is behind typical timeline but progressing along the ex
 ---
 
 *Tomorrow: [Montessori Home Environment Guide](/guides/montessori-home-environment) — room-by-room setup, IKEA hacks, and small-space solutions.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — Explains why kids' brains do what they do. The 'upstairs/downstairs brain' concept finally made meltdowns make sense to me.
+- [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Data-driven parenting decisions — evidence on milestones, sleep, feeding, and more without the moralizing. Engineer-brained parents love this one.
+
+---
+
+**Related Reading:**
+
+- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
+- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)
+- [Why Your Toddler Won't Sleep: Sleep Regression](/blog/toddler-sleep-regression-guide-en)

@@ -267,3 +267,20 @@ draft: false
 ---
 
 *參考來源：Daniel Siegel《The Whole-Brain Child》；Jane Nelsen《Positive Discipline》；教育部幼兒發展調查報告；國立陽明交通大學腦科學研究資料*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**No Bad Kids（沒有壞孩子）** — Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — 針對1-3歲的崩潰行為，這是目前最實用的正向教養指南。沒有說教，只有可以馬上用的方法。
+- [**The Whole-Brain Child（全腦教養法）** — Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — 從腦科學角度解釋崩潰為什麼會發生——讀懂了，你對孩子的憤怒會少很多。
+
+---
+
+**延伸閱讀：**
+
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)

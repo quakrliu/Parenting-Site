@@ -288,3 +288,19 @@ A: Ask: What is the child doing? (Active vs. passive engagement?) Is this age-ap
 ---
 
 *Tomorrow: [Baby & Toddler Nutrition Guide](/guides/baby-nutrition-health-guide) — BLW, feeding timeline, and the most common nutrition concerns.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Evidence-based guidance on baby products and decisions -- helps you cut through the noise of conflicting recommendations.
+
+---
+
+**Related Reading:**
+
+- [Baby & Toddler Nutrition Guide](/blog/baby-nutrition-health-guide-en)
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)

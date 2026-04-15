@@ -390,3 +390,19 @@ EARS法主要適用於青少年（12-18歲），也可以應用於小學高年�
   ]
 }
 </script>
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — Dr. Becky 對青少年溝通的洞察——在孩子拒絕對話的時候，怎麼保持連結？
+
+---
+
+**延伸閱讀：**
+
+- [孩子不想上學怎麼辦](/blog/zh-teen-not-wanting-school)
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [爸爸在育兒中的角色](/blog/daddy-role-in-parenting-zh)

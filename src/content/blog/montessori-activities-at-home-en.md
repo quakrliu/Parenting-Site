@@ -315,3 +315,20 @@ Many Montessori practical life activities adapt well across developmental profil
 ---
 
 *Tomorrow on BloomPath: Your Toddler's Meltdowns Are Normal: A Montessori Approach to Tantrums*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — The book these activities are inspired by. Practical, photographed, and organized by age.
+- [**How to Talk So Little Kids Will Listen** by Joanna Faber & Julie King](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — The essential companion to any Montessori setup -- helps you communicate in ways toddlers actually respond to.
+
+---
+
+**Related Reading:**
+
+- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
+- [Setting Up a Montessori Home Environment](/blog/montessori-home-environment-en)
+- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)

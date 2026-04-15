@@ -281,3 +281,19 @@ A：問：孩子在做什麼？（主動還是被動？）適合這個月齡嗎�
 ---
 
 *明天繼續：[嬰幼兒副食品與營養完整指南](/guides/ying-er-ying-yang-jian-kang) — BLW 介紹法、各階段飲食時間表，以及常見營養問題解答。*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Cribsheet（嬰兒數據手冊）** — Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — 買嬰兒產品前先讀這本書——用研究而非廣告來做決定，省錢又安心。
+
+---
+
+**延伸閱讀：**
+
+- [嬰幼兒副食品與營養指南](/blog/baby-nutrition-health-guide-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)

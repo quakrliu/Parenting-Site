@@ -297,3 +297,20 @@ Gen Z parents grew up with broader access to therapy-adjacent language, trauma r
 ---
 
 *Tomorrow: [Montessori at Home — 7 Simple Setups That Actually Work for Toddlers](/en/blog/montessori-home-setups-toddlers)*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — Directly addresses the gap between knowing better and doing better. One of the most honest parenting books I've read.
+- [**Raising Good Humans** by Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — Combines mindfulness and parenting science for parents who grew up in homes they don't want to recreate.
+
+---
+
+**Related Reading:**
+
+- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
+- [How to Set Boundaries Without Punishment](/blog/positive-parenting-boundaries-en)
+- [Parental Burnout Solutions](/blog/parental-burnout-solutions-2026)

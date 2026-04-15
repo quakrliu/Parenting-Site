@@ -297,3 +297,20 @@ A：有機 vs. 一般蔬果對嬰兒健康效益的研究，不足以支持大�
 ---
 
 *回到起點：[蒙特梭利居家實踐完整指南](/guides/montessori-ju-jia-zhinan) — 蒙特梭利原則、各年齡活動、環境布置全攻略。*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Real Baby Food（真實寶寶食物）** — Jenna Helwig](https://www.amazon.com/dp/076238133X?tag=bloompath-20) — 副食品初期最實用的食譜書，從泥狀到手指食物都有，按月齡分類清楚。
+- [**Cribsheet（嬰兒數據手冊）** — Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — 哺乳、配方奶、副食品——每個選擇背後的研究是什麼？這本書用數據說話。
+
+---
+
+**延伸閱讀：**
+
+- [嬰幼兒產品評測指南](/blog/baby-product-reviews-guide-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [孩子崩潰怎麼辦](/blog/toddler-tantrum-positive-parenting-zh)

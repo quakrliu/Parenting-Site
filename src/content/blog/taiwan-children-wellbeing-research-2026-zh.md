@@ -205,3 +205,20 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 *明天繼續：父母情緒管理——當你快爆炸的時候，怎麼在孩子面前踩煞車？*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 研究顯示台灣兒童主觀幸福感較低——這本書從父母的心理狀態出發，是改變家庭動態的起點。
+- [**Raising Good Humans（養出好孩子）** — Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — 正念育兒在台灣越來越受關注，這本書提供了科學基礎和可以立刻實踐的方法。
+
+---
+
+**延伸閱讀：**
+
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [爸爸在育兒中的角色](/blog/daddy-role-in-parenting-zh)

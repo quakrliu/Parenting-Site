@@ -335,3 +335,20 @@ ageGroup: ["preschool", "school"]
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**How to Talk So Little Kids Will Listen** by Joanna Faber & Julie King](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — Builds the communication skills that matter most in kindergarten: listening, expressing needs, handling conflict.
+- [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — Explains the emotional regulation milestones that predict kindergarten readiness better than academic skills.
+
+---
+
+**Related Reading:**
+
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [Montessori vs. Traditional Preschool](/blog/montessori-vs-traditional-preschool-en)
+- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)

@@ -294,3 +294,20 @@ You already care about getting this right. That caring is the most important var
 ---
 
 *Tomorrow: [How to Set Boundaries Without Punishment: The Positive Parenting Way](/positive-parenting-guide)*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Anxious Generation** by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — The book that made screen time a national conversation. Read it before your kids hit middle school.
+- [**Simplicity Parenting** by Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — A compelling case for creating a slower, calmer childhood -- with practical room-by-room and schedule guidance.
+
+---
+
+**Related Reading:**
+
+- [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-school-age-kids-2026-en)
+- [AAP Screen Time Guidelines 2026](/blog/aap-screen-time-guidelines-2026)
+- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)

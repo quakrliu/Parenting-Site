@@ -311,3 +311,20 @@ A：發展遲緩指孩子在典型時間軸之後達到里程碑，但發展弧�
 ---
 
 *明天繼續：[居家蒙特梭利環境布置指南](/guides/ju-jia-huan-jing-she-ji) — 各房間設計攻略、IKEA 改造技巧，以及小坪數的解決方案。*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**The Whole-Brain Child（全腦教養法）** — Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — 用神經科學解釋孩子的行為。「樓上大腦 vs. 樓下大腦」的概念讓我終於理解孩子為什麼崩潰。
+- [**Cribsheet（嬰兒數據手冊）** — Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — 哺乳、副食品、里程碑——每個決定背後的研究是什麼？這本書用數據說話，不讓你被育兒焦慮控制。
+
+---
+
+**延伸閱讀：**
+
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [孩子崩潰怎麼辦](/blog/toddler-tantrum-positive-parenting-zh)

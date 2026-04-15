@@ -315,3 +315,20 @@ You're already in it. That means you're already doing it.
 ---
 
 *Next in this series: **10 Montessori Activities You Can Do Today With Things Already in Your Home** — practical, low-prep, and designed for the real home, not the Instagram one.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**No Bad Kids: Toddler Discipline Without Shame** by Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — Lansbury has helped thousands of parents (including me) stop dreading meltdowns and start responding with actual calm.
+- [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — The science behind why toddler meltdowns happen -- and what they tell us about their developing brains.
+
+---
+
+**Related Reading:**
+
+- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
+- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
+- [How to Set Boundaries Without Punishment](/blog/positive-parenting-boundaries-en)

@@ -330,3 +330,20 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 - [Today's Parent: Gentle Parenting Is Out; Hybrid Parenting Is In](https://www.todaysparent.com/family/hybrid-parenting-is-in/)
 - Frontiers in Psychology (2025): 教養風格與學齡前兒童自我控制能力
 - PMC (2024): 正向教養、情緒韌性與學業投入
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 混合式教養的理論基礎。連結優先，規矩其次——但規矩還是要有。
+- [**Hunt, Gather, Parent（尋獵採集的父母）** — Michaeleen Doucleff](https://www.amazon.com/dp/1982149671?tag=bloompath-20) — 研究全球原住民教養方式，發現溫柔教養和有效管教並不矛盾。
+
+---
+
+**延伸閱讀：**
+
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [孩子崩潰怎麼辦](/blog/toddler-tantrum-positive-parenting-zh)
+- [爸爸在育兒中的角色](/blog/daddy-role-in-parenting-zh)

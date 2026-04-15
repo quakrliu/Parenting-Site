@@ -277,3 +277,20 @@ The pinwheel has been the national symbol of Child Abuse Prevention Month since 
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**No Means No!** by Jayneen Sanders](https://www.amazon.com/dp/0994593546?tag=bloompath-20) — A gentle, age-appropriate children's book about body autonomy and saying no. We read this with our daughter starting at age 3.
+- [**Good Pictures Bad Pictures Jr.** by Kristen A. Jenson](https://www.amazon.com/dp/0997318317?tag=bloompath-20) — Practical tool for teaching young children about inappropriate content in an age-appropriate way.
+
+---
+
+**Related Reading:**
+
+- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)
+- [Teen Mental Health Warning Signs](/blog/teen-mental-health-warning-signs-2026-en)
+- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)

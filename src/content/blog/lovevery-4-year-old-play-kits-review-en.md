@@ -239,3 +239,20 @@ You're here reading this. That already makes you a great parent.
 *Want to track your child's executive function development alongside play? The [BloomPath app](https://bloompath.quakr.dev) includes 224 developmental skill indicators for ages 0–18, including the EF milestones targeted by each Lovevery kit.*
 
 *Sources: Lovevery product pages (lovevery.com, April 2026); Moffitt et al., "A gradient of childhood self-control predicts health, wealth, and public safety," PNAS (2011); Lillard et al., Montessori Preschool EF RCT, PNAS (2026); Harvard Center on the Developing Child, "Executive Function & Self-Regulation" (developingchild.harvard.edu); MasAndPas KiwiCo vs Lovevery comparison.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — The book Lovevery's design philosophy draws heavily from -- great companion reading to understand why the kits are designed the way they are.
+- [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — The neuroscience behind why play-based learning at age 4 matters -- validates what Lovevery is trying to do.
+
+---
+
+**Related Reading:**
+
+- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-screen-free-en)

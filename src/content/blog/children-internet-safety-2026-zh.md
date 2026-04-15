@@ -295,3 +295,19 @@ YouTube Kids 適合用到大約9-10歲。10-13歲的孩子可以改用監護人�
   ]
 }
 </script>
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**The Anxious Generation（焦慮世代）** — Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — 台灣父母看網路安全議題，這本書提供了最完整的研究背景。
+
+---
+
+**延伸閱讀：**
+
+- [父母滑手機對孩子的影響](/blog/parental-phubbing-child-screen-addiction-zh)
+- [兒童安全教育指南](/blog/child-abuse-prevention-april-2026-zh)
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)

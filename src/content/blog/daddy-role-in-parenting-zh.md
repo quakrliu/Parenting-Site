@@ -237,3 +237,20 @@ A：研究顯示，早期（0-3歲）的父親投入對神經發育有特別重�
   ]
 }
 </script>
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 這不只是媽媽的書。Dr. Becky 對爸爸的洞察，讓我重新思考自己在家庭中的角色。
+- [**Raising Good Humans（養出好孩子）** — Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — 正念育兒的實踐指南，特別適合工作壓力大、容易在孩子面前情緒失控的爸爸。
+
+---
+
+**延伸閱讀：**
+
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)

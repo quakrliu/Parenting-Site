@@ -286,3 +286,20 @@ draft: false
 - *Collins et al., "Long-term effects of Montessori education on executive function and academic outcomes," PNAS, 2026*
 - *幼兒教師訪談資料，MomBaby，2024*
 - *天才領袖幼兒教育研究，2026年2月*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 選幼兒園之前先讀這本書——理解蒙特梭利教育的核心，比較公幼、私幼選項時會更有判斷力。
+- [**How to Talk So Little Kids Will Listen（如何跟小孩說話他才聽）** — Joanna Faber & Julie King](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — 幼兒園準備的關鍵不只是識字，而是溝通能力。這本書從爸媽的角度出發。
+
+---
+
+**延伸閱讀：**
+
+- [蒙特梭利 vs. 傳統幼兒園](/blog/montessori-vs-traditional-preschool-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [台北蒙特梭利學校 2026](/blog/taipei-montessori-schools-2026-zh)

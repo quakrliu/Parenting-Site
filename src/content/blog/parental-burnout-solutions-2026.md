@@ -339,3 +339,20 @@ BloomPath 的 AI 育兒顧問提供 24 小時個人化引導，讓你在凌晨�
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Peaceful Parent, Happy Kids** by Dr. Laura Markham](https://www.amazon.com/dp/0399167897?tag=bloompath-20) — Practical strategies for regulating your own stress before it spills onto your kids. A must-read for burned-out parents.
+- [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — Reframes the internal work parents need to do -- helpful for anyone who keeps 'doing the work' but not seeing results.
+
+---
+
+**Related Reading:**
+
+- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
+- [Breaking the Cycle: Generational Trauma](/blog/cycle-breaking-parenting-generational-trauma-en)
+- [Postpartum Depression Complete Guide](/blog/postpartum-depression-complete-guide-2026)

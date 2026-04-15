@@ -290,3 +290,19 @@ Yes, for all children and teenagers. Private accounts limit profile visibility t
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Anxious Generation** by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — Essential context for any parent concerned about online safety -- explains the systemic risks, not just individual bad actors.
+
+---
+
+**Related Reading:**
+
+- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)
+- [Teen Mental Health Warning Signs](/blog/teen-mental-health-warning-signs-2026-en)
+- [Australia's Teen Social Media Ban](/blog/australia-teen-social-media-ban-parents-guide-en)

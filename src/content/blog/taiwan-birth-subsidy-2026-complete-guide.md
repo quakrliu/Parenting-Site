@@ -333,3 +333,19 @@ ageGroup: ["infant"]
   ]
 }
 </script>
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Cribsheet（嬰兒數據手冊）** — Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — 領完補助，接下來要做什麼決定？這本書幫你用數據分析從哺乳到托育的每個選擇。
+
+---
+
+**延伸閱讀：**
+
+- [嬰幼兒產品評測指南](/blog/baby-product-reviews-guide-zh)
+- [嬰幼兒副食品與營養指南](/blog/baby-nutrition-health-guide-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)

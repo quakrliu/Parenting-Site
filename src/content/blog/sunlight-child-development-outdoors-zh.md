@@ -228,3 +228,19 @@ draft: false
 - *國健署：兒童眼睛保健資訊 — [hpa.gov.tw](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=1405&pid=8618)*
 
 *最後更新：2026年4月*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Simplicity Parenting（簡單教養）** — Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — 提倡「少即是多」的童年——戶外、非結構性遊戲、和自然的連結。讀完你會想馬上把孩子帶出去曬太陽。
+
+---
+
+**延伸閱讀：**
+
+- [非結構性遊戲的重要性](/blog/unstructured-play-benefits-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)

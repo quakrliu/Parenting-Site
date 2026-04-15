@@ -268,3 +268,20 @@ The [BloomPath app](https://bloompath.quakr.dev) tracks 224 developmental milest
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — Whether you choose Montessori school or not, understanding the principles helps you make a better choice.
+- [**Hunt, Gather, Parent** by Michaeleen Doucleff](https://www.amazon.com/dp/1982149671?tag=bloompath-20) — A cross-cultural look at how different societies structure childhood -- puts both Montessori and traditional approaches in perspective.
+
+---
+
+**Related Reading:**
+
+- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
+- [Setting Up a Montessori Home Environment](/blog/montessori-home-environment-en)
+- [Montessori Research 2026](/blog/en-montessori-pnas-research-2026)

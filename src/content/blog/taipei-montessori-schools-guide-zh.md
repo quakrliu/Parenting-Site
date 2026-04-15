@@ -308,3 +308,19 @@ A：兩者都在台北，都是正規蒙特梭利學校。主要差異：TMIS �
   ]
 }
 </script>
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 台北蒙特梭利家長的共同推薦——讓你帶著這本書去參觀學校，問出對的問題。
+
+---
+
+**延伸閱讀：**
+
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [台北蒙特梭利學校 2026](/blog/taipei-montessori-schools-2026-zh)
+- [台灣幼兒園選擇指南 2026](/blog/kindergarten-guide-taiwan-2026-zh)

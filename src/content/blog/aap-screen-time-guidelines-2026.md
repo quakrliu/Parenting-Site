@@ -307,3 +307,20 @@ AAP最大的轉變是移除「2歲以下零螢幕、2-5歲每天1小時」的硬
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Simplicity Parenting** by Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — The practical toolkit for implementing the 'less is more' approach the AAP guidelines point toward.
+- [**The Anxious Generation** by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — The research behind why the AAP tightened the guidelines -- context every parent should have.
+
+---
+
+**Related Reading:**
+
+- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)
+- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-screen-free-en)
+- [Best Bilingual Learning Apps (2026)](/blog/best-bilingual-learning-apps-2026)

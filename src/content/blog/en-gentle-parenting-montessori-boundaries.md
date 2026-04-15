@@ -550,3 +550,20 @@ AEO SCORE: ~88/100 — PASSES (≥85)
 
 WORD COUNT: ~5,200 words (article body ~3,800 + FAQs + schema)
 -->
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — The clearest modern framework for firm-but-connected parenting. Changes how you interpret your child's behavior.
+- [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — The neuroscience behind why kids act out -- and why our reactions matter more than the behavior itself.
+
+---
+
+**Related Reading:**
+
+- [How to Set Boundaries Without Punishment](/blog/positive-parenting-boundaries-en)
+- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
+- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)

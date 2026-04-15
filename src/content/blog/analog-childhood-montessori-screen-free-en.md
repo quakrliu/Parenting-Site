@@ -191,3 +191,20 @@ No. Research consistently shows that open-ended, natural materials — wooden bl
 ---
 
 *明天繼續：[How to Talk to Your Kids About Why We're Doing Less Screen Time](/blog/talking-to-kids-about-screen-time-en)*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Simplicity Parenting** by Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — The book that made me actually reduce the toys and screens in our house. Practical and evidence-backed.
+- [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — The hands-on alternative to passive screen time -- age-appropriate activities that build real skills.
+
+---
+
+**Related Reading:**
+
+- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)
+- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
+- [AAP Screen Time Guidelines 2026](/blog/aap-screen-time-guidelines-2026)

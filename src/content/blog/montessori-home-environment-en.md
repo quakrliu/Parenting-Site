@@ -288,3 +288,20 @@ A: Start with one low shelf in one room. One accessible hook. One step stool in 
 ---
 
 *Tomorrow: [Baby & Kids Product Reviews Guide](/guides/baby-product-reviews-guide) — how we test, what criteria matter, and our top picks by category.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — Simone Davies walks through exactly how to set up a Montessori-friendly home, room by room.
+- [**Simplicity Parenting** by Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — The 'prepared environment' in Montessori and Payne's 'simplified home' are the same insight. This book shows you how to declutter for calmer kids.
+
+---
+
+**Related Reading:**
+
+- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
+- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
+- [Montessori vs. Traditional Preschool](/blog/montessori-vs-traditional-preschool-en)

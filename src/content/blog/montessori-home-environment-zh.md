@@ -292,3 +292,19 @@ A：這是台灣家庭的真實日常。策略：設定一個「阿公阿嬤的�
 ---
 
 *明天繼續：[嬰幼兒產品評測指南](/guides/chan-pin-ping-ce-zhinan) — 我們怎麼挑選和評測，哪些項目真的值得買。*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 從臥室、客廳到廚房，一步一步教你布置蒙特梭利環境，有大量實景照片可以對照。
+
+---
+
+**延伸閱讀：**
+
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [蒙特梭利 vs. 傳統幼兒園](/blog/montessori-vs-traditional-preschool-zh)
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)

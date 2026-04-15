@@ -412,3 +412,19 @@ You're here reading this. You looked up the research. That already makes you the
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Anxious Generation** by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — The research that influenced the Australian ban -- and essential reading for parents everywhere navigating teen social media.
+
+---
+
+**Related Reading:**
+
+- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)
+- [Teen Mental Health Warning Signs](/blog/teen-mental-health-warning-signs-2026-en)
+- [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-school-age-kids-2026-en)

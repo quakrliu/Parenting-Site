@@ -295,3 +295,20 @@ A: The evidence for health benefits of organic vs. conventional produce for infa
 ---
 
 *Back to start: [Montessori at Home Guide](/guides/montessori-at-home-guide) — the complete guide to Montessori principles, age-by-age activities, and room setup.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Real Baby Food** by Jenna Helwig](https://www.amazon.com/dp/076238133X?tag=bloompath-20) — 100+ simple recipes designed for babies and toddlers. We used this constantly during the BLW phase.
+- [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — The evidence-based breakdown on what actually matters in feeding choices -- without the guilt.
+
+---
+
+**Related Reading:**
+
+- [Baby & Toddler Product Reviews](/blog/baby-product-reviews-guide-en)
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [Why Your Toddler Won't Sleep: Sleep Regression](/blog/toddler-sleep-regression-guide-en)

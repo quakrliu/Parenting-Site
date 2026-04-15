@@ -323,3 +323,20 @@ Lovevery 的玩具設計就是以開放式為核心，適合 0-6 歲不同發展
   ]
 }
 </script>
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Simplicity Parenting（簡單教養）** — Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — 非結構性遊戲的最強倡導者。這本書讓我停止安排孩子的每個下午。
+- [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 蒙特梭利強調的「自由工作時間」正是非結構性遊戲的體現，這本書教你怎麼在家創造這個空間。
+
+---
+
+**延伸閱讀：**
+
+- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [陽光與戶外活動對兒童發展的影響](/blog/sunlight-child-development-outdoors-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)

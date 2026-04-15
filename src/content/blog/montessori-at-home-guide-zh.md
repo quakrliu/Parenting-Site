@@ -348,3 +348,20 @@ A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。�
 ---
 
 *明天繼續：[正向教養完整指南](/guides/zheng-xiang-jiao-yang-zhinan) — 情緒輔導、自然結果法，和建立孩子的內在動機。*
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 居家蒙特梭利的最佳入門書。作者是台灣父母圈很推薦的蒙特梭利教師，圖文並茂、步驟清晰。
+- [**No Bad Kids（沒有壞孩子）** — Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — 搭配蒙特梭利環境的教養方法。讓孩子獨立探索的同時，爸媽怎麼設立界限？這本書有答案。
+
+---
+
+**延伸閱讀：**
+
+- [蒙特梭利居家環境布置](/blog/montessori-home-environment-zh)
+- [蒙特梭利 vs. 傳統幼兒園](/blog/montessori-vs-traditional-preschool-zh)
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)

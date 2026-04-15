@@ -271,3 +271,19 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
   ]
 }
 </script>
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**No Means No!（不，就是不！）** — Jayneen Sanders](https://www.amazon.com/dp/0994593546?tag=bloompath-20) — 專為3-7歲孩子設計的身體自主權繪本，溫和而清晰地教孩子說不。
+
+---
+
+**延伸閱讀：**
+
+- [兒童網路安全指南 2026](/blog/children-internet-safety-2026-zh)
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)

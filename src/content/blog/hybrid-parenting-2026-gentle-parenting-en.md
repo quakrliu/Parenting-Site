@@ -374,3 +374,20 @@ Tomorrow: The specific scripts that work for school-age kids (ages 6-10) — whe
 - [Today's Parent: Gentle Parenting Is Out; Hybrid Parenting Is In](https://www.todaysparent.com/family/hybrid-parenting-is-in/)
 - Frontiers in Psychology (2025): Parenting styles and self-control in preschoolers
 - PMC (2024): Positive parenting, emotional resilience, and academic engagement
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — The book behind the 'hybrid parenting' shift -- reframing behavior as communication, not defiance.
+- [**Hunt, Gather, Parent** by Michaeleen Doucleff](https://www.amazon.com/dp/1982149671?tag=bloompath-20) — Looks at how Indigenous communities raise capable, cooperative kids -- and what Western parents can borrow.
+
+---
+
+**Related Reading:**
+
+- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
+- [Gentle Parenting vs. Authoritative Parenting](/blog/en-gentle-parenting-montessori-boundaries)
+- [Breaking the Cycle: Generational Trauma](/blog/cycle-breaking-parenting-generational-trauma-en)

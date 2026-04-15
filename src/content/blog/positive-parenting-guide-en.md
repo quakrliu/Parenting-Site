@@ -261,3 +261,21 @@ A: Consistency helps, but it isn't everything. A child who has one consistently 
 ---
 
 *Tomorrow: [Child Development Milestones: The Complete Guide (0–6 Years)](/guides/child-development-milestones-guide) — what's typical, what to watch for, and when to talk to your pediatrician.*
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — The book that rewired how I think about my daughter's behavior. Essential read for any parent who wants to connect instead of control.
+- [**No Bad Kids: Toddler Discipline Without Shame** by Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — The OG of calm, respectful toddler parenting. Clear, practical, and non-preachy.
+- [**Raising Good Humans** by Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — Brings mindfulness into daily parenting without being annoying about it. Useful if you grew up in a high-stress household.
+
+---
+
+**Related Reading:**
+
+- [How to Set Boundaries Without Punishment](/blog/positive-parenting-boundaries-en)
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)

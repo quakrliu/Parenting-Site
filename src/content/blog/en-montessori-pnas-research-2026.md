@@ -403,3 +403,20 @@ You're here reading a 3,000-word article about preschool research. That already 
   ]
 }
 ```
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — The best practical companion to the research -- takes the science and turns it into what you do at 7am.
+- [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — Aligns closely with the executive function findings in the PNAS study -- great for understanding the 'why' behind what the research found.
+
+---
+
+**Related Reading:**
+
+- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
+- [Montessori vs. Traditional Preschool](/blog/montessori-vs-traditional-preschool-en)
+- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-screen-free-en)

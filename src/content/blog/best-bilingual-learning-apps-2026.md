@@ -290,3 +290,19 @@ LingoDodo的主要優勢是「無螢幕雙語互動」——對希望減少孩�
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**The Bilingual Edge** by Kendall King & Alison Mackey](https://www.amazon.com/dp/0061246476?tag=bloompath-20) — The research case for raising bilingual kids -- with practical guidance on what actually works for families like ours.
+
+---
+
+**Related Reading:**
+
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
+- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)

@@ -380,3 +380,19 @@ ageGroup: ["toddler", "preschool", "school"]
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Simplicity Parenting** by Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — The book that inspired us to get outside more and schedule less. Spring is the perfect time to start.
+
+---
+
+**Related Reading:**
+
+- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
+- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-screen-free-en)
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)

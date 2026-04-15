@@ -376,3 +376,19 @@ Zuranolone（Zurzuvae）於 2023 年獲 FDA 批准，截至 2026 年在台灣仍
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Peaceful Parent, Happy Kids** by Dr. Laura Markham](https://www.amazon.com/dp/0399167897?tag=bloompath-20) — Practical tools for managing the emotional weight of new parenthood -- gentle entry point when you're running on empty.
+
+---
+
+**Related Reading:**
+
+- [Parental Burnout Solutions](/blog/parental-burnout-solutions-2026)
+- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)

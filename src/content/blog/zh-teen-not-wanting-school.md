@@ -293,3 +293,20 @@ BloomPath 育見未來 App 提供 12-18 歲青少年的心理社會發展指標�
 | 六成有重度憂鬱症狀的12-17歲青少年未接受治療 | HelpGuide, KidsHealth 整合資料 | 2025-2026 | 估計值，各研究略有差異 |
 | 超過八成青少年將學校成績列為最大壓力源 | 青少年心理健康調查（多項研究綜合）| 2024-2026 | 台灣及國際研究趨勢一致 |
 | 前額葉在25歲前持續發育 | 神經科學研究共識 | 持續更新 | 影響情緒調節能力的神經基礎 |
+
+---
+
+## 推薦閱讀與好物
+
+*BloomPath 參與 Amazon 聯盟計畫，透過連結購買不影響你的售價，也幫助我們持續提供免費的育兒內容。我們只推薦真正用過、覺得有價值的產品。*
+
+- [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 理解「不想上學」背後的心理需求。Dr. Becky 的框架特別適合面對拒學情緒的父母。
+- [**Raising Good Humans（養出好孩子）** — Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — 給壓力大的台灣家庭一個不一樣的視角——孩子的學習動機和父母的教養狀態高度相關。
+
+---
+
+**延伸閱讀：**
+
+- [青少年溝通腳本](/blog/zh-teen-communication-script)
+- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [爸爸在育兒中的角色](/blog/daddy-role-in-parenting-zh)

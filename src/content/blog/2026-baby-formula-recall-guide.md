@@ -342,3 +342,20 @@ Cereulide毒素主要引起劇烈嘔吐，通常在攝入後1至6小時內發作
   ]
 }
 </script>
+
+---
+
+## Products We Recommend
+
+*As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
+
+- [**Real Baby Food** by Jenna Helwig](https://www.amazon.com/dp/076238133X?tag=bloompath-20) — Age-by-age recipes for when you're introducing solids -- a helpful complement as you navigate the transition away from formula.
+- [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Evidence-based breakdown of formula decisions, when to introduce solids, and what the research actually says.
+
+---
+
+**Related Reading:**
+
+- [Baby & Toddler Nutrition Guide](/blog/baby-nutrition-health-guide-en)
+- [Baby & Toddler Product Reviews](/blog/baby-product-reviews-guide-en)
+- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
