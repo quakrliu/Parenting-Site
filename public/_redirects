@@ -1,3 +1,7 @@
-# Redirect /blog/* to /en/blog/* (Cloudflare Pages redirects)
+# Redirect non-prefixed paths to /en/ (Cloudflare Pages redirects)
 /blog/*  /en/blog/:splat  301
+/blog/   /en/blog/        301
 /guides/*  /en/guides/:splat  301
+/guides/   /en/guides/        301
+/tools/*   /en/tools/:splat   301
+/age/*     /en/age/:splat     301
