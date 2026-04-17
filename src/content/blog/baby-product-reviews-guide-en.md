@@ -9,6 +9,10 @@ ageGroup: ["infant", "toddler"]
 
 # Baby & Kids Product Reviews: How We Test & Our Criteria
 
+**Key Takeaways:** We evaluate every baby product against four criteria: developmental alignment, engagement quality, longevity, and safety. Our top overall pick is Lovevery Play Kits for curated developmental certainty, and unit blocks as the single most research-backed toy for broad development (12 months through 8+ years). We never publish sponsored reviews and always disclose trade-offs. *Last updated: April 2026.*
+
+---
+
 ## Table of Contents
 1. [Our Review Philosophy](#philosophy)
 2. [How We Evaluate Products](#how-we-evaluate)

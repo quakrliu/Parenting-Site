@@ -13,6 +13,10 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 ---
 
+**TL;DR:** The first-ever national randomized controlled trial of public Montessori preschool (PNAS, 2025) tracked 588 children across 24 programs and found Montessori students significantly outperformed peers in reading, executive function, short-term memory, and social understanding -- at $13,127 less per child. Benefits grew over time rather than fading. You don't need private school: four Montessori principles can be applied at home starting tonight.
+
+---
+
 I'll be honest. When my wife first mentioned Montessori preschool, I did what most engineers do with things they don't understand: I immediately googled "is Montessori a cult."
 
 (It is not. Though the followers are enthusiastic.)

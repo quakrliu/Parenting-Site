@@ -260,3 +260,46 @@ Dr. Ginsburg 的長期研究顯示，有韌性的孩子在長期學業成就上�
 ---
 
 *最後更新：2026 年 4 月 17 日。本文所有育兒建議以研究為基礎，並定期更新以反映最新文獻。育兒決策請同時諮詢兒科醫師或專業輔導人員。*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "datePublished": "2026-04-17",
+  "dateModified": "2026-04-17",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "燈塔式育兒適合幾歲的孩子？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "從嬰兒期就可以開始。對嬰兒，燈塔式育兒意味著回應需求，但給孩子空間嘗試。7個C的框架在學齡前（1.5-6歲）最為清晰有效，但原則適用所有年齡。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "燈塔式育兒和正向教養有什麼不同？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "兩者高度相似，都強調連結、尊重和清晰界線。燈塔式育兒更聚焦在培養孩子的「韌性」，正向教養更強調「情緒連結和溝通技巧」。實際操作上非常接近，可以互補使用。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "如果已經習慣過度保護，現在改太晚了嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "不晚。孩子大腦的可塑性在童年期非常高。Dr. Ginsburg的研究顯示，父母改變教養方式後，孩子的行為平均在4-8週後出現可見的正向改變。現在開始，從不晚。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "台灣學習環境很競爭，燈塔式育兒對學業成績有幫助嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Ginsburg的長期研究顯示，有韌性的孩子在長期學業成就上表現更好——因為他們有內在動機和面對挫折的能力，而不只靠外部壓力驅動。補習是戰術，韌性才是戰略。"
+      }
+    }
+  ]
+}
+</script>

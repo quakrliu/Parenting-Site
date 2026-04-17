@@ -200,6 +200,59 @@ draft: false
 
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "datePublished": "2026-04-14",
+  "dateModified": "2026-04-14",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "寶寶每天需要曬多久太陽才有效？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "根據研究，每天最少11分鐘的戶外時間就能對睡眠品質產生顯著改善。對於近視預防，建議累積每天200分鐘以上（包括一般戶外活動）。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "陰天帶寶寶出去戶外有效嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "有效。陰天戶外光線強度通常在10,000-20,000 lux，遠超過觸發晝夜節律所需的2,000 lux門檻。即使天空是灰的，出去就對了。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "玻璃窗邊的陽光對嬰兒有效嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "不算。普通玻璃大幅降低光線強度，並過濾掉關鍵光頻。需要真正在戶外才有效果。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "幾個月大的寶寶適合帶出去曬太陽？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "新生兒出院後就可以出去，只要在柔和散射光環境（樹蔭、屋簷下），不在直射陽光下。做好物理防曬即可。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "近視是遺傳的，戶外活動真的有差嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "有差。基因確實影響近視傾向，但環境因素（特別是戶外光照時間）被證實可以顯著延緩近視發生和惡化。遺傳高風險的孩子更應該增加戶外時間。"
+      }
+    }
+  ]
+}
+</script>
+
+---
+
 ## 總結：出去就對了
 
 我在育兒群組把這些數據貼出去之後，幾乎每個媽媽的反應都一樣：「我以為窗邊就夠了，結果要出去啊。」

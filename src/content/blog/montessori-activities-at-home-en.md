@@ -13,6 +13,10 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 *Updated March 2026*
 
+**Key Takeaways:** You don't need expensive Montessori equipment. Ten activities using household items you already own -- from treasure baskets (6-10 months) to practical life tasks (2-5 years) -- build the same concentration, fine motor skills, and intrinsic motivation as specialized materials. Each setup takes under 3 minutes. Montessori practical life is not about the tools; it's about real work with real materials in real context.
+
+---
+
 Every few months, a well-meaning relative will send a link to a gorgeous Montessori shelf set — pink tower, tan stairs, the whole polished-wood spread. It costs upward of $200 and ships in six to eight weeks. Those materials are beautifully designed. But here is the uncomfortable truth that Maria Montessori herself understood: a pouring station made from two mismatched kitchen cups and a cup of dried lentils will do more for your fourteen-month-old's development than almost anything you could buy.
 
 The myth that Montessori requires expensive equipment has kept countless families from trying an approach that was literally designed around ordinary life. The real materials were always the kitchen, the garden, the laundry, the table that needs wiping after breakfast.

@@ -9,6 +9,10 @@ draft: false
 ageGroup: ["infant", "toddler", "preschool", "school-age"]
 ---
 
+**TL;DR:** Cycle-breaking parenting is the conscious practice of identifying harmful inherited family patterns and choosing different responses. 37% of parents now identify as cycle-breakers (41% among Gen Z). The most powerful cycle-breaking moment isn't staying calm -- it's what you do in the 20 minutes after you lose it. Repair after rupture actually strengthens the attachment bond. Five practical strategies: name it to tame it, understand triggers, 20-second breath reset (4-4-6), repair with specificity, and practice self-compassion.
+
+---
+
 Before I became a dad, I thought I was different from my own father.
 
 He yelled. I wouldn't. He was emotionally unavailable. I'd be present. He never apologized. I would.

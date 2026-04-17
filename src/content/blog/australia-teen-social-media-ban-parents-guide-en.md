@@ -14,6 +14,10 @@ ageGroup: ["school", "teen"]
 
 <!-- SCHEMA: FAQPage + Article JSON-LD — see end of file -->
 
+**TL;DR:** Australia banned social media for under-16s in December 2025 -- the first national ban worldwide. Ten more countries are following. Teens spending 3+ hours daily on social media face double the risk of depression (U.S. Surgeon General). But the most surprising finding: teens with strong parental relationships showed only 2% suicidal ideation vs. 22% without, regardless of screen time. Your relationship with your teen may matter more than their phone settings. Two tools worth considering: Bark (content monitoring) and Circle (time management).
+
+---
+
 Before I had kids, I thought I was a pretty patient person. Then my daughter turned 12, got a phone, and I watched her disappear into a screen for four hours straight while I stood in the doorway trying to figure out if I was being a controlling parent or a neglectful one.
 
 If you're parenting a teenager right now, you already know this feeling.

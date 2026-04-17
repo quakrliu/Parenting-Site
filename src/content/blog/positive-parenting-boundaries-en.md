@@ -13,6 +13,10 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 *Updated March 2026*
 
+**Key Takeaways:** Punishment creates compliance through fear but doesn't build internal self-regulation. Research shows children raised with authoritative boundaries (warm + firm) develop stronger executive function and social skills. The three-step framework: connect first, state the boundary clearly, follow through with natural consequences. Scripts included for toddlers through school-age. You can be both kind and firm -- they're not opposites.
+
+---
+
 There's a moment most parents remember. Your four-year-old is melting down at the grocery store, or your seven-year-old just hit their sibling again after you've told them a hundred times not to, and something in you shifts. "Because I said so" comes out of your mouth — the exact phrase you swore you'd never use. And it doesn't work. It never really did. It just bought you a few seconds of shocked silence before the storm resumed.
 
 The question that follows is harder than it sounds: if not fear, then what?

@@ -13,6 +13,10 @@ schema:
 ageGroup: ["school", "teen"]
 ---
 
+**TL;DR:** Nearly 1 in 3 high school students report persistent hopelessness, yet 60% receive no treatment. Warning signs parents often miss: social withdrawal (not just "needing space"), sleep pattern changes, loss of interest in previously loved activities, and giving away possessions. The strongest protective factor: a parent-teen relationship where the teen believes they can share hard things without losing their phone. This guide includes conversation scripts, a warning signs checklist, and when to seek professional help.
+
+---
+
 Before my daughter was born, I thought I understood teenagers pretty well. After all, I'd been one. I remembered the mood swings, the door-slamming, the inexplicable rage when someone breathed too loudly. I figured I'd handle it fine.
 
 Then I watched two of my cousins — both parents of teenagers — completely miss the signs that their kids were struggling. Not because they didn't care. Because what they were looking for looked nothing like what was actually happening.

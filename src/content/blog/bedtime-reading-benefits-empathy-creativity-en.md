@@ -187,6 +187,59 @@ Yes. The 2026 study found no significant gender differences. Boys and girls in b
 
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "datePublished": "2026-04-11",
+  "dateModified": "2026-04-11",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does bedtime reading have to be every single night to be effective?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 2026 PLOS One study used a 14-consecutive-night protocol with significant improvements in both groups. Missing one or two nights likely doesn't erase gains. Aim for 5-6 nights per week as a realistic target. Consistency over time matters more than perfect streaks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What age should I start reading bedtime stories to my child?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reading aloud to children is beneficial from birth. The American Academy of Pediatrics recommends reading aloud starting in infancy. The 2026 study specifically measured effects in ages 6-8, but earlier exposure builds vocabulary, phonemic awareness, and attachment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should a bedtime reading session last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The study used one picture book per night, typically 10-15 minutes. Longer isn't necessarily better. Consistency and calm matter more than duration. Fifteen quality minutes beats 45 distracted ones."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can audiobooks replace parent read-alouds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current research specifically measured parent-child shared reading. The co-regulation benefits — physical proximity, parental voice, shared attention — are part of what makes bedtime reading developmentally significant. Audiobooks serve a different purpose and shouldn't be treated as a substitute."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the benefit of bedtime reading apply to boys and girls equally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The 2026 study found no significant gender differences. Boys and girls in both groups showed equivalent gains in empathy and creativity."
+      }
+    }
+  ]
+}
+</script>
+
+---
+
 ## The Science Made It Simple
 
 Before I became a dad, I thought empathy was something kids either had or didn't. Like height.

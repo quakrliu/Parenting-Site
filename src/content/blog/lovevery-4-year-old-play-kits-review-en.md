@@ -13,6 +13,10 @@ draft: false
 
 ---
 
+**TL;DR:** Lovevery's 2026 four-kit series for ages 4-5 (The Connector, The Examiner, The Persister, The Planner) each targets a specific executive function skill in three-month developmental windows. At $120 per kit, they're research-backed and well-designed. Executive function at age 4 predicts academic success better than IQ. Best kit: The Persister for frustration tolerance. Skip if: your child already has rich open-ended play materials, or if cost is a stretch -- unit blocks plus household items build similar skills.
+
+---
+
 Before my daughter turned four, I read somewhere that executive function skills — things like flexible thinking, frustration tolerance, and planning — predict academic success better than IQ scores. I nodded, filed it in my mental "good to know" folder, and went back to my yield portfolio.
 
 Then the meltdowns started.

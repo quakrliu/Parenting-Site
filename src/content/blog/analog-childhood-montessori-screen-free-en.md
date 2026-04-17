@@ -9,6 +9,10 @@ draft: false
 ageGroup: ["infant", "toddler", "preschool"]
 ---
 
+**TL;DR:** The "analog childhood" movement — prioritizing hands-on, screen-free play — surged in 2026 with Pinterest reporting 200%+ growth in "screen-free activities" searches. Montessori parents have been doing this for over a century. A 2025 PNAS randomized controlled trial found Montessori preschoolers significantly outperformed peers in executive function, reading, and social development. You don't need expensive materials: 5 activities using household items can build the same skills. The goal isn't a screen-free house — it's a ratio that serves your child's development.
+
+---
+
 Before I became a dad, I thought I had a healthy relationship with screens. One phone, moderate use, nothing excessive. Then my daughter turned two and I caught myself handing her the iPad at 7 a.m. because I needed five more minutes of coffee and silence.
 
 It worked. Beautifully. Terrifyingly.

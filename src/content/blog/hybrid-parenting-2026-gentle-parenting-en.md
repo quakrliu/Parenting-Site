@@ -122,6 +122,10 @@ Something wasn't working. And turns out, I wasn't alone.
 
 ---
 
+**TL;DR:** Only 38% of Gen Z parents now use gentle parenting exclusively. 80% agree no single approach works for every child. Hybrid parenting -- combining empathy with clear, confident boundaries -- is what most modern parents actually practice. It's not punishment; it's natural consequences, firm limits, and genuine warmth. The AND method: validate the feeling AND hold the boundary.
+
+---
+
 ## The Gentle Parenting Reckoning of 2026
 
 **Only 38% of Gen Z parents with young children now use gentle parenting exclusively**, according to a 2025 Kiddie Academy study of parents with children ages 0 to 6. The overwhelming majority — **80%** — agree that no single parenting approach works for every child or situation. Most are blending an average of three different parenting styles into their own custom mix.
