@@ -24,6 +24,16 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 ---
 
+## Key Takeaways
+
+- **Access is everything.** The single most important principle: everything your child regularly uses should be at their height — toys, books, coat hooks, toothbrush.
+- **A low shelf with 4-8 activities beats a toy chest overflowing with options.** Fewer choices lead to deeper engagement; rotation keeps things fresh.
+- **You don't need Montessori-brand furniture.** An IKEA KALLAX on its side (~$60), a MOSSLANDA picture ledge for books (~$15), and a BEKVAM step stool (~$20) cover most setups.
+- **The kitchen is Montessori gold.** A learning tower is one of the highest-ROI investments — it enables real cooking participation, fine motor development, and genuine competence.
+- **What NOT to buy:** activity centers with flashing lights, jumpers for extended use, deep toy bins, and screens in children's rooms.
+
+---
+
 The internet version of a Montessori home is a perfectly curated room with a floor bed, handcrafted wooden toys arranged symmetrically on a low shelf, soft linen curtains, and no plastic anywhere.
 
 That version isn't wrong — it's just not required.

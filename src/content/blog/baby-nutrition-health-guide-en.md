@@ -23,6 +23,16 @@ ageGroup: ["infant", "toddler"]
 
 ---
 
+## Key Takeaways
+
+- **Start solids around 6 months** when baby can sit with support, shows interest in food, and the tongue-thrust reflex has diminished. Never before 4 months.
+- **Iron-rich foods first.** Baby's iron stores deplete around 6 months; prioritize pureed meat, iron-fortified cereal, lentils, and beans from the start of solids.
+- **Early allergen introduction (especially peanut) reduces allergy risk.** The LEAP study reversed old guidance — introduce peanut products around 6 months for most infants.
+- **Neither puree nor BLW is definitively superior.** What matters most: variety of foods offered, responsive feeding (following hunger/fullness cues), and iron-rich foods early.
+- **Ellyn Satter's Division of Responsibility:** Parent decides what, when, and where. Child decides whether and how much. Pressuring, forcing, or rewarding eating consistently makes food issues worse.
+
+---
+
 Feeding a baby is one of the most anxiety-laden parts of early parenting — and one of the most heavily marketed.
 
 There are entire industries built around parents' anxiety about whether their baby is eating the right things, in the right order, at the right time. High-chair inserts, special baby blenders, 47-flavor pouches, "organic" toddler snacks that are mostly sugar.

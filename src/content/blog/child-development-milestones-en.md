@@ -22,6 +22,16 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 ---
 
+## Key Takeaways
+
+- **Milestones are ranges, not deadlines.** Walking at 9 months and walking at 15 months are both within typical range. Development is uneven and individual.
+- **Track across 8 domains** (gross motor, fine motor, language, cognitive, social-emotional, self-care, sensory, play) for a complete picture — strength in one area doesn't predict all others.
+- **Key red flags to discuss with your pediatrician:** no babbling by 9 months, no first words by 16 months, no 2-word phrases by 24 months, any loss of previously acquired skills at any age.
+- **Early intervention (before age 3) consistently shows better outcomes.** Asking for an evaluation gives you information — it doesn't commit you to anything.
+- **Your sustained observation of your specific child is irreplaceable.** If something feels off across multiple domains or persists over weeks, trust that signal.
+
+---
+
 The moment a parent hears "developmental milestones," anxiety often follows. Did she wave by 9 months? Is he talking enough? Should she be running by now?
 
 Here's the thing about milestones: they are ranges, not deadlines.

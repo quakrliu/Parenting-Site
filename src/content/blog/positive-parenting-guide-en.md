@@ -23,6 +23,16 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 ---
 
+## Key Takeaways
+
+- **Positive parenting is authoritative, not permissive.** It combines high warmth with high expectations — warm AND firm, not one or the other.
+- **Emotion coaching is the single most evidence-backed technique** for long-term emotional development: notice the emotion, validate it, name it, then set the limit.
+- **Punishments work short-term through fear** but undermine the parent-child relationship and intrinsic motivation long-term. Natural and logical consequences are more effective.
+- **The key phrase: "I know you want X. AND the answer is no."** Using "and" instead of "but" holds both the child's feelings and the boundary as real.
+- **Children raised with authoritative parenting** show better emotional regulation, higher academic achievement, and lower anxiety compared to authoritarian or permissive styles (Baumrind, 1966; replicated many times since).
+
+---
+
 The first time I heard the phrase "positive parenting," I assumed it was about being nice. Calm voice, patient smile, gentle redirects. A kind of parenting that would, presumably, work beautifully until your toddler threw a full plate of pasta on the floor and refused to apologize.
 
 I was wrong about what it meant. And a lot of parents are too.

@@ -21,6 +21,16 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 ---
 
+## Key Takeaways
+
+- **Montessori at home is about environment design, not expensive toys.** The core idea: set up your child's world so they can explore independently, at their own pace.
+- **A 2025 PNAS randomized controlled trial** of 588 children found Montessori students significantly outperformed peers in reading, executive function, and social development.
+- **You don't need a dedicated playroom or renovation.** Start with one low shelf, a few carefully chosen activities, and the principle of "follow the child."
+- **The five core principles** are: follow the child, prepared environment, hands-on learning, freedom within limits, and sensitive periods.
+- **Common mistakes** include overcomplicating the setup, intervening too soon, and perfectionism about "being Montessori."
+
+---
+
 Maria Montessori spent decades watching children. Really watching them — not directing, not correcting, not hovering. What she saw changed everything she thought she knew about how children learn.
 
 Children, she found, don't need to be taught the way we assume. They need an environment that says yes. Yes, you can try that. Yes, you can reach that. Yes, your hands are capable.

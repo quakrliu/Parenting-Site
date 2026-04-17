@@ -15,6 +15,16 @@ ageGroup: ["toddler", "preschool"]
 
 ---
 
+## Key Takeaways
+
+- **Toddler meltdowns are neurologically normal, not manipulation.** The prefrontal cortex (impulse control, reasoning) doesn't mature until the mid-20s — in a two-year-old, it is barely online.
+- **A child who melts down in front of you trusts you.** Meltdowns are a sign of secure attachment, not developmental failure.
+- **The 5-step Montessori approach:** Stay calm (your nervous system is the anchor) → Get close without words → Name what you see → Hold the limit warmly with "AND" not "BUT" → Reconnect after.
+- **What NOT to do:** Time-outs for children under 3, saying "stop crying," or ignoring the meltdown entirely — these undermine co-regulation and secure attachment.
+- **Meltdowns peak between 18 months and 3 years** and gradually become less frequent as language develops and the prefrontal cortex matures.
+
+---
+
 It's a Tuesday afternoon. You're in the cereal aisle. Your two-year-old spots the box with the cartoon toucan on it, points, and says "dat one." You say no — gently, calmly — and keep pushing the cart.
 
 Then the world ends.
@@ -227,9 +237,6 @@ Most other parents have been exactly where you are and feel sympathy, not judgme
 
 ---
 
-## JSON-LD Schema
-
-```json
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -302,7 +309,6 @@ Most other parents have been exactly where you are and feel sympathy, not judgme
   ]
 }
 </script>
-```
 
 ---
 

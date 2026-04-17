@@ -15,6 +15,16 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 ---
 
+## Key Takeaways
+
+- **What your child watches matters more than how much.** High-quality, co-viewed programming has documented educational benefits; passive, fast-paced content does not.
+- **AAP guidelines by age:** no screens under 18 months (except video calls), co-viewed high-quality content at 18-24 months, max 1 hour/day ages 2-5, and a framework-based approach for 6+.
+- **Background television is the most underappreciated risk** — it measurably reduces parent-child verbal interaction even when no one is actively watching.
+- **Co-viewing is the single most evidence-backed screen time intervention.** A parent who comments and asks questions transforms passive viewing into active learning.
+- **Sleep displacement is the most consistently documented harm.** Keep screens out of bedrooms and establish a screen-free period before bed.
+
+---
+
 It happens in the 5 o'clock hour, almost every night. Dinner needs to happen. Someone is tired and someone is hungry and you are somehow both of those things plus the only adult in the kitchen. You hand over the phone. A cartoon fills the silence, vegetables get chopped, nobody cries. And then — even though nothing bad happened — the guilt arrives right on schedule.
 
 If you've felt that guilt, you're in good company. Most parents carry a low-grade anxiety about their children's screen time that rarely gets examined against actual evidence. The headlines about "screens destroying developing brains" spread faster than the nuanced findings that follow. The fear becomes ambient, unexamined, and mostly not useful.
