@@ -8,6 +8,10 @@ author: "Ethan Moore"
 draft: false
 ageGroup: ["toddler", "preschool"]
 ---
+<script type=application/ld+json>
+{@context:https://schema.org,@type:FAQPage,mainEntity:[{@type:Question,name:蒙特梭利幼兒園真的比傳統幼兒園好嗎？,acceptedAnswer:{@type:Answer,text:2025年美國頂尖期刊《PNAS》發表的首個全國性隨機對照試驗顯示，公立蒙特梭利幼兒園的孩子在閱讀、執行功能、短期記憶和社會理解四項指標上，到幼兒園結束時都顯著優於對照組，且效果隨時間增強，不像其他學前教育常見的效果消退現象。}},{@type:Question,name:蒙特梭利教育為什麼比其他學前教育便宜？,acceptedAnswer:{@type:Answer,text:三年公立蒙特梭利比傳統學前班每個孩子省下約13,127美元（約台幣40萬）。主要原因是較高的師生比——蒙特梭利混齡教室中，大孩子幫助小孩子，且孩子能長時間獨立工作，降低了對師資的需求。}},{@type:Question,name:蒙特梭利的效果為什麼不會隨時間消退？,acceptedAnswer:{@type:Answer,text:研究發現蒙特梭利的效果隨時間累積增強，不像其他學前教育常出現的效果消退。可能原因是蒙特梭利培養的是內在動機和自主學習能力，而不是靠外在獎勵維持的表現，這些技能具有可轉移性。}},{@type:Question,name:台灣沒有公立蒙特梭利幼兒園怎麼辦？,acceptedAnswer:{@type:Answer,text:蒙特梭利的核心原則在家就能實踐：跟著孩子的興趣走、給真實可用的工具、建立可預測的秩序環境、允許不被打斷的專注時間、限制被動螢幕時間。這些原則不需要昂貴的教具或特定學校。}},{@type:Question,name:怎麼判斷一間蒙特梭利學校是真正的蒙特梭利？,acceptedAnswer:{@type:Answer,text:關鍵指標：AMI或AMS認證、混齡教室（3-6歲）、三小時以上不被打斷的工作時間、受過正式培訓的老師、孩子可以自由選擇工作內容。台灣可以詢問老師是否持有AMI或AMS認證證書。}}]}
+</script>
+
 
 我第一次走進蒙特梭利教室的時候，老實說有點困惑。
 
@@ -204,6 +208,18 @@ ageGroup: ["toddler", "preschool"]
 - [National study finds public Montessori programs strengthen early learning outcomes — at sharply lower costs](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html) — Phys.org
 - [Massive national study shows public Montessori improves outcomes, reduces costs](https://www.montessoripublic.org/2025/10/massive-national-study-shows-public-montessori-improves-outcomes-reduces-costs/) — MontessoriPublic
 - [UVA-led national study finds Montessori preschool boosts learning, cuts costs](https://news.virginia.edu/content/uva-led-national-study-finds-montessori-preschool-boosts-learning-cuts-costs) — UVA News
+
+---
+
+---
+
+## 用 BloomPath 追蹤蒙特梭利啟發的每日活動
+
+研究告訴我們蒙特梭利的核心有效——但落實在日常生活裡，需要一點架構和支持。
+
+**育見未來 BloomPath** 提供依照寶寶月齡設計的蒙特梭利啟發活動，從日常生活練習到感官探索，讓你不需要從頭研究就知道今天可以跟寶貝玩什麼。也有發展里程碑追蹤，讓你看到孩子的成長在哪個方向前進。
+
+在 [BloomPath](https://bloom-path.app) 了解更多。
 
 ---
 
