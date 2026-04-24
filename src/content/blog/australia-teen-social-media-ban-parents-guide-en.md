@@ -14,7 +14,7 @@ ageGroup: ["school", "teen"]
 
 <!-- SCHEMA: FAQPage + Article JSON-LD — see end of file -->
 
-**TL;DR:** Australia banned social media for under-16s in December 2025 -- the first national ban worldwide. Ten more countries are following. Teens spending 3+ hours daily on social media face double the risk of depression (U.S. Surgeon General). But the most surprising finding: teens with strong parental relationships showed only 2% suicidal ideation vs. 22% without, regardless of screen time. Your relationship with your teen may matter more than their phone settings. Two tools worth considering: Bark (content monitoring) and Circle (time management).
+**TL;DR:** Australia banned social media for under-16s in December 2025 -- the first national ban worldwide. Ten more countries are following. Teens spending 3+ hours daily on social media face double the risk of depression (U.S. Surgeon General). But the most surprising finding: teens with strong [positive parenting teens](/en/blog/positive-parenting-guide-en)al relationships showed only 2% suicidal ideation vs. 22% without, regardless of [screen time research in 2026](/en/blog/screen-time-2026-guide-en). Your relationship with your teen may matter more than their phone settings. Two tools worth considering: Bark (content monitoring) and Circle (time management).
 
 ---
 
@@ -79,7 +79,7 @@ Australia didn't act in isolation. As of March 2026, here's what's happening glo
 
 ## What the Research Actually Says
 
-I want to be honest about something: this research is messier than the headlines suggest. There is a real association between heavy social media use and teen mental health problems. But "association" and "causation" are not the same thing, and some researchers have made this point loudly.
+I want to be honest about something: this research is messier than the headlines suggest. There is a real association between heavy social media use and teen [teen mental health in 2026](/en/blog/teen-mental-health-warning-signs-2026-en) problems. But "association" and "causation" are not the same thing, and some researchers have made this point loudly.
 
 That said, here's the data that convinced me this isn't nothing:
 

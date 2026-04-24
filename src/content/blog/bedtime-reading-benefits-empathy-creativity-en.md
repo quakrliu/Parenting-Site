@@ -90,7 +90,7 @@ The researchers specifically noted the absence of gender differences — boys an
 
 ---
 
-## The Montessori Connection {#montessori-connection}
+## The [Montessori at home activities](/en/blog/montessori-activities-at-home-en) Connection {#montessori-connection}
 
 My wife pulled me into Montessori education before our daughter started walking. I'll be honest — I thought it was expensive furniture and letting kids make messes. But one concept stuck with me: the **language-rich environment**.
 
@@ -98,9 +98,9 @@ In Montessori philosophy, children develop language, social cognition, and creat
 
 The 2026 study findings align directly with this framework. **Nightly bedtime reading creates a consistent language-rich environment that exercises the exact skills Montessori education is designed to cultivate** — perspective-taking, creative thinking, emotional vocabulary.
 
-The Montessori connection also explains *why* picture books work at ages 6–8, not just for toddlers. Illustrated stories carry emotional information visually — body language, facial expressions, color and composition all communicate subtext that children learn to "read" alongside the words. That multi-modal processing is cognitively demanding in the best possible way.
+The Montessori connection also explains *why* picture books work at ages 6–8, not just for [toddler meltdowns guide](/en/blog/toddler-meltdowns-montessori-en)s. Illustrated stories carry emotional information visually — body language, facial expressions, color and composition all communicate subtext that children learn to "read" alongside the words. That multi-modal processing is cognitively demanding in the best possible way.
 
-For parents using the [BloomPath app](https://bloompath.quakr.dev), language and social-emotional development are two of the eight tracked domains. Bedtime reading directly supports milestones in both — you'll see this reflected in your child's weekly progress reports.
+For parents using the [BloomPath app](https://bloompath.quakr.dev), language and social-emotional [child development milestones](/en/blog/child-development-milestones-en) are two of the eight tracked domains. Bedtime reading directly supports milestones in both — you'll see this reflected in your child's weekly progress reports.
 
 ---
 

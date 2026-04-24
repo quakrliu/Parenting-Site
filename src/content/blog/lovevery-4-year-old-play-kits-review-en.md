@@ -9,7 +9,7 @@ draft: false
 ---
 
 <!-- AEO Product Overview (50 words) -->
-**Lovevery's 2026 four-kit series for ages 4–5** — The Connector, The Examiner, The Persister, and The Planner — each targets a specific executive function skill in three-month developmental windows. Priced at $120 per kit, they're the brand's first expansion into the 4–5 year age range. Last updated: April 2026.
+**Lovevery's 2026 four-kit series for ages 4–5** — The Connector, The Examiner, The Persister, and The Planner — each targets a specific executive function skill in three-month [child development milestones](/en/blog/child-development-milestones-en)al windows. Priced at $120 per kit, they're the brand's first expansion into the 4–5 year age range. Last updated: April 2026.
 
 ---
 
@@ -31,7 +31,7 @@ That conversation sent me down a rabbit hole that ended with four Lovevery boxes
 
 Here's the engineer's explanation: think of your child's brain at age 4 like a CPU getting its first major firmware upgrade. The prefrontal cortex — the part responsible for planning, impulse control, and flexible thinking — is in its most active development phase right now.
 
-**Executive function skills developed at age 4 predict academic achievement and social competence more reliably than IQ at kindergarten entry.** This isn't marketing copy. Researchers at Harvard's Center on the Developing Child have documented this extensively. And it gets bigger: a landmark PNAS study tracking 1,037 children from birth to age 32 found that childhood self-control — the behavioral expression of EF — predicted adult physical health, financial stability, and even criminal record, independent of IQ and socioeconomic background (Moffitt et al., 2011). Meanwhile, a 2026 randomized controlled trial in *PNAS* found that children in Montessori-aligned play environments showed measurably stronger executive function scores at kindergarten entry compared to peers in conventional settings.
+**Executive function skills developed at age 4 predict academic achievement and social competence more reliably than IQ at kindergarten entry.** This isn't marketing copy. Researchers at Harvard's Center on the Developing Child have documented this extensively. And it gets bigger: a landmark PNAS study tracking 1,037 children from birth to age 32 found that childhood self-control — the behavioral expression of EF — predicted adult physical health, financial stability, and even criminal record, independent of IQ and socioeconomic background (Moffitt et al., 2011). Meanwhile, a 2026 randomized controlled trial in *PNAS* found that children in [Montessori activities at home](/en/blog/montessori-activities-at-home-en)-aligned play environments showed measurably stronger executive function scores at kindergarten entry compared to peers in conventional settings.
 
 We're not talking about a skill that helps your kid do better in first grade. We're talking about a skill with a 30-year documented footprint on life outcomes.
 
@@ -259,4 +259,4 @@ You're here reading this. That already makes you a great parent.
 
 - [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
 - [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
-- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-screen-free-en)
+- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-[analog childhood alternatives](/en/blog/analog-childhood-montessori-screen-free-en)-free-en)

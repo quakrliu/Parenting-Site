@@ -7,9 +7,9 @@ tags: ["幼兒螢幕時間", "AAP 2026", "蒙特梭利", "螢幕時間 台灣", 
 ageGroup: ["toddler", "preschool"]
 ---
 
-# 幼兒螢幕時間新規：AAP 2026 取消 2 小時上限，台灣爸媽的 5C 實踐指南
+# 幼兒[AAP 2026 螢幕時間完整解析](/zh/blog/aap-screen-time-guidelines-2026)新規：AAP 2026 取消 2 小時上限，台灣爸媽的 5C 實踐指南
 
-那天在咖啡廳，女兒把我手機拿走，手指熟練滑開鎖定，直接按進 YouTube。她兩歲半。
+那天在咖啡廳，女兒把我[父母滑手機對孩子的影響](/zh/blog/parental-phubbing-child-screen-addiction-zh)拿走，手指熟練滑開鎖定，直接按進 YouTube。她兩歲半。
 
 當爸之前我以為我很有耐心。當爸之後我發現，我只是很會塞手機。
 
@@ -22,7 +22,7 @@ AAP（美國兒科醫學會）2026 年 2 月剛發布新政策，把過去十年
 - **AAP 2026 年 2 月新政策「Digital Ecosystems, Children, and Adolescents」確實取消了每天 2 小時螢幕時間上限**，改用 **5C 框架**（Child / Content / Calm / Crowding Out / Communication）。
 - **但 5 歲以下的嚴格規定仍在**：18 個月以下**不建議接觸螢幕**（視訊通話除外），2–5 歲**每天高品質內容不超過 1 小時**。這兩條沒變。
 - 5C 框架的核心思維：**質比量重要**，用螢幕做什麼、排擠了什麼，比看幾小時更關鍵。
-- 蒙特梭利百年前就在處理「Crowding Out」，AAP 5C 某種程度是把蒙特梭利思維翻成醫學語言。
+- [蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)百年前就在處理「Crowding Out」，AAP 5C 某種程度是把蒙特梭利思維翻成醫學語言。
 - 台灣 Birth Cohort 研究發現：**媽媽的螢幕時間**（不是小孩的）跟孩子日後 ADHD 風險顯著相關。這個發現值得每個爸媽停下來想三秒。
 
 ---

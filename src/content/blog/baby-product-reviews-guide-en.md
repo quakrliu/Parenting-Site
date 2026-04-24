@@ -9,7 +9,7 @@ ageGroup: ["infant", "toddler"]
 
 # Baby & Kids Product Reviews: How We Test & Our Criteria
 
-**Key Takeaways:** We evaluate every baby product against four criteria: developmental alignment, engagement quality, longevity, and safety. Our top overall pick is Lovevery Play Kits for curated developmental certainty, and unit blocks as the single most research-backed toy for broad development (12 months through 8+ years). We never publish sponsored reviews and always disclose trade-offs. *Last updated: April 2026.*
+**Key Takeaways:** We evaluate every baby product against four criteria: [child development milestones](/en/blog/child-development-milestones-en)al alignment, engagement quality, longevity, and safety. Our top overall pick is Lovevery Play Kits for curated developmental certainty, and unit blocks as the single most research-backed toy for broad development (12 months through 8+ years). We never publish sponsored reviews and always disclose trade-offs. *Last updated: April 2026.*
 
 ---
 
@@ -62,7 +62,7 @@ We assess each product against the developmental stage it targets, across releva
 - Does it support language development (if appropriate — books, etc.)?
 - Does it support social-emotional development?
 
-We use CDC developmental guidelines, AAP recommendations, and Montessori educational principles as our benchmarks.
+We use CDC developmental guidelines, AAP recommendations, and [Montessori home environment guide](/en/blog/montessori-home-environment-en) educational principles as our benchmarks.
 
 ### The Engagement Quality Check
 
@@ -291,7 +291,7 @@ A: Ask: What is the child doing? (Active vs. passive engagement?) Is this age-ap
 
 ---
 
-*Tomorrow: [Baby & Toddler Nutrition Guide](/guides/baby-nutrition-health-guide) — BLW, feeding timeline, and the most common nutrition concerns.*
+*Tomorrow: [Baby & Toddler Nutrition Guide](/guides/baby-[baby nutrition complete guide](/en/blog/baby-nutrition-health-guide-en)-health-guide) — BLW, feeding timeline, and the most common nutrition concerns.*
 
 ---
 

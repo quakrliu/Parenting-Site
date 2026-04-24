@@ -11,7 +11,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 ## Table of Contents
 1. [What Positive Parenting Actually Is](#what-it-is)
-2. [The Research Behind It](#research)
+2. [The Research Behind It](#[Montessori national study 2026](/en/blog/montessori-national-study-2026-results-en))
 3. [Core Techniques: Emotion Coaching](#emotion-coaching)
 4. [Limits Without Punishment](#limits)
 5. [Natural and Logical Consequences](#consequences)

@@ -13,7 +13,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 ---
 
-**TL;DR:** The first-ever national randomized controlled trial of public Montessori preschool (PNAS, 2025) tracked 588 children across 24 programs and found Montessori students significantly outperformed peers in reading, executive function, short-term memory, and social understanding -- at $13,127 less per child. Benefits grew over time rather than fading. You don't need private school: four Montessori principles can be applied at home starting tonight.
+**TL;DR:** The first-ever national randomized controlled trial of public Montessori preschool (PNAS, 2025) tracked 588 children across 24 programs and found Montessori students significantly outperformed peers in reading, executive function, short-term memory, and [Montessori SEL and CASEL skills](/en/blog/montessori-sel-casel-skills-en) understanding -- at $13,127 less per child. Benefits grew over time rather than fading. You don't need private school: four Montessori principles can be applied [Montessori at home](/en/blog/montessori-at-home-guide-en) starting tonight.
 
 ---
 
@@ -78,7 +78,7 @@ Loeb was equally direct: *"Because of the rigor of the study, they're definitely
 
 This is where my engineering brain broke a little.
 
-*"Over three years, every child in Montessori versus conventional preschool costs their districts, on average, $13,127 less,"* said Lillard.
+*"Over three years, every child in Montessori versus conventional preschool [national cost comparison study](/en/blog/montessori-national-study-2026-results-en)s their districts, on average, $13,127 less,"* said Lillard.
 
 Let me repeat that: Montessori produced **better outcomes at lower cost.**
 

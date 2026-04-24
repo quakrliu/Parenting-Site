@@ -12,7 +12,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 **Last updated: March 31, 2026**
 
-> The tools and laws are changing fast. Parents who understand what shifted in 2026 — AI toys collecting children's conversations, national social media bans, new federal legislation — are better positioned to build protections that actually hold.
+> The tools and laws are changing fast. Parents who understand what shifted in 2026 — AI toys collecting children's conversations, national [Australia social media ban for teens](/en/blog/australia-[teen mental health warning signs](/en/blog/teen-mental-health-warning-signs-2026-en)-social-media-ban-[positive parenting complete guide](/en/blog/positive-parenting-guide-en)s-guide-en) bans, new federal legislation — are better positioned to build protections that actually hold.
 
 By the end of this guide, you'll know:
 1. Which AI toy risks are real and how to evaluate a toy before purchasing
@@ -58,7 +58,7 @@ The Kids Online Safety Act (KOSA) has been moving through Congress in fits and s
 
 **The revised KOSA requires platforms to enable safety features by default for minor users, rather than making parents opt in to protections.**
 
-The current version requires platforms to enable safety features by default for minors — including parental controls for screen time, purchase limits, and compulsive usage guardrails. Platforms must give parents tools to manage their child's privacy settings and notify children when these controls are active.
+The current version requires platforms to enable safety features by default for minors — including parental controls for [screen time research 2026](/en/blog/screen-time-2026-guide-en), purchase limits, and compulsive usage guardrails. Platforms must give parents tools to manage their child's privacy settings and notify children when these controls are active.
 
 A significant shift: House Republicans stripped out the original "duty of care" provision that would have held platforms liable for harm. The bill is weaker than its Senate counterpart, and negotiations over protections for older teens (13-17) remain unresolved. But even the diluted version represents the most significant federal child online safety legislation to move this far.
 

@@ -14,7 +14,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 ---
 
-Every parent deserves to feel equipped — not just alarmed — when it comes to child protection. The research is clear: parents who understand the actual dynamics of abuse, who have talked openly with their children about bodies and safety, and who maintain the kind of relationship where hard conversations are possible — those families are meaningfully better protected. This guide gives you the tools to be one of them.
+Every [positive parenting guide](/en/blog/positive-parenting-guide-en) deserves to feel equipped — not just alarmed — when it comes to [toddler meltdowns guide](/en/blog/toddler-meltdowns-montessori-en) protection. The research is clear: parents who understand the actual dynamics of abuse, who have talked openly with their children about bodies and safety, and who maintain the kind of relationship where hard conversations are possible — those families are meaningfully better protected. This guide gives you the tools to be one of them.
 
 **By the end of this guide, you'll know:**
 1. The three body safety conversations that research consistently shows reduce vulnerability in children
@@ -113,7 +113,7 @@ Prevent Child Abuse America identifies several evidence-based protective factors
 
 **Parental resilience.** Parents who have tools for managing their own stress are less likely to be overwhelmed in ways that lead to harm. Exhausted, isolated parents with no support are in a genuinely harder position. That's not a moral judgment — it's neurological reality.
 
-**Knowledge of child development.** Much of what's reported as abuse stems from unrealistic expectations — parents who don't understand what's developmentally normal and respond to normal behavior with disproportionate punishment. Understanding what a two-year-old or a six-year-old is actually capable of is directly protective.
+**Knowledge of [child development milestones](/en/blog/child-development-milestones-en).** Much of what's reported as abuse stems from unrealistic expectations — parents who don't understand what's developmentally normal and respond to normal behavior with disproportionate punishment. Understanding what a two-year-old or a six-year-old is actually capable of is directly protective.
 
 **Social and emotional competence in children.** Children who can identify and communicate their feelings, who have been taught to name what they're experiencing, are more likely to recognize and report unsafe situations.
 

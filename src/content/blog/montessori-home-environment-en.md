@@ -26,8 +26,8 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 ## Key Takeaways
 
-- **Access is everything.** The single most important principle: everything your child regularly uses should be at their height — toys, books, coat hooks, toothbrush.
-- **A low shelf with 4-8 activities beats a toy chest overflowing with options.** Fewer choices lead to deeper engagement; rotation keeps things fresh.
+- **Access is everything.** The single most important principle: everything your [child development milestones](/en/blog/child-development-milestones-en) regularly uses should be at their height — toys, books, coat hooks, toothbrush.
+- **A low shelf with 4-8 [hands-on activities](/en/blog/montessori-activities-at-home-en) beats a toy chest overflowing with options.** Fewer choices lead to deeper engagement; rotation keeps things fresh.
 - **You don't need Montessori-brand furniture.** An IKEA KALLAX on its side (~$60), a MOSSLANDA picture ledge for books (~$15), and a BEKVAM step stool (~$20) cover most setups.
 - **The kitchen is Montessori gold.** A learning tower is one of the highest-ROI investments — it enables real cooking participation, fine motor development, and genuine competence.
 - **What NOT to buy:** activity centers with flashing lights, jumpers for extended use, deep toy bins, and screens in children's rooms.
@@ -157,7 +157,7 @@ A learning tower brings your toddler safely to counter height. This single piece
 
 ### Child-Accessible Snack Area
 
-A low drawer or shelf with approved snack options your child can access independently. A small child-sized pitcher with water in the fridge at their level. This builds the capacity to manage hunger and thirst without constant requests to a parent — a significant practical life milestone.
+A low drawer or shelf with approved snack options your child can access independently. A small child-sized pitcher with water in the fridge at their level. This builds the capacity to manage hunger and thirst without constant requests to a [positive parenting approach](/en/blog/positive-parenting-guide-en) — a significant practical life milestone.
 
 ### Utensil Area
 

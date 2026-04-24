@@ -18,7 +18,7 @@ Here's what I know now: how you respond during these 2–6 weeks does more to sh
 
 ---
 
-**TL;DR:** Sleep regressions at 18 months and 2 years are driven by massive brain development, not bad habits or parenting failures. They typically last 2–6 weeks. The most effective strategies are predictability, earlier bedtimes (counterintuitive but true), and staying consistent—not sleep training all over again. Your child's brain is actually growing fastest during this exact chaos.
+**TL;DR:** Sleep regressions at 18 months and 2 years are driven by massive brain [child development milestones](/en/blog/child-development-milestones-en), not bad habits or [positive parenting guide](/en/blog/positive-parenting-guide-en) failures. They typically last 2–6 weeks. The most effective strategies are predictability, earlier bedtimes (counterintuitive but true), and staying consistent—not sleep training all over again. Your child's brain is actually growing fastest during this exact chaos.
 
 ---
 
@@ -271,7 +271,7 @@ Regression = sudden onset, new developmental skills emerging, good sleep history
 
 ## You're Not Failing
 
-The sleep research community calls the period from ages 1–3 the most neurologically active stretch of a human life. More synaptic connections form in these 24 months than at any other point. Every regression, every night waking, every 2am meltdown is evidence of that.
+The sleep research community calls the period from ages 1–3 the most neurologically active stretch of a human life. More synaptic connections form in these 24 months than at any other point. Every regression, every night waking, every 2am [toddler meltdowns guide](/en/blog/toddler-meltdowns-montessori-en) is evidence of that.
 
 Which means: you're not in the middle of a problem. You're in the middle of a miracle that's louder than expected.
 

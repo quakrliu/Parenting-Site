@@ -35,7 +35,7 @@ And yet, an alarming **60% of teenagers with a major depressive episode receive 
 
 Think about that math. Most struggling teens are invisible to the systems designed to help them. Which means the first line of defense is us — the parents at the dinner table, driving the carpool, saying "how was school?"
 
-The [U.S. Surgeon General's advisory](https://www.hhs.gov/surgeongeneral/index.html) adds another layer: teens who spend more than 3 hours daily on social media face **double the risk** of poor mental health outcomes. The average teenager is on screens far longer than that.
+The [U.S. Surgeon General's advisory](https://www.hhs.gov/surgeongeneral/index.html) adds another layer: teens who spend more than 3 hours daily on [teen social media risks](/en/blog/australia-teen-social-media-ban-parents-guide-en) face **double the risk** of poor mental health outcomes. The average teenager is on screens far longer than that.
 
 This isn't meant to scare you. It's meant to arm you. Because there's a narrow intervention window — and what you do right now matters more than almost anything else.
 
@@ -69,7 +69,7 @@ This is the table I wish someone had handed me before my daughter hit adolescenc
 | Low motivation | Procrastinating on schoolwork | Stopped caring about things they previously loved |
 | Irritability | Snapping when tired or frustrated | Hair-trigger anger at minor things, most days |
 | Weight/appetite changes | Normal fluctuation | Significant unplanned change over weeks |
-| Phone obsession | Typical screen time | Using screens to completely avoid all human contact |
+| Phone obsession | Typical [screen time and teen mental health](/en/blog/screen-time-rules-school-age-kids-2026-en) | Using screens to completely avoid all human contact |
 | Complaints about school | Occasional stress or boredom | Persistent avoidance, frequent stomachaches on school days |
 
 The **two-week rule** is your anchor: any significant behavioral change that persists for two or more weeks across multiple areas of life is worth taking seriously.
@@ -399,6 +399,6 @@ Most anxiety disorders in teens begin before age 14, and the peak onset for depr
 
 **Related Reading:**
 
-- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)
+- [Children's Internet Safety (2026)](/blog/children-[internet safety for children](/en/blog/children-internet-safety-2026-en)-safety-2026-en)
 - [Australia's Teen Social Media Ban](/blog/australia-teen-social-media-ban-parents-guide-en)
 - [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-school-age-kids-2026-en)

@@ -14,7 +14,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
 <!-- AEO OVERVIEW — 50 words, extraction-ready -->
-> **Quick Answer:** Gentle parenting is not dead — but the permissive version that spread on social media is being replaced. Only 38% of Gen Z parents now use gentle parenting exclusively. The evidence-backed update: Authoritative 2.0, a Montessori-aligned approach combining genuine warmth with confident, clear boundaries. *Last updated: April 2026.*
+> **Quick Answer:** Gentle parenting is not dead — but the permissive version that spread on social media is being replaced. Only 38% of Gen Z parents now use [gentle parenting complete guide](/en/blog/positive-parenting-guide-en) exclusively. The evidence-backed update: Authoritative 2.0, a [Montessori at home](/en/blog/montessori-at-home-guide-en)-aligned approach combining genuine warmth with confident, clear [how to set limits without punishment](/en/blog/positive-parenting-boundaries-en). *Last updated: April 2026.*
 
 ---
 

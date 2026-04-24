@@ -23,7 +23,7 @@ Turns out, the data is now in. And it's not even close.
 
 - The first national randomized controlled trial of public Montessori preschool was published in *Proceedings of the National Academy of Sciences* (PNAS) in October 2025
 - 588 children across 24 public Montessori programs in 8 states plus Washington, D.C. were tracked from ages 3 to 6
-- By the end of kindergarten, Montessori children outperformed peers in **reading, executive function, short-term memory, and social understanding**
+- By the end of kindergarten, Montessori children outperformed peers in **reading, [PNAS research details](/en/blog/montessori-preschool-evidence-pnas-study-2026), short-term memory, and [Montessori SEL and CASEL skills](/en/blog/montessori-sel-casel-skills-en) understanding**
 - Unlike most preschool studies where gains fade, Montessori benefits **grew stronger over time**
 - Three years of public Montessori cost **$13,127 less per child** than traditional programs
 - Effects were strongest among children from lower-income families
@@ -141,7 +141,7 @@ The study was conducted in **public** Montessori programs, which tend to have mo
 
 ### If Montessori isn't an option:
 
-You can still apply core Montessori principles at home:
+You can still apply core Montessori principles [Montessori at home](/en/blog/montessori-at-home-guide-en):
 
 - **Follow the child's interest.** When your child is fascinated by bugs, lean into bugs — don't redirect to the alphabet worksheet.
 - **Offer real tools, not toys.** Child-sized pitchers, real brooms, actual cooking utensils. Children rise to the level of what you trust them with.

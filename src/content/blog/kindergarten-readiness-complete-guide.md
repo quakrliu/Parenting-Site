@@ -20,7 +20,7 @@ ageGroup: ["preschool", "school"]
 閱讀完這份指南，你會知道：
 1. 幼稚園準備度的5大面向，以及各面向具體的評估標準
 2. 每個面向在家裡可以做的練習方式
-3. 台灣幼兒園制度的實用資訊
+3. 台灣[台灣幼兒園選校指南](/zh/blog/kindergarten-guide-taiwan-2026-zh)制度的實用資訊
 
 ---
 
@@ -34,7 +34,7 @@ ageGroup: ["preschool", "school"]
 
 研究數據坦白地告訴我們：**每年約有40%的孩子進入幼稚園時，在某一方面落後同齡孩子1-3年**。但研究同時也顯示：**家長的有意識準備，能顯著縮短這個差距**。
 
-> **Evidence:** 美國國家兒童健康研究所入學準備度研究 (2023) — 追蹤跨州公立幼稚園入學學生的發展差距。Visit National Institute of Child Health and Human Development official site for details.
+> **Evidence:** 美國國家兒童健康研究所入學準備度研究 (2023) — 追蹤跨州公立幼稚園入學學生的[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)差距。Visit National Institute of Child Health and Human Development official site for details.
 
 ---
 

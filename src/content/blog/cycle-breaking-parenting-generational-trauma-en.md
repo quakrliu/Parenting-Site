@@ -31,7 +31,7 @@ That moment — the one where you realize the patterns you inherited are more ha
 
 It's not about being a perfect parent. It's about being an aware one.
 
-In 2025, Talker Research surveyed 2,000 parents of children ages 0–6 and found that **37% now identify as cycle-breaking parents** — people actively focused on healing generational trauma rather than passing it on. Among Gen Z parents specifically, that number jumps to **41%**, making it the single most-adopted parenting identity for that generation — ahead of gentle parenting (32%).
+In 2025, Talker Research surveyed 2,000 parents of children ages 0–6 and found that **37% now identify as cycle-breaking parents** — people actively focused on healing generational trauma rather than passing it on. Among Gen Z parents specifically, that number jumps to **41%**, making it the single most-adopted parenting identity for that generation — ahead of [gentle parenting and empathy](/en/blog/gentle-parenting-burnout-empathy-limits-en) (32%).
 
 This isn't a trend. It's a reckoning.
 
@@ -316,5 +316,5 @@ Gen Z parents grew up with broader access to therapy-adjacent language, trauma r
 **Related Reading:**
 
 - [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [How to Set Boundaries Without Punishment](/blog/positive-parenting-boundaries-en)
+- [How to Set Boundaries Without Punishment](/blog/positive-parenting-[setting boundaries with children](/en/blog/positive-parenting-boundaries-en)-en)
 - [Parental Burnout Solutions](/blog/parental-burnout-solutions-2026)

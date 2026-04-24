@@ -10,7 +10,7 @@ lastUpdated: "2026-03-31"
 ageGroup: ["school"]
 ---
 
-*Last updated: March 2026 | Covers ages 6–12 | Sources: AAP Pediatrics January 2026, SickKids Hospital Toronto 2026, Internet Matters Wellbeing Index 2026*
+*Last updated: March 2026 | Covers ages 6–12 | Sources: [the AAP 5 Cs of screen time](/en/blog/aap-5cs-screen-time-framework-preschoolers-en) Pediatrics January 2026, SickKids Hospital Toronto 2026, Internet Matters Wellbeing Index 2026*
 
 ---
 
@@ -20,7 +20,7 @@ That rule is gone. The American Academy of Pediatrics officially retired it in J
 
 But here's what no one is telling you clearly enough: it wasn't replaced with permission to do whatever feels right. It was replaced with something harder — and more honest. The new framework asks you to look at *what* your child is watching, *why* they're watching it, and *what it's crowding out of their day*, rather than watching the clock until the two-hour timer goes off.
 
-If you're parenting a child between 6 and 12 right now, this window matters more than most parents realize. Before social media. Before smartphones. Before algorithmic design gets its fullest grip on your child's developing prefrontal cortex. What happens in these years shapes a relationship with technology that will last decades.
+If you're parenting a child between 6 and 12 right now, this window matters more than most parents realize. Before [Australia teen social media ban](/en/blog/australia-teen-social-media-ban-parents-guide-en). Before smartphones. Before algorithmic design gets its fullest grip on your child's developing prefrontal cortex. What happens in these years shapes a relationship with technology that will last decades.
 
 ---
 
@@ -132,7 +132,7 @@ Children at this age are increasingly online in ways that parents can't supervis
 
 **[Bark](https://www.bark.us/)** uses AI to monitor texts, email, and 45+ social media platforms — not a surveillance feed of every message, but an alert system that flags genuine risk signals: cyberbullying, depression indicators, sexual content, or predatory behavior. It's designed for the age when children need some privacy but real dangers exist. Plans start at $5/month for basic monitoring.
 
-**[Circle](https://meetcircle.com/)** works at the network level, managing every internet-connected device in your home — including gaming consoles, smart TVs, and tablets. It enables app-specific time limits, scheduled internet cutoffs at bedtime, and content filtering by age category. Particularly effective for ages 6–10 when whole-home management is the priority. Hardware is ~$129, with ongoing service around $10/month.
+**[Circle](https://meetcircle.com/)** works at the network level, managing every [internet safety for children in 2026](/en/blog/children-internet-safety-2026-en)-connected device in your home — including gaming consoles, smart TVs, and tablets. It enables app-specific time limits, scheduled internet cutoffs at bedtime, and content filtering by age category. Particularly effective for ages 6–10 when whole-home management is the priority. Hardware is ~$129, with ongoing service around $10/month.
 
 Many families find both useful — Circle for schedule and structure, Bark for safety monitoring as children get older.
 

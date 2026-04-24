@@ -13,7 +13,7 @@ draft: false
 
 ---
 
-**TL;DR:** CASEL research shows SEL programs generate $11 in returns for every $1 invested. Montessori has been building these exact skills for over a century — without the acronym. Children who miss SEL development during the critical 3-6 window face significantly harder catch-up later. This article maps Montessori to the 5 CASEL competencies and gives you 5 ways to start at home today.
+**TL;DR:** CASEL [PNAS study findings](/en/blog/montessori-preschool-evidence-pnas-study-2026) shows SEL programs generate $11 in returns for every $1 invested. Montessori has been building these exact skills for over a century — without the acronym. Children who miss SEL development during the critical 3-6 window face significantly harder catch-up later. This article maps Montessori to the 5 CASEL competencies and gives you 5 ways to start at home today.
 
 ---
 
@@ -206,9 +206,9 @@ You're one of them.
 
 ## Products We Recommend
 
-- **"The Montessori Toddler" by Simone Davies** — The most practical guide to Montessori at home. [Check it on Amazon](https://www.amazon.com/dp/1523502681?tag=bloompath-20)
+- **"The Montessori Toddler" by Simone Davies** — The most practical guide to [Montessori at home guide](/en/blog/montessori-at-home-guide-en). [Check it on Amazon](https://www.amazon.com/dp/1523502681?tag=bloompath-20)
 - **"How to Talk So Little Kids Will Listen" by Joanna Faber & Julie King** — The bridge between Montessori philosophy and day-to-day parenting. [Check it on Amazon](https://www.amazon.com/dp/1451663927?tag=bloompath-20)
-- **"No Bad Kids" by Janet Lansbury** — Essential for understanding toddler behavior through an SEL lens. [Check it on Amazon](https://www.amazon.com/dp/1503094685?tag=bloompath-20)
+- **"No Bad Kids" by Janet Lansbury** — Essential for understanding [toddler meltdowns Montessori guide](/en/blog/toddler-meltdowns-montessori-en) behavior through an SEL lens. [Check it on Amazon](https://www.amazon.com/dp/1503094685?tag=bloompath-20)
 - **Lovevery Play Kits** — Developmentally staged kits building SEL skills: self-regulation, empathy, cooperation. [Check on Amazon](https://www.amazon.com/s?k=lovevery+play+kit&tag=bloompath-20)
 
 ---

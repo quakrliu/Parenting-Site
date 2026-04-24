@@ -122,7 +122,7 @@ Something wasn't working. And turns out, I wasn't alone.
 
 ---
 
-**TL;DR:** Only 38% of Gen Z parents now use gentle parenting exclusively. 80% agree no single approach works for every child. Hybrid parenting -- combining empathy with clear, confident boundaries -- is what most modern parents actually practice. It's not punishment; it's natural consequences, firm limits, and genuine warmth. The AND method: validate the feeling AND hold the boundary.
+**TL;DR:** Only 38% of Gen Z parents now use gentle parenting exclusively. 80% agree no single approach works for every child. Hybrid parenting -- combining empathy with clear, confident [setting boundaries without punishment](/en/blog/positive-parenting-boundaries-en) -- is what most modern parents actually practice. It's not punishment; it's natural consequences, firm limits, and genuine warmth. The AND method: validate the feeling AND hold the boundary.
 
 ---
 
@@ -152,7 +152,7 @@ For many parents (including me), "gentle parenting" became synonymous with:
 - Sitting through 45-minute tantrums offering endless empathy while your own nervous system dissolves
 - Never following through with consequences
 
-A study found that **more than one-third of self-identified "gentle parents" report feelings of parental burnout**. That's not a small number.
+A study found that **more than one-third of self-identified "gentle parents" report feelings of parental [gentle parenting burnout solutions](/en/blog/gentle-parenting-burnout-empathy-limits-en)**. That's not a small number.
 
 Gentle parenting, as it's commonly practiced, often collapses under the weight of toddler reality. And here's the counterintuitive part: **consistently permissive responses can actually prolong and intensify tantrums** because children are still searching for the boundary they need to feel safe.
 
@@ -219,7 +219,7 @@ Notice what's in all of these: acknowledgment + clarity + no shame. That's the h
 
 ---
 
-## Montessori: The Original Hybrid Parenting System
+## [Montessori vs gentle parenting](/en/blog/montessori-vs-gentle-parenting-en): The Original Hybrid Parenting System
 
 Here's the thing no one talks about: **Montessori invented hybrid parenting before the term existed.**
 
@@ -291,7 +291,7 @@ Authoritative parenting — the research term most aligned with hybrid parenting
 
 - Children raised with **high warmth + high structure demonstrate significantly stronger emotional regulation** than those raised with either warmth alone or structure alone (Frontiers in Psychology, 2025)
 - **Authoritative parenting is consistently linked to lower rates of anxiety, depression, and behavioral problems** in children across cultures and age groups
-- A 2024 PMC study found that positive parenting style protects against academic procrastination through enhanced emotional resilience and school engagement
+- A 2024 PMC study found that [positive parenting guide](/en/blog/positive-parenting-guide-en) style protects against academic procrastination through enhanced emotional resilience and school engagement
 
 The key mechanism: children who feel both emotionally validated AND secure in clear limits develop stronger internal self-regulation over time. They're not suppressing emotions — they're learning to work with them.
 

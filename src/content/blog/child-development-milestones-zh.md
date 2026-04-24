@@ -7,7 +7,7 @@ tags: ["發展里程碑", "嬰兒發展里程碑", "學步兒里程碑", "各月
 ageGroup: ["infant", "toddler", "preschool"]
 ---
 
-# 0–6歲發展里程碑完整指南
+# 0–6歲[蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)里程碑完整指南
 
 ## 目錄
 1. [里程碑怎麼用才對？](#怎麼用)
@@ -16,7 +16,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 4. [正常變異 vs. 真正需要注意的發展問題](#正常vs疑慮)
 5. [各領域紅旗警訊](#紅旗警訊)
 6. [何時找兒科醫師？](#找醫師)
-7. [如何在家支持各發展領域](#居家支持)
+7. [如何在家支持各發展領域](#[蒙特梭利居家環境](/zh/blog/montessori-home-environment-zh)支持)
 8. [BloomPath 里程碑追蹤](#bloompath)
 9. [常見問題](#常見問題)
 

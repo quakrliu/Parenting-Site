@@ -11,13 +11,13 @@ type: "guide"
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ---
 
-*Updated March 2026 — Based on 2024–2026 AAP guidelines and peer-reviewed developmental research.*
+*Updated March 2026 — Based on 2024–2026 [the AAP 5 Cs framework](/en/blog/aap-5cs-screen-time-framework-preschoolers-en) guidelines and peer-reviewed developmental research.*
 
 ---
 
 ## Key Takeaways
 
-- **What your child watches matters more than how much.** High-quality, co-viewed programming has documented educational benefits; passive, fast-paced content does not.
+- **What your [children internet safety 2026](/en/blog/children-internet-safety-2026-en) watches matters more than how much.** High-quality, co-viewed programming has documented educational benefits; passive, fast-paced content does not.
 - **AAP guidelines by age:** no screens under 18 months (except video calls), co-viewed high-quality content at 18-24 months, max 1 hour/day ages 2-5, and a framework-based approach for 6+.
 - **Background television is the most underappreciated risk** — it measurably reduces parent-child verbal interaction even when no one is actively watching.
 - **Co-viewing is the single most evidence-backed screen time intervention.** A parent who comments and asks questions transforms passive viewing into active learning.
@@ -318,6 +318,6 @@ You already care about getting this right. That caring is the most important var
 
 **Related Reading:**
 
-- [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-school-age-kids-2026-en)
+- [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-[screen time rules for school-age kids](/en/blog/screen-time-rules-school-age-kids-2026-en)-kids-2026-en)
 - [AAP Screen Time Guidelines 2026](/blog/aap-screen-time-guidelines-2026)
 - [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)

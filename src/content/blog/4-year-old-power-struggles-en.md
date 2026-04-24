@@ -17,9 +17,9 @@ draft: false
 ---
 Last Tuesday morning, my daughter stood in the kitchen doorway, arms crossed, wearing one blue rain boot and one princess sneaker, telling me she was "absolutely not" putting on her other shoe because "the shoe did not fit right" -- despite having worn that exact shoe thirty times without complaint.
 
-I am Ethan, dad to a 4-year-old who has turned daily logistics into a full negotiation process. I am also the guy who used to think he was patient before he had kids. Before I discovered positive parenting and started actually understanding what was happening in my daughter's brain, I was losing these standoffs every morning and wondering what I was doing wrong.
+I am Ethan, dad to a 4-year-old who has turned daily logistics into a full negotiation process. I am also the guy who used to think he was patient before he had kids. Before I discovered [positive parenting strategies](/en/blog/positive-parenting-guide-en) and started actually understanding what was happening in my daughter's brain, I was losing these standoffs every morning and wondering what I was doing wrong.
 
-If you are in the same boat, I built [BloomPath](https://bloom-path.app) partly because I kept wishing there was a single place that translated developmental science into "what do I actually say right now." This article is that translation.
+If you are in the same boat, I built [BloomPath](https://bloom-path.app) partly because I kept wishing there was a single place that translated [child development milestones](/en/blog/child-development-milestones-en)al science into "what do I actually say right now." This article is that translation.
 
 ---
 
@@ -31,7 +31,7 @@ Here is what the research tells us about the 4-year-old brain:
 
 **Autonomy drive is at a peak.** Child development researchers confirm that 4-year-olds are hardwired to test limits as a way of establishing their own identity. This is healthy, not defiant. According to child development guidelines, children at this age can be bossy and non-compliant -- that is a normal developmental stage that typically smooths out around age 5.
 
-**Rigid thinking is normal.** Janet Lansbury, author of *No Bad Kids*, describes this phase as the brain "seeking order." When your child insists the sandwich must be cut in triangles not squares, their brain is not being difficult -- it is trying to make sense of a world where most things are out of their control. Montessori educators treat this as developmental data, not misbehavior.
+**Rigid thinking is normal.** Janet Lansbury, author of *No Bad Kids*, describes this phase as the brain "seeking order." When your child insists the sandwich must be cut in triangles not squares, their brain is not being difficult -- it is trying to make sense of a world where most things are out of their control. [Montessori approach to toddler tantrums](/en/blog/toddler-meltdowns-montessori-en) educators treat this as developmental data, not misbehavior.
 
 **Language has outpaced emotional regulation.** A 4-year-old can say "I do not want to" with remarkable clarity. What they cannot yet do is regulate the feeling underneath that statement. Research on prefrontal cortex development confirms that executive function pathways including inhibitory control continue maturing throughout childhood -- the hardware exists but is not yet fully optimized.
 
@@ -70,7 +70,7 @@ The most reliable tool in the parenting toolkit. Instead of "put your shoes on,"
 
 The key is that both options must genuinely be okay with you. If you offer "do you want to go to bed now or in five minutes?" and you are not actually willing to wait five minutes, the child detects the fake choice immediately and escalates.
 
-Jane Nelsen's Positive Discipline research supports this consistently: limited choices give children genuine autonomy within safe boundaries, which reduces the internal pressure to push back against parental control.
+Jane Nelsen's Positive Discipline research supports this consistently: limited choices give children genuine autonomy within safe [setting limits without punishment](/en/blog/positive-parenting-boundaries-en), which reduces the internal pressure to push back against parental control.
 
 Try this tonight: "Do you want to put pajamas on in your room or in the bathroom?" Sounds trivial. Works surprisingly often.
 

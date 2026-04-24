@@ -8,7 +8,7 @@ author: "Ethan Moore"
 draft: false
 ---
 
-**TL;DR:** The American Academy of Pediatrics now uses a "5 Cs" framework — Child, Content, Calm, Crowding Out, and Communication — instead of hard time limits. A January 2026 UCL study of 4,700+ toddlers found that excessive screen time is linked to lower language scores by age 4.5. The good news: *how* your kid uses screens matters more than the clock. Here's how I apply each C at home with my 4-year-old.
+**TL;DR:** The American Academy of Pediatrics now uses a "5 Cs" framework — Child, Content, Calm, Crowding Out, and Communication — instead of hard time limits. A January 2026 UCL study of 4,700+ toddlers found that excessive [complete screen time research guide](/en/blog/screen-time-2026-guide-en) is linked to lower language scores by age 4.5. The good news: *how* your kid uses screens matters more than the clock. Here's how I apply each C at home with my 4-year-old.
 
 ---
 
@@ -34,7 +34,7 @@ The 5 Cs are:
 
 | C | What it means | Engineer translation |
 |---|---|---|
-| **Child** | Every kid is different. Consider your child's temperament, age, and how they respond to media. | Same input, different output. Know your kid's runtime behavior. |
+| **Child** | Every kid is different. Consider your [child development milestones](/en/blog/child-development-milestones-en)'s temperament, age, and how they respond to media. | Same input, different output. Know your kid's runtime behavior. |
 | **Content** | Quality matters enormously. Educational, slow-paced content differs from fast-cut entertainment. | Garbage in, garbage out. |
 | **Calm** | Screens shouldn't be the default regulation tool. Watch for overstimulation. | Don't let the system overheat before you pull the plug. |
 | **Crowding Out** | Is screen time replacing sleep, physical play, reading, or face-to-face interaction? | Check your resource allocation. Screens shouldn't hog the CPU. |
@@ -108,7 +108,7 @@ The AAP no longer prescribes a single number. Their previous guideline of one ho
 
 The 5 Cs are Child (consider your individual child's needs), Content (choose high-quality media), Calm (avoid using screens as the sole emotional regulation tool), Crowding Out (make sure screens aren't replacing sleep, play, or social time), and Communication (talk about and during screen use).
 
-### Is all screen time bad for preschoolers?
+### Is all screen time bad for [Montessori at home guide](/en/blog/montessori-at-home-guide-en)ers?
 
 No. Research from UConn (2026) shows that passive, solo screen time is associated with lower language development, while interactive content like video calls, e-books, and co-viewed educational programs show no negative association. The quality and context matter significantly.
 

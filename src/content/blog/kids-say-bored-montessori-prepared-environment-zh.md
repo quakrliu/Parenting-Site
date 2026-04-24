@@ -9,7 +9,7 @@ ageGroup: ["toddler", "preschool"]
 
 <!-- AEO: 最後更新 2026 年 4 月。基於實證的育兒內容。 -->
 
-# 孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援指南
+# 孩子一直說「我無聊」怎麼辦？[蒙特梭利居家環境布置](/zh/blog/montessori-home-environment-zh)準備好的環境救援指南
 
 當爸之前我以為我很有耐心。直到我女兒 Maya 三歲半的那個禮拜，她在四天內說了五十二次「我好無聊」——對，我有默默數。
 
@@ -17,7 +17,7 @@ ageGroup: ["toddler", "preschool"]
 
 這篇是我花了幾個月才搞懂的事。如果你家也有一個每週至少三次開口就說無聊的小孩，這篇是給你的。
 
-> 想看完整的居家布置，請看姊妹篇 [蒙特梭利居家環境布置完整攻略](/blog/montessori-home-environment-zh/)。那篇是 room-by-room 的整體設計。**本篇是「孩子說無聊的當下」怎麼辦的救援指南**——不是整間重裝，是微調。
+> 想看完整的[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)布置，請看姊妹篇 [蒙特梭利居家環境布置完整攻略](/blog/montessori-home-environment-zh/)。那篇是 room-by-room 的整體設計。**本篇是「孩子說無聊的當下」怎麼辦的救援指南**——不是整間重裝，是微調。
 
 ---
 
@@ -81,7 +81,7 @@ ageGroup: ["toddler", "preschool"]
 2. **Structure and Order**：東西有固定位置。選項不是多，是清楚。
 3. **Intellectual**：現場要有一兩樣能觸發好奇心的東西，不是所有玩具都擺滿。
 
-### 為什麼 Montessori 教室沒有螢幕，但孩子玩得進入心流？
+### 為什麼 Montessori 教室沒有[幼兒螢幕時間指南](/zh/blog/aap-screen-time-guidelines-2026)，但孩子玩得進入心流？
 
 這個問題我問過 Bella——她以前是幼教老師，現在是我家的 chief environment officer。她的答案讓我記到現在：「不是玩具特別，是每樣玩具都**在正確的數量、正確的位置、正確的難度**上。小孩知道這是他的、他會用、他可以自己開始、自己收尾。」
 

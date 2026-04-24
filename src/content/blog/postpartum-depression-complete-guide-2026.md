@@ -38,7 +38,7 @@ ageGroup: ["infant"]
 - 高達 **50% 的患者從未被診斷**——因為她們選擇沉默，害怕被認為是「不好的媽媽」
 - **產後憂鬱症若未獲治療，孩子日後出現情緒及行為問題的風險也會上升**（MGH Center for Women's Mental Health, 2026）
 
-> **Evidence:** NIH/PMC 及 MGH Center for Women's Mental Health (2026) — 針對產後憂鬱症的流行病學研究與縱向追蹤，記錄母親憂鬱症對子女長期心理發展的影響。Visit nih.gov official site for details.
+> **Evidence:** NIH/PMC 及 MGH Center for Women's Mental Health (2026) — 針對產後憂鬱症的流行病學研究與縱向追蹤，記錄母親憂鬱症對子女長期心理[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)的影響。Visit nih.gov official site for details.
 
 這份指南的目的，是打破沉默。
 
@@ -124,7 +124,7 @@ ageGroup: ["infant"]
 
 ---
 
-## 爸爸也會得產後憂鬱症
+## [爸爸育兒的重要性](/zh/blog/daddy-role-in-parenting-zh)也會得產後憂鬱症
 
 這是很少被討論的事實：**研究顯示，約 10% 的新手爸爸也會經歷產後憂鬱症**（NIH）。
 
@@ -222,7 +222,7 @@ ageGroup: ["infant"]
 
 ### 線上支持社群
 
-- 台灣各縣市衛生局有提供**新手父母支持課程**及家訪服務，可詢問您當地的衛生所
+- 台灣各縣市衛生局有提供**新手[家長職業倦怠](/en/blog/parental-burnout-solutions-2026)支持課程**及家訪服務，可詢問您當地的衛生所
 
 ---
 

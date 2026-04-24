@@ -9,7 +9,7 @@ draft: false
 ageGroup: ["infant", "toddler", "preschool"]
 ---
 
-**TL;DR:** The "analog childhood" movement — prioritizing hands-on, screen-free play — surged in 2026 with Pinterest reporting 200%+ growth in "screen-free activities" searches. Montessori parents have been doing this for over a century. A 2025 PNAS randomized controlled trial found Montessori preschoolers significantly outperformed peers in executive function, reading, and social development. You don't need expensive materials: 5 activities using household items can build the same skills. The goal isn't a screen-free house — it's a ratio that serves your child's development.
+**TL;DR:** The "analog childhood" movement — prioritizing hands-on, screen-free play — surged in 2026 with Pinterest reporting 200%+ growth in "screen-free activities" searches. [Montessori at home](/en/blog/montessori-at-home-guide-en) parents have been doing this for over a century. A 2025 PNAS randomized controlled trial found Montessori preschoolers significantly outperformed peers in executive function, reading, and social development. You don't need expensive materials: 5 activities using household items can build the same skills. The goal isn't a screen-free house — it's a ratio that serves your child's development.
 
 ---
 
@@ -39,7 +39,7 @@ The irony is that Montessori educators have been saying this for over a hundred 
 
 ## Why Montessori Was Already There
 
-Here's what surprises most people who are new to Montessori: it was never about a curriculum. It was about an environment.
+Here's what surprises most people who are new to Montessori: it was never about a curriculum. It was about an [Montessori home environment setup](/en/blog/montessori-home-environment-en).
 
 Dr. Maria Montessori designed her approach in the early 1900s around one observation — that children, given the right physical materials and the freedom to use them without constant adult direction, will naturally pursue the exact skills their development requires. She called it "following the child."
 
@@ -66,7 +66,7 @@ A 2025 landmark study published in *PNAS* — the first-ever **national randomiz
 
 The brain mechanism matters here. The prefrontal cortex — the region governing executive function, impulse control, and sustained attention — develops its foundational circuits between ages 0 and 6. The activities that build those circuits are ones that require a child to *generate* problems, make decisions without external prompts, and tolerate the frustration of things not working.
 
-Think of your toddler's brain as a CPU in the middle of writing its own operating system. Open-ended play is the input that builds the architecture. Passive screen time — even "educational" content — presents a pre-written program. The CPU runs it without building much of its own code.
+Think of your toddler's brain as a CPU in the middle of writing its own operating system. Open-ended play is the input that builds the architecture. Passive [screen time research in 2026](/en/blog/screen-time-2026-guide-en) — even "educational" content — presents a pre-written program. The CPU runs it without building much of its own code.
 
 The WHO and American Academy of Pediatrics both recommend no screen time before age 2 and less than one hour per day for children under 5. The 2025 Common Sense Media Census found that 40% of children already have a tablet by age 2, with average daily screen time around 2.5 hours.
 

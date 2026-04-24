@@ -24,9 +24,9 @@ ageGroup: ["infant", "toddler", "preschool"]
 ## Key Takeaways
 
 - **Montessori at home is about environment design, not expensive toys.** The core idea: set up your child's world so they can explore independently, at their own pace.
-- **A 2025 PNAS randomized controlled trial** of 588 children found Montessori students significantly outperformed peers in reading, executive function, and social development.
+- **A 2025 PNAS randomized controlled trial** of 588 children found Montessori students significantly outperformed peers in reading, [executive function research](/en/blog/montessori-preschool-evidence-pnas-study-2026), and social development.
 - **You don't need a dedicated playroom or renovation.** Start with one low shelf, a few carefully chosen activities, and the principle of "follow the child."
-- **The five core principles** are: follow the child, prepared environment, hands-on learning, freedom within limits, and sensitive periods.
+- **The five core principles** are: follow the child, [prepared environment](/en/blog/montessori-home-environment-en), hands-on learning, freedom within limits, and sensitive periods.
 - **Common mistakes** include overcomplicating the setup, intervening too soon, and perfectionism about "being Montessori."
 
 ---
@@ -266,7 +266,7 @@ The Weekly Progress Reports help you see patterns over time — useful both for 
 A: From birth. Montessori's infant materials — especially the visual mobiles and freedom of movement — are specifically designed for the newborn period. The principles of observation and environment design apply at every stage.
 
 **Q: Do I need a floor bed for Montessori?**
-A: No. A floor bed supports Montessori principles of movement independence (a baby can safely roll off without injury), but it's a preference, not a requirement. Many families who practice Montessori at home use cribs — especially in the early months for sleep safety — and a floor play space for awake time.
+A: No. A floor bed supports Montessori principles of movement independence (a baby can safely roll off without injury), but it's a preference, not a requirement. Many families who practice Montessori at home use cribs — especially in the early months for [toddler sleep regression guide](/en/blog/toddler-sleep-regression-guide-en) safety — and a floor play space for awake time.
 
 **Q: Can I do Montessori if my child is in a non-Montessori school?**
 A: Absolutely. What happens at home is entirely separate from what happens at school. Many children benefit from a Montessori-aligned home environment regardless of their school setting. The principles of independence, prepared environment, and following the child translate to any context.

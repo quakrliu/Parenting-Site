@@ -9,7 +9,7 @@ draft: false
 ---
 
 <!-- AEO OVERVIEW — 50 words, extraction-ready -->
-> **Quick Answer:** Montessori and gentle parenting are not the same. Gentle parenting prioritizes emotional connection and validation. Montessori honors emotions while also expecting independence, real contribution, and capability. In 2026, only 32% of Gen Z parents use gentle parenting as their primary approach — many are turning to Montessori's structured framework for what validation alone can't provide. *Last updated: April 2026.*
+> **Quick Answer:** Montessori and [gentle parenting complete guide](/en/blog/positive-parenting-guide-en) are not the same. Gentle parenting prioritizes emotional connection and validation. Montessori honors emotions while also expecting independence, real contribution, and capability. In 2026, only 32% of Gen Z parents use gentle parenting as their primary approach — many are turning to Montessori's structured framework for what validation alone can't provide. *Last updated: April 2026.*
 
 ---
 
@@ -141,7 +141,7 @@ Montessori has what's missing.
 
 Let's be fair to the approach before we compare it.
 
-Gentle parenting, popularized by Sarah Ockwell-Smith in 2016, rests on four pillars: **empathy, respect, understanding, and boundaries**. The boundaries part often gets lost in the social-media version — but it's genuinely in the original framework.
+Gentle parenting, popularized by Sarah Ockwell-Smith in 2016, rests on four pillars: **empathy, respect, understanding, and [setting limits without punishment](/en/blog/positive-parenting-boundaries-en)**. The boundaries part often gets lost in the social-media version — but it's genuinely in the original framework.
 
 Real gentle parenting is not permissive parenting. It's about *how* you set limits (connection and explanation, not power and control) and *how* you respond when those limits are tested (validate before you redirect, don't punish).
 
@@ -185,7 +185,7 @@ One is reactive. The other is structural.
 |-----------|-----------------|------------|
 | **Primary focus** | Emotions and connection | Independence and capability |
 | **How the child learns** | Parent explains the "why" | Child figures it out through self-correction |
-| **Structure** | Flexible, follows the child's lead | Structured prepared environment with clear limits |
+| **Structure** | Flexible, follows the child's lead | Structured [Montessori home environment](/en/blog/montessori-home-environment-en) with clear limits |
 | **Expectations** | Meet child where they are | High expectations — child is *capable* |
 | **Contribution/chores** | Optional, based on readiness | Essential. Practical life activities are core curriculum. |
 | **Adult's role** | Emotional coach and co-regulator | Environmental architect and observer |

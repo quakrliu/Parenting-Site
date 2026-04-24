@@ -16,7 +16,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 By the end of this guide, you'll know:
 1. What the 2025 PNAS study actually found, and why its design matters
-2. Which children benefit most from Montessori — the equity finding is striking
+2. Which [child development milestones](/en/blog/child-development-milestones-en)ren benefit most from Montessori — the equity finding is striking
 3. How to decide what's right for your specific child, not the average child
 
 ---
@@ -25,13 +25,13 @@ Here's the question every parent eventually faces: your child is turning three, 
 
 One promises freedom, curiosity, and self-directed learning. The other offers structure, preparation for the classroom ahead, and usually a lower price tag.
 
-What the research said for a long time was frustratingly inconclusive. Montessori studies kept running into the same problem: the families who chose Montessori were already different. More educated, more engaged. Hard to separate the method from the home environment.
+What the research said for a long time was frustratingly inconclusive. Montessori studies kept running into the same problem: the families who chose Montessori were already different. More educated, more engaged. Hard to separate the method from the [Montessori home environment](/en/blog/montessori-home-environment-en) environment.
 
 That changed in 2025.
 
 A study published in the *Proceedings of the National Academy of Sciences* (PNAS) ran the first truly rigorous national test of public Montessori preschool — a randomized controlled trial using lottery selection. Researchers from the University of Virginia, the University of Pennsylvania, and the American Institutes for Research tracked 588 children across 24 public Montessori schools nationwide.
 
-**Children randomly selected to attend public Montessori preschool scored more than 0.2 standard deviations higher than conventionally schooled peers in reading, executive function, working memory, and social understanding by the end of kindergarten.**
+**Children randomly selected to attend public Montessori preschool scored more than 0.2 standard deviations higher than conventionally schooled peers in reading, [PNAS landmark study](/en/blog/montessori-preschool-evidence-pnas-study-2026), working memory, and social understanding by the end of kindergarten.**
 
 The results are the clearest picture we've ever had.
 

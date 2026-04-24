@@ -19,7 +19,7 @@ ageGroup: ["toddler", "preschool", "school"]
 
 ## 重點整理
 
-- 50 個四月親子活動，分成 9 大主題：自然尋寶、蝴蝶觀察、小菜園種植、戶外野餐、泡泡水遊戲、節慶手作、科學探索、身體活動、雨天備案
+- 50 個四月親子活動，分成 9 大主題：自然尋寶、蝴蝶觀察、小菜園種植、[戶外日照的科學依據](/zh/blog/sunlight-child-development-outdoors-zh)野餐、泡泡水遊戲、節慶手作、科學探索、身體活動、雨天備案
 - 大部分活動零成本，材料都是家裡就有的
 - 適合 2-8 歲，每項活動標注適用年齡
 - 兒童定期接觸自然環境能顯著降低焦慮感、提升創造力和注意力持續時間
@@ -275,7 +275,7 @@ ageGroup: ["toddler", "preschool", "school"]
 
 這個四月，放下手機，走出去吧。
 
-[BloomPath](https://bloompath.quakr.dev) 每天提供 3 個蒙特梭利啟發活動（5-15 分鐘），如果您想把春季探索和孩子的發展里程碑連結起來，224 個發展指標追蹤可以幫您記錄孩子的每一步成長。
+[BloomPath](https://bloompath.quakr.dev) 每天提供 3 個[蒙特梭利居家活動](/zh/blog/montessori-at-home-guide-zh)啟發活動（5-15 分鐘），如果您想把春季探索和孩子的[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)里程碑連結起來，224 個發展指標追蹤可以幫您記錄孩子的每一步成長。
 
 ---
 

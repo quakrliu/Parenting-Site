@@ -18,7 +18,7 @@ ageGroup: ["toddler", "preschool"]
 ## Key Takeaways
 
 - **Toddler meltdowns are neurologically normal, not manipulation.** The prefrontal cortex (impulse control, reasoning) doesn't mature until the mid-20s — in a two-year-old, it is barely online.
-- **A child who melts down in front of you trusts you.** Meltdowns are a sign of secure attachment, not developmental failure.
+- **A child who melts down in front of you trusts you.** Meltdowns are a sign of secure attachment, not [child development milestones](/en/blog/child-development-milestones-en)al failure.
 - **The 5-step Montessori approach:** Stay calm (your nervous system is the anchor) → Get close without words → Name what you see → Hold the limit warmly with "AND" not "BUT" → Reconnect after.
 - **What NOT to do:** Time-outs for children under 3, saying "stop crying," or ignoring the meltdown entirely — these undermine co-regulation and secure attachment.
 - **Meltdowns peak between 18 months and 3 years** and gradually become less frequent as language develops and the prefrontal cortex matures.
@@ -191,7 +191,7 @@ Most toddler tantrums fall well within the range of normal. But there are some p
 
 **No return to baseline:** After a typical meltdown, children usually recover relatively quickly and return to a regulated, connected state. If your child stays in a dysregulated state for long periods after meltdowns, or cannot re-engage with you, that's a signal to check in with a professional.
 
-**Regression combined with other changes:** Meltdowns that spike dramatically alongside sleep disruption, appetite changes, regression in other developmental skills, or other behavioral shifts may warrant a closer look.
+**Regression combined with other changes:** Meltdowns that spike dramatically alongside [toddler sleep regression guide](/en/blog/toddler-sleep-regression-guide-en) disruption, appetite changes, regression in other developmental skills, or other behavioral shifts may warrant a closer look.
 
 None of this is cause for alarm in isolation — but your instinct as a parent matters. If something feels off, follow that instinct to a conversation with your pediatrician.
 
@@ -337,4 +337,4 @@ You're already in it. That means you're already doing it.
 
 - [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
 - [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [How to Set Boundaries Without Punishment](/blog/positive-parenting-boundaries-en)
+- [How to Set Boundaries Without Punishment](/blog/positive-parenting-[setting limits without punishment](/en/blog/positive-parenting-boundaries-en)-en)

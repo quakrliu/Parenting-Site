@@ -21,7 +21,7 @@ Every few months, a well-meaning relative will send a link to a gorgeous Montess
 
 The myth that Montessori requires expensive equipment has kept countless families from trying an approach that was literally designed around ordinary life. The real materials were always the kitchen, the garden, the laundry, the table that needs wiping after breakfast.
 
-Everything in this guide uses objects you already own. Most setups take under three minutes. And every single one is doing something real inside your child's developing brain.
+Everything in this [Montessori at home complete guide](/en/blog/montessori-at-home-guide-en) uses objects you already own. Most setups take under three minutes. And every single one is doing something real inside your [child development milestones](/en/blog/child-development-milestones-en)'s developing brain.
 
 ---
 
@@ -87,7 +87,7 @@ The first time I put a bowl of beans in front of my fourteen-month-old, I expect
 
 **What you need:** A small sponge or cloth, a spray bottle filled with plain water, a low table or the coffee table.
 
-**How to set it up:** Spray the table with water and show your toddler how to wipe — large, sweeping motions, wringing out the sponge over a bowl. Then hand them the sponge and step back.
+**How to set it up:** Spray the table with water and show your [toddler meltdowns and tantrums](/en/blog/toddler-meltdowns-montessori-en) how to wipe — large, sweeping motions, wringing out the sponge over a bowl. Then hand them the sponge and step back.
 
 **What your child is developing:** Practical life work is not busy work. When an eighteen-month-old scrubs a table, they are developing fine motor control through the wringing and wiping motions, learning sequencing (spray, wipe, wring), and building a genuine sense of competence. Children who are given real tasks and trusted to complete them develop stronger internal motivation than children who are primarily entertained. Also: the table actually gets cleaner. That visible result is something a child can feel genuinely proud of.
 

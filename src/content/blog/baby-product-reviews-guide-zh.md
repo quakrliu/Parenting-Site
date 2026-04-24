@@ -11,7 +11,7 @@ ageGroup: ["infant", "toddler"]
 
 ## 重點整理
 
-- 我們用四大標準評測：發展對齊、參與品質、使用年限、安全性
+- 我們用四大標準評測：[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)對齊、參與品質、使用年限、安全性
 - 最佳整體推薦：Lovevery Play Kits（研究支持的訂閱制玩具組）
 - 每個孩子必備的一樣玩具：實木單位積木（12個月用到8歲以上）
 - 紅旗警訊：宣稱「提升智商」的玩具、月齡標示錯誤、被動娛樂設計
@@ -68,7 +68,7 @@ ageGroup: ["infant", "toddler"]
 - 是否支持語言發展（如書籍等適用的類別）？
 - 是否支持社交情緒發展？
 
-基準來源：CDC 發展指引、AAP 建議、蒙特梭利教育原則。
+基準來源：CDC 發展指引、AAP 建議、[蒙特梭利居家環境布置](/zh/blog/montessori-home-environment-zh)教育原則。
 
 ### 參與品質評估
 
@@ -290,7 +290,7 @@ A：問：孩子在做什麼？（主動還是被動？）適合這個月齡嗎�
 
 ---
 
-*明天繼續：[嬰幼兒副食品與營養完整指南](/guides/ying-er-ying-yang-jian-kang) — BLW 介紹法、各階段飲食時間表，以及常見營養問題解答。*
+*明天繼續：[嬰幼兒副食品與營養完整指南](/guides/ying-er-ying-yang-jian-kang) — BLW 介紹法、各階段飲食時間表，以及常見[嬰幼兒副食品與營養](/zh/blog/baby-nutrition-health-guide-zh)問題解答。*
 
 ---
 

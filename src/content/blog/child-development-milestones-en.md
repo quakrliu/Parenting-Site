@@ -25,7 +25,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 ## Key Takeaways
 
 - **Milestones are ranges, not deadlines.** Walking at 9 months and walking at 15 months are both within typical range. Development is uneven and individual.
-- **Track across 8 domains** (gross motor, fine motor, language, cognitive, social-emotional, self-care, sensory, play) for a complete picture — strength in one area doesn't predict all others.
+- **Track across 8 domains** (gross motor, fine motor, [positive parenting guide](/en/blog/positive-parenting-guide-en), cognitive, social-emotional, self-care, sensory, play) for a complete picture — strength in one area doesn't predict all others.
 - **Key red flags to discuss with your pediatrician:** no babbling by 9 months, no first words by 16 months, no 2-word phrases by 24 months, any loss of previously acquired skills at any age.
 - **Early intervention (before age 3) consistently shows better outcomes.** Asking for an evaluation gives you information — it doesn't commit you to anything.
 - **Your sustained observation of your specific child is irreplaceable.** If something feels off across multiple domains or persists over weeks, trust that signal.
@@ -58,7 +58,7 @@ Milestones are tools for observation, not tests your child passes or fails.
 - Panic over one missed milestone (look at the overall picture)
 - Reassure yourself that all is fine if you have a persistent nagging feeling that it isn't
 
-The most important principle: **you know your child.** Pediatric screening tools are designed for population-level screening. Your sustained observation of your specific child over time is irreplaceable. If something feels wrong across multiple domains, or persists over weeks, trust that signal.
+The most important principle: **you know your child.** Pediatric [screen time for young children](/en/blog/screen-time-2026-guide-en)ing tools are designed for population-level screening. Your sustained observation of your specific child over time is irreplaceable. If something feels wrong across multiple domains, or persists over weeks, trust that signal.
 
 ---
 
@@ -71,7 +71,7 @@ Development doesn't happen in one dimension. Children grow across multiple domai
 3. **Language/Communication** — receptive (understanding) and expressive (speaking)
 4. **Cognitive** — problem-solving, memory, understanding cause and effect, early math and literacy
 5. **Social-Emotional** — attachment, reading social cues, empathy, self-regulation
-6. **Self-Care/Adaptive** — feeding, dressing, toileting, sleeping
+6. **Self-Care/Adaptive** — feeding, dressing, toileting, [toddler sleep regression](/en/blog/[toddler meltdowns guide](/en/blog/toddler-meltdowns-montessori-en)-sleep-regression-guide-en)ing
 7. **Sensory Processing** — integrating information from all senses
 8. **Play** — how children engage with objects, peers, and imaginative scenarios
 
