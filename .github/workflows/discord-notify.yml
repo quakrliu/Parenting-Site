@@ -1,0 +1,44 @@
+name: Discord Notify
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/blog/*.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Detect new articles
+        id: detect
+        run: |
+          FILES=$(git diff --diff-filter=A --name-only HEAD~1 HEAD -- 'src/content/blog/*.md')
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FILES" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+          echo "count=$(echo "$FILES" | grep -c . || true)" >> "$GITHUB_OUTPUT"
+
+      - name: Send pang-tong report
+        if: steps.detect.outputs.count != '0' && steps.detect.outputs.files != ''
+        run: |
+          TITLES=""
+          while IFS= read -r FILE; do
+            [ -z "$FILE" ] && continue
+            T=$(grep -m1 '^title:' "$FILE" | sed 's/title: *"\?\(.*\)"\?/\1/')
+            TITLES="${TITLES}\n- ${T}"
+          done <<< "${{ steps.detect.outputs.files }}"
+          MSG="## BP 新文章已部署${TITLES}\n- Cloudflare Pages 自動部署中"
+          PAYLOAD=$(jq -n \
+            --arg channel "pang-tong" \
+            --arg content "$MSG" \
+            '{channel: $channel, content: $content}')
+          curl -s -X POST \
+            -H "Content-Type: application/json" \
+            -H "X-Auth-Token: ${{ secrets.DISCORD_RELAY_TOKEN }}" \
+            -d "$PAYLOAD" \
+            "${{ secrets.DISCORD_RELAY_URL }}"
