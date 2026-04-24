@@ -1,4 +1,3 @@
----
 title: "影響孩子幸福感最多的，不是你的薪水——臺師大 2026 最新研究"
 slug: "taiwan-children-wellbeing-research-2026-zh"
 description: "台灣兒童幸福感平均 8.19 分，但有 10% 孩子偏低。臺師大 10 年縱貫研究揭示：家庭收入與幸福感無關，關鍵是父母的情緒健康和親子互動品質。"
@@ -10,6 +9,7 @@ keywords: ["台灣兒童幸福感", "親子關係研究", "父母情緒影響孩
 author: "Ethan Moore"
 category: "正向教養"
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 # 影響[兒童網路安全](/zh/blog/children-internet-safety-2026-zh)[家長職業倦怨解決方案](/zh/blog/parental-burnout-solutions-2026)感最多的，不是你的薪水——臺師大 2026 最新研究揭示真相
@@ -22,11 +22,13 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 - 10%的孩子幸福感偏低，主要預測因子是親子衝突頻率和父母情緒不穩定
 - 每天15分鐘高品質的親子互動，比加薪對孩子的影響更大
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 **根據臺師大 2026 年兒童幸福感調查（追蹤約 2,500 名兒童，歷時 10 年），台灣兒童幸福感平均 8.19 分（滿分 10 分）。關鍵發現：家庭收入與學歷和幸福感無顯著關聯；影響孩子幸福感最重要的因素，是父母的情緒健康和親子互動品質。**
 *最後更新：2026 年 4 月 4 日*
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 那天加班回到家，女兒已經睡了
@@ -39,6 +41,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 研究結論說得很直接：**家庭收入與孩子幸福感，沒有顯著關聯。**
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 台灣孩子的幸福感，到底幾分？
@@ -53,6 +56,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 也就是說，在你孩子的班上，可能就有 3 到 4 個同學正過得並不快樂。這不是統計數字而已，那是真實的孩子。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 讓所有人跌破眼鏡的發現
@@ -67,6 +71,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 這個發現不是要說「錢不重要」。而是告訴我們，超過某個基本生活水準之後，你把更多時間投入在賺更多錢這件事上，對孩子幸福感的回報幾乎是零。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 真正重要的第一件事：你的情緒
@@ -89,6 +94,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 這不是在怪罪爸媽。有憂鬱症狀的父母本身就需要支持，而不是更多的自責。但這個數據提醒我們：照顧好自己的情緒，是給孩子最重要的禮物之一。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 真正重要的第二件事：你們在一起做什麼
@@ -111,6 +117,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 **共餐對話和日常陪玩，是研究中持續出現的高幸福感親子互動模式。**
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## [螢幕時間指南](/zh/blog/aap-screen-time-guidelines-2026)時間：現實中的威脅
@@ -129,6 +136,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 螢幕時間不只是孩子的問題。親子互動被螢幕擠掉的空間，才是真正的問題所在。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 小學這幾年，是不可逆的窗口
@@ -139,6 +147,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 如果孩子已經中高年級，這個窗口還開著，但不會永遠開著。童年不會重來第二次。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 你家孩子的幸福感，現在是幾分？
@@ -156,6 +165,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 如果你問問孩子「你現在幸福感幾分？」然後真的聽他說，那本身就是一次有品質的親子互動了。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 今晚就能做的三件事
@@ -171,6 +181,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 **3. 今晚共餐的時候，手機翻面**
 不是要你永遠不看手機。就今晚吃飯的 20 分鐘，把手機翻面放著。看看那 20 分鐘的對話會不會不一樣。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 寫在最後
@@ -183,6 +194,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 你願意讀到這篇文章，就已經在往對的方向走了。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 常見問題 FAQ
@@ -205,6 +217,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ### 哪些親子互動對幸福感最有幫助？
 研究特別指出共餐時的對話、陪伴遊戲、以及帶孩子前往社區場所（公園、圖書館）是對幸福感影響最積極的日常互動模式。研究強調，「每日的陪伴本身就是關鍵」。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 <script type="application/ld+json">
@@ -258,6 +271,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 }
 </script>
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 資料來源
@@ -265,10 +279,12 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 - 臺師大兒童福祉研究中心（CERI）：[陪孩子走向幸福：臺灣兒童幸福感調查（2026/03/31）](https://www.ceri.ntnu.edu.tw/index.php/2026/04/02/1150331/)
 - 聯合新聞網：[台灣兒童幸福感報告](https://udn.com/news/story/6885/9413697)
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 *明天繼續：父母情緒管理——當你快爆炸的時候，怎麼在孩子面前踩煞車？*
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 ## 推薦閱讀與好物
@@ -278,6 +294,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 - [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 研究顯示台灣兒童主觀幸福感較低——這本書從父母的心理狀態出發，是改變家庭動態的起點。
 - [**Raising Good Humans（養出好孩子）** — Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — 正念育兒在台灣越來越受關注，這本書提供了科學基礎和可以立刻實踐的方法。
 
+heroImage: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 ---
 
 **延伸閱讀：**

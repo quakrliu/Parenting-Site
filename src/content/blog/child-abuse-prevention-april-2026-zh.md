@@ -1,4 +1,3 @@
----
 title: "保護寶貝最重要的一課：如何教孩子身體界限，以及台灣求助資源整理"
 description: "身體界限教育、預防兒童性侵害、如何辨識警示信號，以及台灣爸媽可以直接使用的資源。不製造恐慌，給你可以做到的具體步驟。"
 pubDate: 2026-04-01
@@ -6,6 +5,7 @@ updatedDate: 2026-03-31
 tags: ["兒童安全", "身體界限", "兒童保護", "親子教養", "性教育"]
 lang: "zh-TW"
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 # 保護寶貝最重要的一課：如何教[幼兒發展里程碑](/zh/blog/child-development-milestones-zh)身體[身體界限教育](/zh/blog/positive-parenting-guide-zh)，以及台灣求助資源整理
@@ -19,6 +19,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 2. 哪些行為信號值得多留意
 3. 台灣有哪些資源可以直接使用
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 有個問題，很多台灣爸媽其實不知道怎麼開口說：
@@ -29,6 +30,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 不需要找一天「正式宣布」。大部分的對話，可以在平常的生活裡自然帶出來。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 ## 一個你需要知道的數字
@@ -43,6 +45,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 如果孩子沒有學到「不舒服的碰觸可以說不」，施害者就更容易以「這是秘密」壓制孩子開口。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 ## 從現在就可以教的「身體界限」
@@ -85,6 +88,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 你不需要讓這件事變成衝突。只要在家庭聚會時，讓孩子有選擇——「你想抱抱奶奶，還是想給她一個笑臉就好？」——就已經是在建立身體自主的感受。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 ## 哪些信號值得多關注
@@ -104,6 +108,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 讓這個對話感覺安全，而不是讓孩子擔心你受到了衝擊。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 ## 台灣求助與通報資源
@@ -126,6 +131,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 ### 🏥 學校或幼兒園老師
 台灣的幼兒園和學校老師都有法定的通報義務——如果老師觀察到疑似虐待的跡象，老師必須通報主管機關。你可以直接和孩子的老師溝通你的擔憂。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 ## 什麼方式真的有效
@@ -140,6 +146,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 就是這樣。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 ## 本週可以做的三件事
@@ -150,6 +157,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 3. **把113這個號碼存在手機裡**——不一定要用到，但存著。如果有一天需要，你不用再搜尋。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 ## 常見問題
@@ -186,6 +194,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 113是台灣衛福部保護服務專線，24小時有社工接聽，可受理家庭暴力、性侵害、兒童虐待相關求助和通報。你不需要確定孩子受到虐待才能打——有疑慮、想諮詢，都可以撥打。電話免費，也提供簡訊服務（適合聽障者）。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 *參考資料：*
@@ -272,6 +281,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 }
 </script>
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 ## 推薦閱讀與好物
@@ -280,6 +290,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 
 - [**No Means No!（不，就是不！）** — Jayneen Sanders](https://www.amazon.com/dp/0994593546?tag=bloompath-20) — 專為3-7歲孩子設計的身體自主權繪本，溫和而清晰地教孩子說不。
 
+heroImage: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
 **延伸閱讀：**

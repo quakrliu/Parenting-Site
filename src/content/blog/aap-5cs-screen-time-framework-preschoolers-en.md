@@ -1,4 +1,3 @@
----
 title: "The AAP's New 5 Cs of Screen Time: An Engineer Dad's Practical Breakdown"
 description: "The AAP replaced strict screen time limits with the 5 Cs framework. Here's what Child, Content, Calm, Crowding Out, and Communication actually look like with a 4-year-old at home."
 pubDate: "2026-04-21"
@@ -6,10 +5,12 @@ tags: ["screen time", "AAP guidelines", "5 Cs framework", "preschool", "child de
 lang: "en"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
 
 **TL;DR:** The American Academy of Pediatrics now uses a "5 Cs" framework — Child, Content, Calm, Crowding Out, and Communication — instead of hard time limits. A January 2026 UCL study of 4,700+ toddlers found that excessive [complete screen time research guide](/en/blog/screen-time-2026-guide-en) is linked to lower language scores by age 4.5. The good news: *how* your kid uses screens matters more than the clock. Here's how I apply each C at home with my 4-year-old.
 
+heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
 
 ## The moment I stopped counting minutes
@@ -24,6 +25,7 @@ Twelve minutes did more damage than forty. That's when the old "just limit the h
 
 Turns out the AAP agrees.
 
+heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
 
 ## What actually changed in the AAP guidelines
@@ -44,6 +46,7 @@ This isn't the AAP going soft. It's them getting more precise. And honestly? As 
 
 *Source: [AAP 5 Cs of Media Use](https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/5cs-of-media-use/)*
 
+heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
 
 ## The UCL study that should get your attention
@@ -58,6 +61,7 @@ The screen isn't poison. Passive, solo, fast-paced screen time is the problem.
 
 *Sources: [UCL News, January 2026](https://www.ucl.ac.uk/news/2026/jan/toddlers-spending-two-hours-screens-day); [UConn KIDS, April 2026](https://kids.uconn.edu/2026/04/16/how-does-screen-time-impact-language-development/)*
 
+heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
 
 ## How I actually use the 5 Cs with my 4-year-old
@@ -96,6 +100,7 @@ The research is remarkably consistent on this: when a parent watches alongside a
 
 **What I do:** I sit with her when I can. I ask dumb questions on purpose because she loves correcting me. "Is that a penguin?" "No, Daddy, that's a PUFFIN." She's teaching me, which means she's processing and retaining. When I can't co-view (because dinner won't cook itself), I ask her to tell me about what she watched afterward.
 
+heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
 
 ## FAQ
@@ -124,6 +129,7 @@ Open-ended toys that encourage imaginative play — building blocks, magnetic ti
 
 You showed up to read a 2,000-word article about screen time research. That level of intentionality already puts you ahead of the curve. Perfect screen time management doesn't exist. The 5 Cs framework is useful precisely because it's flexible — it meets you where you are, not where some idealized parenting book thinks you should be.
 
+heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
 
 ## What surprised me most
@@ -142,6 +148,7 @@ My daughter watched that octopus documentary for forty minutes and came away kno
 
 You're here, reading about child development research on a Monday. That already makes you a thoughtful parent. Trust the framework. Trust yourself. And maybe queue up a nature documentary tonight — you might learn something too.
 
+heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
 
 ## Products We Recommend

@@ -1,4 +1,3 @@
----
 title: "Gentle Parenting Burned You Out? Here's the Science of Empathy + Limits"
 description: "Gentle parenting burnout is real. Here's how Dr. Becky Kennedy's Sturdy framework combines empathy and firm limits — without losing yourself."
 pubDate: "2026-04-24"
@@ -6,6 +5,7 @@ tags: ["gentle parenting burnout", "empathy and limits parenting", "positive par
 lang: "en"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-en.png"
 ---
 
 <script type="application/ld+json">
@@ -14,6 +14,7 @@ draft: false
 
 **TL;DR:** Gentle parenting burnout is real, and the cause is usually a misunderstood version of the approach — one with all the [gentle parenting and Montessori boundaries](/en/blog/en-[gentle parenting complete guide](/en/blog/positive-parenting-guide-en)-parenting-montessori-boundaries) and none of the [setting limits without punishment](/en/blog/positive-parenting-boundaries-en)s. Dr. Becky Kennedy's Sturdy framework fixes this. Empathy tells a child they are seen. Limits tell a child they are safe. You need both.
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-en.png"
 ---
 
 Last Tuesday in our Bali co-working space, I watched my daughter Nora — three years old, fully feral by 5pm — lose her mind because I cut her toast the wrong way. Wrong shape. Catastrophic. She threw the toast. I stood there holding the triangle piece, wondering if I was supposed to validate that.
@@ -109,6 +110,7 @@ No. Kids adapt. Expect more pushback initially — what researchers call an "ext
 
 Crying is not evidence that you did something wrong. It is evidence that your child has strong feelings. Strong feelings, firmly contained, are how emotional resilience gets built.
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-en.png"
 ---
 
 ## Products We Recommend
@@ -123,6 +125,7 @@ The source material for everything in this article about the Sturdy framework. W
 Practical, research-grounded, and written without condescension. Good companion to Dr. Becky's work.
 [View on Amazon](https://www.amazon.com/dp/0593736133?tag=bloompath-20)
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-en.png"
 ---
 
 You're here reading about parenting science at whatever hour this is. That already makes you a thoughtful parent. The burnout you feel is not a character defect — it's what happens when a good idea gets implemented without half its components. Add the limits back. You'll be fine.

@@ -1,4 +1,3 @@
----
 title: "Cycle-Breaking Parenting: The Gen Z Guide to Healing Generational Trauma"
 description: "37% of parents are now focused on breaking generational cycles. Here's what that actually looks like on a Tuesday when you've already yelled twice before breakfast."
 pubDate: "2026-04-07"
@@ -7,10 +6,12 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 ageGroup: ["infant", "toddler", "preschool", "school-age"]
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 **TL;DR:** Cycle-breaking parenting is the conscious practice of identifying harmful inherited family patterns and choosing different responses. 37% of parents now identify as cycle-breakers (41% among Gen Z). The most powerful cycle-breaking moment isn't staying calm -- it's what you do in the 20 minutes after you lose it. Repair after rupture actually strengthens the attachment bond. Five practical strategies: name it to tame it, understand triggers, 20-second breath reset (4-4-6), repair with specificity, and practice self-compassion.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 Before I became a dad, I thought I was different from my own father.
@@ -23,6 +24,7 @@ I stood there with this weird mix of shame and recognition, thinking: *oh. So th
 
 That moment — the one where you realize the patterns you inherited are more hardwired than you thought — is exactly where cycle-breaking parenting begins.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## What Is Cycle-Breaking Parenting?
@@ -37,6 +39,7 @@ This isn't a trend. It's a reckoning.
 
 For generations, parenting was largely unconscious — you did what was done to you, because that's all you knew. Gen Z is the first generation to grow up with widespread access to therapy-adjacent language (thanks, TikTok), trauma research, and the honest vocabulary to name what happened in their own childhoods. And a lot of them are using that vocabulary in the nursery.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## Why This Generation Is Leading the Shift
@@ -47,6 +50,7 @@ Gen Z parents aren't just rejecting harsh parenting. They're also gently pushing
 
 Cycle-breaking parenting answers that need. It's not soft. It's actually harder than any other parenting approach, because it requires you to do your own work first.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## 7 Signs You May Have Inherited Patterns Worth Breaking
@@ -67,6 +71,7 @@ Before you can break a cycle, you have to see it. Here's what to watch for:
 
 **7. "I turned out fine" as a defense.** People who truly turned out fine rarely need to say it.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## The Most Important Insight in Cycle-Breaking (It's Counterintuitive)
@@ -87,6 +92,7 @@ Your child learns something different from a rupture-and-repair than from a pare
 
 That's the cycle you want to pass on.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## The Window That Makes This Urgent
@@ -103,6 +109,7 @@ Your child's ACE score isn't fate. But it is a number worth thinking about. And 
 
 **The good news:** every repair matters. Every moment you choose connection over control changes the trajectory. You don't need to get every day right. You need to trend in the right direction.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## 5 Practical Cycle-Breaking Strategies
@@ -149,6 +156,7 @@ Jen Lumanlan cites research showing that **self-compassion after a parenting mis
 
 Self-compassion isn't letting yourself off the hook. It's recognizing that you are a human being doing something genuinely difficult, that the patterns you're working to change were installed in you without your consent, and that growth is possible without self-punishment.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## How Montessori Naturally Supports Cycle-Breaking
@@ -165,6 +173,7 @@ Montessori's core principles turn out to be remarkably aligned with cycle-breaki
 
 If you want a practical way to track whether these Montessori-informed approaches are supporting your child's development, [BloomPath's AI Parenting Advisor](https://bloompath.quakr.dev) can walk you through daily activities tailored to your child's developmental stage — and give you a window into whether the work you're doing is showing up in how your child is growing.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## The Books That Helped Me Most
@@ -179,6 +188,7 @@ I'm an engineer. I need frameworks. These gave me them:
 
 If parenting courses are more your speed, there are solid conscious parenting courses on [Udemy](https://www.udemy.com) and [Coursera](https://www.coursera.org) that walk through these frameworks in structured formats.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## You Will Not Get This Right Every Day
@@ -193,6 +203,7 @@ That's the gap cycle-breaking actually closes. Not perfection. The gap between r
 
 You're here reading this. That already makes you a great parent.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## Frequently Asked Questions
@@ -237,6 +248,7 @@ The most widely cited books for cycle-breaking parenting include *Good Inside* b
 
 Gen Z parents grew up with broader access to therapy-adjacent language, trauma research, and public discourse around mental health — which gave them vocabulary to name their own childhood experiences. A 2025 Talker Research survey of 2,000 parents found 41% of Gen Z parents prioritize cycle-breaking, compared to 37% of all parents, making it the most common parenting identity for that generation.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 <script type="application/ld+json">
@@ -298,10 +310,12 @@ Gen Z parents grew up with broader access to therapy-adjacent language, trauma r
 }
 </script>
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 *Tomorrow: [Montessori at Home — 7 Simple Setups That Actually Work for Toddlers](/en/blog/montessori-home-setups-toddlers)*
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 ## Products We Recommend
@@ -311,6 +325,7 @@ Gen Z parents grew up with broader access to therapy-adjacent language, trauma r
 - [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — Directly addresses the gap between knowing better and doing better. One of the most honest parenting books I've read.
 - [**Raising Good Humans** by Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — Combines mindfulness and parenting science for parents who grew up in homes they don't want to recreate.
 
+heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
 
 **Related Reading:**

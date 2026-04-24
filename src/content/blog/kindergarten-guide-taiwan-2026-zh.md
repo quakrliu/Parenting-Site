@@ -1,4 +1,3 @@
----
 title: "幼兒園怎麼選？公幼、蒙特梭利、雙語幼兒園完整比較指南（2026年最新版）"
 description: "台灣爸媽最糾結的問題：公幼好還是蒙特梭利好？雙語值得花錢嗎？含2026年最新補助費用試算、真蒙特梭利辨別清單，讓你做出最適合自己孩子的決定。"
 pubDate: "2026-04-08"
@@ -6,12 +5,14 @@ tags: ["幼兒園", "蒙特梭利", "公幼", "雙語幼兒園", "台灣育兒",
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 *這篇文章幫你回答這個問題：如果選錯幼兒園，代價是什麼？*
 
 在台灣，選錯幼兒園的「代價」通常是：多付了每月10,000元、孩子不快樂、還要在學期中煩惱能不能轉園。不是世界末日，但是完全可以避免的困擾。這篇文章就是為了讓你避掉這些困擾。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 重點整理
@@ -22,6 +23,7 @@ draft: false
 - 雙語幼兒園費用差距大（月費NT$8,000-25,000+），不是每間都有合格外師
 - 最重要的判斷標準：實地參觀時觀察孩子的表情和教室的氣氛
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 我女兒快三歲的那個冬天，我打開了一個 Excel。
@@ -38,6 +40,7 @@ draft: false
 
 這篇文章是我希望當初有人寫給我看的。費用、教學法、補助政策，全部整理在一起，加上一些我們踩過的雷。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 台灣幼兒園有哪幾種？先搞清楚分類再選
@@ -78,6 +81,7 @@ draft: false
 
 **適合：** 預算充足、對特定教學法有強烈偏好
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 2026年補助試算：你實際要付多少？
@@ -94,6 +98,7 @@ draft: false
 
 **重要：** 即使就讀私立，符合條件的家庭仍可申請育兒補助。很多爸媽不知道自己可以申請，就直接放棄了這筆錢。去社會局或幼兒園行政問清楚，別讓補助白白流失。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 台灣爸媽實際怎麼選？（你不是唯一在糾結的）
@@ -108,6 +113,7 @@ draft: false
 
 這三句話，幾乎是看過幾十篇文章之後會得到的結論。我整理這篇的目的，是幫你省掉那幾十篇的時間。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 教學法比較：蒙特梭利、雙語、華德福、傳統，差在哪？
@@ -152,6 +158,7 @@ draft: false
 
 「最好的幼兒園」不存在。最適合你家孩子的幼兒園才是最好的。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 怎麼辨別「真蒙特梭利」？（這比你想的重要）
@@ -183,6 +190,7 @@ draft: false
 
 如果孩子一直在等待老師指令，或者教室雖然掛著蒙特梭利圖片、教具卻鎖在櫃子裡——那就只是裝飾。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 常見問題 Q&A
@@ -227,6 +235,7 @@ draft: false
 
 幼兒園的聯絡簿是起點，但你也可以在家用系統化的方式觀察孩子在8個發展領域（語言、數學邏輯、運動、社交等）的成長。BloomPath 有224個幼兒發展指標，可以幫你更有結構地記錄寶貝的成長里程碑。（[了解更多](https://bloompath.quakr.dev)）
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 幼兒園選擇 Checklist（可列印）
@@ -259,6 +268,7 @@ draft: false
 - [ ] 參觀時你覺得孩子在這裡會快樂嗎？
 - [ ] 這裡的節奏跟你家的節奏合得來嗎？
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 找到適合你家的，不是「最好的」
@@ -273,6 +283,7 @@ draft: false
 
 答案比任何比較表都更準確。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 最後想說的
@@ -287,6 +298,7 @@ draft: false
 
 你在讀這篇，代表你已經在認真思考這件事。這樣的爸媽，孩子很幸運。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 *最後更新：2026年4月。台灣幼兒園補助政策每年調整，建議報名前再次確認所在縣市最新規定。*
@@ -297,6 +309,7 @@ draft: false
 - *幼兒教師訪談資料，MomBaby，2024*
 - *天才領袖幼兒教育研究，2026年2月*
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 ## 推薦閱讀與好物
@@ -306,6 +319,7 @@ draft: false
 - [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 選幼兒園之前先讀這本書——理解蒙特梭利教育的核心，比較公幼、私幼選項時會更有判斷力。
 - [**How to Talk So Little Kids Will Listen（如何跟小孩說話他才聽）** — Joanna Faber & Julie King](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — 幼兒園準備的關鍵不只是識字，而是溝通能力。這本書從爸媽的角度出發。
 
+heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
 
 **延伸閱讀：**

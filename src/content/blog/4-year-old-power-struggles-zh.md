@@ -1,4 +1,3 @@
----
 title: "4歲為什麼總是跟你對著幹？發展心理學這樣解釋，正向教養這樣化解"
 description: "4歲孩子對著幹不是故意作對，是大腦在發育。這篇文章從發展心理學角度解釋為什麼，再給你5個台灣爸媽都能用的正向教養策略。"
 pubDate: "2026-04-23"
@@ -6,6 +5,7 @@ tags: ["4歲行為", "親子衝突", "正向教養", "幼兒發展", "蒙特梭�
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 
 <script type="application/ld+json">
@@ -14,6 +14,7 @@ draft: false
 
 > **重點摘要：** 4歲孩子對著幹不是品格問題，是大腦[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)過程。前額葉皮質正在加速成長，孩子有語言可以反駁你，但還沒有神經迴路可以自己剎車。本文給你5個方法：有限選擇、幽默化解、一個字指令、先連結後指令、讓作息表當老闆。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 上週五早上，我女兒在客廳門口站定，雙手交叉抱胸，跟我說她「不要」穿那雙白色球鞋，因為「感覺怪怪的」。
 
@@ -25,6 +26,7 @@ draft: false
 
 我後來研究了[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)和[蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)，加上我老婆（幼教背景）的提點，才慢慢搞懂這件事的邏輯。育見未來 BloomPath 這個 app 的一部分初衷，就是希望爸媽不用自己一個人硬啃研究，直接拿到可以用的方法。這篇文章就是那些方法的整理。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 
 ## 4歲為什麼特別愛對著幹？大腦發育這樣解釋
@@ -41,6 +43,7 @@ draft: false
 
 **語言發展快過情緒調節能力。** 4歲的孩子可以說出非常清楚的「我不要」。但他們還無法調節那個「不要」底下的情緒。他們有詞彙，但沒有情緒管理系統。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 
 ## 什麼叫「權力鬥爭」？跟發脾氣有什麼不同？
@@ -53,6 +56,7 @@ draft: false
 
 正向教養創始人 Jane Nelsen 說得很清楚：目標不是服從——是建立在相互尊重上的長期合作。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 
 ## 哪些情況最容易引發衝突？
@@ -67,6 +71,7 @@ draft: false
 
 **我的告白：** 我後來發現，我們家一半的衝突是我自己引起的。我習慣說「我們快走了」，然後女兒沒準備好，我就開始不耐煩。「快走了」對4歲孩子來說毫無意義。改成「再3分鐘，計時器響了就穿鞋」配上計時器——完全不同的結果。這個方法超簡單，我現在還是會忘記用。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 ## 5個實際有效的方法（爸爸親測）
 
@@ -116,6 +121,7 @@ Dr. Becky Kennedy（著有《Good Inside》）說，大多數的問題行為其�
 
 這個方法也直接解決了衝突的根源之一：沒有自主空間。當孩子參與建立作息，她擁有這套系統，不是被系統控制。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 ## 不要做這些事（親身踩雷版）
 
@@ -127,6 +133,7 @@ Dr. Becky Kennedy（著有《Good Inside》）說，大多數的問題行為其�
 
 **不要跳過事後修復。** 衝突發生了（一定會發生），事後的對話很重要。「爸爸剛才很煩躁、聲音變大了。對不起。你沒有錯，是我需要做得更好。」這在示範你希望孩子學會的那個情緒修復技能。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 
 ## 常見問題 Q&A
@@ -146,6 +153,7 @@ Dr. Becky Kennedy（著有《Good Inside》）說，大多數的問題行為其�
 **孩子說「我討厭你」應該怎麼回應？**
 保持冷靜。「我聽到你現在很生氣。我還是愛你。」然後讓這個時刻過去。Dr. Becky Kennedy 指出，孩子說這話是因為被情緒淹沒，找不到更好的語言表達「我承受不了了」。不是在真心攻擊你。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 
 ## 沒有人告訴你的那件事
@@ -156,6 +164,7 @@ Dr. Becky Kennedy（著有《Good Inside》）說，大多數的問題行為其�
 
 你在讀這篇文章，代表你在認真想這件事。這本身就讓你是個很好的爸媽。
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 
 ## 推薦書單
@@ -171,6 +180,7 @@ Dr. Becky Kennedy（著有《Good Inside》）說，大多數的問題行為其�
 - **《How to Talk So Little Kids Will Listen》** Joanna Faber 和 Julie King 著 -- 2-7歲孩子溝通技巧最實用的腳本集。放在我床頭。（英文版）
   [Amazon 連結](https://www.amazon.com/dp/150113163X?tag=bloompath-20)
 
+heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
 
 *想追蹤寶貝的發展里程碑、得到針對當前年齡的正向教養建議？[育見未來 BloomPath app](https://bloom-path.app) 就是為你這樣的爸媽做的。*

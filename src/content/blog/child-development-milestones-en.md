@@ -1,10 +1,10 @@
----
 title: "Child Development Milestones: The Complete Guide (0–6 Years)"
 description: "A comprehensive, evidence-based guide to child development milestones from birth to age 6 — what's typical, what's a variation, and what genuinely warrants a call to your pediatrician."
 pubDate: 2026-04-01
 lang: en
 tags: ["child development milestones", "baby milestones", "toddler milestones", "developmental milestones by age", "when to worry about child development", "speech milestones", "motor development baby"]
 ageGroup: ["infant", "toddler", "preschool"]
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 # Child Development Milestones: The Complete Guide (0–6 Years)
@@ -20,6 +20,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 8. [BloomPath Milestone Tracking](#bloompath)
 9. [FAQ](#faq)
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## Key Takeaways
@@ -30,6 +31,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 - **Early intervention (before age 3) consistently shows better outcomes.** Asking for an evaluation gives you information — it doesn't commit you to anything.
 - **Your sustained observation of your specific child is irreplaceable.** If something feels off across multiple domains or persists over weeks, trust that signal.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 The moment a parent hears "developmental milestones," anxiety often follows. Did she wave by 9 months? Is he talking enough? Should she be running by now?
@@ -42,6 +44,7 @@ This guide gives you the actual milestone picture: what's typical, what's typica
 
 The source framework used here is based on the CDC's "Learn the Signs. Act Early." program, the American Academy of Pediatrics (AAP) developmental guidelines, and the World Health Organization (WHO) motor development standards — updated to reflect the most current evidence.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## 1. How to Use Developmental Milestones {#how-to-use}
@@ -60,6 +63,7 @@ Milestones are tools for observation, not tests your child passes or fails.
 
 The most important principle: **you know your child.** Pediatric [screen time for young children](/en/blog/screen-time-2026-guide-en)ing tools are designed for population-level screening. Your sustained observation of your specific child over time is irreplaceable. If something feels wrong across multiple domains, or persists over weeks, trust that signal.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## 2. The 8 Domains of Development {#eight-domains}
@@ -77,6 +81,7 @@ Development doesn't happen in one dimension. Children grow across multiple domai
 
 Tracking across all eight domains gives you a fuller picture than focusing on any one area.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## 3. Milestones by Age: 0–6 Years {#milestones-by-age}
@@ -161,6 +166,7 @@ Tracking across all eight domains gives you a fuller picture than focusing on an
 **Cognitive:** Emerging reading (letter-sound connections). Early math (adding small numbers). Understands time concepts.
 **Social-Emotional:** Forming stable friendships. Can wait their turn. Beginning to understand others' perspectives.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## 4. Normal Variation vs. Developmental Concern {#normal-vs-concern}
@@ -183,6 +189,7 @@ This is the hardest part. Most development exists on a spectrum, and "typical" c
 
 The key distinction: **is this a delay within a typical developmental arc, or is this a pattern across domains and over time?**
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## 5. Red Flags by Domain {#red-flags}
@@ -216,6 +223,7 @@ These are signals worth discussing with a pediatrician — not necessarily alarm
 - Does not follow simple directions by 18 months
 - Limited or absent object permanence by 12 months
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## 6. When to Call Your Pediatrician {#when-to-call}
@@ -236,6 +244,7 @@ These are signals worth discussing with a pediatrician — not necessarily alarm
 
 The principle to internalize: **asking does not commit you to anything.** Getting an evaluation gives you information; it doesn't mean something is wrong, and it means you haven't waited if something does need support.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## 7. How to Support Each Domain at Home {#support-at-home}
@@ -252,6 +261,7 @@ The principle to internalize: **asking does not commit you to anything.** Gettin
 
 **Sensory:** Varied sensory experiences: different textures, sounds, temperatures, movements. Alert to consistent avoidance or seeking that interferes with daily function.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## 8. BloomPath Milestone Tracking {#bloompath}
@@ -262,6 +272,7 @@ BloomPath tracks 224 developmental skill indicators and generates a weekly progr
 
 The AI Parenting Advisor can answer development questions specific to your child's current picture, not just generic age advice.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## FAQ {#faq}
@@ -278,6 +289,7 @@ A: There are statistically documented average differences in some areas — girl
 **Q: What's the difference between developmental delay and developmental disorder?**
 A: A delay means a child is behind typical timeline but progressing along the expected developmental arc — just later. A disorder (like autism spectrum disorder or developmental language disorder) involves a different developmental pattern, not just a slower one. The distinction requires professional evaluation to make — it's not reliably assessable from milestone checklists alone.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 <script type="application/ld+json">
@@ -313,10 +325,12 @@ A: A delay means a child is behind typical timeline but progressing along the ex
 }
 </script>
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 *Tomorrow: [Montessori Home Environment Guide](/guides/montessori-home-environment) — room-by-room setup, IKEA hacks, and small-space solutions.*
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 ## Products We Recommend
@@ -326,6 +340,7 @@ A: A delay means a child is behind typical timeline but progressing along the ex
 - [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — Explains why kids' brains do what they do. The 'upstairs/downstairs brain' concept finally made meltdowns make sense to me.
 - [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Data-driven parenting decisions — evidence on milestones, sleep, feeding, and more without the moralizing. Engineer-brained parents love this one.
 
+heroImage: "/og/child-development-milestones-en.png"
 ---
 
 **Related Reading:**

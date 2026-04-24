@@ -1,4 +1,3 @@
----
 title: "說故事說到一半睡著了也沒關係！最新研究：每天睡前共讀14天，孩子的同理心和創意就提升了"
 description: "2026年最新RCT研究發現，親子共讀不管停不停下來問問題，孩子的同理心和創造力都顯著提升。台灣爸媽不需要說得完美——只要說，就夠了。附台灣書單和今晚可用問題技巧。"
 pubDate: "2026-04-15"
@@ -6,6 +5,7 @@ tags: ["親子共讀", "睡前故事", "兒童發展", "同理心", "蒙特梭�
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 你上週幾天有好好說睡前故事？
@@ -14,6 +14,7 @@ draft: false
 
 如果你跟我一樣，我有個好消息要告訴你。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 **TL;DR — 3 分鐘讀完的重點**
@@ -23,6 +24,7 @@ draft: false
 - 你不需要說得完美，不需要特殊技巧，你只需要打開一本書，坐在孩子旁邊，開始說
 - 本文附台灣父母適用書單（依年齡分類）+ 今晚就可以用的5個問問題起手式
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 目錄
@@ -36,6 +38,7 @@ draft: false
 7. [台灣父母適合的書單推薦](#book-list)
 8. [常見問題 FAQ](#faq)
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 睡前最後15分鐘，為什麼比你想的更重要 {#why-15-min-matters}
@@ -54,6 +57,7 @@ draft: false
 
 這不是只有歐美才在說的事。台灣已經有很多人在做這件事了。你也可以從今晚開始加入。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 最新研究怎麼說：14天，同理心和創意都提升了 {#the-research}
@@ -83,6 +87,7 @@ draft: false
 
 我拿工程師的角度解釋給自己聽：把孩子的同理心想像成一塊需要定期訓練的肌肉。故事就是最低摩擦力的訓練設備。每天晚上15分鐘，等於每天進健身房做一組。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 驚喜發現：停不停下來問問題，效果一樣顯著 {#the-surprise}
@@ -101,6 +106,7 @@ draft: false
 
 你的存在，你打開那本書、坐在孩子旁邊的那個行動——本身就是禮物。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 台灣爸媽的生活現實：5個「說不好」的解方 {#practical-solutions}
@@ -149,6 +155,7 @@ draft: false
 
 **你說故事的技巧不重要。你開口說，才是最重要的事。**
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## [蒙特梭利居家活動](/zh/blog/montessori-at-home-guide-zh)視角：語言豐富的環境從睡前15分鐘開始 {#montessori}
@@ -168,6 +175,7 @@ draft: false
 
 每一個睡前故事，都是在孩子的大腦裡種一棵語言的樹。而種樹最好的時機，就是現在。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 今晚就可以用的5個問問題起手式 {#question-starters}
@@ -182,6 +190,7 @@ draft: false
 
 不用五個都問。一晚一個就夠了。不想問的晚上，直接說也沒關係——研究告訴我們，效果一樣好。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 台灣父母適合的書單推薦 {#book-list}
@@ -212,6 +221,7 @@ draft: false
 - [*Be Kind* by Pat Zietlow Miller](https://www.amazon.com/dp/1250312051?tag=bloompath-20) — 善良的定義，簡單而深刻
 - [*Those Shoes* by Maribeth Boelts](https://www.amazon.com/dp/0763642843?tag=bloompath-20) — 渴望、理解、分享，六歲以上看得懂的情緒故事
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 常見問題 FAQ {#faq}
@@ -248,6 +258,7 @@ draft: false
 
 這是正常現象，特別是3歲以下。可以讓孩子自己掌控翻頁的節奏——這其實是一種學習主導權（Montessori中的「工作選擇」概念）。不需要強制孩子安靜坐著聽完。跟著孩子的步調，遠比強迫完整性更重要。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 <script type="application/ld+json">
@@ -293,6 +304,7 @@ draft: false
 }
 </script>
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 你今晚就可以做一件事
@@ -309,6 +321,7 @@ draft: false
 
 你已經在讀這篇文章了。這就說明你是一個好父母。現在去說故事吧。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 ## 推薦書單 & 產品
@@ -321,10 +334,12 @@ draft: false
 
 台灣繁體中文繪本請搜尋博客來「睡前故事」或「情緒繪本」分類——《菲菲生氣了》、《猜猜我有多愛你》、《大衛不可以》是最值得投資的三本入坑書。
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 *想追蹤寶貝的發展里程碑，或需要個人化的親子活動建議？[BloomPath app](https://bloompath.quakr.dev) 提供 224 個發展指標追蹤 + AI 育兒顧問，專門為台灣父母設計。*
 
+heroImage: "/og/bedtime-reading-empathy-creativity-zh.png"
 ---
 
 **資料來源：**

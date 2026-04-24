@@ -1,4 +1,3 @@
----
 title: "孩子沉迷螢幕，可能是你的手機造成的？2026 研究揭露驚人鏈結"
 description: "Frontiers in Psychology 最新研究：925 名家長確認，爸媽的低頭習慣透過激化親子衝突，是幼兒螢幕成癮的主要原因之一。5 個正向教養方法，今天就能打破惡性循環。"
 pubDate: "2026-04-10"
@@ -6,6 +5,7 @@ tags: ["螢幕時間", "低頭族", "親子關係", "正向教養", "3C管理", 
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 去年某個晚上，我太太突然拿出手機錄了一段影片給我看。
@@ -18,6 +18,7 @@ draft: false
 
 那一刻我才真正看到：**我以為是[兒童網路安全指南](/zh/blog/children-internet-safety-2026-zh)問題，根源卻是我的手機。**
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 **TL;DR**
@@ -27,6 +28,7 @@ draft: false
 - 3–6 歲是情緒依附的敏感期，這個窗口正在關閉——越早介入效果越好。
 - 好消息：這個循環的起點是爸媽，所以改變的力量也在爸媽手上。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 目錄
@@ -39,6 +41,7 @@ draft: false
 6. [從今天開始的一個小改變](#start-today)
 7. [常見問題 FAQ](#faq)
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 研究說了什麼：一條讓人不舒服的因果鏈 {#research}
@@ -66,6 +69,7 @@ draft: false
 
 **親子衝突在父母低頭行為對幼兒螢幕成癮的影響中，解釋了 57.72% 的變異量。** 這不是相關性的推測，而是路徑分析確認的機制。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 為什麼這條鏈結成立？{#mechanism}
@@ -96,6 +100,7 @@ draft: false
 
 理解，是改變的起點。不是終點。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 3–6 歲：你正在關閉的視窗 {#window}
@@ -111,6 +116,7 @@ draft: false
 
 越早介入，代價越小。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 5 個正向教養方法打破惡性循環 {#solutions}
@@ -131,6 +137,7 @@ draft: false
 
 與其單方面宣布規則，試試讓孩子參與制定：
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 **你的家庭媒體協議（填空版）**
@@ -145,6 +152,7 @@ draft: false
 
 （讓孩子一起填，蓋上手印，貼在冰箱上。）
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 3–4 歲的寶貝會認真看待「他參與制定的規則」。執行起來，衝突少很多。
@@ -187,6 +195,7 @@ draft: false
 
 每一次情感標記，都是在幫孩子的情緒調節能力加一點存款。研究顯示，持續 6–8 週的情感標記練習，可以產生可測量的調節能力改善。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 情緒調節：最有效的長期保護因子 {#emotion-regulation}
@@ -205,6 +214,7 @@ draft: false
 
 如果你想系統性地追蹤寶貝的情緒發展，[BloomPath 育兒 App](https://bloompath.quakr.dev) 提供 224 個跨 8 大發展領域的指標追蹤，包含情緒調節的細項里程碑。每天 3 個蒙特梭利活動任務（5–15 分鐘），就是在做這件事。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 從今天開始的一個小改變 {#start-today}
@@ -223,6 +233,7 @@ draft: false
 
 今天在這裡讀了這篇文章，這本身就說明了你是什麼樣的爸媽。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 常見問題 FAQ {#faq}
@@ -251,6 +262,7 @@ WHO 建議：2 歲以下避免（視訊通話除外）；2–4 歲每日不超�
 
 這很常見，也是影響執行成效的主要因素之一。建議先從「爸媽自己遵守」的規則開始（如吃飯不看手機），讓孩子看到爸媽共同的示範，而不是用規則管孩子。行為的一致性比規則的嚴格程度更重要。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 <details>
@@ -325,6 +337,7 @@ WHO 建議：2 歲以下避免（視訊通話除外）；2–4 歲每日不超�
 }
 </script>
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 ## 推薦閱讀與好物
@@ -333,6 +346,7 @@ WHO 建議：2 歲以下避免（視訊通話除外）；2–4 歲每日不超�
 
 - [**The Anxious Generation（焦慮世代）** — Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — 研究智慧型手機如何改變了兒童的大腦和心理健康。台灣爸媽必讀。
 
+heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
 
 **延伸閱讀：**

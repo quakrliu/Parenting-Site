@@ -1,10 +1,10 @@
----
 title: "孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援指南"
 description: "當孩子第 50 次說「我好無聊」——一位工程師爸爸用蒙特梭利「準備好的環境」概念，分享 5 個今天就能做的小改變，解放家長，不當 24 小時娛樂員。"
 pubDate: 2026-04-21
 lang: "zh-TW"
 tags: ["孩子無聊", "準備好的環境", "蒙特梭利居家", "親子陪伴", "自主遊戲"]
 ageGroup: ["toddler", "preschool"]
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 <!-- AEO: 最後更新 2026 年 4 月。基於實證的育兒內容。 -->
@@ -19,6 +19,7 @@ ageGroup: ["toddler", "preschool"]
 
 > 想看完整的[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)布置，請看姊妹篇 [蒙特梭利居家環境布置完整攻略](/blog/montessori-home-environment-zh/)。那篇是 room-by-room 的整體設計。**本篇是「孩子說無聊的當下」怎麼辦的救援指南**——不是整間重裝，是微調。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## TL;DR
@@ -29,6 +30,7 @@ ageGroup: ["toddler", "preschool"]
 - 5 個今天可以做的小改變，加上 3 種「讓孩子自己選」的結構。
 - 你不需要當 24 小時娛樂員。耐受無聊是一種能力，要練才有。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 目錄
@@ -42,6 +44,7 @@ ageGroup: ["toddler", "preschool"]
 7. [FAQ](#faq)
 8. [Products We Recommend](#products-we-recommend)
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 為什麼無聊其實是好事 {#為什麼無聊其實是好事}
@@ -67,6 +70,7 @@ ageGroup: ["toddler", "preschool"]
 
 這是一般發展心理學的粗估（來源見文末），實際會因孩子興趣、疲累、肚子餓而浮動。所以 Maya 玩 6 分鐘積木就喊無聊，沒問題，這是她這個年紀的 baseline。問題是——她的環境有沒有給她「下一個選項」。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 「準備好的環境」是什麼 {#準備好的環境是什麼}
@@ -89,6 +93,7 @@ ageGroup: ["toddler", "preschool"]
 
 孩子喊無聊，很多時候是**決策疲勞**，不是興趣缺乏。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 5 個今天就能做的小改變 {#五個小改變}
@@ -137,6 +142,7 @@ ageGroup: ["toddler", "preschool"]
 
 一個堆滿東西的家，其實沒地方玩。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 3 種「讓孩子自己選」的結構 {#三種自己選的結構}
@@ -165,6 +171,7 @@ ageGroup: ["toddler", "preschool"]
 
 這招是練「無聊耐受度」的核心動作。前面四個結構是減輕環境摩擦，這一個是**直接練那塊肌肉**。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 誠實告白：我試了什麼有用、什麼沒用 {#誠實告白}
@@ -186,6 +193,7 @@ ageGroup: ["toddler", "preschool"]
 
 **最大的轉變不是方法，是心態。**我停止把「我好無聊」當成求救信號，改成當作一個**資訊**：她的大腦在轉換檔位，需要幾分鐘。我不用衝過去解決。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 什麼時候「無聊」是警訊 {#什麼時候是警訊}
@@ -200,6 +208,7 @@ ageGroup: ["toddler", "preschool"]
 
 大多數的「我好無聊」是健康的。但如果符合上面任一項，那不是環境微調能解決的，請找專業評估。這部分我不想給你錯誤的安心。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## FAQ
@@ -224,6 +233,7 @@ ageGroup: ["toddler", "preschool"]
 
 **一次不超過 15-20 分鐘的「找事做」是健康的**——那是他在內在搜尋。但如果**連續幾天**都提不起興趣、對原本喜歡的東西也冷淡，那就不是無聊，是需要關注的情緒訊號，請參考上面「什麼時候是警訊」一節。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## Products We Recommend {#products-we-recommend}
@@ -248,6 +258,7 @@ ageGroup: ["toddler", "preschool"]
 
 如果這篇文章讓你想更深入，這本是最平實可讀的入門。Simone Davies 本身是 AMI 認證老師，不像某些 Montessori 書寫得像聖經。每章都有實作清單。我讀的第一本，到現在還會翻。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 明天繼續：你可以這樣開始
@@ -261,6 +272,7 @@ ageGroup: ["toddler", "preschool"]
 
 當爸之前我以為我很有耐心。當爸之後我發現，耐心不是天生的，是空間設計出來的——給孩子的，也給自己的。
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 相關閱讀
@@ -271,6 +283,7 @@ ageGroup: ["toddler", "preschool"]
 - [幼兒螢幕時間：AAP 2026 新政策台灣指南](/blog/aap-screen-time-2026-taiwan-parents-zh/) — 為什麼替代螢幕比限制螢幕更有效
 - [父母滑手機對孩子的影響（Phubbing）](/blog/parental-phubbing-child-screen-addiction-zh/) — 螢幕使用的另一面
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 ## 引用來源（Sources）
@@ -281,6 +294,7 @@ ageGroup: ["toddler", "preschool"]
 - Montessori, M. 六原則整理：[Fishtown Montessori — Six Principles of a Prepared Montessori Environment](https://www.fishtownmontessori.com/six-principles-of-a-prepared-montessori-environment/)
 - 注意力分齡數據：[Happiest Baby — Attention Span by Age](https://www.happiestbaby.com/blogs/toddler/attention-span)、[CNLD Neuropsychology](https://www.cnld.org/how-long-should-a-childs-attention-span-be/)
 
+heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
 
 *本文基於個人經驗與公開研究，不構成醫療或心理建議。若孩子的無聊伴隨情緒、發展或行為上的疑慮，請諮詢兒科醫師、兒童心理師或職能治療師。Amazon 連結為聯盟連結（tag=bloompath-20），透過它購買 BloomPath 會收到小額分潤，對讀者不加價。*

@@ -1,4 +1,3 @@
----
 title: "帶寶寶出去曬太陽，真的比你想的更重要：0-2歲戶外日照的科學依據"
 description: "每天11分鐘戶外日照，讓寶寶睡眠品質提升55%。台灣兒童近視率世界第一，49%可靠戶外活動預防。這篇文章告訴你0-2歲黃金期，到底要怎麼曬才對。"
 pubDate: "2026-04-14"
@@ -6,6 +5,7 @@ tags: ["嬰幼兒發育", "戶外活動", "兒童健康", "睡眠", "近視預�
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 我以前覺得「帶寶寶出去走走」就是讓她不無聊。
@@ -21,6 +21,7 @@ draft: false
 - 最佳日照時段：上午9-10點或下午4-5點，2,000-5,000 lux的散射光就夠
 - 0-2歲是視力和晝夜節律發育的關鍵期，現在開始不晚
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 目錄
@@ -31,6 +32,7 @@ draft: false
 - [7天戶外日照行動計畫](#七天計畫)
 - [常見問題](#常見問題)
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 為什麼曬太陽不只是「曬黑」 {#為什麼曬太陽不只是曬黑}
@@ -45,6 +47,7 @@ draft: false
 
 你的寶寶的眼睛和腦子，需要那個差距來學習「現在是白天」。
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 科學說了什麼：3個關鍵研究 {#科學說了什麼}
@@ -83,6 +86,7 @@ draft: false
 
 無論如何，結論一致：讓寶寶出去。
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 台灣爸媽最常犯的3個錯誤 {#台灣爸媽最常犯的錯誤}
@@ -117,6 +121,7 @@ draft: false
 
 如果真的只能在中午出去，30分鐘內、找陰涼處、做好防曬，也是可以的。
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 0-2歲戶外日照實用指南 {#實用指南}
@@ -150,6 +155,7 @@ draft: false
 
 早上推車出去買早餐、傍晚在公園裡待半小時，這樣的日常習慣，已經足夠建立寶寶的晝夜節律了。
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 7天戶外日照行動計畫 {#七天計畫}
@@ -170,6 +176,7 @@ draft: false
 
 想追蹤寶寶的睡眠發育和整體發展里程碑？[BloomPath](https://bloom-path.app) 的每日成長任務功能，有針對不同月齡設計的戶外活動建議，和睡眠追蹤功能，值得試試。
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 常見問題 {#常見問題}
@@ -198,6 +205,7 @@ draft: false
 **室內日光燈或燈箱可以替代戶外嗎？**
 大部分室內光源無法達到2,000 lux以上，效果有限。市售的亮光療法燈箱（10,000 lux）理論上可以部分替代，但尚未有足夠的嬰幼兒研究支持此用途，不建議作為主要替代方案。
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 <script type="application/ld+json">
@@ -251,6 +259,7 @@ draft: false
 }
 </script>
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 總結：出去就對了
@@ -271,6 +280,7 @@ draft: false
 
 你在讀這篇文章。代表你在認真想這件事了。那已經是好的開始。
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 *參考文獻：*
@@ -282,6 +292,7 @@ draft: false
 
 *最後更新：2026年4月*
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 ## 推薦閱讀與好物
@@ -290,6 +301,7 @@ draft: false
 
 - [**Simplicity Parenting（簡單教養）** — Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — 提倡「少即是多」的童年——戶外、非結構性遊戲、和自然的連結。讀完你會想馬上把孩子帶出去曬太陽。
 
+heroImage: "/og/sunlight-child-development-outdoors-zh.png"
 ---
 
 **延伸閱讀：**

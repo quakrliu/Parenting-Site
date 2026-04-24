@@ -1,10 +1,10 @@
----
 title: "嬰幼兒副食品與營養完整指南（0–3歲）"
 description: "有研究支持的0–3歲嬰幼兒飲食完整攻略：母乳與配方奶、副食品添加時機、BLW介紹法、各階段飲食時間表、台灣常見的營養疑問，以及何時需要找醫師。"
 pubDate: 2026-04-01
 lang: "zh-TW"
 tags: ["嬰兒副食品", "副食品添加", "BLW台灣", "嬰兒離乳食", "學步兒飲食", "副食品何時開始", "嬰兒食物過敏", "嬰幼兒營養"]
 ageGroup: ["infant", "toddler"]
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 # 嬰幼兒副食品與營養完整指南（0–3歲）
@@ -21,6 +21,7 @@ ageGroup: ["infant", "toddler"]
 9. [紅旗警訊與何時找醫師](#紅旗警訊)
 10. [常見問題](#常見問題)
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 重點整理
@@ -31,6 +32,7 @@ ageGroup: ["infant", "toddler"]
 - **泥狀食物和 BLW 沒有絕對好壞。** 最重要的是：提供多樣化食物、跟隨寶寶的飢餓飽足訊號、早期持續提供含鐵食物。
 - **Satter 飲食責任分工法：** 大人決定什麼、何時、在哪裡。孩子決定吃不吃、吃多少。施壓、強迫、獎勵進食都會讓飲食問題惡化。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 餵寶貝吃東西，大概是新手爸媽最焦慮的事之一，也是行銷最密集的育兒領域之一。
@@ -41,6 +43,7 @@ ageGroup: ["infant", "toddler"]
 
 台灣的特殊情況我們都會提到：健兒門診時程、台灣的副食品傳統、長輩的飲食觀念，以及本土可取得的食物資源。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 1. 第一個食物：母乳與配方奶（0–6個月） {#第一個食物}
@@ -70,6 +73,7 @@ ageGroup: ["infant", "toddler"]
 
 **不需要的：** 針對脹氣、腸絞痛、挑食標榜的特殊配方奶，除非兒科醫師針對確診的胃食道逆流或牛奶蛋白過敏特別推薦。這類產品的行銷往往超過研究支持的範圍。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 2. 什麼時候開始副食品？ {#何時開始}
@@ -88,6 +92,7 @@ ageGroup: ["infant", "toddler"]
 
 任何情況下都不要在 4 個月前開始副食品。4–6 個月之間是個人差異的空間；6 個月是一般目標。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 3. 泥狀食物 vs. BLW：研究怎麼說 {#blw比較}
@@ -107,6 +112,7 @@ ageGroup: ["infant", "toddler"]
 
 **BLW 安全注意事項：** 所有食物要通過「捏爛測試」——你應該能用手指把它捏軟。初期形狀用長條/手指狀，不要小圓片或球形。讓寶寶坐直。用餐時不要離開寶寶。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 4. 各階段飲食時間表 {#飲食時間表}
@@ -150,6 +156,7 @@ ageGroup: ["infant", "toddler"]
 
 一天三餐加 2–3 次點心。家庭共食仍然是培養健康飲食習慣最有力的情境。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 5. 過敏原介紹的問題 {#過敏原}
@@ -168,6 +175,7 @@ ageGroup: ["infant", "toddler"]
 
 **台灣的情況：** 台灣兒科醫學會已跟進更新建議，支持早期過敏原介紹。你的兒科醫師應該能給你個人化的指導。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 6. 台灣爸媽常見的營養疑問 {#常見疑問}
@@ -206,6 +214,7 @@ ageGroup: ["infant", "toddler"]
 
 **台灣特殊情境：** 阿公阿嬤常常希望孩子多吃。「不吃就打」「再吃一口」「幫你吃」——這些都屬於施壓行為，長期會有副作用。可以分享 Satter 的飲食責任分工概念給長輩作為溝通框架。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 7. 學步兒真正需要什麼 {#學步兒營養}
@@ -221,6 +230,7 @@ ageGroup: ["infant", "toddler"]
 
 **最常見的錯誤：** 給學步兒喝太多牛奶或果汁，排擠了固體食物攝取，減少了對各種食物的接觸。上限：牛奶 480–720 ml/天，果汁 120–180 ml/天（或完全不喝果汁）。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 8. 飲食責任分工法 {#責任分工}
@@ -235,6 +245,7 @@ Ellyn Satter 的飲食責任分工（DOR）是餵養孩子中最有研究支持�
 
 最難做到的：相信孩子的食慾訊號。提供多樣化有營養食物、在固定時間提供、讓孩子依自己的飢餓和飽足感進食的孩子，長期來說攝取是充足的——即使任何單一一餐看起來吃得不夠。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 9. 紅旗警訊與何時找醫師 {#紅旗警訊}
@@ -253,6 +264,7 @@ Ellyn Satter 的飲食責任分工（DOR）是餵養孩子中最有研究支持�
 
 **台灣資源：** 各縣市衛生局的早期療育中心、台大、北榮、長庚等醫學中心的兒童發展中心，都可以提供進食評估和轉介服務。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 常見問題 {#常見問題}
@@ -269,6 +281,7 @@ A：6–12 個月副食品是輔助的——母乳或配方奶仍是主要營養
 **Q：有機副食品值得多花錢嗎？**
 A：有機 vs. 一般蔬果對嬰兒健康效益的研究，不足以支持大多數情況下多付的費用。更重要的是：提供多樣化的食物（飲食多樣性對健康的影響大於有機與否）、避免高汞魚類（鯊魚、旗魚、大型鮪魚），以及遵循基本的食物安全實踐。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 <script type="application/ld+json">
@@ -304,10 +317,12 @@ A：有機 vs. 一般蔬果對嬰兒健康效益的研究，不足以支持大�
 }
 </script>
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 *回到起點：[蒙特梭利居家實踐完整指南](/guides/montessori-ju-jia-zhinan) — [蒙特梭利居家環境](/zh/blog/montessori-home-environment-zh)原則、各年齡活動、環境布置全攻略。*
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 ## 推薦閱讀與好物
@@ -317,6 +332,7 @@ A：有機 vs. 一般蔬果對嬰兒健康效益的研究，不足以支持大�
 - [**Real Baby Food（真實寶寶食物）** — Jenna Helwig](https://www.amazon.com/dp/076238133X?tag=bloompath-20) — 副食品初期最實用的食譜書，從泥狀到手指食物都有，按月齡分類清楚。
 - [**Cribsheet（嬰兒數據手冊）** — Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — 哺乳、配方奶、副食品——每個選擇背後的研究是什麼？這本書用數據說話。
 
+heroImage: "/og/baby-nutrition-health-guide-zh.png"
 ---
 
 **延伸閱讀：**

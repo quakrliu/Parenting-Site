@@ -1,10 +1,10 @@
----
 title: "溫和睡眠訓練真的有用嗎？蒙特梭利實踐版"
 description: "4 種主流溫和睡眠訓練方法對照 + 蒙特梭利地板床與睡前儀式的實踐做法，一位工程師爸爸的誠實告白與 7 天調整計劃。"
 pubDate: 2026-04-21
 lang: "zh-TW"
 tags: ["溫和睡眠訓練", "蒙特梭利", "寶寶睡眠", "哄睡", "幼兒睡眠"]
 ageGroup: ["infant", "toddler"]
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 當爸第一年有一個晚上我差點摔門。
@@ -15,6 +15,7 @@ ageGroup: ["infant", "toddler"]
 
 隔天太太（前幼教老師）平靜地說：「我們換個方法。」那之後我才開始研究「溫和睡眠訓練」——也才發現 Janet Lansbury、Elizabeth Pantley、[蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)這三派其實有交集。這篇寫給跟我當年一樣崩潰的爸媽。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 為什麼睡眠不只是「家長喘口氣」
@@ -34,6 +35,7 @@ ageGroup: ["infant", "toddler"]
 - **CIO 造成永久腦傷害的說法證據不足**，但我個人不推薦——因為有更舒服的選項可用。
 - **4 個月黃金窗口期**：寶貝睡眠周期從新生兒型轉成成人型，這段期間建立的習慣會延續 6-12 個月。錯過不是災難，但把握會省你 3 倍力氣。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 什麼叫「溫和」睡眠訓練？
@@ -46,6 +48,7 @@ ageGroup: ["infant", "toddler"]
 - **溫和 ≠ 一定比較有效。**個體差異非常大，沒有強證據支持這點。
 - **溫和 ≠ 完全不會哭。**有些方法（尤其 PUPD）還是有短暫哭鬧。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 4 種主流方法完整對照表
@@ -61,6 +64,7 @@ ageGroup: ["infant", "toddler"]
 
 選法：越抱越清醒型 → Chair Method 或 Fading；需大量身體接觸才能冷靜 → PUPD 或 Pantley；自己疲憊無法撐 2-3 週紀律 → Fading 最低壓力。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 蒙特梭利的視角：地板床、儀式、環境
@@ -89,6 +93,7 @@ ageGroup: ["infant", "toddler"]
 - 光線：睡前 1 小時不要螢幕（延伸閱讀 [AAP 螢幕時間 2026 台灣家長指南](/blog/aap-screen-time-2026-taiwan-parents-zh)）
 - 聲音：白噪音機很有用，遮掉阿公阿嬤在客廳看電視的聲音
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 月齡適用指南（安全第一）
@@ -115,6 +120,7 @@ ageGroup: ["infant", "toddler"]
 
 床位過渡好時機。讓寶貝選枕頭套、一起鋪床——Montessori「Ownership」的具體應用。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 誠實告白：我試過的哪些做法爆了
@@ -139,6 +145,7 @@ ageGroup: ["infant", "toddler"]
 
 **一個我沒想到的驚喜**：Chair Method 執行到第 9 天，寶貝突然不哭了，自己翻身、拉棉被、睡著。太太在門外哭了——不是難過，是「原來他一直有這個能力」的那種哭。這一刻比任何 app 數據都震撼。你家寶貝可能也有這個一直沒被看見的能力。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 7 天溫和調整計劃（可直接用）
@@ -155,6 +162,7 @@ ageGroup: ["infant", "toddler"]
 
 **Day 11-14：評估。**入睡時間縮短 15 分鐘以上、半夜醒來減少 → 繼續。完全沒變化 → 檢查月齡、方法或儀式一致性。變更糟 → **停下找兒科醫師**。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 什麼時候該找兒科醫師
@@ -166,6 +174,7 @@ ageGroup: ["infant", "toddler"]
 > This is not medical advice. Please consult your pediatrician before starting any sleep-related intervention.
 > 本文僅供參考，不構成醫療建議。任何睡眠介入請先諮詢兒科醫師。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## FAQ
@@ -191,6 +200,7 @@ ageGroup: ["infant", "toddler"]
 - **12 個月以下**：AAP 核准嬰兒睡眠面**不包含**地板床。使用屬家長自擔風險，必須整房「裸」化（無枕、無厚被、無絨毛、仰睡）。
 - **12 個月以上**：相對安全，仍需全房間防跌防撞、家具鎖牆、窗簾換無繩款。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## Products We Recommend
@@ -203,6 +213,7 @@ ageGroup: ["infant", "toddler"]
 
 > 收益揭露：以上為 Amazon Associates 連結，透過連結購買 BloomPath 會獲得小額佣金，不影響你的售價。我們只推薦自己用過或真心推薦的產品。
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 ## 相關閱讀
@@ -211,6 +222,7 @@ ageGroup: ["infant", "toddler"]
 - [蒙特梭利居家環境設定](/blog/montessori-home-environment-zh) — 寶寶房怎麼佈置
 - [燈塔式育兒：蒙特梭利的實踐](/blog/lighthouse-parenting-montessori-zh) — 設界限但不控制，跟睡眠訓練同邏輯
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 **明天繼續：**下一篇要寫**「寶貝 4 個月睡眠倒退怎麼辦」**——太太昨天剛問我 sleep regression 的事，值得寫一篇。
@@ -221,6 +233,7 @@ ageGroup: ["infant", "toddler"]
 
 — Ethan
 
+heroImage: "/og/gentle-sleep-training-montessori-zh.png"
 ---
 
 *Ethan Moore 是軟體工程師出身的 digital nomad dad，現居東南亞，與太太（前幼教老師）育有一個 toddler。BloomPath 內容基於個人經驗與公開兒科研究，不構成醫療建議。*

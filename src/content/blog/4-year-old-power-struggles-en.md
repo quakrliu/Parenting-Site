@@ -1,4 +1,3 @@
----
 title: "4 Year Old Power Struggles: 5 Science-Backed Strategies That Actually Work"
 description: "Your 4-year-old isn't broken -- their brain is. Developmental science behind power struggles, plus 5 dad-tested strategies to stop the daily standoffs."
 pubDate: "2026-04-23"
@@ -6,6 +5,7 @@ tags: ["4 year old behavior", "power struggles", "positive parenting", "toddler 
 lang: "en"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 
 <script type="application/ld+json">
@@ -14,6 +14,7 @@ draft: false
 
 > **TL;DR:** Your 4-year-old is not bad. Their developing brain craves autonomy and tests limits to feel secure. Power struggles peak at 4 because kids have language to argue but not yet enough self-regulation to stop. Five strategies that work: limited choices, humor, one-word prompts, connect first, and let the routine be the rule.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 Last Tuesday morning, my daughter stood in the kitchen doorway, arms crossed, wearing one blue rain boot and one princess sneaker, telling me she was "absolutely not" putting on her other shoe because "the shoe did not fit right" -- despite having worn that exact shoe thirty times without complaint.
 
@@ -21,6 +22,7 @@ I am Ethan, dad to a 4-year-old who has turned daily logistics into a full negot
 
 If you are in the same boat, I built [BloomPath](https://bloom-path.app) partly because I kept wishing there was a single place that translated [child development milestones](/en/blog/child-development-milestones-en)al science into "what do I actually say right now." This article is that translation.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 
 ## Why Does a 4 Year Old Argue About Everything?
@@ -35,6 +37,7 @@ Here is what the research tells us about the 4-year-old brain:
 
 **Language has outpaced emotional regulation.** A 4-year-old can say "I do not want to" with remarkable clarity. What they cannot yet do is regulate the feeling underneath that statement. Research on prefrontal cortex development confirms that executive function pathways including inhibitory control continue maturing throughout childhood -- the hardware exists but is not yet fully optimized.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 
 ## What Is a Power Struggle (and What Is Not)?
@@ -47,6 +50,7 @@ The trap parents fall into -- and I lived here for about six months -- is treati
 
 Positive Discipline founder Jane Nelsen puts it plainly: the goal is not obedience -- it is long-term cooperation built on mutual respect.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 
 ## What Causes Power Struggles with Preschoolers?
@@ -61,6 +65,7 @@ Other reliable accelerants:
 
 **My confession:** I realized I was triggering half our power struggles myself. I would give ambiguous warnings -- "we are leaving soon" -- then act surprised when my daughter was not ready. "Soon" means nothing to a 4-year-old. "Three more minutes, then shoes on" with an actual visual timer produced completely different results. This is embarrassingly simple and I still forget it sometimes.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 ## 5 Strategies That Actually Defuse Power Struggles
 
@@ -110,6 +115,7 @@ Montessori philosophy supports this: predictable, child-understandable routines 
 
 This directly addresses one of the underlying causes of power struggles: lack of agency throughout the day. When a child participates in building the routine, they have genuine ownership over it.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 ## What NOT to Do
 
@@ -121,6 +127,7 @@ This directly addresses one of the underlying causes of power struggles: lack of
 
 **Do not skip the repair.** When things escalate -- and they will -- the conversation afterward matters. "I got frustrated earlier and raised my voice. I am sorry. You are not in trouble, I just needed to do better." This models the exact emotional repair skill you are trying to teach.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 
 ## Frequently Asked Questions About 4 Year Old Power Struggles
@@ -140,6 +147,7 @@ Some days, nothing works. Some mornings, my daughter ended up at preschool in mi
 **What should I say when my 4 year old says "I hate you"?**
 Stay calm. "I hear that you are really angry right now. I still love you." Then let the moment pass. Dr. Becky Kennedy notes that children say this when flooded with emotion and lacking better language for "I am overwhelmed." It is not a personal attack.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 
 ## The Thing Nobody Tells You
@@ -150,6 +158,7 @@ The goal is not a perfectly compliant 4-year-old. The goal is a child who grows 
 
 You are here reading this. That already makes you a great parent.
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 
 ## Products We Recommend
@@ -163,6 +172,7 @@ You are here reading this. That already makes you a great parent.
 - **How to Talk So Little Kids Will Listen** by Joanna Faber and Julie King -- The most practical communication scripts for the 2-7 age range. Lives on my nightstand.
   [View on Amazon](https://www.amazon.com/dp/150113163X?tag=bloompath-20)
 
+heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
 
 *Want to track your child's development milestones and get age-specific positive parenting tips? The [BloomPath app](https://bloom-path.app) was built for parents exactly like you.*

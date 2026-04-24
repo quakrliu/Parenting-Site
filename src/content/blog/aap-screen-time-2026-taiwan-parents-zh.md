@@ -1,10 +1,10 @@
----
 title: "幼兒螢幕時間新規：AAP 2026 取消 2 小時上限，台灣爸媽的 5C 實踐指南"
 description: "AAP 2026 年 2 月發布新政策，取消每天 2 小時螢幕時間上限，改用 5C 框架。台灣爸媽怎麼在地套用？附蒙特梭利對照表與研究實證。"
 pubDate: 2026-04-21
 lang: "zh-TW"
 tags: ["幼兒螢幕時間", "AAP 2026", "蒙特梭利", "螢幕時間 台灣", "5C 框架"]
 ageGroup: ["toddler", "preschool"]
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 # 幼兒[AAP 2026 螢幕時間完整解析](/zh/blog/aap-screen-time-guidelines-2026)新規：AAP 2026 取消 2 小時上限，台灣爸媽的 5C 實踐指南
@@ -15,6 +15,7 @@ ageGroup: ["toddler", "preschool"]
 
 AAP（美國兒科醫學會）2026 年 2 月剛發布新政策，把過去十年大家背到爛的「每天 2 小時上限」**取消**了。媒體下標「螢幕解禁」，我差點開心慶祝。但把原始 Pediatrics 讀完——這不是解禁，是**規則變嚴了**，只是換個方式嚴。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## 重點整理（TL;DR）
@@ -25,8 +26,10 @@ AAP（美國兒科醫學會）2026 年 2 月剛發布新政策，把過去十年
 - [蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)百年前就在處理「Crowding Out」，AAP 5C 某種程度是把蒙特梭利思維翻成醫學語言。
 - 台灣 Birth Cohort 研究發現：**媽媽的螢幕時間**（不是小孩的）跟孩子日後 ADHD 風險顯著相關。這個發現值得每個爸媽停下來想三秒。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## 新聞到底發生了什麼 {#新聞發生了什麼}
@@ -43,6 +46,7 @@ AAP 在 2026 年 2 月的 Pediatrics 期刊（Vol. 157, Issue 2）發布政策�
 
 乍看放寬了。但舊規則你看計時器就過關；新規則你得回答 5 個哲學題。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## 5 歲以下仍然受限（別誤讀）{#under-5-仍然受限}
@@ -58,6 +62,7 @@ AAP 2026 政策**明確保留**兩條 under-5 硬規則（見 DOI 10.1542/peds.2
 
 AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosystem 列為風險，包括 YouTube Kids 這種號稱兒童友善、演算法卻無限推送的產品。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## 5C 框架逐一拆解 {#5c-框架}
@@ -104,6 +109,7 @@ AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosys
 
 女兒才 2 歲多，我已經開始邊看邊聊：「這小朋友為什麼哭？他媽媽會怎麼做？」等她 5 歲才開始談就晚了。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## Montessori Crowd Out vs AAP 5C 對照 {#蒙特梭利對照}
@@ -120,6 +126,7 @@ AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosys
 
 好的教養原則本來就會重複出現：**質勝於量、尊重個別、保護孩子發展的時間**。AAP 終於用醫學語言把它講清楚——對我這種工程師爸爸很夠用：給我框架，給我 checklist，我就能跑。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## 台灣研究告訴我們什麼 {#台灣研究}
@@ -142,6 +149,7 @@ AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosys
 
 **免責聲明**：這是觀察性研究，相關性不等於因果。ADHD 成因複雜。研究不是要讓媽媽罪惡感（爸爸也一樣），是提醒：家庭螢幕文化是整體的，不只管小孩那份。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## 5 個今天就能做的小改變 {#今天可以做的}
@@ -158,6 +166,7 @@ AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosys
 
 **5. 大人先做示範**。這條最難。我現在吃飯時手機放另一個房間——不是扮演好爸爸，是真的不想被女兒看到我的樣子。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## 常見問題 FAQ {#faq}
@@ -182,6 +191,7 @@ AAP 2026 建議 18 個月以下**不接觸**數位媒體，**視訊通話是唯�
 
 看 5C。Content 高品質（例如 Khan Academy Kids）、沒排擠睡眠和戶外、有大人陪看、孩子看完能停——都對的話，2–5 歲每天 1 小時內可以。但「自學 App」不等於「把 iPad 丟給孩子」。AAP 強調 **co-viewing（共看）** 的重要性。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## Products We Recommend {#推薦}
@@ -192,6 +202,7 @@ AAP 2026 建議 18 個月以下**不接觸**數位媒體，**視訊通話是唯�
 - **[The Montessori Toddler by Simone Davies](https://www.amazon.com/dp/152350689X?tag=bloompath-20)** — 老婆推薦給我的第一本蒙特梭利書，對工程師大腦很友善，給你框架不給你教條。
 - **[Good Inside by Dr. Becky Kennedy](https://www.amazon.com/dp/0063159481?tag=bloompath-20)** — 當孩子哭鬧我想掏手機時，這本書讓我按住自己。Connection over correction 這句話我貼在冰箱。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 ## 延伸閱讀
@@ -201,10 +212,12 @@ AAP 2026 建議 18 個月以下**不接觸**數位媒體，**視訊通話是唯�
 - [父母滑手機 vs 小孩螢幕成癮：被忽略的 Phubbing 問題](/blog/parental-phubbing-child-screen-addiction-zh)
 - [蒙特梭利居家環境完整布置](/blog/montessori-home-environment-zh)
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 **下次繼續**：週末我會實驗「週六無螢幕日」，下一篇寫實戰紀錄——前 2 小時崩潰、中間找出路、最後全家在公園抓昆蟲。螢幕時間從來不是小孩的問題，是全家的問題。
 
+heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
 
 *本文參考來源*：

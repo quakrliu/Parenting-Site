@@ -1,10 +1,10 @@
----
 title: "0–6歲發展里程碑完整指南：正常範圍、紅旗警訊、何時找醫師"
 description: "有研究根據的0–6歲發展里程碑完整攻略：8大發展領域、各月齡里程碑、正常變異與發展疑慮的區別，以及台灣爸媽何時該找兒科醫師評估。"
 pubDate: 2026-04-01
 lang: "zh-TW"
 tags: ["發展里程碑", "嬰兒發展里程碑", "學步兒里程碑", "各月齡發展", "兒童發展遲緩", "語言發展里程碑", "動作發展嬰兒", "何時找兒科醫師"]
 ageGroup: ["infant", "toddler", "preschool"]
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 # 0–6歲[蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)里程碑完整指南
@@ -20,6 +20,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 8. [BloomPath 里程碑追蹤](#bloompath)
 9. [常見問題](#常見問題)
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 重點整理
@@ -30,6 +31,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 - **3 歲前的早期療育效果顯著優於 3 歲後。** 做評估只是獲得資訊，不代表一定有問題。
 - **你最了解你的孩子。** 如果持續的不安感橫跨多個領域、持續好幾週，請相信那個感覺。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 台灣的爸媽在寶貝出生之後，很快就會面對一個讓人焦慮的問題：「我的孩子發展夠快嗎？」
@@ -44,6 +46,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 本指南的依據：美國疾管署（CDC）的「Learn the Signs. Act Early.」程序、美國兒科學會（AAP）發展指引，以及世界衛生組織（WHO）動作發展標準——使用最新版本（2022年 CDC 更新版）。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 1. 里程碑怎麼用才對？ {#怎麼用}
@@ -62,6 +65,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 最重要的原則：**你最了解你的孩子。** 發展篩檢工具是為了族群層面的篩查設計的。你長時間對自己孩子的持續觀察是無可取代的。如果有某個感覺橫跨多個領域、持續好幾週，請相信那個感覺。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 2. 發展的八大領域 {#八大領域}
@@ -79,6 +83,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 同時追蹤八大領域，比只盯著一個領域能給你更完整的圖像。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 3. 各月齡里程碑一覽 {#各月齡里程碑}
@@ -163,6 +168,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 **認知：** 早期閱讀（字母-聲音對應）。早期數學（小數加法）。理解時間概念。
 **社交情緒：** 建立穩定友誼。能等待輪流。開始理解他人的觀點。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 4. 正常變異 vs. 真正需要注意的發展問題 {#正常vs疑慮}
@@ -185,6 +191,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 關鍵的區別：**這是在典型發展弧線上的延遲，還是橫跨多個領域、持續一段時間的模式？**
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 5. 各領域紅旗警訊 {#紅旗警訊}
@@ -218,6 +225,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 - 18個月還不跟隨簡單指令
 - 12個月還沒有物體恆存概念
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 6. 何時找兒科醫師？ {#找醫師}
@@ -241,6 +249,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 最重要的觀念：**詢問不代表有問題確認，不代表你承擔了什麼。** 評估給你資訊；如果結果正常，你放心了；如果需要介入，越早開始效果越好。台灣研究和國際研究都清楚顯示：3歲前開始的早療效果，顯著優於3歲後。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 7. 如何在家支持各發展領域 {#居家支持}
@@ -257,6 +266,7 @@ ageGroup: ["infant", "toddler", "preschool"]
 
 **感覺統合：** 多樣的感覺體驗：不同質地、聲音、溫度、動作。注意持續迴避或過度尋求某種感覺刺激、影響日常功能的情況。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 8. BloomPath 里程碑追蹤 {#bloompath}
@@ -267,6 +277,7 @@ BloomPath 追蹤 224 個發展技能指標，每週自動生成進度報告，�
 
 AI 育兒顧問可以針對你孩子目前的狀況回答發展問題，而不只是給通用的月齡建議。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 常見問題 {#常見問題}
@@ -283,6 +294,7 @@ A：統計上確實有些平均差異——女孩的語言發展平均稍早。�
 **Q：發展遲緩和發展障礙有什麼不同？**
 A：發展遲緩指孩子在典型時間軸之後達到里程碑，但發展弧線是正常的——只是比較晚。發展障礙（如自閉症光譜障礙、語言發展障礙）涉及不同的發展模式，不只是較慢。這個區別需要專業評估才能做出——里程碑清單無法可靠區分。台灣的早療評估系統可以提供這樣的評估。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 <script type="application/ld+json">
@@ -318,10 +330,12 @@ A：發展遲緩指孩子在典型時間軸之後達到里程碑，但發展弧�
 }
 </script>
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 *明天繼續：[居家蒙特梭利環境布置指南](/guides/ju-jia-huan-jing-she-ji) — 各房間設計攻略、IKEA 改造技巧，以及小坪數的解決方案。*
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 ## 推薦閱讀與好物
@@ -331,6 +345,7 @@ A：發展遲緩指孩子在典型時間軸之後達到里程碑，但發展弧�
 - [**The Whole-Brain Child（全腦教養法）** — Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — 用神經科學解釋孩子的行為。「樓上大腦 vs. 樓下大腦」的概念讓我終於理解孩子為什麼崩潰。
 - [**Cribsheet（嬰兒數據手冊）** — Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — 哺乳、副食品、里程碑——每個決定背後的研究是什麼？這本書用數據說話，不讓你被育兒焦慮控制。
 
+heroImage: "/og/child-development-milestones-zh.png"
 ---
 
 **延伸閱讀：**

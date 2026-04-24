@@ -1,16 +1,17 @@
----
 title: "Baby & Kids Product Reviews: How We Test & Our Criteria"
 description: "How BloomPath evaluates baby and children's products — our testing criteria, what we actually look for, red flags we watch for, and category-by-category top picks for Montessori-aligned families."
 pubDate: 2026-04-01
 lang: en
 tags: ["baby product reviews", "best baby toys", "montessori toys review", "baby gear reviews", "toddler product reviews", "how to choose baby toys", "best montessori toys", "baby product buying guide"]
 ageGroup: ["infant", "toddler"]
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 # Baby & Kids Product Reviews: How We Test & Our Criteria
 
 **Key Takeaways:** We evaluate every baby product against four criteria: [child development milestones](/en/blog/child-development-milestones-en)al alignment, engagement quality, longevity, and safety. Our top overall pick is Lovevery Play Kits for curated developmental certainty, and unit blocks as the single most research-backed toy for broad development (12 months through 8+ years). We never publish sponsored reviews and always disclose trade-offs. *Last updated: April 2026.*
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## Table of Contents
@@ -25,6 +26,7 @@ ageGroup: ["infant", "toddler"]
 9. [What We Don't Recommend](#dont-recommend)
 10. [FAQ](#faq)
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 There are approximately one million baby products on Amazon.
@@ -35,6 +37,7 @@ This is why we write product reviews differently.
 
 We don't publish sponsored reviews. We don't accept affiliate arrangements that require positive coverage. Every product we recommend is evaluated against a consistent set of developmental criteria — and we'll tell you exactly what those criteria are, so you can apply them yourself.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 1. Our Review Philosophy {#philosophy}
@@ -49,6 +52,7 @@ Three principles guide everything we publish:
 
 We use affiliate links in our reviews — if you purchase through our links, we earn a small commission at no extra cost to you. This is how we fund the site. But it means: we link to what we actually recommend. Not what pays us the most.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 2. How We Evaluate Products {#how-we-evaluate}
@@ -90,6 +94,7 @@ Beyond the standard regulatory compliance, we look at:
 - Stability and tip-over risk (for furniture and climbing items)
 - Off-gassing from materials (for items in sleep environments)
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 3. Red Flags We Always Check {#red-flags}
@@ -104,6 +109,7 @@ Beyond the standard regulatory compliance, we look at:
 
 **Greenwashing / "natural" claims without substance.** "Natural wood" that is then coated in unsafe finishes. "BPA-free" used as a misleading safety signal on products where BPA isn't relevant.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 4. Our Criteria by Category {#by-category}
@@ -139,6 +145,7 @@ Beyond the standard regulatory compliance, we look at:
 - Sleep gear: Safe sleep compliance (firm, flat, no inclined sleepers, no soft items under 12 months)
 - Bouncers/rockers: Short-term use only; extended use in reclined positions delays development
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 5. Top Picks: Developmental Toys {#developmental-toys}
@@ -173,6 +180,7 @@ Beyond the standard regulatory compliance, we look at:
 
 **Best age:** 18 months+ (with supervision for mouthing safety).
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 6. Top Picks: Baby Gear {#baby-gear}
@@ -191,6 +199,7 @@ An adjustable-height learning tower in the kitchen is among the highest developm
 
 **What to look for:** Solid wood construction, adjustable platform height, weight capacity appropriate for your child, safety rail design that doesn't impede arm movement.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 7. Top Picks: Books {#books}
@@ -211,6 +220,7 @@ An adjustable-height learning tower in the kitchen is among the highest developm
 - **"The Gruffalo"** (Julia Donaldson): Rich vocabulary, narrative structure, and a satisfying arc that rewards multiple reads.
 - **Non-fiction picture books about nature, animals, and how things work:** At this age, children are often more engaged by real information than fiction. DK First Encyclopedia, *National Geographic Little Kids First Big Book of Why*, etc.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 8. Top Picks: Educational Tools {#educational-tools}
@@ -229,6 +239,7 @@ Physical representations of number quantity bridge abstract numerical thinking t
 
 For tracking development, daily Montessori-inspired activity ideas, and on-demand parenting guidance — the [BloomPath app](https://bloompath.quakr.dev) is our top recommendation for a digital parenting tool. See our [app overview](#) for details.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## 9. What We Don't Recommend {#dont-recommend}
@@ -241,6 +252,7 @@ For tracking development, daily Montessori-inspired activity ideas, and on-deman
 
 **Ride-on cars with parent push handles for toddlers who can walk:** If your toddler can walk, walking is developmentally superior to being pushed. A push toy they control is better than one that carries them.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## FAQ {#faq}
@@ -254,6 +266,7 @@ A: Unit blocks. If you have space for one thing, it's a set of well-made unit bl
 **Q: How do I evaluate a toy I see online?**
 A: Ask: What is the child doing? (Active vs. passive engagement?) Is this age-appropriate? What's the developmental lifespan? Are the safety certifications in order? If you can't answer the first question because the product does all the doing, that's a signal.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 <script type="application/ld+json">
@@ -289,10 +302,12 @@ A: Ask: What is the child doing? (Active vs. passive engagement?) Is this age-ap
 }
 </script>
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 *Tomorrow: [Baby & Toddler Nutrition Guide](/guides/baby-[baby nutrition complete guide](/en/blog/baby-nutrition-health-guide-en)-health-guide) — BLW, feeding timeline, and the most common nutrition concerns.*
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 ## Products We Recommend
@@ -301,6 +316,7 @@ A: Ask: What is the child doing? (Active vs. passive engagement?) Is this age-ap
 
 - [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Evidence-based guidance on baby products and decisions -- helps you cut through the noise of conflicting recommendations.
 
+heroImage: "/og/baby-product-reviews-guide-en.png"
 ---
 
 **Related Reading:**

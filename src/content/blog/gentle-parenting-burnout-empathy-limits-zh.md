@@ -1,4 +1,3 @@
----
 title: "正向教養讓你累垮了嗎？邊界感才是真正的關鍵"
 description: "正向教養說要同理孩子，但很多爸媽照做之後只剩下累。問題不在同理心，而在邊界感。育見未來 BloomPath 帶你看懂這件事的科學。"
 pubDate: "2026-04-24"
@@ -6,6 +5,7 @@ tags: ["正向教養", "溫和教養", "邊界感", "幼兒情緒", "親子教�
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 <script type="application/ld+json">
@@ -14,6 +14,7 @@ draft: false
 
 **重點先說：** [正向教養完整指南](/zh/blog/positive-parenting-guide-zh)讓你累垮，多半不是因為你做錯了，而是你學到的版本只有同理心、沒有邊界感。兩個缺一個都不完整。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 我當爸之前以為自己很有耐心。結果第一次帶女兒小諾去幼兒園接送，她在停車場賴在地上不肯走，我才發現我根本不知道該怎麼辦。
@@ -26,6 +27,7 @@ draft: false
 
 育見未來 BloomPath 這篇文章要說的，就是這個「之後」。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 正向教養讓爸媽累垮，有多常見？
@@ -40,6 +42,7 @@ draft: false
 
 換句話說：你的倦怠不只傷害你，也傷害孩子。這不是在嚇你，這是研究的事實，也是為什麼這件事值得認真對待。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 問題出在哪裡？不是正向教養本身
@@ -54,6 +57,7 @@ draft: false
 
 波士頓環球報 2025 年一篇深度報導訪問了多位推廣正向教養的育兒專家，幾乎所有人都說同樣的話：「真正的正向教養從來不是要求父母消滅自己的感受。是我們的訊息在傳播過程中被誤解了。」
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 什麼叫有邊界的同理心？
@@ -71,6 +75,7 @@ draft: false
 
 我太太（幼教背景）說的更簡單：「同理孩子的感受，但不同理孩子對結果的要求。」這句話幫我理清楚了很多個早上的衝突。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 邊界感為什麼是安全感，不是嚴格？
@@ -83,6 +88,7 @@ draft: false
 
 發展心理學家 Ross Greene（著有《爆炸性孩子》）用一個很好的比喻說明這件事：孩子的問題行為，往往是他在對你說「我的技能跟當下要求不符合」。這是技能問題，不是壞孩子問題。清楚的邊界，讓孩子知道下次的要求是什麼，而不是每次都要重新猜測。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 實際怎麼做？四個今天就能用的方法
@@ -119,6 +125,7 @@ Janet Lansbury 在《No Bad Kids》裡說得很清楚：爸媽的猶豫是孩子
 
 所以「我需要五分鐘獨處」「我今天需要早點睡」「我不行的時候要說不行」，不是放棄教養責任，這是讓教養可以持續的必要維護。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 教養倦怠的預警信號，你有幾個？
@@ -133,6 +140,7 @@ Janet Lansbury 在《No Bad Kids》裡說得很清楚：爸媽的猶豫是孩子
 
 如果你符合三個以上，這不是你的性格問題，是你需要結構性的調整——不管是重新分配任務、找到支持資源，還是認真把邊界這件事建立起來。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 給台灣爸媽的一個特別提醒
@@ -143,6 +151,7 @@ Janet Lansbury 在《No Bad Kids》裡說得很清楚：爸媽的猶豫是孩子
 
 這不是誰的錯，這是結構性的挑戰。Dr. Becky Kennedy 的「穩固教養」有一個很實用的框架：你無法控制其他人怎麼做，但你可以控制自己一致。即使阿嬤給了糖，你回家後的規則還是一樣的。一致性在你能掌控的地方建立，其餘的，慢慢溝通。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 常見問題 FAQ
@@ -167,10 +176,12 @@ Janet Lansbury 在《No Bad Kids》裡說得很清楚：爸媽的猶豫是孩子
 
 有。雖然「正向教養」作為一個標籤的定義不一，但它的核心元素——溫暖的親子關係、一致的邊界、情緒的承認而不是壓制——都有相當堅實的發展心理學研究支持，與孩子的情緒調節能力、人際關係品質和長期心理健康正相關。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 如果你想追蹤寶貝的發展，或找適合月齡的活動來減少每天臨場發揮，[育見未來 BloomPath](https://bloom-path.app) 有針對爸媽設計的內容，少一點猜謎，多一點有把握。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 ## 推薦書單
@@ -183,10 +194,12 @@ Janet Lansbury 在《No Bad Kids》裡說得很清楚：爸媽的猶豫是孩子
 用尊重的方式處理幼兒行為問題，實用直白。特別適合剛開始學正向教養、還在摸索的爸媽。
 [Amazon 購買連結](https://www.amazon.com/dp/0593736133?tag=bloompath-20)
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 你在讀這篇文章，表示你真的在思考怎麼當更好的爸媽。累垮不是你的問題，是框架缺了一半。把邊界加回去，你會更穩。
 
+heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
 
 *參考資料：*

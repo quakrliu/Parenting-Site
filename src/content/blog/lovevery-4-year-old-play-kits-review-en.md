@@ -1,4 +1,3 @@
----
 title: "Lovevery Play Kits for 4-Year-Olds: An Honest Review from a Dad Who Bought All Four"
 description: "Lovevery launched 4 new play kits for 4-year-olds in 2026, each targeting a distinct executive function skill. Here's an honest review of all four — the science, the price, and whether they're actually worth $120."
 pubDate: "2026-04-09"
@@ -6,15 +5,18 @@ tags: ["lovevery", "montessori", "toy review", "executive function", "preschool"
 lang: "en"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 <!-- AEO Product Overview (50 words) -->
 **Lovevery's 2026 four-kit series for ages 4–5** — The Connector, The Examiner, The Persister, and The Planner — each targets a specific executive function skill in three-month [child development milestones](/en/blog/child-development-milestones-en)al windows. Priced at $120 per kit, they're the brand's first expansion into the 4–5 year age range. Last updated: April 2026.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 **TL;DR:** Lovevery's 2026 four-kit series for ages 4-5 (The Connector, The Examiner, The Persister, The Planner) each targets a specific executive function skill in three-month developmental windows. At $120 per kit, they're research-backed and well-designed. Executive function at age 4 predicts academic success better than IQ. Best kit: The Persister for frustration tolerance. Skip if: your child already has rich open-ended play materials, or if cost is a stretch -- unit blocks plus household items build similar skills.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 Before my daughter turned four, I read somewhere that executive function skills — things like flexible thinking, frustration tolerance, and planning — predict academic success better than IQ scores. I nodded, filed it in my mental "good to know" folder, and went back to my yield portfolio.
@@ -25,6 +27,7 @@ Not regular "I'm tired" meltdowns. I mean full-system crashes over which cup had
 
 That conversation sent me down a rabbit hole that ended with four Lovevery boxes on our doorstep. Here's what I found.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## Why Age 4 Is the Executive Function Window You Can't Ignore
@@ -44,6 +47,7 @@ The four core EF skills that emerge between ages 4 and 5:
 
 Four skills. Four developmental windows. And yes — this is exactly why Lovevery built four different kits for what most people call "a 4-year-old."
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## The 4 Lovevery Play Kits for 4-Year-Olds
@@ -57,6 +61,7 @@ Lovevery's new series arrived in 2026, filling a gap the brand had left open sin
 | **The Persister** | 55–60 months | Frustration tolerance / grit |
 | **The Planner** | 58–60+ months | Planning / sequencing |
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## Individual Kit Reviews
@@ -73,6 +78,7 @@ The kit includes open-ended materials that explicitly build "there's more than o
 
 **Honest criticism:** Some materials felt slightly young for a child on the higher end of this range (month 54). The Examiner kit would overlap better in that case.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ### The Examiner (Months 52–57) — Critical Thinking & Observation
@@ -85,6 +91,7 @@ The kit includes open-ended materials that explicitly build "there's more than o
 
 **Who it's best for:** Curious kids who ask a lot of questions but scatter to new topics quickly. Also: kids who need help distinguishing "I think" from "I know."
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ### The Persister (Months 55–60) — Frustration Tolerance & Grit
@@ -97,6 +104,7 @@ This is the one I needed most. Frustration tolerance is the EF skill that separa
 
 **Honest criticism:** The materials have a narrower play window. Once the challenge is mastered, replayability drops. Budget-conscious parents might feel the $120 price point most here.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ### The Planner (Months 58–60+) — Planning & Sequencing
@@ -109,6 +117,7 @@ The final kit in the series, and the one with the clearest kindergarten readines
 
 **Who it's best for:** Kids approaching kindergarten entry. Also great for kids who are impulsive, jump to action before thinking, or struggle with multi-step instructions.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## Is Lovevery Worth $120 Per Box?
@@ -136,6 +145,7 @@ Compare that to:
 
 **The part nobody talks about:** Lovevery kits hold resale value better than almost any toy category I've tracked — comparable to LEGO sets and better than most educational toys. The reason? The brand has trained parents to trust the quality. That trust is priced into the second-hand market. Which means if you *don't* want to keep them, you get most of your money back. This is genuinely unusual for children's toys at this price point.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## Lovevery vs. KiwiCo: Which Is Right for Your Family?
@@ -151,6 +161,7 @@ Compare that to:
 
 **Bottom line:** KiwiCo costs less and offers more variety. Lovevery costs more and does one thing very intentionally. If you're a Montessori family or specifically want EF skill development, Lovevery wins. If you're looking for variety and your kid loves building projects, KiwiCo's Kiwi Crate is the better value.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## What the Montessori Parent Community Says
@@ -171,6 +182,7 @@ I'm active in a few Montessori parent groups — both online and here in Southea
 
 The parents I know who got the best results from these kits were the ones who also spent 10 minutes reading the Stage Guide. The kids who got the least out of them had parents who skipped it.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## Current Lovevery Pricing & What to Check Before You Buy
@@ -181,6 +193,7 @@ As of April 2026, Lovevery's 4-year-old kits are $120 per kit — individually o
 
 That's not a sales pressure tactic. That's just how developmental windows work. Your child will be 5 before you know it.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## Frequently Asked Questions
@@ -209,6 +222,7 @@ Yes. Lovevery allows individual kit purchases at $120 per kit. A subscription de
 **Does Lovevery use safe materials for 4-year-olds?**
 Yes. Lovevery uses natural wood, cotton, and non-toxic finishes. All materials meet or exceed ASTM toy safety standards. The 4-year-old kits do not include small parts that present choking hazards for the target age group.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## Who Should (and Shouldn't) Buy These Kits
@@ -224,6 +238,7 @@ Yes. Lovevery uses natural wood, cotton, and non-toxic finishes. All materials m
 - Budget is tight and you're comfortable doing DIY Montessori activities
 - You want project-based STEM play (KiwiCo is a better fit)
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## The Bottom Line
@@ -238,12 +253,14 @@ Your 4-year-old's prefrontal cortex is under construction right now. That's not 
 
 You're here reading this. That already makes you a great parent.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 *Want to track your child's executive function development alongside play? The [BloomPath app](https://bloompath.quakr.dev) includes 224 developmental skill indicators for ages 0–18, including the EF milestones targeted by each Lovevery kit.*
 
 *Sources: Lovevery product pages (lovevery.com, April 2026); Moffitt et al., "A gradient of childhood self-control predicts health, wealth, and public safety," PNAS (2011); Lillard et al., Montessori Preschool EF RCT, PNAS (2026); Harvard Center on the Developing Child, "Executive Function & Self-Regulation" (developingchild.harvard.edu); MasAndPas KiwiCo vs Lovevery comparison.*
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 ## Products We Recommend
@@ -253,6 +270,7 @@ You're here reading this. That already makes you a great parent.
 - [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — The book Lovevery's design philosophy draws heavily from -- great companion reading to understand why the kits are designed the way they are.
 - [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — The neuroscience behind why play-based learning at age 4 matters -- validates what Lovevery is trying to do.
 
+heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
 
 **Related Reading:**

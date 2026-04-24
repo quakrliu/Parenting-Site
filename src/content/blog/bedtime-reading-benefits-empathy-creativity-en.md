@@ -1,4 +1,3 @@
----
 title: "Keep the Bedtime Story: How 14 Nights of Reading Boosts Empathy and Creativity"
 description: "A 2026 University of Virginia RCT found that just 2 weeks of nightly bedtime reading significantly boosted empathy and creativity in kids ages 6-8. Here's what tired parents actually need to know."
 pubDate: "2026-04-11"
@@ -6,6 +5,7 @@ tags: ["bedtime reading", "empathy", "creativity", "child development", "reading
 lang: "en"
 author: "Ethan Moore"
 draft: false
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 The night I almost quit bedtime stories, my daughter was seven and I was running on four hours of sleep and cold leftover pad thai.
@@ -16,10 +16,12 @@ I read it anyway. She fell asleep mid-sentence with her hand on my arm.
 
 That was before I found the study. Now I know it mattered more than I realized.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 **TL;DR:** A 2026 randomized controlled trial from the University of Virginia found that just 14 nights of bedtime reading significantly improved empathy AND creativity in children ages 6–8 — whether parents paused to ask questions or just read straight through. The takeaway for exhausted parents: you don't have to do it perfectly. You just have to do it.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## Table of Contents
@@ -33,6 +35,7 @@ That was before I found the study. Now I know it mattered more than I realized.
 - [Ages 6–8: Don't Stop Reading](#dont-stop)
 - [FAQ](#faq)
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## The 2026 Study That Changes Everything {#the-2026-study}
@@ -58,6 +61,7 @@ The headline finding — and this is the part that surprised me as an engineer-b
 
 Two weeks. Fourteen nights. One book per night. That's the intervention.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## What Actually Happens in a Child's Brain {#what-happens-in-the-brain}
@@ -72,6 +76,7 @@ Creativity follows the same logic. When a story presents a problem (the characte
 
 **Fourteen nights of bedtime reading gives a child's brain 14 practice sessions in perspective-taking and creative problem-solving.** No app required. No subscription. Just a book and fifteen minutes.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## The Surprising Finding: Questions Aren't Required (But Help With One Thing) {#surprising-finding}
@@ -88,6 +93,7 @@ That's it. One question. No elaborate discussion required. My daughter and I hav
 
 The researchers specifically noted the absence of gender differences — boys and girls both benefited equally. For dads raising sons who think "books are boring," this matters. The benefit isn't contingent on the child loving reading. It comes from the exposure itself.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## The [Montessori at home activities](/en/blog/montessori-activities-at-home-en) Connection {#montessori-connection}
@@ -102,6 +108,7 @@ The Montessori connection also explains *why* picture books work at ages 6–8, 
 
 For parents using the [BloomPath app](https://bloompath.quakr.dev), language and social-emotional [child development milestones](/en/blog/child-development-milestones-en) are two of the eight tracked domains. Bedtime reading directly supports milestones in both — you'll see this reflected in your child's weekly progress reports.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## Best Books for Empathy and Creativity {#best-books}
@@ -121,6 +128,7 @@ You don't need a curated list to start tonight. But since I've been reading alou
 
 **Expert-curated alternative:** Lovevery's book bundles are designed by child development specialists to align with developmental stages — they're what we use when I don't have time to curate. Worth checking if you're building a read-aloud library from scratch.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## 5 Tips for Tired Nights {#tips-for-tired-nights}
@@ -144,6 +152,7 @@ Bedtime reading works partly because of the context: close physical proximity, c
 
 I still mess up. Last Thursday I fell asleep mid-page and woke up to my daughter carefully turning the remaining pages herself, narrating quietly in the dark. She's fine. We're fine. The consistency matters more than any individual night.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## Ages 6–8: Don't Stop Reading {#dont-stop}
@@ -160,6 +169,7 @@ There's also a window issue. Kids in this age range are approaching the transiti
 
 They won't always want you in the room at bedtime. Read to them while they still let you.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## FAQ {#faq}
@@ -185,6 +195,7 @@ Introduce chapter books read in installments — this builds the same neural eng
 **Does the benefit apply to boys and girls equally?**
 Yes. The 2026 study found no significant gender differences. Boys and girls in both groups showed equivalent gains in empathy and creativity.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 <script type="application/ld+json">
@@ -238,6 +249,7 @@ Yes. The 2026 study found no significant gender differences. Boys and girls in b
 }
 </script>
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 ## The Science Made It Simple
@@ -250,10 +262,12 @@ The UVA study challenged that assumption at the research level. My daughter chal
 
 You already know how to read. That's all you need.
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 *Want to track how bedtime reading connects to your child's development milestones? The [BloomPath app](https://bloompath.quakr.dev) tracks 224 developmental skills across 8 domains — including language and social-emotional development. Check in weekly to see your child's progress.*
 
+heroImage: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
 ---
 
 **Sources:**

@@ -1,4 +1,3 @@
----
 title: "孩子說「不想上學」——可能不只是懶，是這個警訊"
 description: "當青少年開始說「不想去學校」，台灣爸媽第一個反應往往是「懶惰」。但研究顯示，這可能是憂鬱或焦慮的早期訊號。本文提供對照清單、第一句話腳本，以及台灣專屬資源。"
 pubDate: 2026-03-31
@@ -6,6 +5,7 @@ updatedDate: 2026-03-31
 tags: ["青少年心理健康", "青少年憂鬱症狀", "孩子有焦慮怎麼辦", "青春期", "拒學", "台灣育兒"]
 lang: "zh-TW"
 ageGroup: ["school", "teen"]
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 # 孩子說「不想上學」——可能不只是懶，是這個警訊
@@ -17,6 +17,7 @@ ageGroup: ["school", "teen"]
 - 第一句話腳本：「我聽到你說不想去學校。你願意跟我說說是什麼讓你不想去嗎？」（不評判、不威脅）
 - 台灣資源：1925安心專線（24小時）、張老師1980、學校輔導室
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 每隔幾���，台灣的育兒社群裡一定會出現這種貼文：
@@ -29,6 +30,7 @@ ageGroup: ["school", "teen"]
 
 問題是，這兩種情況，從外面看起來幾乎一樣。
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 懶？還是真的不舒服？爸媽對照清單
@@ -56,6 +58,7 @@ ageGroup: ["school", "teen"]
 - [ ] 明顯比以前更焦慮，反覆擔心某些事
 - [ ] 說過「活著沒意思」「消失算了」——**這條即使只有一次，都要認真對待**
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 台灣青少年背負的，比你以為的更重
@@ -84,6 +87,7 @@ ageGroup: ["school", "teen"]
 
 **青少年憂鬱症狀往往從這種「說不出口的重量」開始積累。**
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 反直覺的真相：拒學不是叛逆，是求救信號
@@ -96,6 +100,7 @@ ageGroup: ["school", "teen"]
 
 一個持續焦慮的大腦，每天被迫去面對讓它感到不安全的環境，學到的不是勇氣，而是：「求救沒有用。」
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 爸媽的第一句話，可能決定孩子願不願意再開口
@@ -130,6 +135,7 @@ ageGroup: ["school", "teen"]
 - 「你太敏感了」（否定感受）
 - 「振作一點，這算什麼」（無效鼓勵）
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 何時需要尋求專業幫助？
@@ -149,6 +155,7 @@ ageGroup: ["school", "teen"]
 
 > **一個重要的數據：** 研究估計，有重度憂鬱症狀的12-17歲青少年中，有六成未曾接受任何形式的治療。原因之一，是爸媽沒有早期識別到訊號。
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 台灣可用的資源
@@ -175,6 +182,7 @@ ageGroup: ["school", "teen"]
 **線上課程：**
 - Hahow「和青少年溝通的藝術」課程 — 適合台灣爸媽，情境演練
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 如何追蹤孩子的長期[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)？
@@ -183,6 +191,7 @@ ageGroup: ["school", "teen"]
 
 BloomPath 育見未來 App 提供 12-18 歲青少年的心理社會發展指標追蹤，幫助爸媽了解孩子在情緒調節、社交能力、自我認同等面向的發展狀態。若你想建立更系統性的觀察習慣，可以參考 [BloomPath](https://bloompath.quakr.dev) 的每日發展任務功能。
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 常見問題 FAQ {#faq}
@@ -219,6 +228,7 @@ BloomPath 育見未來 App 提供 12-18 歲青少年的心理社會發展指標�
 
 視情況而定。若孩子的狀況已經影響學校表現，讓導師了解是有幫助的，因為老師可以在課堂上給予適度的支持和彈性。但要先和孩子討論，讓他有一定程度的控制感，而不是「背著他去告狀」。
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## Schema Markup
@@ -274,6 +284,7 @@ BloomPath 育見未來 App 提供 12-18 歲青少年的心理社會發展指標�
 }
 ```
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 結語：你看見了，就已經是開始
@@ -284,15 +295,18 @@ BloomPath 育見未來 App 提供 12-18 歲青少年的心理社會發展指標�
 
 早期發現，不需要你是心理師，只需要你願意留意。
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 **明天繼續：** [青少年說「不知道」不是不尊重你——這樣回應更有效]
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 *最後更新：2026年3月31日*
 *資料來源：衛生福利部、董氏基金會、HelpGuide、KidsHealth、FSU 青少年心理健康研究*
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## Evidence Panel
@@ -303,6 +317,7 @@ BloomPath 育見未來 App 提供 12-18 歲青少年的心理社會發展指標�
 | 超過八成青少年將學校成績列為最大壓力源 | 青少年心理健康調查（多項研究綜合）| 2024-2026 | 台灣及國際研究趨勢一致 |
 | 前額葉在25歲前持續發育 | 神經科學研究共識 | 持續更新 | 影響情緒調節能力的神經基礎 |
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 ## 推薦閱讀與好物
@@ -312,6 +327,7 @@ BloomPath 育見未來 App 提供 12-18 歲青少年的心理社會發展指標�
 - [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 理解「不想上學」背後的心理需求。Dr. Becky 的框架特別適合面對拒學情緒的父母。
 - [**Raising Good Humans（養出好孩子）** — Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — 給壓力大的台灣家庭一個不一樣的視角——孩子的學習動機和父母的教養狀態高度相關。
 
+heroImage: "/og/zh-teen-not-wanting-school.png"
 ---
 
 **延伸閱讀：**
