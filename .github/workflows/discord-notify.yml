@@ -21,18 +21,30 @@ jobs:
           echo "files<<EOF" >> "$GITHUB_OUTPUT"
           echo "$FILES" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
-          echo "count=$(echo "$FILES" | grep -c . || true)" >> "$GITHUB_OUTPUT"
+          COUNT=$(echo "$FILES" | grep -c . || true)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
 
       - name: Send pang-tong report
         if: steps.detect.outputs.count != '0' && steps.detect.outputs.files != ''
         run: |
-          TITLES=""
+          MSG="## 龐統內容報告"
+          EN_COUNT=0
+          ZH_COUNT=0
           while IFS= read -r FILE; do
             [ -z "$FILE" ] && continue
-            T=$(grep -m1 '^title:' "$FILE" | sed 's/title: *"\?\(.*\)"\?/\1/')
-            TITLES="${TITLES}\n- ${T}"
+            TITLE=$(grep -m1 '^title:' "$FILE" | sed 's/title: *"\?\(.*\)"\?/\1/')
+            LANG=$(grep -m1 '^lang:' "$FILE" | sed 's/lang: *"\?\(.*\)"\?/\1/')
+            if echo "$FILE" | grep -q '\-zh\.md$'; then
+              LANG_LABEL="ZH-TW"
+              ZH_COUNT=$((ZH_COUNT + 1))
+            else
+              LANG_LABEL="EN"
+              EN_COUNT=$((EN_COUNT + 1))
+            fi
+            MSG="${MSG}\n- [${LANG_LABEL}] **${TITLE}**"
           done <<< "${{ steps.detect.outputs.files }}"
-          MSG="## BP 新文章已部署${TITLES}\n- Cloudflare Pages 自動部署中"
+          MSG="${MSG}\n\n共 ${EN_COUNT} 篇英文 + ${ZH_COUNT} 篇中文"
+          MSG="${MSG}\n✅ Cloudflare Pages 自動部署中"
           PAYLOAD=$(jq -n \
             --arg channel "pang-tong" \
             --arg content "$MSG" \
