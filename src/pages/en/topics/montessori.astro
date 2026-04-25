@@ -5,29 +5,20 @@ import Footer from '../../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 
 const lang = 'en';
-
 const PILLAR_SLUG = 'montessori-at-home-guide-en';
-const ARTICLE_SLUGS = [
-  'montessori-home-environment-en',
-  'montessori-activities-at-home-en',
-  'montessori-vs-traditional-preschool-en',
-  'en-montessori-pnas-research-2026',
-  'montessori-vs-gentle-parenting-en',
-  'montessori-national-study-2026-results-en',
-  'montessori-sel-casel-skills-en',
-  'lovevery-4-year-old-play-kits-review-en',
-  'analog-childhood-montessori-screen-free-en',
-  'en-gentle-parenting-montessori-boundaries',
-];
 
 const allPosts = await getCollection('blog');
 const now = new Date();
 
 const pillar = allPosts.find(p => p.id === PILLAR_SLUG);
 
-const articles = ARTICLE_SLUGS
-  .map(slug => allPosts.find(p => p.id === slug))
-  .filter((p): p is NonNullable<typeof p> => !!p && p.data.pubDate <= now)
+const articles = allPosts
+  .filter(p =>
+    p.id !== PILLAR_SLUG &&
+    (p.data.lang === 'en' || !p.data.lang) &&
+    p.data.tags?.some((t: string) => t.toLowerCase().includes('montessori')) &&
+    p.data.pubDate <= now
+  )
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 

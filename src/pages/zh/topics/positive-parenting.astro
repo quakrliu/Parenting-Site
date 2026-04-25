@@ -5,29 +5,21 @@ import Footer from '../../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 
 const lang = 'zh';
-
 const PILLAR_SLUG = 'positive-parenting-guide-zh';
-const ARTICLE_SLUGS = [
-  'toddler-tantrum-positive-parenting-zh',
-  'gentle-parenting-burnout-empathy-limits-zh',
-  'hybrid-parenting-2026-zh',
-  '4-year-old-power-struggles-zh',
-  'daddy-role-in-parenting-zh',
-  'parental-burnout-solutions-2026',
-  'aap-screen-time-guidelines-2026',
-  'aap-screen-time-2026-taiwan-parents-zh',
-  'children-internet-safety-2026-zh',
-  'parental-phubbing-child-screen-addiction-zh',
-];
 
 const allPosts = await getCollection('blog');
 const now = new Date();
 
 const pillar = allPosts.find(p => p.id === PILLAR_SLUG);
 
-const articles = ARTICLE_SLUGS
-  .map(slug => allPosts.find(p => p.id === slug))
-  .filter((p): p is NonNullable<typeof p> => !!p && p.data.pubDate <= now)
+const ZH_POSITIVE_TAGS = ['正向教養', '正向管教', '溫和教養', '混合式教養', '螢幕時間', '數位安全', '親子教養', '幼兒情緒', '教養倦怠', '親子關係', '3C管理'];
+const articles = allPosts
+  .filter(p =>
+    p.id !== PILLAR_SLUG &&
+    p.data.lang === 'zh-TW' &&
+    p.data.tags?.some((t: string) => ZH_POSITIVE_TAGS.some(pt => t.includes(pt))) &&
+    p.data.pubDate <= now
+  )
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 

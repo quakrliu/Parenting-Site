@@ -5,30 +5,21 @@ import Footer from '../../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 
 const lang = 'en';
-
 const PILLAR_SLUG = 'positive-parenting-guide-en';
-const ARTICLE_SLUGS = [
-  'positive-parenting-boundaries-en',
-  'toddler-meltdowns-montessori-en',
-  'hybrid-parenting-2026-gentle-parenting-en',
-  'gentle-parenting-burnout-empathy-limits-en',
-  'cycle-breaking-parenting-generational-trauma-en',
-  '4-year-old-power-struggles-en',
-  'screen-time-2026-guide-en',
-  'screen-time-rules-school-age-kids-2026-en',
-  'aap-5cs-screen-time-framework-preschoolers-en',
-  'children-internet-safety-2026-en',
-  'australia-teen-social-media-ban-parents-guide-en',
-];
 
 const allPosts = await getCollection('blog');
 const now = new Date();
 
 const pillar = allPosts.find(p => p.id === PILLAR_SLUG);
 
-const articles = ARTICLE_SLUGS
-  .map(slug => allPosts.find(p => p.id === slug))
-  .filter((p): p is NonNullable<typeof p> => !!p && p.data.pubDate <= now)
+const POSITIVE_TAGS = ['positive parenting', 'positive discipline', 'gentle parenting', 'toddler discipline', 'screen time', 'digital safety', 'parenting 2026', 'power struggles', 'parenting', 'emotional regulation', 'child safety'];
+const articles = allPosts
+  .filter(p =>
+    p.id !== PILLAR_SLUG &&
+    (p.data.lang === 'en' || !p.data.lang) &&
+    p.data.tags?.some((t: string) => POSITIVE_TAGS.some(pt => t.toLowerCase().includes(pt.toLowerCase()))) &&
+    p.data.pubDate <= now
+  )
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
