@@ -1,0 +1,217 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const lang = 'zh';
+
+const PILLAR_SLUG = 'montessori-at-home-guide-zh';
+const ARTICLE_SLUGS = [
+  'montessori-home-environment-zh',
+  'montessori-vs-traditional-preschool-zh',
+  'montessori-national-study-2026-results-zh',
+  'taipei-montessori-schools-2026-zh',
+  'taipei-montessori-schools-guide-zh',
+  'kindergarten-guide-taiwan-2026-zh',
+  'kids-say-bored-montessori-prepared-environment-zh',
+  'lighthouse-parenting-montessori-zh',
+];
+
+const allPosts = await getCollection('blog');
+const now = new Date();
+
+const pillar = allPosts.find(p => p.id === PILLAR_SLUG);
+
+const articles = ARTICLE_SLUGS
+  .map(slug => allPosts.find(p => p.id === slug))
+  .filter((p): p is NonNullable<typeof p> => !!p && p.data.pubDate <= now)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="蒙特梭利主題指南 | BloomPath 育見未來"
+  description="在家實踐蒙特梭利的完整資源。從環境設置到各年齡活動，為 0–6 歲孩子的家長精選文章。"
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="topic-listing">
+    <div class="container">
+
+      <div class="topic-header">
+        <div class="topic-badge">主題</div>
+        <h1>蒙特梭利</h1>
+        <p>有研究支持的蒙特梭利實踐指南，涵蓋居家環境設置、各年齡活動設計，以及蒙特梭利與其他教養方式的比較。</p>
+      </div>
+
+      {pillar && (
+        <section class="pillar-section">
+          <div class="section-label">完整指南</div>
+          <article class="pillar-card">
+            <div class="pillar-badge">核心</div>
+            <div class="pillar-content">
+              <div class="post-meta">
+                <time datetime={pillar.data.pubDate.toISOString()}>
+                  {pillar.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}
+                </time>
+              </div>
+              <h2><a href={`/zh/blog/${pillar.id}`}>{pillar.data.title}</a></h2>
+              <p>{pillar.data.description}</p>
+              <a href={`/zh/blog/${pillar.id}`} class="read-more">閱讀完整指南 →</a>
+            </div>
+          </article>
+        </section>
+      )}
+
+      <section class="articles-section">
+        <div class="section-label">所有文章</div>
+        <div class="posts-grid">
+          {articles.map((post) => (
+            <article class="post-card">
+              <div class="post-meta">
+                <time datetime={post.data.pubDate.toISOString()}>
+                  {post.data.pubDate.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric' })}
+                </time>
+              </div>
+              <h2><a href={`/zh/blog/${post.id}`}>{post.data.title}</a></h2>
+              <p>{post.data.description}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <div class="topic-nav">
+        <a href="/zh/topics/positive-parenting" class="topic-link">正向教養 →</a>
+        <a href="/zh/blog" class="topic-link">所有文章 →</a>
+      </div>
+
+    </div>
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  .topic-listing { padding: 4rem 0; }
+
+  .topic-header {
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid rgba(141, 155, 142, 0.15);
+  }
+  .topic-badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #8D9B8E;
+    background: rgba(141, 155, 142, 0.1);
+    padding: 0.25rem 0.75rem;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+  }
+  .topic-header h1 {
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.75rem;
+  }
+  .topic-header p {
+    font-size: 1.0625rem;
+    color: var(--color-text-light);
+    max-width: 600px;
+    line-height: 1.6;
+  }
+
+  .pillar-section { margin-bottom: 3rem; }
+  .articles-section { margin-bottom: 3rem; }
+
+  .section-label {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #8D9B8E;
+    margin-bottom: 1rem;
+  }
+
+  .pillar-card {
+    background: linear-gradient(135deg, rgba(141, 155, 142, 0.08) 0%, rgba(196, 168, 130, 0.06) 100%);
+    border: 1px solid rgba(141, 155, 142, 0.2);
+    border-radius: 16px;
+    padding: 2rem;
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+  }
+  .pillar-badge {
+    flex-shrink: 0;
+    font-size: 0.6875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #fff;
+    background: #8D9B8E;
+    padding: 0.25rem 0.625rem;
+    border-radius: 5px;
+    margin-top: 0.125rem;
+  }
+  .pillar-content { flex: 1; }
+  .pillar-card h2 { font-size: 1.25rem; font-weight: 700; line-height: 1.35; margin: 0.375rem 0 0.625rem; }
+  .pillar-card h2 a { color: var(--color-text); text-decoration: none; }
+  .pillar-card h2 a:hover { color: #8D9B8E; }
+  .pillar-card p { font-size: 0.9375rem; color: var(--color-text-light); line-height: 1.6; margin-bottom: 1rem; }
+  .read-more {
+    display: inline-block;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #8D9B8E;
+    text-decoration: none;
+  }
+  .read-more:hover { color: #C4A882; }
+
+  .posts-grid { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
+  .post-card {
+    background: var(--color-white);
+    border-radius: 16px;
+    padding: 1.75rem;
+    border: 1px solid rgba(141, 155, 142, 0.06);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .post-card:hover {
+    border-color: rgba(141, 155, 142, 0.15);
+    box-shadow: 0 8px 30px -10px rgba(141, 155, 142, 0.08);
+  }
+  .post-meta { margin-bottom: 0.75rem; }
+  .post-meta time { font-size: 0.8125rem; color: var(--color-text-light); }
+  .post-card h2 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; margin-bottom: 0.5rem; }
+  .post-card h2 a { color: var(--color-text); text-decoration: none; }
+  .post-card h2 a:hover { color: #8D9B8E; }
+  .post-card p {
+    font-size: 0.9375rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .topic-nav {
+    display: flex;
+    gap: 1.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(141, 155, 142, 0.15);
+  }
+  .topic-link {
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: #8D9B8E;
+    text-decoration: none;
+  }
+  .topic-link:hover { color: #C4A882; }
+
+  @media (min-width: 640px) { .posts-grid { grid-template-columns: repeat(2, 1fr); } }
+</style>
