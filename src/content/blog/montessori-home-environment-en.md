@@ -1,3 +1,4 @@
+---
 title: "Montessori Home Environment: Room-by-Room Setup Guide"
 description: "A practical guide to creating a Montessori-inspired home environment — room by room setup, IKEA hacks, small-space solutions, and what actually matters versus what's just aesthetics."
 pubDate: 2026-04-01
@@ -24,6 +25,8 @@ heroImage: "/og/montessori-home-environment-en.png"
 
 heroImage: "/og/montessori-home-environment-en.png"
 ---
+*This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
+
 
 ## Key Takeaways
 

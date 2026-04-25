@@ -1,3 +1,4 @@
+---
 title: "The AAP's New 5 Cs of Screen Time: An Engineer Dad's Practical Breakdown"
 description: "The AAP replaced strict screen time limits with the 5 Cs framework. Here's what Child, Content, Calm, Crowding Out, and Communication actually look like with a 4-year-old at home."
 pubDate: "2026-04-21"
@@ -12,6 +13,8 @@ heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 
 heroImage: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
 ---
+*This article is part of our [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide-en).*
+
 
 ## The moment I stopped counting minutes
 

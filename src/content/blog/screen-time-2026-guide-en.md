@@ -1,3 +1,4 @@
+---
 title: "Screen Time in 2026: What the Latest Research Actually Says"
 description: "AAP guidelines, quality vs. quantity debate, age-by-age recommendations, and what actually matters — a research-backed guide for parents navigating screens in 2026."
 pubDate: 2026-04-12

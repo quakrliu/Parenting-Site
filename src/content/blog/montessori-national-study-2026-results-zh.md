@@ -1,3 +1,4 @@
+---
 title: "蒙特梭利幼兒園更便宜還更有效？2026 美國全國研究結果公布"
 description: "美國首次全國性隨機對照試驗結果出爐：公立蒙特梭利幼兒園的孩子在閱讀、執行功能、記憶力和社會理解力都贏過同齡，而且三年下來每個孩子還省了台幣 40 萬。研究怎麼說？爸媽可以怎麼用？"
 pubDate: "2026-04-16"
@@ -27,6 +28,8 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 
 heroImage: "/og/montessori-national-study-2026-results-zh.png"
 ---
+*本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
+
 
 **懶人包 — 3 分鐘重點整理**
 

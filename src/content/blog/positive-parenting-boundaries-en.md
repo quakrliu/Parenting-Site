@@ -1,3 +1,4 @@
+---
 title: "How to Set Boundaries Without Punishment: The Positive Parenting Way"
 description: "A research-backed guide to setting firm, loving limits without punishment — using natural consequences, connection-based limit-setting, and scripts that work."
 pubDate: 2026-04-14
@@ -17,6 +18,8 @@ heroImage: "/og/positive-parenting-boundaries-en.png"
 
 heroImage: "/og/positive-parenting-boundaries-en.png"
 ---
+*This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
+
 
 There's a moment most parents remember. Your four-year-old is melting down at the grocery store, or your seven-year-old just hit their sibling again after you've told them a hundred times not to, and something in you shifts. "Because I said so" comes out of your mouth — the exact phrase you swore you'd never use. And it doesn't work. It never really did. It just bought you a few seconds of shocked silence before the storm resumed.
 

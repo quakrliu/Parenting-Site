@@ -1,3 +1,4 @@
+---
 title: "AAP 2026 螢幕時間新指引：從「限時」到「重質」，家長必讀全解析"
 description: "AAP 2026年2月發布重大政策轉向：移除每日螢幕時間硬性上限，改以內容品質、家長陪伴、數位生態系統為核心框架。台灣爸媽應如何調整？"
 pubDate: 2026-03-31
@@ -348,8 +349,12 @@ heroImage: "/og/aap-screen-time-guidelines-2026.png"
 heroImage: "/og/aap-screen-time-guidelines-2026.png"
 ---
 
-**Related Reading:**
+---
 
-- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)
-- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-screen-free-en)
-- [Best Bilingual Learning Apps (2026)](/blog/best-bilingual-learning-apps-2026)
+## 延伸閱讀
+
+探索更多螢幕時間系列文章：
+
+- [台灣爸媽的 5C 實踐指南：AAP 2026 取消 2 小時上限](/zh/blog/aap-screen-time-2026-taiwan-parents-zh)
+- [2026年兒童網路安全完整指南：AI玩具、國際新法與台灣爸媽實戰設定](/zh/blog/children-internet-safety-2026-zh)
+- [孩子沉迷螢幕，可能是你的手機造成的？](/zh/blog/parental-phubbing-child-screen-addiction-zh)

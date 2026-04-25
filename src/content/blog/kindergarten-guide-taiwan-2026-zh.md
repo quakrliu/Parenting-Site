@@ -1,3 +1,4 @@
+---
 title: "幼兒園怎麼選？公幼、蒙特梭利、雙語幼兒園完整比較指南（2026年最新版）"
 description: "台灣爸媽最糾結的問題：公幼好還是蒙特梭利好？雙語值得花錢嗎？含2026年最新補助費用試算、真蒙特梭利辨別清單，讓你做出最適合自己孩子的決定。"
 pubDate: "2026-04-08"
@@ -14,6 +15,8 @@ heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 
 heroImage: "/og/kindergarten-guide-taiwan-2026-zh.png"
 ---
+*本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
+
 
 ## 重點整理
 

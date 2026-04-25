@@ -1,3 +1,4 @@
+---
 title: "Positive Parenting: The Complete Guide — From Theory to Daily Practice"
 description: "A comprehensive, research-backed guide to positive parenting: emotion coaching, natural consequences, setting limits without punishment, and building intrinsic motivation in children 0–8."
 pubDate: 2026-04-01

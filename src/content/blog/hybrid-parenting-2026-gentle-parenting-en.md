@@ -1,3 +1,4 @@
+---
 title: "Why I Stopped Being a 'Gentle Parent' (And Became a Better Dad)"
 description: "Hybrid parenting 2026 explained: how combining empathy with clear boundaries creates happier, more secure kids than pure gentle parenting alone — backed by research."
 slug: hybrid-parenting-2026-gentle-parenting-backlash
@@ -122,6 +123,8 @@ Something wasn't working. And turns out, I wasn't alone.
 
 heroImage: "/og/hybrid-parenting-2026-gentle-parenting-en.png"
 ---
+*This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
+
 
 **TL;DR:** Only 38% of Gen Z parents now use gentle parenting exclusively. 80% agree no single approach works for every child. Hybrid parenting -- combining empathy with clear, confident [setting boundaries without punishment](/en/blog/positive-parenting-boundaries-en) -- is what most modern parents actually practice. It's not punishment; it's natural consequences, firm limits, and genuine warmth. The AND method: validate the feeling AND hold the boundary.
 

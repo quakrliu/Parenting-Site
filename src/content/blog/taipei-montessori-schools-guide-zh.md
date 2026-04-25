@@ -1,3 +1,4 @@
+---
 title: "台灣蒙特梭利學校完整指南 2026 — 選校攻略、費用與各年齡建議"
 description: "從幼兒園到高中，台灣有哪些真正的蒙特梭利學校？本文整理 TMIS 長華、T.I.M.E.S、Y2MAC 等主要學校，幫你找到適合寶貝的選擇。"
 slug: "taipei-montessori-schools-guide"
@@ -20,6 +21,8 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 
 heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 ---
+*本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
+
 
 那天在一個親子社群裡，有媽媽問了一個問題，底下有 60 幾個人回應：「台灣有沒有真正的蒙特梭利學校？不是掛名的那種。」
 

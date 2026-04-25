@@ -1,6 +1,7 @@
+---
 title: "Child Development Milestones: The Complete Guide (0–6 Years)"
 description: "A comprehensive, evidence-based guide to child development milestones from birth to age 6 — what's typical, what's a variation, and what genuinely warrants a call to your pediatrician."
-pubDate: 2026-04-01
+pubDate: "2026-04-01"
 lang: en
 tags: ["child development milestones", "baby milestones", "toddler milestones", "developmental milestones by age", "when to worry about child development", "speech milestones", "motor development baby"]
 ageGroup: ["infant", "toddler", "preschool"]

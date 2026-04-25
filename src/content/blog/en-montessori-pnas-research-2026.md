@@ -1,3 +1,4 @@
+---
 title: "Does Montessori Actually Work? A Landmark Study Just Settled the Debate."
 description: "The first national randomized controlled trial of public Montessori preschool found stronger reading, executive function, and social skills — at $13,127 less per child. Here's what every parent needs to know."
 pubDate: 2026-04-03
@@ -13,6 +14,8 @@ heroImage: "/og/en-montessori-pnas-research-2026.png"
 
 heroImage: "/og/en-montessori-pnas-research-2026.png"
 ---
+*This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
+
 
 **TL;DR:** The first-ever national randomized controlled trial of public Montessori preschool (PNAS, 2025) tracked 588 children across 24 programs and found Montessori students significantly outperformed peers in reading, executive function, short-term memory, and [Montessori SEL and CASEL skills](/en/blog/montessori-sel-casel-skills-en) understanding -- at $13,127 less per child. Benefits grew over time rather than fading. You don't need private school: four Montessori principles can be applied [Montessori at home](/en/blog/montessori-at-home-guide-en) starting tonight.
 

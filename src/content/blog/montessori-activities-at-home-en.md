@@ -1,3 +1,4 @@
+---
 title: "10 Montessori Activities You Can Do Today With Things Already in Your Home"
 description: "Ten Montessori-inspired activities using everyday household items — no special materials, organized by age group, with the developmental benefit of each."
 pubDate: 2026-04-08
@@ -17,6 +18,8 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 
 heroImage: "/og/montessori-activities-at-home-en.png"
 ---
+*This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
+
 
 Every few months, a well-meaning relative will send a link to a gorgeous Montessori shelf set — pink tower, tan stairs, the whole polished-wood spread. It costs upward of $200 and ships in six to eight weeks. Those materials are beautifully designed. But here is the uncomfortable truth that Maria Montessori herself understood: a pouring station made from two mismatched kitchen cups and a cup of dried lentils will do more for your fourteen-month-old's development than almost anything you could buy.
 

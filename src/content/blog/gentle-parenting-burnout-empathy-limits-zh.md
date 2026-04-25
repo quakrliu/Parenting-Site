@@ -1,3 +1,4 @@
+---
 title: "正向教養讓你累垮了嗎？邊界感才是真正的關鍵"
 description: "正向教養說要同理孩子，但很多爸媽照做之後只剩下累。問題不在同理心，而在邊界感。育見未來 BloomPath 帶你看懂這件事的科學。"
 pubDate: "2026-04-24"
@@ -16,6 +17,8 @@ heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 
 heroImage: "/og/gentle-parenting-burnout-empathy-limits-zh.png"
 ---
+*本文為[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)系列文章。*
+
 
 我當爸之前以為自己很有耐心。結果第一次帶女兒小諾去幼兒園接送，她在停車場賴在地上不肯走，我才發現我根本不知道該怎麼辦。
 

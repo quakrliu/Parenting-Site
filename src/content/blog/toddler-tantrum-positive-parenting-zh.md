@@ -1,3 +1,4 @@
+---
 title: "孩子發脾氣、大哭大鬧？3 個正向教養步驟立刻化解情緒風暴"
 description: "當寶貝在超市倒地大哭、回家路上崩潰發脾氣，你到底該怎麼辦？3 步驟情緒急救法，從腦科學出發，用正向教養化解幼兒情緒風暴。"
 pubDate: "2026-04-11"
@@ -20,6 +21,8 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 ---
+*本文為[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)系列文章。*
+
 
 **TL;DR：** [幼兒睡眠退化指南](/en/blog/toddler-sleep-regression-guide-en)是大腦發育中的正常現象，不是「壞孩子」的標誌。3 個正向教養步驟：① 先讓自己冷靜 → ② 命名情緒，給孩子安全感 → ③ 設立界線，不妥協但有溫度。3 歲前是情緒神經迴路建立的黃金期，這段時間你的反應方式會影響孩子一生的情緒調節能力。
 

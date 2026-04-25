@@ -1,3 +1,4 @@
+---
 title: "Is Gentle Parenting Dead? What Montessori Says About Boundaries and Warmth"
 description: "Gentle parenting isn't dead — but the TikTok version might be. Learn what Montessori always knew: real respectful parenting means warmth AND confident limits. Authoritative 2.0 explained."
 pubDate: 2026-04-01
@@ -18,6 +19,8 @@ heroImage: "/og/en-gentle-parenting-montessori-boundaries.png"
 
 heroImage: "/og/en-gentle-parenting-montessori-boundaries.png"
 ---
+*This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
+
 
 Before I became a dad, I thought I was a patient person.
 

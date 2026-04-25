@@ -1,7 +1,8 @@
+---
 title: "Teen Mental Health in 2026: Warning Signs Every Parent Should Know"
 description: "30% of high school students feel persistently hopeless, yet 60% receive no treatment. Learn to distinguish normal teen behavior from real warning signs — plus conversation scripts that actually work. Updated March 2026."
-pubDate: 2026-04-01
-updatedDate: 2026-04-01
+pubDate: "2026-04-01"
+updatedDate: "2026-04-01"
 tags: ["teen mental health", "parenting teenagers", "teen anxiety signs", "teen depression warning signs", "how to help a depressed teenager"]
 slug: "teen-mental-health-warning-signs-2026"
 author: "Ethan Moore"

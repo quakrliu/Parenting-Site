@@ -1,3 +1,4 @@
+---
 title: "Montessori at Home: The Complete Guide (0–6 Years)"
 description: "A comprehensive, research-backed guide to implementing Montessori at home — room-by-room setup, age-by-age activities, core principles, and the mistakes most parents make."
 pubDate: 2026-04-01

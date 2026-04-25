@@ -1,3 +1,4 @@
+---
 title: "孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援指南"
 description: "當孩子第 50 次說「我好無聊」——一位工程師爸爸用蒙特梭利「準備好的環境」概念，分享 5 個今天就能做的小改變，解放家長，不當 24 小時娛樂員。"
 pubDate: 2026-04-21
@@ -21,6 +22,8 @@ heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 
 heroImage: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 ---
+*本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
+
 
 ## TL;DR
 

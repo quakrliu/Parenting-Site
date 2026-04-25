@@ -1,3 +1,4 @@
+---
 title: "Children's Internet Safety in 2026: AI Toys, New Laws, and What Actually Works"
 description: "A research-backed guide for parents navigating AI toy risks, the KOSA Act, Australia's social media ban, and practical tools like Google Family Link and Apple Screen Time."
 pubDate: 2026-04-07
@@ -21,6 +22,8 @@ By the end of this guide, you'll know:
 
 heroImage: "/og/children-internet-safety-2026-en.png"
 ---
+*This article is part of our [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide-en).*
+
 
 Something shifted in 2026. Child internet safety moved from "nice to have" to an urgent policy conversation happening in legislatures on three continents — while the toys sitting on your child's shelf began collecting data in ways most parents don't realize.
 

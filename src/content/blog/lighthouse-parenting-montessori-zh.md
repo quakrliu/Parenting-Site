@@ -1,3 +1,4 @@
+---
 title: "燈塔式育兒：讓孩子有根、也有翅膀——蒙特梭利爸媽早就這樣做了"
 description: "燈塔式育兒（Lighthouse Parenting）是什麼？Dr. Kenneth Ginsburg 的 7 個 C 如何幫台灣父母培養有韌性的孩子？一個工程師爸爸從直升機父母到燈塔父母的真實轉變。"
 pubDate: "2026-04-17"
@@ -20,6 +21,8 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 
 heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 ---
+*本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
+
 
 **TL;DR**
 

@@ -1,3 +1,4 @@
+---
 title: "孩子沉迷螢幕，可能是你的手機造成的？2026 研究揭露驚人鏈結"
 description: "Frontiers in Psychology 最新研究：925 名家長確認，爸媽的低頭習慣透過激化親子衝突，是幼兒螢幕成癮的主要原因之一。5 個正向教養方法，今天就能打破惡性循環。"
 pubDate: "2026-04-10"
@@ -20,6 +21,8 @@ heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 
 heroImage: "/og/parental-phubbing-child-screen-addiction-zh.png"
 ---
+*本文為[AAP 2026 螢幕時間完整指南](/zh/blog/aap-screen-time-guidelines-2026)系列文章。*
+
 
 **TL;DR**
 - 2026 年 Frontiers in Psychology 研究（925 名家長）確認：育兒壓力 → 父母低頭 → 親子衝突 → 幼兒螢幕成癮，是一條完整的因果鏈。

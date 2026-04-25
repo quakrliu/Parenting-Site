@@ -1,7 +1,8 @@
+---
 title: "2026 嬰兒配方奶粉召回緊急指南：ByHeart、Enfamil、歐洲品牌全面解析"
 description: "2026年Q1發生多起重大嬰兒奶粉召回事件，包括ByHeart肉毒桿菌爆發、歐洲Nestlé SMA及Danone Aptamil毒素召回、Enfamil Nutramigen自願召回。台灣爸媽必讀完整安全指南。"
-pubDate: 2026-03-31
-updatedDate: 2026-03-31
+pubDate: "2026-03-31"
+updatedDate: "2026-03-31"
 author: "Ethan Moore"
 tags: ["嬰兒奶粉召回2026", "ByHeart奶粉安全", "嬰兒配方奶粉安全指南", "配方奶", "嬰兒安全"]
 image: "/images/baby-formula-recall-2026.jpg"

@@ -1,3 +1,4 @@
+---
 title: "幼兒螢幕時間新規：AAP 2026 取消 2 小時上限，台灣爸媽的 5C 實踐指南"
 description: "AAP 2026 年 2 月發布新政策，取消每天 2 小時螢幕時間上限，改用 5C 框架。台灣爸媽怎麼在地套用？附蒙特梭利對照表與研究實證。"
 pubDate: 2026-04-21
@@ -17,6 +18,8 @@ AAP（美國兒科醫學會）2026 年 2 月剛發布新政策，把過去十年
 
 heroImage: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 ---
+*本文為[AAP 2026 螢幕時間完整指南](/zh/blog/aap-screen-time-guidelines-2026)系列文章。*
+
 
 ## 重點整理（TL;DR）
 

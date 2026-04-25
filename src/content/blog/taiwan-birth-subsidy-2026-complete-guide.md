@@ -1,7 +1,8 @@
+---
 title: "台灣 2026 生育補助完整攻略：NT$100,000 怎麼領？各縣市加碼一次看"
 description: "2026年1月起台灣每位新生兒可領NT$100,000生育給付，雙胞胎NT$200,000。本文整理中央補助申請步驟、各縣市加碼金額、所需文件，讓你一篇搞定！"
-pubDate: 2026-03-31
-updatedDate: 2026-03-31
+pubDate: "2026-03-31"
+updatedDate: "2026-03-31"
 author: "Ethan Moore"
 tags: ["台灣生育補助2026", "生育津貼怎麼領", "各縣市生育補助", "100000生育給付", "新手父母"]
 image: "/images/taiwan-birth-subsidy-2026.jpg"

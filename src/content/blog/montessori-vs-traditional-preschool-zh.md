@@ -1,3 +1,4 @@
+---
 title: "蒙特梭利 vs 傳統幼兒園：科學終於給出答案了（PNAS 最新研究）"
 description: "2025 年全球最大規模蒙特梭利 RCT 研究揭密：近 600 個孩子的實驗數據，告訴台灣爸媽蒙特梭利幼兒園到底值不值得。"
 pubDate: 2026-04-01
@@ -21,6 +22,8 @@ heroImage: "/og/montessori-vs-traditional-preschool-zh.png"
 
 heroImage: "/og/montessori-vs-traditional-preschool-zh.png"
 ---
+*本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
+
 
 寶貝快三歲了，你是不是也開始在「蒙特梭利幼兒園」和「一般幼兒園」之間反覆拉鋸？
 

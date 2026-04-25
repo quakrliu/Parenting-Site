@@ -1,3 +1,4 @@
+---
 title: "溫和教養不夠用？2026 台灣爸媽都在用「混合式教養」"
 description: "溫和教養的缺點是什麼？2026 年最夯的混合式教養，結合同理心與清晰界限，比純溫和教養更有效。工程師爸爸的真實心得。"
 slug: hybrid-parenting-2026-gentle-parenting-zh
@@ -123,6 +124,8 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 heroImage: "/og/hybrid-parenting-2026-zh.png"
 ---
+*本文為[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)系列文章。*
+
 
 ## 重點整理
 

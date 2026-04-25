@@ -1,3 +1,4 @@
+---
 title: "爸爸的角色有多重要？父親參與育兒的科學實證"
 description: "研究一再證明：爸爸參與育兒，不只是媽媽的幫手，更是孩子發展的獨特催化劑。本文帶你看最新科學怎麼說，以及台灣爸爸能從哪裡開始。"
 pubDate: 2026-03-31
@@ -20,6 +21,8 @@ heroImage: "/og/daddy-role-in-parenting-zh.png"
 
 heroImage: "/og/daddy-role-in-parenting-zh.png"
 ---
+*本文為[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)系列文章。*
+
 
 上個月，一位朋友傳訊息給我：「我老公說帶小孩是媽媽的事，爸爸賺錢就好了。我不知道怎麼跟他說才有說服力。」
 

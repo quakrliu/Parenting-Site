@@ -1,3 +1,4 @@
+---
 title: "4 Year Old Power Struggles: 5 Science-Backed Strategies That Actually Work"
 description: "Your 4-year-old isn't broken -- their brain is. Developmental science behind power struggles, plus 5 dad-tested strategies to stop the daily standoffs."
 pubDate: "2026-04-23"
@@ -16,6 +17,8 @@ heroImage: "/og/4-year-old-power-struggles-en.png"
 
 heroImage: "/og/4-year-old-power-struggles-en.png"
 ---
+*This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
+
 Last Tuesday morning, my daughter stood in the kitchen doorway, arms crossed, wearing one blue rain boot and one princess sneaker, telling me she was "absolutely not" putting on her other shoe because "the shoe did not fit right" -- despite having worn that exact shoe thirty times without complaint.
 
 I am Ethan, dad to a 4-year-old who has turned daily logistics into a full negotiation process. I am also the guy who used to think he was patient before he had kids. Before I discovered [positive parenting strategies](/en/blog/positive-parenting-guide-en) and started actually understanding what was happening in my daughter's brain, I was losing these standoffs every morning and wondering what I was doing wrong.

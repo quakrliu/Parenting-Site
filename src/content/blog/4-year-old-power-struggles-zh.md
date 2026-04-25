@@ -1,3 +1,4 @@
+---
 title: "4歲為什麼總是跟你對著幹？發展心理學這樣解釋，正向教養這樣化解"
 description: "4歲孩子對著幹不是故意作對，是大腦在發育。這篇文章從發展心理學角度解釋為什麼，再給你5個台灣爸媽都能用的正向教養策略。"
 pubDate: "2026-04-23"
@@ -16,6 +17,8 @@ heroImage: "/og/4-year-old-power-struggles-zh.png"
 
 heroImage: "/og/4-year-old-power-struggles-zh.png"
 ---
+*本文為[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)系列文章。*
+
 上週五早上，我女兒在客廳門口站定，雙手交叉抱胸，跟我說她「不要」穿那雙白色球鞋，因為「感覺怪怪的」。
 
 我忍住沒翻白眼。那雙鞋她上週穿了四次，都沒問題。

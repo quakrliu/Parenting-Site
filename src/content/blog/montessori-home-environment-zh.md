@@ -1,3 +1,4 @@
+---
 title: "蒙特梭利居家環境布置完整攻略：各房間設計＋IKEA 改造＋小坪數解法"
 description: "從嬰兒房到廚房，從全新購置到 IKEA 改造，這份指南告訴你如何在台灣的家打造真正能運作的蒙特梭利環境——不需要大坪數，不需要全面裝修。"
 pubDate: 2026-04-01
@@ -24,6 +25,8 @@ heroImage: "/og/montessori-home-environment-zh.png"
 
 heroImage: "/og/montessori-home-environment-zh.png"
 ---
+*本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
+
 
 ## 重點整理
 

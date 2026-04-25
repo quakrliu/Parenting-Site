@@ -1,3 +1,4 @@
+---
 title: "Keep the Bedtime Story: How 14 Nights of Reading Boosts Empathy and Creativity"
 description: "A 2026 University of Virginia RCT found that just 2 weeks of nightly bedtime reading significantly boosted empathy and creativity in kids ages 6-8. Here's what tired parents actually need to know."
 pubDate: "2026-04-11"

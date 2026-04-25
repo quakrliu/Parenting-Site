@@ -1,3 +1,4 @@
+---
 title: "Screen Time in 2026: Why the 2-Hour Rule No Longer Applies to Your School-Age Child"
 description: "The AAP officially retired the 2-hour daily screen time limit in January 2026. Here's what replaced it — and what it means for parents of children ages 6–12."
 pubDate: 2026-03-31
@@ -14,6 +15,8 @@ heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
 
 heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
 ---
+*This article is part of our [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide-en).*
+
 
 For years, the rule felt simple enough to put on the refrigerator: **two hours a day**. Set a timer, stick to it, feel like a competent parent.
 

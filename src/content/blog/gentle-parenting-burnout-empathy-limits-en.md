@@ -1,3 +1,4 @@
+---
 title: "Gentle Parenting Burned You Out? Here's the Science of Empathy + Limits"
 description: "Gentle parenting burnout is real. Here's how Dr. Becky Kennedy's Sturdy framework combines empathy and firm limits — without losing yourself."
 pubDate: "2026-04-24"
@@ -16,6 +17,8 @@ heroImage: "/og/gentle-parenting-burnout-empathy-limits-en.png"
 
 heroImage: "/og/gentle-parenting-burnout-empathy-limits-en.png"
 ---
+*This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
+
 
 Last Tuesday in our Bali co-working space, I watched my daughter Nora — three years old, fully feral by 5pm — lose her mind because I cut her toast the wrong way. Wrong shape. Catastrophic. She threw the toast. I stood there holding the triangle piece, wondering if I was supposed to validate that.
 

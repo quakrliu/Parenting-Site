@@ -1,7 +1,8 @@
+---
 title: "April Is Child Abuse Prevention Month: What Research Says Parents Can Actually Do"
 description: "Beyond awareness: evidence-based strategies parents can use to build body safety knowledge, recognize warning signs, and create the family environment that actually protects children."
-pubDate: 2026-04-01
-updatedDate: 2026-03-31
+pubDate: "2026-04-01"
+updatedDate: "2026-03-31"
 tags: ["child safety", "child abuse prevention", "body safety", "parenting", "April"]
 lang: "en"
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]

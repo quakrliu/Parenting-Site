@@ -1,3 +1,4 @@
+---
 title: "Cycle-Breaking Parenting: The Gen Z Guide to Healing Generational Trauma"
 description: "37% of parents are now focused on breaking generational cycles. Here's what that actually looks like on a Tuesday when you've already yelled twice before breakfast."
 pubDate: "2026-04-07"
@@ -13,6 +14,8 @@ heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 
 heroImage: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 ---
+*This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
+
 
 Before I became a dad, I thought I was different from my own father.
 

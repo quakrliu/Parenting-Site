@@ -1,3 +1,4 @@
+---
 title: "Montessori vs Traditional Preschool: What the Largest Study Ever Finally Proves"
 description: "A landmark 2025 PNAS study tracked 588 children across 24 public Montessori schools. The results will change how you think about preschool — and they might surprise you."
 pubDate: 2026-04-01
@@ -21,6 +22,8 @@ By the end of this guide, you'll know:
 
 heroImage: "/og/montessori-vs-traditional-preschool-en.png"
 ---
+*This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
+
 
 Here's the question every parent eventually faces: your child is turning three, and you're staring down two very different paths.
 

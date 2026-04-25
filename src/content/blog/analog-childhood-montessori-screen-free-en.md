@@ -1,3 +1,4 @@
+---
 title: "The Analog Childhood Movement: Why Montessori Parents Are Already Ahead of the Curve"
 description: "Pinterest says screen-free searches jumped 200% in 2026. Montessori parents aren't surprised. Here's why the oldest hands-on education method is suddenly the trendiest — and 5 activities to start this weekend."
 pubDate: "2026-04-05"
@@ -13,6 +14,8 @@ heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
 
 heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
 ---
+*This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
+
 
 Before I became a dad, I thought I had a healthy relationship with screens. One phone, moderate use, nothing excessive. Then my daughter turned two and I caught myself handing her the iPad at 7 a.m. because I needed five more minutes of coffee and silence.
 

@@ -1,3 +1,4 @@
+---
 title: "Australia Just Banned Social Media for Under-16s: What Parents Should Know"
 slug: australia-teen-social-media-ban-parents-guide
 lang: en
@@ -18,6 +19,8 @@ heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
 
 heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
 ---
+*This article is part of our [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide-en).*
+
 
 Before I had kids, I thought I was a pretty patient person. Then my daughter turned 12, got a phone, and I watched her disappear into a screen for four hours straight while I stood in the doorway trying to figure out if I was being a controlling parent or a neglectful one.
 

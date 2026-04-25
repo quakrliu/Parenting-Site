@@ -1,3 +1,4 @@
+---
 title: "Why Your Toddler Won't Sleep (Again): The Brain Science Behind Sleep Regression"
 description: "Your toddler was sleeping great. Then suddenly—2am screaming, refusing naps, bedtime battles. Here's the real reason why, and 5 strategies that actually help tonight."
 pubDate: "2026-04-11"

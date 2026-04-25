@@ -1,6 +1,7 @@
+---
 title: "Baby & Kids Product Reviews: How We Test & Our Criteria"
 description: "How BloomPath evaluates baby and children's products — our testing criteria, what we actually look for, red flags we watch for, and category-by-category top picks for Montessori-aligned families."
-pubDate: 2026-04-01
+pubDate: "2026-04-01"
 lang: en
 tags: ["baby product reviews", "best baby toys", "montessori toys review", "baby gear reviews", "toddler product reviews", "how to choose baby toys", "best montessori toys", "baby product buying guide"]
 ageGroup: ["infant", "toddler"]

@@ -1,3 +1,4 @@
+---
 title: "2026 台北蒙特梭利學校完整指南：TMIS、T.I.M.E.S、Y2MAC 選校攻略＋費用比較"
 description: "台北有哪些蒙特梭利學校？TMIS、T.I.M.E.S、Y2MAC 特色、費用、適合年齡完整比較。2026 最新整理，幫助台灣爸媽做出最適合孩子的選校決定。"
 pubDate: 2026-04-01
@@ -22,6 +23,8 @@ heroImage: "/og/taipei-montessori-schools-2026-zh.png"
 
 heroImage: "/og/taipei-montessori-schools-2026-zh.png"
 ---
+*本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
+
 
 說真的，第一次聽到「蒙特梭利」，大多數台灣爸媽的反應都差不多：好像很厲害，但到底是什麼？費用很高嗎？孩子適合嗎？台北到底有哪幾間？
 

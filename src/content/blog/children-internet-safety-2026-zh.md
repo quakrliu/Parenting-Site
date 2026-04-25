@@ -1,3 +1,4 @@
+---
 title: "2026年兒童網路安全完整指南：AI玩具、國際新法與台灣爸媽實戰設定"
 description: "AI玩具洩漏寶貝個資、澳洲禁止16歲以下用社群媒體、美國通過新法……2026年數位育兒進入新紀元。台灣爸媽現在該怎麼做？"
 pubDate: 2026-04-07
@@ -21,6 +22,8 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 
 heroImage: "/og/children-internet-safety-2026-zh.png"
 ---
+*本文為[AAP 2026 螢幕時間完整指南](/zh/blog/aap-screen-time-guidelines-2026)系列文章。*
+
 
 上個月一個媽媽朋友傳訊息給我，說她幫兒子買的AI互動玩具「講了一些奇怪的話」——她試著問玩具怎麼找火柴，玩具真的說了。
 

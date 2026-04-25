@@ -1,3 +1,4 @@
+---
 title: "Lovevery Play Kits for 4-Year-Olds: An Honest Review from a Dad Who Bought All Four"
 description: "Lovevery launched 4 new play kits for 4-year-olds in 2026, each targeting a distinct executive function skill. Here's an honest review of all four — the science, the price, and whether they're actually worth $120."
 pubDate: "2026-04-09"
@@ -13,6 +14,8 @@ heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 
 heroImage: "/og/lovevery-4-year-old-play-kits-review-en.png"
 ---
+*This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
+
 
 **TL;DR:** Lovevery's 2026 four-kit series for ages 4-5 (The Connector, The Examiner, The Persister, The Planner) each targets a specific executive function skill in three-month developmental windows. At $120 per kit, they're research-backed and well-designed. Executive function at age 4 predicts academic success better than IQ. Best kit: The Persister for frustration tolerance. Skip if: your child already has rich open-ended play materials, or if cost is a stretch -- unit blocks plus household items build similar skills.
 

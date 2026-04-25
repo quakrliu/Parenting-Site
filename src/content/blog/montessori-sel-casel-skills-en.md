@@ -1,3 +1,4 @@
+---
 title: "Montessori Was Doing SEL Before It Had a Name: How the Method Builds All 5 CASEL Skills"
 description: "Your child's school is suddenly talking about SEL. Here's what it actually means — and why Montessori classrooms have been doing it for 100 years without the acronym."
 pubDate: "2026-04-18"
@@ -13,6 +14,8 @@ heroImage: "/og/montessori-sel-casel-skills-en.png"
 
 heroImage: "/og/montessori-sel-casel-skills-en.png"
 ---
+*This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
+
 
 **TL;DR:** CASEL [PNAS study findings](/en/blog/montessori-preschool-evidence-pnas-study-2026) shows SEL programs generate $11 in returns for every $1 invested. Montessori has been building these exact skills for over a century — without the acronym. Children who miss SEL development during the critical 3-6 window face significantly harder catch-up later. This article maps Montessori to the 5 CASEL competencies and gives you 5 ways to start at home today.
 
