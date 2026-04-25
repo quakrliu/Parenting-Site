@@ -29,7 +29,13 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
 
     <nav class="main-nav" aria-label="Main navigation">
       <a href={localePath('/blog', lang)}>{t('nav.articles')}</a>
-      <a href={`${localePath('/', lang)}#categories`}>{t('nav.topics')}</a>
+      <div class="nav-dropdown">
+        <a href={localePath('/topics/montessori', lang)} class="nav-dropdown-trigger">{t('nav.topics')}</a>
+        <div class="nav-dropdown-menu">
+          <a href={localePath('/topics/montessori', lang)}>Montessori</a>
+          <a href={localePath('/topics/positive-parenting', lang)}>{lang === 'zh' ? '正向教養' : 'Positive Parenting'}</a>
+        </div>
+      </div>
       <a href={localePath('/tools/milestone-checker', lang)}>{t('nav.tools')}</a>
       <a href={`${localePath('/', lang)}#about`}>{t('nav.about')}</a>
       <a href={altPath} class="lang-switch" aria-label={`Switch to ${languages[altLang]}`}>{languages[altLang]}</a>
@@ -142,6 +148,43 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
 
   .main-nav a:hover { color: var(--color-forest); }
   .main-nav a:hover::after { width: 100%; }
+
+  .nav-dropdown {
+    position: relative;
+  }
+  .nav-dropdown-trigger {
+    cursor: pointer;
+  }
+  .nav-dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    border: 1px solid rgba(141, 155, 142, 0.15);
+    border-radius: 8px;
+    padding: 0.5rem 0;
+    min-width: 180px;
+    box-shadow: 0 8px 30px -10px rgba(0,0,0,0.1);
+    z-index: 100;
+  }
+  .nav-dropdown:hover .nav-dropdown-menu {
+    display: block;
+  }
+  .nav-dropdown-menu a {
+    display: block;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  .nav-dropdown-menu a:hover {
+    background: rgba(141, 155, 142, 0.06);
+    color: var(--color-forest);
+  }
+  .nav-dropdown-menu a::after {
+    display: none;
+  }
 
   .lang-switch {
     font-size: 0.8125rem;
