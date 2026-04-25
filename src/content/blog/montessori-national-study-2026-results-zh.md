@@ -7,7 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 ageGroup: ["toddler", "preschool"]
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+image: "/og/montessori-national-study-2026-results-zh.png"
 ---
 <script type=application/ld+json>
 {@context:https://schema.org,@type:FAQPage,mainEntity:[{@type:Question,name:蒙特梭利幼兒園真的比傳統幼兒園好嗎？,acceptedAnswer:{@type:Answer,text:2025年美國頂尖期刊《PNAS》發表的首個全國性隨機對照試驗顯示，公立蒙特梭利幼兒園的孩子在閱讀、執行功能、短期記憶和社會理解四項指標上，到幼兒園結束時都顯著優於對照組，且效果隨時間增強，不像其他學前教育常見的效果消退現象。}},{@type:Question,name:蒙特梭利教育為什麼比其他學前教育便宜？,acceptedAnswer:{@type:Answer,text:三年公立蒙特梭利比傳統學前班每個孩子省下約13,127美元（約台幣40萬）。主要原因是較高的師生比——蒙特梭利混齡教室中，大孩子幫助小孩子，且孩子能長時間獨立工作，降低了對師資的需求。}},{@type:Question,name:蒙特梭利的效果為什麼不會隨時間消退？,acceptedAnswer:{@type:Answer,text:研究發現蒙特梭利的效果隨時間累積增強，不像其他學前教育常出現的效果消退。可能原因是蒙特梭利培養的是內在動機和自主學習能力，而不是靠外在獎勵維持的表現，這些技能具有可轉移性。}},{@type:Question,name:台灣沒有公立蒙特梭利幼兒園怎麼辦？,acceptedAnswer:{@type:Answer,text:蒙特梭利的核心原則在家就能實踐：跟著孩子的興趣走、給真實可用的工具、建立可預測的秩序環境、允許不被打斷的專注時間、限制被動螢幕時間。這些原則不需要昂貴的教具或特定學校。}},{@type:Question,name:怎麼判斷一間蒙特梭利學校是真正的蒙特梭利？,acceptedAnswer:{@type:Answer,text:關鍵指標：AMI或AMS認證、混齡教室（3-6歲）、三小時以上不被打斷的工作時間、受過正式培訓的老師、孩子可以自由選擇工作內容。台灣可以詢問老師是否持有AMI或AMS認證證書。}}]}
@@ -26,7 +26,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 
 答案很明確。而且不只是「有效」——是又有效又便宜。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 *本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
 
@@ -40,7 +40,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 - 三年公立蒙特梭利花費比傳統學前班**每個孩子省下 $13,127 美元**（約台幣 40 萬）
 - 低收入家庭的孩子受益最大
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 目錄
@@ -54,7 +54,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 7. [常見問題 FAQ](#faq)
 8. [參考資料](#sources)
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 為什麼這個研究比以前的更有說服力 {#why-matters}
@@ -79,7 +79,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 
 這被描述為「迄今為止規模最大、最全面的蒙特梭利研究，不論公立或私立」。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 到底測了什麼？結果如何？ {#what-they-found}
@@ -104,7 +104,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 
 這可能是最有趣的發現：蒙特梭利的孩子在理解他人想法和感受的能力上表現更強。蒙特梭利教室使用**混齡編組**（通常 3-6 歲混在一起），大的孩子會帶小的，小的觀察大的——這不只是「可愛」，這在建構同理心、合作能力和衝突解決的認知基礎。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 別的學前班效果會消退，蒙特梭利為什麼不會？ {#fadeout}
@@ -123,7 +123,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 - **混齡教室**讓孩子在同一個環境待三年，跟同一個老師建立深厚關係，有連續性。
 - **自主學習**建立的是可轉移的技能——計畫、堅持、自我調節——而不是可以在幼兒園重新教一遍的知識內容。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 而且還更便宜？ {#cheaper}
@@ -142,7 +142,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 
 效果更好，花費更少。這種結果很難被忽視。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 台灣爸媽可以怎麼用這個研究 {#for-tw-parents}
@@ -174,7 +174,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 
 不管你最後選了什麼學校，這個研究最重要的啟示是：**讓孩子主動、動手做、有選擇權的環境，比老師在前面一直講的環境，對孩子的發展更好。** 這個原則在哪裡都適用。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 研究的限制（誠實講） {#limitations}
@@ -187,7 +187,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 - **還需要長期追蹤。** 研究只追蹤到幼兒園結束。這些優勢能不能維持到小學、國中，還需要時間來驗證。
 - **樣本數是 588 個孩子。** 對於這種類型的研究來說已經算大了，但更大規模的複製研究會讓結論更穩固。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 常見問題 FAQ {#faq}
@@ -212,7 +212,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 
 看是否有 **AMI**（國際蒙特梭利協會）或 **AMS**（美國蒙特梭利學會）認證。關鍵指標包括：混齡教室、三小時不被打斷的工作時間、受過正式蒙特梭利培訓的老師、以及使用標準蒙特梭利教具的自主活動。在台灣，也可以看老師是否持有 AMI 或 AMS 證書。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 參考資料 {#sources}
@@ -222,10 +222,10 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 - [Massive national study shows public Montessori improves outcomes, reduces costs](https://www.montessoripublic.org/2025/10/massive-national-study-shows-public-montessori-improves-outcomes-reduces-costs/) — MontessoriPublic
 - [UVA-led national study finds Montessori preschool boosts learning, cuts costs](https://news.virginia.edu/content/uva-led-national-study-finds-montessori-preschool-boosts-learning-cuts-costs) — UVA News
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 ## 用 BloomPath 追蹤蒙特梭利啟發的每日活動
@@ -236,7 +236,7 @@ heroImage: "/og/montessori-national-study-2026-results-zh.png"
 
 在 [BloomPath](https://bloom-path.app) 了解更多。
 
-heroImage: "/og/montessori-national-study-2026-results-zh.png"
+
 ---
 
 *本文僅供資訊參考，不構成教育建議。每個孩子都不同，最好的教育選擇取決於你的家庭狀況、孩子的個性，以及你所在地區可用學校的品質。*

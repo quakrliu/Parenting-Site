@@ -7,12 +7,12 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 ageGroup: ["infant", "toddler", "preschool"]
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+image: "/og/analog-childhood-montessori-screen-free-en.png"
 ---
 
 **TL;DR:** The "analog childhood" movement — prioritizing hands-on, screen-free play — surged in 2026 with Pinterest reporting 200%+ growth in "screen-free activities" searches. [Montessori at home](/en/blog/montessori-at-home-guide-en) parents have been doing this for over a century. A 2025 PNAS randomized controlled trial found Montessori preschoolers significantly outperformed peers in executive function, reading, and social development. You don't need expensive materials: 5 activities using household items can build the same skills. The goal isn't a screen-free house — it's a ratio that serves your child's development.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 *This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
@@ -23,7 +23,7 @@ It worked. Beautifully. Terrifyingly.
 
 That was when I started paying attention to the ratio.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 ## The Pinterest Data That Started a Conversation
@@ -40,7 +40,7 @@ It's the idea — backed by a growing cultural movement and, increasingly, peer-
 
 The irony is that Montessori educators have been saying this for over a hundred years. The rest of the parenting world just caught up.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 ## Why Montessori Was Already There
@@ -58,7 +58,7 @@ Montessori didn't set out to make "screen-free" content. Screens didn't exist. B
 
 The 2026 Pinterest trend isn't new. It's rediscovery.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 ## What the Research Actually Says
@@ -83,7 +83,7 @@ I was in that 66%. I was in that 66% this week.
 
 This is not a guilt piece. It is a math problem. The question is never *whether* you use screens — it's whether the ratio is working in your child's favor.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 ## 5 Analog Activities That Build What Montessori Materials Build
@@ -130,7 +130,7 @@ Folding dish towels. Sweeping with a child-sized broom. Setting the table. Water
 
 My daughter became completely absorbed by folding towels at age three. I did not understand why she would do this for 20 minutes when she usually couldn't sit still for two. Then I read Montessori: she was exercising *genuine agency* over a real task in the real world. That drive is built-in to every child. We mostly just need to get out of the way.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 ## How to Start Without Overhauling Your House
@@ -147,7 +147,7 @@ The Montessori principle of the **prepared environment** doesn't mean minimalist
 
 If you want to track whether your child is hitting key developmental milestones alongside the activities you're introducing, **[BloomPath](https://bloompath.quakr.dev)** covers 224 developmental skill indicators across 8 domains, with daily Montessori-inspired activity suggestions matched to your child's current stage. Useful if you're the kind of parent (I am) who wants a progress signal next to the chaos.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 ## The Part I'm Going to Be Honest About
@@ -164,7 +164,7 @@ The goal is not a screen-free house. The goal is a ratio that serves your child'
 
 You're reading this. That means you're already paying attention to the ratio. That already makes you the kind of parent this is written for.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 ## FAQ: Analog Childhood + Montessori at Home
@@ -193,7 +193,7 @@ The American Academy of Pediatrics and the World Health Organization recommend n
 ### Do I need to buy expensive Montessori materials? {#faq-montessori-cost}
 No. Research consistently shows that open-ended, natural materials — wooden blocks, household objects, outdoor natural items — produce the same developmental benefits as specialized Montessori equipment. The developmental value comes from the child's interaction and problem-solving, not the price point of the toy.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 *Last updated: April 2026*
@@ -204,12 +204,12 @@ heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
 - Lillard et al. (2025). National RCT of public Montessori preschool. *PNAS*: [pnas.org](https://www.pnas.org/doi/10.1073/pnas.2506130122)
 - AAP screen time guidelines: [healthychildren.org](https://www.healthychildren.org/)
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 *明天繼續：[How to Talk to Your Kids About Why We're Doing Less Screen Time](/blog/talking-to-kids-about-screen-time-en)*
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 ## Products We Recommend
@@ -219,7 +219,7 @@ heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
 - [**Simplicity Parenting** by Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — The book that made me actually reduce the toys and screens in our house. Practical and evidence-backed.
 - [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — The hands-on alternative to passive screen time -- age-appropriate activities that build real skills.
 
-heroImage: "/og/analog-childhood-montessori-screen-free-en.png"
+
 ---
 
 **Related Reading:**

@@ -6,7 +6,7 @@ tags: ["非結構遊戲", "蒙特梭利", "幼兒發展", "才藝班", "自由�
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
-heroImage: "/og/unstructured-play-benefits-zh.png"
+image: "/og/unstructured-play-benefits-zh.png"
 ---
 
 上週我帶女兒去公園，她在沙坑裡待了將近一個小時，什麼事都沒做——就是在把沙子裝進桶子裡、倒掉、再裝進去。
@@ -15,13 +15,13 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 
 然後我想起了哈佛醫學院的研究。
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 **TL;DR**
 非結構遊戲（讓孩子自己決定怎麼玩）是目前最有研究支撐的兒童[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)工具之一。哈佛研究指出它能強化大腦前額葉、提升執行功能；兒福聯盟2026年兒童節主題更明確說：「好好玩耍是讓孩子[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)的超能力。」才藝班不是壞事，但如果一週七天都被安排滿了，孩子失去的東西可能比得到的更多。
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 目錄
@@ -35,7 +35,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 - [不讓孩子玩的代價：一個大家都不說的數字](#cost)
 - [常見問題：孩子說無聊怎麼辦？](#faq)
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 什麼是非結構遊戲？一個工程師爸爸的理解 {#what-is}
@@ -52,7 +52,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 
 但科學家說，**正是因為沒有目標，孩子的大腦才能做最深層的工作。**
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 哈佛怎麼說：非結構遊戲的5大發展益處 {#benefits}
@@ -95,7 +95,7 @@ Road to Mental Wellness 的 2026 年研究也確認：非結構遊戲在社交�
 
 現代孩子的行程越來越滿、壓力越來越大。**給孩子「無聊」的時間，不是浪費，是心理健康的必需品。**
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## ⏳ 3歲前的視窗：你現在做的事，孩子記一輩子 {#window}
@@ -108,7 +108,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 
 換句話說：**你女兒在沙坑裡「浪費」的那一小時，可能比任何結構性課程更重要。**
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 台灣的才藝班文化 vs 研究怎麼說 {#taiwan-context}
@@ -139,7 +139,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 
 **你現在的「非結構遊戲比例」是：_____ 小時/週**（寫在心裡，或真的寫下來）
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## [蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)視角：什麼是「有品質的自由遊戲」？ {#montessori}
@@ -173,7 +173,7 @@ Lovevery 的玩具設計就是以開放式為核心，適合 0-6 歲不同發展
 
 適度的挑戰（爬一棵低矮的樹、用剪刀剪紙、在沙地上挖洞）是發展自信和風險評估能力的重要過程。
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 5個今天就能開始的非結構遊戲做法 {#action}
@@ -195,7 +195,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 **5. 角色扮演角落**  
 在家裡設一個小角落，放幾件舊衣服、道具（舊鍋子、假蔬菜）。讓孩子自己決定今天要扮演什麼故事。不需要很精緻，越簡單越好。
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 常見問題：孩子說無聊怎麼辦？ {#faq}
@@ -236,7 +236,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 2-5歲：想像力遊戲、角色扮演、建構遊戲最為蓬勃。  
 5-12歲：同儕間的自主遊戲（自己制定規則、組織遊戲）是這個階段的核心。
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 不讓孩子玩的代價：一個大家都不說的數字 {#cost}
@@ -251,7 +251,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 
 童年只有一次。6歲之前的自由探索，是以後無法補回來的。
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 最後說一件事
@@ -270,7 +270,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 
 讓孩子玩吧。不用愧疚。
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 參考資料
@@ -281,7 +281,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 - Parent Herald (Apr 3, 2026): [Why Outdoor Play Critical Children's Physical Mental Health](https://www.parentherald.com/articles/237092/20260403/why-outdoor-play-critical-childrens-physical-mental-health.htm)
 - Grace Montessori: [The Importance of Unstructured Play](https://gracemontessori.org/importance-of-unstructured-play/)
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 *明天繼續：[孩子發脾氣怎麼辦？蒙特梭利的情緒引導5步驟](/blog/toddler-tantrum-positive-parenting-zh)*
@@ -338,7 +338,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 }
 </script>
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 ## 推薦閱讀與好物
@@ -348,7 +348,7 @@ heroImage: "/og/unstructured-play-benefits-zh.png"
 - [**Simplicity Parenting（簡單教養）** — Kim John Payne](https://www.amazon.com/dp/0345507983?tag=bloompath-20) — 非結構性遊戲的最強倡導者。這本書讓我停止安排孩子的每個下午。
 - [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 蒙特梭利強調的「自由工作時間」正是非結構性遊戲的體現，這本書教你怎麼在家創造這個空間。
 
-heroImage: "/og/unstructured-play-benefits-zh.png"
+
 ---
 
 **延伸閱讀：**

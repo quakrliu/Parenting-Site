@@ -5,11 +5,10 @@ pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 author: "Ethan Moore"
 tags: ["嬰兒奶粉召回2026", "ByHeart奶粉安全", "嬰兒配方奶粉安全指南", "配方奶", "嬰兒安全"]
-image: "/images/baby-formula-recall-2026.jpg"
 imageAlt: "嬰兒配方奶粉安全指南 2026"
 lang: "zh-TW"
 ageGroup: ["infant", "toddler"]
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+image: "/og/2026-baby-formula-recall-guide.png"
 ---
 
 # 2026 嬰兒配方奶粉召回緊急指南
@@ -18,7 +17,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 
 **Last updated: March 31, 2026**
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 重點整理
@@ -28,7 +27,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 - 肉毒桿菌中毒最早期症狀是便秘，出現任何神經系統症狀請立即送急診
 - 查詢管道：台灣食藥署 fda.gov.tw、美國 FDA fda.gov、歐洲 EFSA efsa.europa.eu
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 每個爸媽都值得在孩子最脆弱的時期，擁有清楚、即時的食品安全資訊。嬰兒配方奶粉是許多寶寶唯一的[嬰幼兒副食品與營養完整指南](/zh/blog/baby-nutrition-health-guide-zh)來源——當召回事件發生時，父母需要的不只是警報，而是具體可行的應對步驟。這份指南就是為此而寫。
@@ -38,14 +37,14 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 2. 肉毒桿菌與Cereulide毒素的具體症狀，以及何時必須立即就醫
 3. 台灣爸媽選購進口奶粉的合法安全管道
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 2026年第一季，全球發生多起令家長警覺的嬰兒配方奶粉召回事件。**台灣爸媽使用進口奶粉的比例超過六成**，這份指南將逐一解析各起召回事件，告訴您哪些批號受影響、如何確認手中的奶粉是否安全，以及若不幸購買了問題產品該如何處理。
 
 您可能沒想到：即使是全球知名大廠的奶粉，召回事件每年都在發生——差別只在於台灣爸媽是否能及時收到消息。定期查詢官方管道，是保護寶寶最務實的一步。
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 📋 2026 Q1 重大召回事件一覽
@@ -59,7 +58,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 
 *資訊有效期：2026年3月31日。請至衛福部食藥署（fda.gov.tw）查詢最新召回動態。*
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 一、ByHeart 肉毒桿菌爆發事件
@@ -100,7 +99,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 
 *「我們在新聞上看到召回消息後，馬上翻出罐子對了批號——幸好不在名單上，但那5分鐘的等待心情真的很難受。」— 台北育兒論壇家長分享*
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 二、歐洲 Nestlé SMA 及 Danone Aptamil：Cereulide毒素召回
@@ -130,7 +129,7 @@ Cereulide是由**仙人掌桿菌（Bacillus cereus）**產生的熱穩定毒素�
 
 **台灣衛福部食藥署（TFDA）** 會持續更新境外召回資訊，可至食藥署官網查詢：[https://www.fda.gov.tw](https://www.fda.gov.tw)
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 三、Enfamil Nutramigen 自願召回
@@ -149,7 +148,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 2. **聯絡廠商：** Mead Johnson美強生客服（中文）可協助確認是否受影響
 3. **不要擅自停用：** 若孩子有牛奶蛋白過敏，突然停用可能影響健康，**請先諮詢兒科醫師**再更換配方
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 🛡️ 台灣家長如何確認進口奶粉安全？
@@ -175,7 +174,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 
 **建議優先選擇台灣合法上市產品**，若有特殊需求（如歐規奶粉），請向兒科醫師諮詢並透過合法進口商購買。
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## ✅ 配方奶安全使用5大原則
@@ -186,7 +185,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 4. **罐口清潔：** 每次使用後，以乾淨布巾擦拭罐口，防止污染
 5. **存放環境：** 避免高溫潮濕，未開封奶粉存放於陰涼乾燥處，開封後**30天內**用完
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 🚨 緊急情況：如果孩子已食用問題產品
@@ -206,7 +205,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 - 問題產品的空罐或包裝
 - 紀錄孩子的飲食時間與症狀出現時間
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 📞 台灣相關申訴與通報管道
@@ -215,7 +214,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 - **兒童急症：** 各大醫院小兒急診室
 - **毒物諮詢：** 台灣毒物諮詢專線 **(02) 8966-5121**（24小時）
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 替代方案：台灣合法上市的配方奶品牌
@@ -230,7 +229,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 
 > **免責聲明：** 上述資訊僅供參考，不構成醫療建議。更換配方奶前，請務必諮詢兒科醫師或營養師，尤其是有特殊過敏或健康需求的嬰兒。
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 總結：爸媽的行動清單
@@ -243,7 +242,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 
 想要同時追蹤寶寶的生長發育進度？[BloomPath](https://bloompath.quakr.dev) 提供 224 個[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)里程碑指標，讓您在關注食品安全的同時，也能掌握寶寶的成長動態。
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 **資料來源：**
@@ -254,7 +253,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 
 *本文最後更新：2026年3月31日。食品安全情況持續變化，請定期查閱官方來源以獲取最新資訊。*
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## 常見問題 FAQ
@@ -291,7 +290,7 @@ Cereulide毒素主要引起劇烈嘔吐，通常在攝入後1至6小時內發作
 
 更換配方奶前務必諮詢兒科醫師，尤其是有牛奶蛋白過敏、早產或其他特殊健康需求的嬰兒。換奶建議採漸進式，可用3至5天時間逐步提高新配方比例。換奶後密切觀察寶寶的排便、皮膚狀況及接受程度，如有異常及時回診。
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 <script type="application/ld+json">
@@ -369,7 +368,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 }
 </script>
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 ## Products We Recommend
@@ -379,7 +378,7 @@ heroImage: "/og/2026-baby-formula-recall-guide.png"
 - [**Real Baby Food** by Jenna Helwig](https://www.amazon.com/dp/076238133X?tag=bloompath-20) — Age-by-age recipes for when you're introducing solids -- a helpful complement as you navigate the transition away from formula.
 - [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Evidence-based breakdown of formula decisions, when to introduce solids, and what the research actually says.
 
-heroImage: "/og/2026-baby-formula-recall-guide.png"
+
 ---
 
 **Related Reading:**

@@ -7,7 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 ageGroup: ["toddler", "preschool"]
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+image: "/og/montessori-national-study-2026-results-en.png"
 ---
 
 I remember the day we toured our first Montessori school. My daughter was two and a half. The classroom was quieter than I expected — no rows of tiny desks, no alphabet posters in primary colors. Instead, a four-year-old was pouring water between glass pitchers with the focus of a barista, and a three-year-old was tracing sandpaper letters with her fingertips, whispering the sounds to herself.
@@ -18,7 +18,7 @@ We enrolled. And for the next two years, I quietly wondered whether we'd made th
 
 Turns out, the data is now in. And it's not even close.
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 *This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
@@ -32,7 +32,7 @@ heroImage: "/og/montessori-national-study-2026-results-en.png"
 - Three years of public Montessori cost **$13,127 less per child** than traditional programs
 - Effects were strongest among children from lower-income families
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## Table of Contents
@@ -46,7 +46,7 @@ heroImage: "/og/montessori-national-study-2026-results-en.png"
 7. [FAQ](#faq)
 8. [Sources](#sources)
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## Why This Study Matters More Than Previous Ones {#why-this-study-matters}
@@ -67,7 +67,7 @@ Here's how it worked:
 
 The study was funded by a $3 million grant from the U.S. Department of Education's Institute of Education Sciences. It has been described as "by far the largest, most comprehensive study of Montessori, public or private, undertaken to date."
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## What They Measured — And What They Found {#what-they-found}
@@ -94,7 +94,7 @@ Perhaps the most interesting finding: Montessori children showed stronger social
 
 This isn't just nice. It builds the cognitive machinery for empathy, cooperation, and conflict resolution.
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## The Fadeout Problem (And Why Montessori Doesn't Have It) {#fadeout-problem}
@@ -113,7 +113,7 @@ Why? Several theories:
 - **The mixed-age classroom** means children stay in the same environment for three years with the same teacher, building deep relationships and continuity.
 - **Self-directed learning** builds skills that transfer — planning, persistence, self-regulation — rather than content knowledge that can be taught again in kindergarten anyway.
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## Wait, It's Also Cheaper? {#also-cheaper}
@@ -132,7 +132,7 @@ As the researchers noted, the higher child-to-adult ratios "more than made up fo
 
 Better outcomes. Lower cost. That's the kind of finding that's hard to ignore.
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## What This Means for Your Family {#what-this-means}
@@ -159,7 +159,7 @@ You can still apply core Montessori principles [Montessori at home](/en/blog/mon
 - **Limit screen time.** Not as a punishment, but because hands-on, sensory-rich experiences are what build the neural pathways this study measured.
 - **Allow uninterrupted work time.** When your child is concentrating — even if it's just stacking blocks — resist the urge to narrate, praise, or redirect. Deep focus is a skill that needs practice.
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## The Limitations You Should Know About {#limitations}
@@ -172,7 +172,7 @@ No study is perfect, and intellectual honesty requires acknowledging the boundar
 - **Long-term follow-up is still needed.** The study measured outcomes through the end of kindergarten. Whether these advantages persist through elementary school and beyond remains to be seen.
 - **Sample size, while large for this type of study, was 588 children.** Larger replications would strengthen the findings.
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## FAQ {#faq}
@@ -201,7 +201,7 @@ Look for accreditation from the **Association Montessori Internationale (AMI)** 
 
 The study focused on reading, executive function, short-term memory, and social understanding — and found significant advantages in all four. It did not report areas where the control group outperformed the Montessori group.
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 ## Sources {#sources}
@@ -211,7 +211,7 @@ heroImage: "/og/montessori-national-study-2026-results-en.png"
 - [Massive national study shows public Montessori improves outcomes, reduces costs](https://www.montessoripublic.org/2025/10/massive-national-study-shows-public-montessori-improves-outcomes-reduces-costs/) — MontessoriPublic
 - [UVA-led national study finds Montessori preschool boosts learning, cuts costs](https://news.virginia.edu/content/uva-led-national-study-finds-montessori-preschool-boosts-learning-cuts-costs) — UVA News
 
-heroImage: "/og/montessori-national-study-2026-results-en.png"
+
 ---
 
 *This article is for informational purposes only and does not constitute educational or financial advice. Every child is different, and the best educational choice depends on your family's specific circumstances, your child's temperament, and the quality of available programs in your area.*

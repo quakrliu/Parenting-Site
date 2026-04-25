@@ -9,7 +9,7 @@ keywords: ["溫和教養 缺點", "正向教養 方法", "混合式教養", "溫
 author: "Ethan Moore"
 lang: "zh-TW"
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+image: "/og/hybrid-parenting-2026-zh.png"
 ---
 
 <!-- AEO: 最後更新 2026 年 4 月。基於實證的育兒內容。 -->
@@ -122,7 +122,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 我做錯了什麼嗎？不完全是。但我的做法有缺口。而且我不是唯一一個這樣的爸媽。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 *本文為[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)系列文章。*
 
@@ -134,7 +134,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 - AND 方法：肯定情緒「而且」維持規則（「我知道你很想吃冰淇淋，而且晚餐前不能吃」）
 - 超過三分之一的溫和教養父母有倦怠感，混合式教養更可持續
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 2026 年，全球爸媽正在「升級」教養哲學
@@ -149,7 +149,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 這個結果有個名字：**混合式教養（Hybrid Parenting）**。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 溫和教養有什麼缺點？
@@ -170,7 +170,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 我用工程師的比喻來想：一個兩歲寶貝的大腦就像一顆 CPU 跑在 100%，完全沒有記憶體可升級。他們需要外部結構才能正常運作。這個結構不是懲罰，是支撐架。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 什麼是混合式教養？
@@ -190,7 +190,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 被看見但不安全 = 焦慮。
 安全但沒有被看見 = 疏離。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 混合式教養的實際做法：「AND 方法」
@@ -218,7 +218,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 我還是會搞砸。上週二我還是吼了一聲。但我知道「回到正軌」長什麼樣，我們一起修復了那個時刻。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 6 句真實有用的混合式教養話術
@@ -239,7 +239,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 你有沒有發現這些話的共同點？肯定 + 清晰 + 沒有羞辱。這就是混合式教養的配方。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 打造你自己的「教養混合配方」
@@ -254,7 +254,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 **你已經在做混合式教養了。** 如果你曾經說過「我知道你不高興，但規定就是規定」——恭喜你，那就是了。你只是剛知道這件事有個名字而已。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 科學依據：為什麼這樣做有效
@@ -269,7 +269,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 這不是壓抑情緒，而是學習和情緒共處。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 如果孩子沒有界限，會怎樣？
@@ -288,7 +288,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 這不是要你嚴格。這是要你在視窗還開著的時候，給孩子一份最重要的禮物：一個能自我調節的神經系統。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 常見問題 FAQ
@@ -326,7 +326,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 **正向教養和混合式教養一樣嗎？**
 高度重疊。正向教養（Jane Nelsen 的 Positive Discipline）是混合式教養最常引用的框架之一，強調連結、自然後果和相互尊重。混合式教養是更廣的概念，正向教養是其中一個重要的組成元素。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 用 BloomPath 追蹤寶貝發展，讓混合式教養更精準
@@ -335,7 +335,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 當你知道孩子現在能處理多少「說理」、什麼樣的選擇對他是真正的賦能，你的 AND 方法就會更準、更有效。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 你在這裡讀這篇文章，就說明你是在認真思考怎麼當一個更好的爸媽。
@@ -344,7 +344,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 
 **明天繼續：** 孩子進入學齡（6 到 10 歲）之後，混合式教養怎麼跟著進化？
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 *最後更新：2026 年 4 月。所有數據引用自原始來源。*
@@ -356,7 +356,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 - Frontiers in Psychology (2025): 教養風格與學齡前兒童自我控制能力
 - PMC (2024): 正向教養、情緒韌性與學業投入
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 ## 推薦閱讀與好物
@@ -366,7 +366,7 @@ heroImage: "/og/hybrid-parenting-2026-zh.png"
 - [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 混合式教養的理論基礎。連結優先，規矩其次——但規矩還是要有。
 - [**Hunt, Gather, Parent（尋獵採集的父母）** — Michaeleen Doucleff](https://www.amazon.com/dp/1982149671?tag=bloompath-20) — 研究全球原住民教養方式，發現溫柔教養和有效管教並不矛盾。
 
-heroImage: "/og/hybrid-parenting-2026-zh.png"
+
 ---
 
 **延伸閱讀：**

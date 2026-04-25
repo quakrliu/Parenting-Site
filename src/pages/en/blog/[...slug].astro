@@ -27,6 +27,7 @@ const postLang = post.data.lang === 'zh-TW' ? 'zh' : 'en';
   title={`${post.data.title} | ${t('site.title')}`}
   description={post.data.description}
   lang={postLang}
+  ogImage={post.data.image ? new URL(post.data.image, Astro.site).toString() : undefined}
 >
   <Header lang={lang} />
 

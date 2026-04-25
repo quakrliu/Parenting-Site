@@ -5,11 +5,10 @@ pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 author: "Ethan Moore"
 tags: ["幼稚園入學準備", "孩子上小學準備", "kindergarten readiness台灣", "幼兒學習", "入學準備清單"]
-image: "/images/kindergarten-readiness-guide.jpg"
 imageAlt: "幼稚園入學準備完整指南"
 lang: "zh-TW"
 ageGroup: ["preschool", "school"]
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+image: "/og/kindergarten-readiness-complete-guide.png"
 ---
 
 # 幼稚園入學準備完整指南：孩子準備好了嗎？
@@ -23,7 +22,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 2. 每個面向在家裡可以做的練習方式
 3. 台灣[台灣幼兒園選校指南](/zh/blog/kindergarten-guide-taiwan-2026-zh)制度的實用資訊
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 每年到了幼稚園報名季，台灣的家長群組裡就會出現各種焦慮：
@@ -38,7 +37,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 
 > **Evidence:** 美國國家兒童健康研究所入學準備度研究 (2023) — 追蹤跨州公立幼稚園入學學生的[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)差距。Visit National Institute of Child Health and Human Development official site for details.
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 什麼是「幼稚園準備度」？
@@ -53,7 +52,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 
 這5個面向同等重要。**情緒調節和社交技能對幼稚園適應和長期學業表現的預測力，比認知能力更強**——這是研究中反覆出現的發現，也是很多台灣爸媽最容易忽略的地方。
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 面向一：語言與溝通能力
@@ -79,7 +78,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 - **餐桌對話：** 讓孩子分享今天發生的一件事，練習組織語言
 - **角色扮演：** 玩「辦家家酒」時，鼓勵孩子描述場景、扮演對話
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 面向二：認知與學習技能
@@ -107,7 +106,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 - **繪畫和剪貼：** 不需要畫得像什麼，重點是手部精細動作和創意表達
 - **觀察與比較：** 出門時問「這棵樹比那棵樹高嗎？」「哪個包比較重？」
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 面向三：社交技能
@@ -131,7 +130,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 - **棋盤遊戲：** 大富翁、跳棋等需要輪流、接受輸贏的遊戲
 - **角色扮演「上學」：** 假裝孩子是學生，家長是老師，練習舉手發言、排隊等場景
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 面向四：情緒調節能力
@@ -160,7 +159,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 - **情緒詞彙練習：** 日常中多使用情緒詞彙：「你現在看起來很失望，因為遊戲結束了？」
 - **冷靜角：** 在家設立一個舒緩角落（有娃娃、柔軟的靠枕），讓孩子學習「當我很生氣，我可以去那裡待一下」
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 面向五：生活自理能力
@@ -181,7 +180,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 - 在家建立「每天自己做」的例行事項（自己穿鞋、自己收玩具）
 - 用鼓勵而非批評：「你今天試著自己穿了，這很棒！」
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 台灣幼稚園制度補充說明
@@ -208,7 +207,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 
 自2012年起，台灣提供5歲兒童的幼兒園**免學費**政策（公立、非營利、準公共化幼兒園），家長負擔大幅降低。
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 常見問題 Q&A
@@ -243,7 +242,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 
 想追蹤寶貝在這些面向的發展進度？BloomPath 提供 224 個發展里程碑指標，橫跨 8 個發展領域，幫你清楚掌握孩子目前的發展狀態，以及下一步可以培養哪些能力。
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 最後：放下「比較」，專注陪伴
@@ -261,7 +260,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 
 **你不需要完美地準備孩子，你只需要陪著孩子，一起去準備。**
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## 入學準備總結清單
@@ -277,7 +276,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 - [ ] 自理：能自己穿脫鞋子和外套
 - [ ] 自理：能自己吃飯，不需要人餵
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 *本文最後更新：2026年3月31日*
@@ -349,7 +348,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 }
 </script>
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 ## Products We Recommend
@@ -359,7 +358,7 @@ heroImage: "/og/kindergarten-readiness-complete-guide.png"
 - [**How to Talk So Little Kids Will Listen** by Joanna Faber & Julie King](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — Builds the communication skills that matter most in kindergarten: listening, expressing needs, handling conflict.
 - [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — Explains the emotional regulation milestones that predict kindergarten readiness better than academic skills.
 
-heroImage: "/og/kindergarten-readiness-complete-guide.png"
+
 ---
 
 **Related Reading:**

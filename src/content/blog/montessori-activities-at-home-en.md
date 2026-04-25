@@ -9,14 +9,14 @@ category: "Montessori Education"
 affiliate: ["amazon", "lovevery"]
 type: "guide"
 ageGroup: ["infant", "toddler", "preschool"]
-heroImage: "/og/montessori-activities-at-home-en.png"
+image: "/og/montessori-activities-at-home-en.png"
 ---
 
 *Updated March 2026*
 
 **Key Takeaways:** You don't need expensive Montessori equipment. Ten activities using household items you already own -- from treasure baskets (6-10 months) to practical life tasks (2-5 years) -- build the same concentration, fine motor skills, and intrinsic motivation as specialized materials. Each setup takes under 3 minutes. Montessori practical life is not about the tools; it's about real work with real materials in real context.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 *This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
@@ -27,7 +27,7 @@ The myth that Montessori requires expensive equipment has kept countless familie
 
 Everything in this [Montessori at home complete guide](/en/blog/montessori-at-home-guide-en) uses objects you already own. Most setups take under three minutes. And every single one is doing something real inside your [child development milestones](/en/blog/child-development-milestones-en)'s developing brain.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ## Why Household Items Are Actually the Point
@@ -38,14 +38,14 @@ A toy broom is fun. A real broom — one that actually moves dust — is compell
 
 Montessori practical life activities build concentration, fine motor skills, and intrinsic motivation in children aged one to three. That is grounded in decades of developmental research showing that hands-on, purposeful engagement — the kind that produces a visible, real result — is one of the most powerful drivers of early brain development.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ## The 10 Activities
 
 These are organized loosely by age, from youngest babies toward the preschool years. Children develop on their own timeline — use the age ranges as starting points, not rules.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 1. The Treasure Basket
@@ -59,7 +59,7 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 
 **Variations:** Rotate objects every few days. As your baby approaches ten to twelve months, add objects with simple mechanical properties — a hinged box, a lid that screws on and off, a chain of shower curtain rings.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 2. The Pouring Station
@@ -75,7 +75,7 @@ The first time I put a bowl of beans in front of my fourteen-month-old, I expect
 
 **Variations:** Once dry goods are mastered, move to water. Add a small funnel, then a turkey baster.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 3. Object Permanence Box
@@ -89,7 +89,7 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 
 **Variations:** Use containers of different sizes. Move to a more opaque container as they grow. Eventually add a simple lid they must remove to retrieve the ball.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 4. Practical Life: Wiping the Table
@@ -103,7 +103,7 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 
 **Variations:** Add a squeegee for windows. Move to washing dishes in a tub. Introduce dusting.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 5. Sorting by Color or Shape
@@ -117,7 +117,7 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 
 **Variations:** Progress from two categories to three or four. Introduce a second sorting attribute. Try sorting by a property that isn't visible, like weight, using rocks or blocks of different sizes.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 6. Transferring with Tongs
@@ -133,7 +133,7 @@ I watched my two-and-a-half-year-old transfer pompoms with salad tongs for the f
 
 **Variations:** Switch to smaller tongs as skill develops. Progress to smaller, irregularly shaped objects. Add a sorting element: transfer only the red ones.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 7. Sink Play and Water Pouring
@@ -147,7 +147,7 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 
 **Variations:** Add a drop of food coloring for color mixing. Introduce a turkey baster or small waterproof toys.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 8. Scrubbing Vegetables
@@ -163,7 +163,7 @@ Use what they scrub. Children notice whether their work is used or quietly set a
 
 **Variations:** Expand to washing other produce, then peeling bananas or eggs, then simple food prep with supervision.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 9. Paper Tearing and Collage
@@ -177,7 +177,7 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 
 **Variations:** For 2.5 years and up, add child-safe scissors. Move to themed collage or homemade greeting cards.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ### 10. Stacking and Nesting
@@ -191,7 +191,7 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 
 **Variations:** Move from three sizes to five, then seven. Add lids that must be matched. Contrast stacking in a tower versus nesting inside each other as two separate problems.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ## How to Present Activities the Montessori Way
@@ -206,7 +206,7 @@ One demonstration is usually enough. The frustration of almost getting it, and t
 
 When the activity is finished — or when they walk away — they put materials back. This is part of the work, not an afterthought. It closes the cycle and builds care for the environment.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ## Setting Up a Simple Activity Shelf
@@ -217,14 +217,14 @@ Rotate every one to two weeks, or sooner if a child has stopped returning to som
 
 The 0-to-3 window is a sensitive period — not a deadline, but a peak of brain plasticity where hands-on, purposeful activity has an outsized impact. These years don't come back.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ## BloomPath Daily Growth Tasks
 
 Want to know which activities are best matched to where your child is right now? BloomPath's Daily Growth Tasks are curated Montessori-inspired activities matched to your child's specific developmental stage — not just their age, but the actual skills and sensitivities they're currently moving through. Instead of guessing whether your fifteen-month-old is ready for tongs, BloomPath surfaces the activities with the highest developmental return for this exact week. No shopping required — just the right work at the right time.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ## Frequently Asked Questions
@@ -261,7 +261,7 @@ Offer it, then let it go. If they walk away, put it on the shelf and try again a
 
 Many Montessori practical life activities adapt well across developmental profiles, often with small modifications to materials or grip. The self-paced, low-pressure nature of the approach suits many children who struggle with group instruction. Always consult your child's developmental specialist or OT for guidance specific to their needs.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 <script type="application/ld+json">
@@ -337,12 +337,12 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 }
 </script>
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 *Tomorrow on BloomPath: Your Toddler's Meltdowns Are Normal: A Montessori Approach to Tantrums*
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 ## Products We Recommend
@@ -352,7 +352,7 @@ heroImage: "/og/montessori-activities-at-home-en.png"
 - [**The Montessori Toddler** by Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — The book these activities are inspired by. Practical, photographed, and organized by age.
 - [**How to Talk So Little Kids Will Listen** by Joanna Faber & Julie King](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — The essential companion to any Montessori setup -- helps you communicate in ways toddlers actually respond to.
 
-heroImage: "/og/montessori-activities-at-home-en.png"
+
 ---
 
 **Related Reading:**

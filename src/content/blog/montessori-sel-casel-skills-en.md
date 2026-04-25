@@ -7,19 +7,19 @@ author: "Ethan Moore"
 tags: ["Montessori", "social emotional learning", "SEL", "CASEL", "child development", "preschool", "early childhood education"]
 lang: "en"
 draft: false
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+image: "/og/montessori-sel-casel-skills-en.png"
 ---
 
 *Last updated: April 2026 | Sources: CASEL.org, PNAS (2025), Dr. Angeline Lillard (Oxford University Press, 2026)*
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 *This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
 
 **TL;DR:** CASEL [PNAS study findings](/en/blog/montessori-preschool-evidence-pnas-study-2026) shows SEL programs generate $11 in returns for every $1 invested. Montessori has been building these exact skills for over a century — without the acronym. Children who miss SEL development during the critical 3-6 window face significantly harder catch-up later. This article maps Montessori to the 5 CASEL competencies and gives you 5 ways to start at home today.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## Table of Contents
@@ -32,7 +32,7 @@ heroImage: "/og/montessori-sel-casel-skills-en.png"
 - [5 Montessori-Inspired SEL Practices for Home](#at-home)
 - [Frequently Asked Questions](#faq)
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 My daughter's preschool newsletter last fall said they were "prioritizing SEL this year." I read it three times. I thought SEL might be a new testing framework, a curriculum brand, maybe an acronym for some kind of sensory program.
@@ -45,7 +45,7 @@ Turns out, SEL — social-emotional learning — might be the most important thi
 
 What kept me up that night: if SEL is so critical, and there's a window where it's easiest to build — **are we inside that window right now, or have we already started to miss it?**
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## Why Every School Is Suddenly Talking About SEL {#why-sel}
@@ -58,7 +58,7 @@ In 2025, governments worldwide started mandating SEL frameworks in public school
 
 Here's what makes this personal: **children who don't develop strong social-emotional skills by school age are significantly more likely to face behavioral and academic challenges later**, according to research in the *American Journal of Public Health*. This isn't about optimization — it's about the foundation your child will stand on for life.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## What SEL Actually Is: The CASEL 5 Explained Simply {#casel-5}
@@ -77,7 +77,7 @@ Think of it like emotional intelligence with a structured framework researchers 
 
 The honest truth: most adults are still working on some of these. I'm 36 and my self-management score is... a work in progress. But here's the difference — I'm building these skills as an adult, which is like learning a second language at 40. Your child has the chance to build them as a native language. That advantage is enormous, and it's time-limited.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## The Surprise: Montessori's 3 Pillars = The Original SEL Framework {#montessori-pillars}
@@ -94,7 +94,7 @@ Today, over 20,000 Montessori schools operate in the US alone, practiced in an e
 
 Most Montessori parents know the materials: the pink tower, the movable alphabet, the bead chains. What they don't always realize is that the *structure* — the freedom, the mixed ages, the no-reward system, the Grace and Courtesy lessons — is specifically engineered to build social-emotional competence. **You chose this education. Understanding the SEL connection makes your investment dramatically more intentional.**
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## How Montessori Builds Each of the 5 CASEL Skills {#montessori-mapping}
@@ -129,7 +129,7 @@ When a Montessori child spills water, they clean it up. When they drop a tray, t
 
 This is disappearing from childhood. In many conventional settings, adults clean up spills, resolve disputes, and remove obstacles before children encounter them. The result? Children reaching school age without ever experiencing cause and effect's natural feedback loop.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## What the Research Actually Says {#research}
@@ -142,7 +142,7 @@ heroImage: "/og/montessori-sel-casel-skills-en.png"
 
 **The flip side:** A 2015 study in *Developmental Psychology* tracked 750+ children for 19 years. Children lacking social-emotional competence at kindergarten entry were significantly less likely to graduate high school and more likely to need public assistance as adults. SEL wasn't a nice-to-have — it predicted life outcomes two decades later.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## The Window That Closes: Why SEL Can't Wait {#why-now}
@@ -157,7 +157,7 @@ In a world where AI handles information retrieval better than humans, the differ
 
 **If your child is between 2 and 6, you are in the highest-leverage period of their developmental trajectory.** Every month of intentional SEL investment compounds. The question isn't whether to invest in SEL — it's whether you'll invest while the window is wide open, or try to catch up after it narrows.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## 5 Montessori-Inspired SEL Practices for Home {#at-home}
@@ -179,7 +179,7 @@ A small cushion, calming objects, a book of feelings. Not a punishment — a res
 **5. Do real things together.** *(Social awareness + all five)*
 Cooking, cleaning, gardening. Not toy versions — real consequences, real decisions. My daughter makes her own breakfast at four. She's incredibly proud. I'm 40% less tired in the mornings.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## Frequently Asked Questions {#faq}
@@ -202,7 +202,7 @@ The first national RCT of public Montessori preschool (PNAS, 2025) found signifi
 **What happens if my child doesn't develop SEL skills during the early years?**
 SEL skills can be developed at any age, but early childhood (0-7) is the most receptive period. A 19-year longitudinal study found kindergarten social-emotional competence predicted outcomes in employment, education, and mental health into adulthood. Starting early creates a significantly stronger foundation.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## The Bigger Picture
@@ -217,7 +217,7 @@ You're already asking that question. You're already investing the time most pare
 
 You're one of them.
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 ## Products We Recommend
@@ -227,12 +227,12 @@ heroImage: "/og/montessori-sel-casel-skills-en.png"
 - **"No Bad Kids" by Janet Lansbury** — Essential for understanding [toddler meltdowns Montessori guide](/en/blog/toddler-meltdowns-montessori-en) behavior through an SEL lens. [Check it on Amazon](https://www.amazon.com/dp/1503094685?tag=bloompath-20)
 - **Lovevery Play Kits** — Developmentally staged kits building SEL skills: self-regulation, empathy, cooperation. [Check on Amazon](https://www.amazon.com/s?k=lovevery+play+kit&tag=bloompath-20)
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 *Want to track which SEL skills your child is developing and get personalized Montessori-inspired daily activities? The [BloomPath app](https://bloompath.quakr.dev) tracks 224 developmental skills across 8 domains, with a 24/7 AI Parenting Advisor and daily growth tasks designed by early childhood educators.*
 
-heroImage: "/og/montessori-sel-casel-skills-en.png"
+
 ---
 
 **Coming next:** [Montessori vs. Gentle Parenting: What's Actually Different (And Why It Matters in 2026)](/blog/montessori-vs-gentle-parenting-en)

@@ -7,7 +7,7 @@ tags: ["怎麼跟青少年溝通", "青春期孩子不理人怎麼辦", "叛逆�
 author: "Ethan Moore"
 lang: "zh-TW"
 ageGroup: ["school", "teen"]
-heroImage: "/og/zh-teen-communication-script.png"
+image: "/og/zh-teen-communication-script.png"
 ---
 
 # 青少年[青少年不想上學的警訊](/zh/blog/zh-teen-not-wanting-school)「不知道」不是不尊重你——這樣回應效果更好
@@ -21,7 +21,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 - 5個立即可用的對話腳本，取代「今天怎麼樣？」這種必定失敗的問法
 - 關鍵原則：問少一點、等久一點、在[家長職業倦怨](/zh/blog/parental-burnout-solutions-2026)願意說的時候閉嘴聽
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 女兒升上國中第一週，我問了17個問題。
@@ -36,7 +36,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 讀完之後，我坐在書桌前發呆了大概十分鐘。不是因為很複雜——而是因為太簡單了：**孩子說「不知道」，可能不是不尊重你。她的大腦，字面意義上，正在超載。**
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## 你不了解的那個大腦：青少年的「關機模式」
@@ -57,7 +57,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 台灣諮商心理師陳志恆在《叛逆有理，玻璃心強大》中也提到：「青少年不是不想說，是太多感受混在一起，他自己也理不清楚。父母問『為什麼』，對他來說反而是更大的壓力。」
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## 你可能在做的事，正在讓情況更糟
@@ -82,7 +82,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 **孩子：** 沉默。走進房間。關門。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 這個循環的問題在哪裡？爸爸的每一句話，都在讓孩子大腦的「風險評估」系統更加警覺：**說了之後，情況會不會更糟？**
@@ -91,7 +91,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 台灣的王意中心理師曾說：「青少年不是不說，是在等你證明你能接住。」
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## EARS溝通法：讓孩子願意開口的4個步驟
@@ -106,7 +106,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 **做法：** 用觀察代替追問。「你今天看起來有點累。」不是問題，是陳述。不需要孩子回應，但她知道你看見她了。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ### A — 堅定（Assert Presence）
@@ -119,7 +119,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 **做法：** 「你不想說沒關係，我在這裡。你準備好了隨時可以說。」說完，真的不追問。繼續做你的事，但留在同一個空間。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ### R — 尊重（Respect）
@@ -132,7 +132,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 **做法：** 「你想說哪個部分都行，或者你只是需要有人坐在這裡也沒關係。」
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ### S — 解決（Solve Together）
@@ -143,12 +143,12 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 **做法：** 孩子說完後，先確認：「這樣說，我有理解嗎？」然後問：「你現在需要的是什麼，你想聽我的看法，還是就先說出來就好？」
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 > **工程師爸爸的坦白：** 我到現在還是會忘記。上週孩子說了什麼，我直接說「那你下次應該……」，孩子就不說了。然後我才想起來——她說話，是要被聽見的，不是要被修理的。當天晚上我去敲她房門道歉了。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## 5個對話腳本：從「不知道」到真的聊起來
@@ -167,7 +167,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 讓孩子從容易說的事說起。今天的午餐，可能就是今天和你最好的連結。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ### 腳本2：察覺孩子心情不好，但不知道發生什麼
@@ -181,7 +181,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 這個方法的核心：**你說完就停，把空間還給孩子。**
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ### 腳本3：你懷疑在學校發生了什麼事，但孩子說「沒事」
@@ -193,7 +193,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 你不是在放棄，你是在建立一個「說了不會立刻被處理」的空間。這個空間，有時候幾天後才會被使用。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ### 腳本4：孩子說「沒事」，但眼睛紅了
@@ -207,7 +207,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 這個問題很重要：**給孩子選擇「陪伴的形式」，不是強迫他說話或強迫他一個人待著。**
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ### 腳本5：孩子終於說了，但你不認同他的想法
@@ -226,7 +226,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 讓孩子先感覺被聽到，再討論對不對的問題。順序反過來，整個結果就不一樣了。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## 何時給空間，何時介入？
@@ -246,7 +246,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 如果看到上述訊號，請直接聯繫學校輔導老師，或撥打台灣衛福部安心專線：**1925**。這不是溝通技巧能處理的，需要專業介入。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## 青春期只有6年
@@ -261,7 +261,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 重要的是，**孩子知道，門是開著的。**
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## 常見問題 FAQ
@@ -306,7 +306,7 @@ EARS法主要適用於青少年（12-18歲），也可以應用於小學高年�
 
 如果孩子持續兩週以上社交退縮、睡眠飲食出現明顯變化、提到不想活或消失掉、有自傷跡象，應立即尋求專業協助。這已超出親子溝通技巧的範圍，需要心理師或精神科評估。
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## 延伸閱讀
@@ -317,7 +317,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 - **[Hahow 親子溝通課程](https://hahow.in)** — 台灣線上學習平台，有親子溝通和正向教養相關課程，可以按自己時間學習
 - **[博客來：叛逆有理，玻璃心強大](https://www.books.com.tw)** — 陳志恆諮商心理師著作，台灣青少年心理師親寫，非常接地氣
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 *如果你或你的孩子正處於危機狀態：撥打台灣衛福部安心專線 **1925**（24小時服務）。*
@@ -418,7 +418,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 }
 </script>
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 ## 推薦閱讀與好物
@@ -427,7 +427,7 @@ heroImage: "/og/zh-teen-communication-script.png"
 
 - [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — Dr. Becky 對青少年溝通的洞察——在孩子拒絕對話的時候，怎麼保持連結？
 
-heroImage: "/og/zh-teen-communication-script.png"
+
 ---
 
 **延伸閱讀：**

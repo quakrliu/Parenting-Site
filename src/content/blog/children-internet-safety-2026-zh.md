@@ -6,7 +6,7 @@ updatedDate: 2026-03-31
 tags: ["數位安全", "親子教養", "網路安全", "螢幕時間", "AI玩具"]
 lang: "zh-TW"
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
-heroImage: "/og/children-internet-safety-2026-zh.png"
+image: "/og/children-internet-safety-2026-zh.png"
 ---
 
 # 2026年兒童網路安全完整指南：AI玩具、國際新法與台灣爸媽實戰設定
@@ -20,7 +20,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 2. 澳洲禁令、美國KOSA法案對台灣爸媽的意義
 3. 按孩子年齡分階段的實戰設定方法
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 *本文為[AAP 2026 螢幕時間完整指南](/zh/blog/aap-screen-time-guidelines-2026)系列文章。*
 
@@ -31,7 +31,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 
 這不是個案。2026年，兒童數位安全的問題已經從「要不要讓孩子用3C」，升級成「孩子用的裝置和玩具，到底在對誰說話、傳送什麼資料？」
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ## AI玩具的隱患：你家玩具在蒐集什麼？
@@ -64,7 +64,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 
 如果這些問題找不到答案，或答案讓你不安心，建議選擇不具備 AI 對話功能的玩具。6歲以下的寶貝，根本不需要一個24小時待命的 AI 玩伴。
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ## 國際趨勢：世界各國在做什麼
@@ -97,7 +97,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 
 這不代表爸媽束手無策。反而代表我們要自己動手設定。
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ## 實戰設定：台灣爸媽的數位安全工具箱
@@ -122,7 +122,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 
 Screen Time 有一個限制值得知道：Screen Time 無法細緻過濾 YouTube 或 Safari 裡的個別內容。10歲以下的寶貝建議改用 YouTube Kids，而不是 YouTube 主應用程式。
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ### Google Family Link（適用 Android 裝置）
@@ -138,7 +138,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 
 注意：Family Link 綁定的是孩子的 Google 帳號。如果孩子用另一個帳號或無痕模式瀏覽，管控就會失效。對於動機強烈想繞過限制的大孩子（12歲以上），可能需要搭配路由器層級的過濾工具。
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ### YouTube Kids vs YouTube：搞清楚差別
@@ -150,7 +150,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 - **10-12歲**：用監護人監督的 YouTube 帳號，開啟限制模式
 - **13歲以上**：開始討論媒體識讀，而不只是設定過濾器
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ## 按年齡分階段：怎麼調整才對？
@@ -169,7 +169,7 @@ Family Link 或 Screen Time 全面啟動。沒有社群媒體。遊戲時間有�
 **16歲以上**
 純管控通常只會製造對立，不會增加安全感。這時候，有效的是家庭協議（例如：某些 App 不帶進臥室）加上持續的對話。
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ## 研究說什麼：什麼方式真的有效？
@@ -188,7 +188,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 
 想追蹤寶寶的發展進度？BloomPath 提供 224 個發展里程碑指標，橫跨 8 個發展領域，讓你清楚知道孩子的數位能力在整體發展中的位置。
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ## 立即行動清單
@@ -199,7 +199,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 - [ ] 確認孩子的社群媒體帳號（如有）設定為私人
 - [ ] 和孩子進行一次「如果在網路上看到奇怪的東西怎麼辦」的對話
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ## 常見問題
@@ -232,7 +232,7 @@ YouTube Kids 適合用到大約9-10歲。10-13歲的孩子可以改用監護人�
 
 最好的切入點是好奇心，而不是規定。試著問孩子：「你最近在看什麼頻道？」「你喜歡的 YouTuber 講什麼？」讓孩子帶你進入他的數位世界。當孩子分享了什麼，不要立刻評判或說教。如果孩子知道跟你說了也不會被罵，孩子下次遇到真正困擾的事情，才會願意告訴你。
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 *參考資料：*
@@ -310,7 +310,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 }
 </script>
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 ## 推薦閱讀與好物
@@ -319,7 +319,7 @@ heroImage: "/og/children-internet-safety-2026-zh.png"
 
 - [**The Anxious Generation（焦慮世代）** — Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — 台灣父母看網路安全議題，這本書提供了最完整的研究背景。
 
-heroImage: "/og/children-internet-safety-2026-zh.png"
+
 ---
 
 **延伸閱讀：**

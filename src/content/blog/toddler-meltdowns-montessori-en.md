@@ -9,12 +9,12 @@ category: "Montessori Education"
 affiliate: ["amazon", "lovevery"]
 type: "guide"
 ageGroup: ["toddler", "preschool"]
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+image: "/og/toddler-meltdowns-montessori-en.png"
 ---
 
 *Updated March 2026*
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -27,7 +27,7 @@ heroImage: "/og/toddler-meltdowns-montessori-en.png"
 - **What NOT to do:** Time-outs for children under 3, saying "stop crying," or ignoring the meltdown entirely — these undermine co-regulation and secure attachment.
 - **Meltdowns peak between 18 months and 3 years** and gradually become less frequent as language develops and the prefrontal cortex matures.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 It's a Tuesday afternoon. You're in the cereal aisle. Your two-year-old spots the box with the cartoon toucan on it, points, and says "dat one." You say no — gently, calmly — and keep pushing the cart.
@@ -38,7 +38,7 @@ She arches her back in the seat. The screaming begins at a volume that draws loo
 
 Here's what I want you to know: you didn't fail that moment. Your child didn't fail it either. What happened in that cereal aisle was completely, developmentally normal — and if you understand *why* it happens, you'll never dread it the same way again.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## What's Actually Happening in Their Brain
@@ -59,7 +59,7 @@ The child is not *deciding* to scream. She cannot access the rational circuitry 
 
 This isn't a phase to survive. It's a phase to understand.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## Why Montessori Says Meltdowns Are Actually Good News
@@ -78,7 +78,7 @@ The 0-to-6-year window is when the neural pathways for emotional regulation are 
 
 That is not a weight to carry anxiously. It's an invitation to show up.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## The 5-Step Montessori Approach
@@ -155,7 +155,7 @@ The repair is not about assigning blame or securing a promise of better behavior
 
 The repair is where the learning actually lives.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## What NOT to Do (And Why It Backfires)
@@ -172,7 +172,7 @@ This is perhaps the most instinctive thing to say, and one of the least helpful.
 
 Planned ignoring as a behavioral strategy has a limited and context-specific evidence base, and developmental experts like Dr. Daniel J. Siegel caution that consistently ignoring a child's emotional distress can disrupt secure attachment. There is an important distinction between not rewarding tantrum behavior with the desired object (appropriate) and withdrawing emotional presence from a distressed child (not appropriate for this age group).
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## Age-by-Age: What's Typical at Each Stage
@@ -189,7 +189,7 @@ Language is emerging rapidly, which is both wonderful and complicated. Your chil
 
 By this age, many children can have a brief, meaningful conversation about feelings *after* the storm has passed. The prefrontal cortex is building. This is when simple emotion vocabulary ("angry," "disappointed," "frustrated") starts to stick. Meltdowns at 3.5 are often more about power and autonomy — this is an age of intense drive for independence. Offering choices within limits ("do you want to put on your shoes first, or your coat?") can reduce the frequency significantly.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## When to Be Concerned
@@ -206,7 +206,7 @@ Most toddler tantrums fall well within the range of normal. But there are some p
 
 None of this is cause for alarm in isolation — but your instinct as a parent matters. If something feels off, follow that instinct to a conversation with your pediatrician.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## Tracking Emotional Development Over Time
@@ -219,7 +219,7 @@ If you want to track your child's emotional regulation development across time �
 
 Seeing the trend line matters. It turns "nothing is working" into "look how far we've come."
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## Frequently Asked Questions
@@ -248,7 +248,7 @@ Abrupt transitions away from screens are a very common meltdown trigger because 
 **How do I handle meltdowns in public when I feel everyone is watching?**
 Most other parents have been exactly where you are and feel sympathy, not judgment. Your job in public is the same as at home: stay regulated, get close, name the feeling, hold the limit. If needed, move to a quieter space — not as punishment, but to reduce stimulation. Your calm presence is more powerful than any audience.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 <script type="application/ld+json">
@@ -324,7 +324,7 @@ heroImage: "/og/toddler-meltdowns-montessori-en.png"
 }
 </script>
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 The way you respond to meltdowns today — with presence, with warmth, with limits that hold — is not just getting through a hard moment. It is building something. It is laying down the neural scaffolding for a child who will one day be able to feel a big feeling, name it, and move through it without being destroyed by it.
@@ -333,12 +333,12 @@ That doesn't happen in one grocery store aisle. It happens across thousands of o
 
 You're already in it. That means you're already doing it.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 *Next in this series: **10 Montessori Activities You Can Do Today With Things Already in Your Home** — practical, low-prep, and designed for the real home, not the Instagram one.*
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 ## Products We Recommend
@@ -348,7 +348,7 @@ heroImage: "/og/toddler-meltdowns-montessori-en.png"
 - [**No Bad Kids: Toddler Discipline Without Shame** by Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — Lansbury has helped thousands of parents (including me) stop dreading meltdowns and start responding with actual calm.
 - [**The Whole-Brain Child** by Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — The science behind why toddler meltdowns happen -- and what they tell us about their developing brains.
 
-heroImage: "/og/toddler-meltdowns-montessori-en.png"
+
 ---
 
 **Related Reading:**

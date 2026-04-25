@@ -6,7 +6,7 @@ tags: ["sleep", "toddler", "sleep regression", "brain development", "parenting t
 lang: "en"
 author: "Ethan Moore"
 draft: false
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+image: "/og/toddler-sleep-regression-guide-en.png"
 ---
 
 It was 2:17am. My daughter—who had been sleeping through the night for three months—was standing in her crib screaming like I'd stolen her stuffed elephant. I hadn't. Bruno was right there. She didn't want Bruno. She didn't want water. She didn't want me. Then she wanted ALL of those things at once.
@@ -17,12 +17,12 @@ It was normal. It was a sleep regression. And nobody had warned me it would hit 
 
 Here's what I know now: how you respond during these 2–6 weeks does more to shape your child's long-term relationship with sleep—and with you—than almost anything else in the toddler years. The regression itself is unavoidable. Your response is not.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 **TL;DR:** Sleep regressions at 18 months and 2 years are driven by massive brain [child development milestones](/en/blog/child-development-milestones-en), not bad habits or [positive parenting guide](/en/blog/positive-parenting-guide-en) failures. They typically last 2–6 weeks. The most effective strategies are predictability, earlier bedtimes (counterintuitive but true), and staying consistent—not sleep training all over again. Your child's brain is actually growing fastest during this exact chaos.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## Table of Contents
@@ -36,7 +36,7 @@ heroImage: "/og/toddler-sleep-regression-guide-en.png"
 - [The Counterintuitive Truth About Tired Toddlers](#counterintuitive)
 - [FAQ: Sleep Regression Questions Answered](#faq)
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## What Is a Sleep Regression, Actually? {#what-is-sleep-regression}
@@ -51,7 +51,7 @@ And here's what makes this actually matter: **How you show up during these regre
 
 The American Academy of Sleep Medicine notes that sleep architecture itself changes during developmental periods—toddlers cycle through light and deep sleep differently than they did as infants, and their growing awareness of the world means *everything* is more interesting than sleep.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## The Brain Science (Engineer Dad Edition) {#brain-science}
@@ -76,7 +76,7 @@ A 2026 review published in *Sleep Medicine Reviews* noted that slow-wave sleep a
 
 *Last updated: April 2026*
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## The Most Common Sleep Regression Ages {#ages}
@@ -98,7 +98,7 @@ I asked my wife (former early childhood educator, infinitely more patient than m
 
 She wasn't wrong.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## Signs You're In a Regression (Not Just a Bad Week) {#signs}
@@ -116,7 +116,7 @@ Look for all of these together, not just one:
 
 If the bad sleep has been gradual over weeks/months, or coincides with a big life change (new sibling, moving house, changing daycare), that's a different situation—likely not a regression.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## What Doesn't Work (And Why Parents Keep Trying It) {#doesnt-work}
@@ -133,7 +133,7 @@ I'm going to save you three weeks of misery with this list.
 
 **Adding stimulating activities before bed to tire them out.** Screen time, active play, or any "exhaust them" strategy within an hour of bedtime backfires by elevating cortisol levels, making it harder to fall asleep.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## 5 Strategies That Actually Help {#strategies}
@@ -182,7 +182,7 @@ This is the hardest part. Whatever your night-waking approach is—immediate com
 
 Confession: I messed this up completely during the 18-month regression. Sometimes I'd rush in at the first sound. Sometimes I'd let her fuss for 20 minutes first. She got more dysregulated, not less. We reset to a clear rule—3-minute wait, then one check-in, then reassurance—and things improved within 4 days.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## The Counterintuitive Truth About Tired Toddlers {#counterintuitive}
@@ -199,7 +199,7 @@ Think of it like a battery with a thermal runaway problem. Push it too hard, and
 
 Earlier bedtimes. Protected naps. That's the play.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## FAQ: Sleep Regression Questions Answered {#faq}
@@ -278,7 +278,7 @@ Cortisol. Overtired = stress response activated = harder to sleep. This is the "
 **How can I tell if it's regression vs. a sleep problem?**
 Regression = sudden onset, new developmental skills emerging, good sleep history before. Sleep problem = gradual decline, no skill burst, possibly linked to a life change or medical issue.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## You're Not Failing
@@ -295,19 +295,19 @@ Predictable routine. Earlier bedtime. Consistent response. Give it 2–3 weeks.
 
 You're raising a brilliant, curious, developmentally on-track kid. That's who's screaming at 2am. Keep showing up.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 **Compare notes with other parents.** In the BloomPath community, parents track developmental milestones and connect around exactly these moments. [See how your child's development maps](https://bloompath.quakr.dev) across 224 indicators—including sleep-linked developmental leaps.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 *Wondering how your toddler's development stacks up across other domains? [BloomPath](https://bloompath.quakr.dev) tracks 224 developmental milestones and flags when sleep disruptions correlate with growth leaps—so you know you're on track.*
 
 *Data sources: American Academy of Sleep Medicine guidelines; Sleep Medicine Reviews (2026); Taking Cara Babies developmental research summaries; Nature npj Biological Timing and Sleep (2026).*
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 ## Products We Recommend
@@ -317,7 +317,7 @@ heroImage: "/og/toddler-sleep-regression-guide-en.png"
 - [**The Happy Sleeper** by Heather Turgeon & Julie Wright](https://www.amazon.com/dp/0399166025?tag=bloompath-20) — The book we actually used. Science-based, kind, and -- rare for sleep books -- actually respects both the child and the parents' sanity.
 - [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Emily Oster's evidence-based look at sleep training myths and realities. Perfect if you're paralyzed by conflicting advice.
 
-heroImage: "/og/toddler-sleep-regression-guide-en.png"
+
 ---
 
 **Related Reading:**

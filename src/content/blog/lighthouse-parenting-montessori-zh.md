@@ -6,7 +6,7 @@ tags: ["燈塔式育兒", "燈塔父母", "孩子韌性培養", "蒙特梭利育
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+image: "/og/lighthouse-parenting-montessori-zh.png"
 ---
 
 我當爸之前，以為愛就是保護。
@@ -19,7 +19,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 
 我沒有惡意。但孩子的大腦記住的是那個訊息。
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 *本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
 
@@ -37,7 +37,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 ✅ 自我評估表：你現在是幾分的燈塔父母？
 ✅ 3 件你今天就能開始做的事
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 目錄
@@ -51,7 +51,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 - [推薦書單](#推薦書單)
 - [常見問題](#常見問題)
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 什麼是燈塔式育兒？
@@ -71,7 +71,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 - **《Frontiers in Psychology》研究**：支持性親子關係顯著提升青少年情緒調節能力，同時減少攻擊性行為和憂鬱症狀，增加親社會行為。
 - **Dr. Ginsburg 30 年縱向追蹤**：在愛與期待之間取得平衡的孩子，更可能達到學業潛能，且情緒健全，在青少年期傾向做出更安全的選擇。
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 燈塔 vs. 直升機 vs. 放任
@@ -94,7 +94,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 
 很多跟我聊過的台灣爸媽說同一件事：「我知道我保護太多，但我不知道要怎麼放手。」這篇文章就是為你寫的。
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 7 個 C——培養韌性的核心框架
@@ -150,7 +150,7 @@ Dr. Ginsburg 的研究提出 7 個培養孩子韌性的核心要素，他稱之�
 
 **方法：** 給選擇，不給命令。「要先洗澡還是先刷牙？」兩個都可以，但孩子選的。這個小小的選擇，對孩子的自主感貢獻很大。
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 蒙特梭利早就這樣做了
@@ -178,7 +178,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 
 兩個系統，一個核心信念：**孩子天生就有能力，只要我們相信他們，然後放手讓他們試。**
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 今天就能做的 3 件事
@@ -194,7 +194,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 **第三件：今天給兩個選擇。**
 「要穿紅色還是藍色？」「要先整理玩具還是先洗手？」選項都是你設定的，但選擇是孩子的。這個小習慣，每天累積孩子的 Control 感。
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 自我評估
@@ -215,14 +215,14 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 **20-29 分：** 你在對的方向，選 1 個最低分的項目，這週專注加強。
 **7-19 分：** 大多數人剛開始都在這裡。挑一件事，從今天做起——哪怕只是「等 10 秒」。
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 **重要提醒：0-6 歲是大腦可塑性最高的黃金窗口期。**神經科學研究顯示，這段時間建立的情緒調節神經迴路，對孩子未來面對挫折的能力影響最深。不是說 6 歲之後改不了——而是現在投入的每一分努力，效益是最大的。
 
 想把燈塔育兒落地到日常生活？[BloomPath App](https://bloompath.quakr.dev) 有 224 個發展指標追蹤、每日蒙特梭利活動任務（5-15 分鐘）、以及 AI 育兒顧問——幫你把 7 個 C 變成每天的具體行動，而不只是理論。
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 推薦書單
@@ -241,7 +241,7 @@ by Dr. Kenneth Ginsburg — 更深入的學術版，適合想徹底理解韌性�
 by Janet Lansbury — 蒙特梭利觀點的幼兒行為解讀，和燈塔式育兒概念非常搭，實用度超高。
 [在 Amazon 查看](https://www.amazon.com/dp/0593736133?tag=bloompath-20)
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 ## 常見問題
@@ -261,7 +261,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 **台灣學習環境很競爭，燈塔式育兒對學業成績有幫助嗎？**
 Dr. Ginsburg 的長期研究顯示，有韌性的孩子在長期學業成就上表現更好——因為他們有內在動機和面對挫折的能力，而不只靠外部壓力驅動。補習是戰術，韌性才是戰略。
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 你在這裡讀到最後，代表你在認真思考怎麼當更好的父母。
@@ -272,7 +272,7 @@ heroImage: "/og/lighthouse-parenting-montessori-zh.png"
 
 **明天繼續：** [如何辨別你是否是直升機父母——7 個容易忽略的跡象](#)
 
-heroImage: "/og/lighthouse-parenting-montessori-zh.png"
+
 ---
 
 *最後更新：2026 年 4 月 17 日。本文所有育兒建議以研究為基礎，並定期更新以反映最新文獻。育兒決策請同時諮詢兒科醫師或專業輔導人員。*

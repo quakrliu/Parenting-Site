@@ -7,7 +7,7 @@ lang: "zh-TW"
 tags: ["蒙特梭利", "台灣學校", "選校", "實驗教育", "教育"]
 keywords: ["台北蒙特梭利學校推薦", "台灣蒙特梭利幼兒園", "Montessori台灣費用", "蒙特梭利實驗教育"]
 ageGroup: ["infant", "toddler", "preschool"]
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+image: "/og/taipei-montessori-schools-guide-zh.png"
 ---
 
 # 台灣蒙特梭利學校完整指南 2026 — 選校攻略、費用與各年齡建議
@@ -19,7 +19,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 - 本文整理台灣真正實踐蒙特梭利的學校：TMIS長華、T.I.M.E.S、Y2MAC等
 - 各校適合年齡、費用、教學特色完整比較
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 *本文為[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)系列文章。*
 
@@ -30,7 +30,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 
 這篇文章幫你整理台灣目前幾個真正在實踐蒙特梭利教育的學校，讓你在做選擇前有清楚的輪廓。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 先搞清楚一件事：「蒙特梭利」不是受保護的品牌
@@ -44,7 +44,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 - **孩子有沒有至少 2-3 小時不被打斷的工作時間？** 蒙特梭利的「工作時段」（work period）是核心，如果一天都是老師主導的課程，那不是蒙特梭利。
 - **有沒有準備環境（prepared environment）？** 教具要符合孩子身高、隨時可取用、按序排列。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 台灣蒙特梭利學校的法律框架：「實驗教育」
@@ -53,7 +53,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 
 這也是為什麼你會看到部分蒙特梭利學校的全名裡有「實驗教育機構」幾個字。這是一個制度上的認可，不是「尚在實驗中」的意思。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 台灣主要蒙特梭利學校介紹
@@ -81,7 +81,7 @@ TMIS 是目前台灣提供最完整年齡段蒙特梭利教育的學校之一，
 
 **費用：** 官網未公開，需直接洽詢。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ### 2. T.I.M.E.S — Taiwan International Montessori Experimental School
@@ -106,7 +106,7 @@ T.I.M.E.S 於 2017 年 8 月創立，以「台灣中英雙語沉浸式蒙特梭�
 
 **費用：** 官網未公開，需直接洽詢。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ### 3. Y2MAC — Y2 蒙特梭利青少年社區
@@ -132,7 +132,7 @@ Y2MAC 於 2022 年 9 月成立，由紐澳蒙特梭利教育專家 Jan Gaffney �
 
 **費用：** 設有獎學金制度，費用需洽詢 contact@y2edu.org 或 (02) 8751-9695。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 其他值得關注的蒙特梭利資源
@@ -147,7 +147,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 
 除了上述學校，台灣各縣市陸續有公立學校試辦蒙特梭利實驗教育班。這些計畫的規模和深度各不相同，但收費通常遠低於私立機構。如果你所在的縣市有此類計畫，值得深入了解。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 費用透明度：一個誠實的說明
@@ -165,7 +165,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 
 **重要說明：** 以上為估算區間，僅供預算規劃參考，非各校實際收費。各校費用請直接洽詢學校。部分學校設有獎學金或分期付款方案。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 選校建議：按孩子年齡
@@ -205,7 +205,7 @@ TMIS 也有合作的 Mi Casa（1-3 歲）和 Preschool（3-6 歲）課程，可�
 - **Y2MAC**（新竹縣竹東，住宿制，12-18 歲，英語為主，最接近 Montessori 青少年社區理想型態）
 - **考量重點：** 是否提供真實的職業/社區實習機會；孩子對住宿的準備程度（Y2MAC）；英語能力是否足夠跟上英語授課（Y2MAC）
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 「掛名蒙特梭利」的警示訊號
@@ -219,7 +219,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 - **強調孩子什麼時候會認字算術**，而不是談孩子的學習過程
 - **不讓家長觀課**（蒙特梭利學校通常歡迎事先安排的觀課）
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 蒙特梭利適合我的孩子嗎？三個真實的問題
@@ -236,7 +236,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 
 這個問題沒有統一答案。蒙特梭利的「回報」不是靠成績衡量的，而是靠孩子長期的學習態度、自律能力、和對學習的熱情。如果你認同這些是重要的，且財務上有承擔能力，那性價比是高的。如果家庭財務壓力大，勉強送孩子進昂貴學校但生活品質大受影響，可能得不償失——在家實踐蒙特梭利原則加上一所好的普通學校，也是有意義的選擇。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 在家補充：蒙特梭利可以不只在學校
@@ -250,7 +250,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 
 想追蹤寶貝在各個發展領域的里程碑，並每天獲得蒙特梭利啟發的活動建議？**BloomPath**（[bloompath.quakr.dev](https://bloompath.quakr.dev)）提供 224 個發展指標追蹤 + 每日三個蒙特梭利活動建議，讓你在家也能有方向。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 常見問題 FAQ
@@ -279,12 +279,12 @@ A：關鍵問題：師資是否持有 AMI 或 AMS 認證？是否有混齡班級
 
 A：兩者都在台北，都是正規蒙特梭利學校。主要差異：TMIS 提供從小學到高中的完整年齡段，T.I.M.E.S 以 AMI 認證著稱且有幼兒班（3 歲起）。最好的方式是親自參觀兩所學校，感受環境和師資的風格是否與家庭理念相符。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 *明天繼續：「蒙特梭利在家怎麼做？0-6 歲環境準備完整指南」*
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 <script type="application/ld+json">
@@ -336,7 +336,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 }
 </script>
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 ## 推薦閱讀與好物
@@ -345,7 +345,7 @@ heroImage: "/og/taipei-montessori-schools-guide-zh.png"
 
 - [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 台北蒙特梭利家長的共同推薦——讓你帶著這本書去參觀學校，問出對的問題。
 
-heroImage: "/og/taipei-montessori-schools-guide-zh.png"
+
 ---
 
 **延伸閱讀：**

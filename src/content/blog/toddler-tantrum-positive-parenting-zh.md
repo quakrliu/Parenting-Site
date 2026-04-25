@@ -6,7 +6,7 @@ tags: ["正向教養", "幼兒情緒", "發脾氣", "情緒管理", "蒙特梭�
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+image: "/og/toddler-tantrum-positive-parenting-zh.png"
 ---
 
 那天在全聯。
@@ -19,14 +19,14 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 那是我第一次用[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)應對發脾氣——不是因為我很厲害，是因為我之前試過的每一招都失敗了。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 *本文為[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)系列文章。*
 
 
 **TL;DR：** [幼兒睡眠退化指南](/en/blog/toddler-sleep-regression-guide-en)是大腦發育中的正常現象，不是「壞孩子」的標誌。3 個正向教養步驟：① 先讓自己冷靜 → ② 命名情緒，給孩子安全感 → ③ 設立界線，不妥協但有溫度。3 歲前是情緒神經迴路建立的黃金期，這段時間你的反應方式會影響孩子一生的情緒調節能力。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ## 目錄
@@ -37,7 +37,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 - [預防勝於治療：日常建立情緒容忍度](#prevention)
 - [常見問題 FAQ](#faq)
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ## 為什麼孩子會發脾氣？腦科學告訴你 {#brain-science}
@@ -58,7 +58,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 *資料更新：2026 年 4 月*
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ## 你現在可能踩到的「雷區」反應 {#mistakes}
@@ -87,7 +87,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 孩子在情緒風暴中，前額葉皮質幾乎是「下線」狀態。此時說道理，等於對著一台正在當機的電腦輸入指令。什麼都不會進去。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ## 3 步驟情緒急救法（今天就能用）{#three-steps}
@@ -96,7 +96,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 這套方法結合了 Jane Nelsen 的正向管教（Positive Discipline）和 Dan Siegel 的「連結再重定向」理論。我把它簡化成每次在現場能記得的三個步驟。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ### Step 1：先讓自己的大腦冷靜（3 秒）
@@ -110,7 +110,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 **今天就可以試試的台詞：**
 > 「我知道你現在很不舒服。」（對自己說，同時也對孩子說）
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ### Step 2：命名情緒（連結先於重定向）
@@ -132,7 +132,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 不是魔法，是神經科學。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ### Step 3：設立界線，不妥協但有溫度
@@ -151,7 +151,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 這個步驟不保證孩子馬上開心。他可能繼續哭。沒關係。你的工作不是讓他立刻快樂，而是讓他學到：情緒可以被感受，但行為有界線。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ## 預防勝於治療：日常建立情緒容忍度 {#prevention}
@@ -189,7 +189,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 疲憊的爸媽，沒有辦法持續給出「堅定 + 友善」的回應。所以照顧自己不是自私，是維持系統運作的前提。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ## 常見問題 FAQ {#faq}
@@ -259,7 +259,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 **想追蹤寶貝的情緒發展？** [BloomPath](https://bloompath.quakr.dev) 追蹤 224 項發展指標，包含情緒調節和社交發展域，幫助你知道孩子的發展是否在正常軌道上。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ## 最後想說的
@@ -274,17 +274,17 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 
 你在讀這篇文章，就已經說明你是一個認真的爸媽。持續練習就夠了。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 明天繼續：**幼兒睡前哭鬧拒絕上床？5 個讓孩子愛上睡覺時間的方法**
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 *參考來源：Daniel Siegel《The Whole-Brain Child》；Jane Nelsen《Positive Discipline》；教育部幼兒發展調查報告；國立陽明交通大學腦科學研究資料*
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 ## 推薦閱讀與好物
@@ -294,7 +294,7 @@ heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
 - [**No Bad Kids（沒有壞孩子）** — Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — 針對1-3歲的崩潰行為，這是目前最實用的正向教養指南。沒有說教，只有可以馬上用的方法。
 - [**The Whole-Brain Child（全腦教養法）** — Daniel J. Siegel & Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — 從腦科學角度解釋崩潰為什麼會發生——讀懂了，你對孩子的憤怒會少很多。
 
-heroImage: "/og/toddler-tantrum-positive-parenting-zh.png"
+
 ---
 
 **延伸閱讀：**

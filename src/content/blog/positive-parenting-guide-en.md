@@ -5,7 +5,7 @@ pubDate: 2026-04-01
 lang: en
 tags: ["positive parenting", "positive parenting techniques", "emotion coaching children", "positive discipline", "natural consequences parenting", "intrinsic motivation kids", "janet lansbury positive parenting"]
 ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
-heroImage: "/og/positive-parenting-guide-en.png"
+image: "/og/positive-parenting-guide-en.png"
 ---
 
 # Positive Parenting: The Complete Guide
@@ -22,7 +22,7 @@ heroImage: "/og/positive-parenting-guide-en.png"
 9. [BloomPath & Positive Parenting](#bloompath)
 10. [FAQ](#faq)
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## Key Takeaways
@@ -33,7 +33,7 @@ heroImage: "/og/positive-parenting-guide-en.png"
 - **The key phrase: "I know you want X. AND the answer is no."** Using "and" instead of "but" holds both the child's feelings and the boundary as real.
 - **Children raised with authoritative parenting** show better emotional regulation, higher academic achievement, and lower anxiety compared to authoritarian or permissive styles (Baumrind, 1966; replicated many times since).
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 The first time I heard the phrase "positive parenting," I assumed it was about being nice. Calm voice, patient smile, gentle redirects. A kind of parenting that would, presumably, work beautifully until your toddler threw a full plate of pasta on the floor and refused to apologize.
@@ -46,7 +46,7 @@ The evidence is compelling: children raised with authoritative, connection-based
 
 This guide covers the core techniques, the research, and how to actually apply all of it when you're exhausted at 6 PM on a Tuesday.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 1. What Positive Parenting Actually Is {#what-it-is}
@@ -64,7 +64,7 @@ The three pillars:
 
 What makes positive parenting distinct is the *why* behind the limits. The goal isn't compliance for its own sake — it's internalization. You want your child to eventually not hit their sibling because they understand impact and empathy, not because they fear punishment.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 2. The Research Behind It {#research}
@@ -79,7 +79,7 @@ Key findings from more recent research:
 
 None of this means positive parenting is magic or that it never fails. It means the principles it rests on are well-supported and worth understanding.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 3. Core Techniques: Emotion Coaching {#emotion-coaching}
@@ -102,7 +102,7 @@ The counterintuitive discovery from Gottman's research: children with emotion-co
 
 **Practice point:** When your child is upset, your first job is not to solve the problem. It's to make contact with the emotion. The problem can wait two minutes.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 4. Limits Without Punishment {#limits}
@@ -131,7 +131,7 @@ Punishments — especially physical punishment and harsh verbal criticism — wo
 
 Not "but" — "and." "But" dismisses. "And" holds both things true simultaneously. The child's desire is valid; the limit also stands.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 5. Natural and Logical Consequences {#consequences}
@@ -154,7 +154,7 @@ What makes a consequence logical: it's Related, Respectful, and Reasonable (the 
 
 The test: would a reasonable, caring adult outside of parenting find this response sensible and fair? Or does it feel like "because I'm the parent and I can"?
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 6. Building Intrinsic Motivation {#motivation}
@@ -174,7 +174,7 @@ The classic study: children who loved drawing were given prizes for drawing. Lat
 
 This feels awkward at first. You want to say "you're amazing!" and "so smart!" Catch yourself and shift to: "You figured that out." "You didn't give up." "You tried a different way."
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 7. Age-Specific Application {#by-age}
@@ -205,7 +205,7 @@ Peers matter more. The parent-child relationship is still primary and still shap
 
 **Focus:** Family meetings (collaborative problem-solving), more complex conversations about values and impact, supporting peer conflict navigation rather than solving it for them.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 8. What Positive Parenting Is NOT {#what-its-not}
@@ -220,7 +220,7 @@ heroImage: "/og/positive-parenting-guide-en.png"
 
 **Not painless.** Holding a limit while your child cries feels terrible. Letting natural consequences unfold while your child suffers is hard. Positive parenting isn't the path of least short-term resistance.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## 9. BloomPath & Positive Parenting {#bloompath}
@@ -229,7 +229,7 @@ Understanding your child's developmental stage makes positive parenting dramatic
 
 The [BloomPath app](https://bloompath.quakr.dev) AI Parenting Advisor gives you on-demand guidance for specific situations — "my 2-year-old keeps hitting, what do I do?" — with responses calibrated to your child's actual developmental stage, not a generic script.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## FAQ {#faq}
@@ -246,7 +246,7 @@ A: You did. And so did many people raised with harsher approaches. The research 
 **Q: How do I handle it when my child's other parent doesn't use positive parenting?**
 A: Consistency helps, but it isn't everything. A child who has one consistently warm, authoritative parent develops meaningfully better than a child with none. You don't have to convince anyone — model it, and let the results speak.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 <script type="application/ld+json">
@@ -282,12 +282,12 @@ heroImage: "/og/positive-parenting-guide-en.png"
 }
 </script>
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 *Tomorrow: [Child Development Milestones: The Complete Guide (0–6 Years)](/guides/child-development-milestones-guide) — what's typical, what to watch for, and when to talk to your pediatrician.*
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 ## Products We Recommend
@@ -298,7 +298,7 @@ heroImage: "/og/positive-parenting-guide-en.png"
 - [**No Bad Kids: Toddler Discipline Without Shame** by Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — The OG of calm, respectful toddler parenting. Clear, practical, and non-preachy.
 - [**Raising Good Humans** by Hunter Clarke-Fields](https://www.amazon.com/dp/1684035201?tag=bloompath-20) — Brings mindfulness into daily parenting without being annoying about it. Useful if you grew up in a high-stress household.
 
-heroImage: "/og/positive-parenting-guide-en.png"
+
 ---
 
 **Related Reading:**

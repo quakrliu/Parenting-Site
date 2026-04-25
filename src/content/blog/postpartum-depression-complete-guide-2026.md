@@ -5,11 +5,10 @@ pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 author: "Ethan Moore"
 tags: ["產後憂鬱症症狀", "產後情緒低落怎麼辦", "postpartum depression台灣", "產後心理健康", "新手媽媽"]
-image: "/images/postpartum-depression-guide.jpg"
 imageAlt: "產後憂鬱症完整指南"
 lang: "zh-TW"
 ageGroup: ["infant"]
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+image: "/og/postpartum-depression-complete-guide-2026.png"
 ---
 
 # 產後憂鬱症完整指南：妳不孤單
@@ -23,14 +22,14 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 - 2026 年最新治療選項（包含 zuranolone 口服新藥）
 - 如何向家人開口，以及台灣立即可用的求助資源
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 **如果妳現在正在痛苦中，請先記住這一句話：**
 
 > 妳所感受到的一切——空洞、疲憊、罪惡感、眼淚——不是妳的錯，也不代表妳不愛妳的孩子。這是一種疾病，而且是可以治療的。
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 數字背後的真實
@@ -45,7 +44,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 這份指南的目的，是打破沉默。
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 產後情緒：「Baby Blues」vs 產後憂鬱症 vs 產後精神病
@@ -61,7 +60,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 **需要的：** 充分休息、家人陪伴與支持；**無需藥物治療**
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ### 2. 產後憂鬱症（Postpartum Depression, PPD）
@@ -73,7 +72,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 **需要的：** **專業醫療介入**，包括心理治療和/或藥物治療
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ### 3. 產後精神病（Postpartum Psychosis）
@@ -85,7 +84,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 **⚠️ 緊急狀況：** 這是精神科急症，**需立即就醫**
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 產後憂鬱症的症狀：不只是「很傷心」
@@ -114,7 +113,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 **重要：** 若妳有傷害自己或寶寶的念頭，請立即告訴家人或就醫。這些念頭是症狀的一部分，告訴別人是保護自己和寶寶最勇敢的行為。
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 誰更容易罹患產後憂鬱症？
@@ -130,7 +129,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 - 非計畫性懷孕
 - 生產創傷或剖腹產後恢復不順
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## [爸爸育兒的重要性](/zh/blog/daddy-role-in-parenting-zh)也會得產後憂鬱症
@@ -141,7 +140,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 一位台灣新手爸爸曾說：「孩子出生後三個月，我幾乎每天都想藉由加班逃開家裡。後來心理師告訴我那是爸爸版的產後憂鬱，我才知道這個感受不是只有我。」
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 2026年治療新進展
@@ -181,7 +180,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 - 充足睡眠（需家人輪流照顧才能實現）
 - 支持性社群團體
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 為什麼那麼多媽媽不願意說出口？
@@ -200,7 +199,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 治療媽媽的憂鬱症，不只讓媽媽好起來——也讓孩子有一個情緒穩定的母親，降低孩子日後出現情緒及行為問題的風險（MGH Center for Women's Mental Health, 2026）。
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 如何向家人開口？
@@ -213,7 +212,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 如果對方不理解，請不要放棄——直接聯繫以下資源。
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 台灣心理健康求助資源
@@ -237,7 +236,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 - 台灣各縣市衛生局有提供**新手[家長職業倦怠](/en/blog/parental-burnout-solutions-2026)支持課程**及家訪服務，可詢問您當地的衛生所
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 給另一半、家人的話
@@ -256,7 +255,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 - ❌ 「妳不覺得對孩子很不公平嗎？」
 - ❌ 把她一個人留下來處理情緒
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 給正在掙扎中的妳
@@ -269,12 +268,12 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 **妳也可以。**
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 **醫療免責聲明：** 本文提供衛教資訊，不構成醫療診斷或建議。若您懷疑自己有產後憂鬱症，請諮詢婦產科、精神科或家庭醫師。
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## 常見問題 FAQ
@@ -311,7 +310,7 @@ Zuranolone（Zurzuvae）於 2023 年獲 FDA 批准，截至 2026 年在台灣仍
 
 部分較輕微的產後憂鬱症可能在數月後自行緩解，但未經治療的中重度產後憂鬱症可能持續一年以上。延誤治療不僅影響媽媽的恢復，也增加孩子長期情緒發展受影響的風險。及早治療是對自己和孩子最好的選擇。
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 **資料來源：**
@@ -395,7 +394,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 }
 </script>
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 ## Products We Recommend
@@ -404,7 +403,7 @@ heroImage: "/og/postpartum-depression-complete-guide-2026.png"
 
 - [**Peaceful Parent, Happy Kids** by Dr. Laura Markham](https://www.amazon.com/dp/0399167897?tag=bloompath-20) — Practical tools for managing the emotional weight of new parenthood -- gentle entry point when you're running on empty.
 
-heroImage: "/og/postpartum-depression-complete-guide-2026.png"
+
 ---
 
 **Related Reading:**

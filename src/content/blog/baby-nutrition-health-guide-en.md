@@ -5,7 +5,7 @@ pubDate: "2026-04-01"
 lang: en
 tags: ["baby nutrition", "starting solids", "baby led weaning", "infant feeding guide", "toddler nutrition", "when to start solids", "BLW guide", "baby food introduction", "first foods baby"]
 ageGroup: ["infant", "toddler"]
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+image: "/og/baby-nutrition-health-guide-en.png"
 ---
 
 # Baby & Toddler Nutrition: The Complete Guide (0–3 Years)
@@ -22,7 +22,7 @@ heroImage: "/og/baby-nutrition-health-guide-en.png"
 9. [Red Flags & When to Consult a Professional](#red-flags)
 10. [FAQ](#faq)
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## Key Takeaways
@@ -33,7 +33,7 @@ heroImage: "/og/baby-nutrition-health-guide-en.png"
 - **Neither puree nor BLW is definitively superior.** What matters most: variety of foods offered, responsive feeding (following hunger/fullness cues), and iron-rich foods early.
 - **Ellyn Satter's Division of Responsibility:** Parent decides what, when, and where. Child decides whether and how much. Pressuring, forcing, or rewarding eating consistently makes food issues worse.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 Feeding a baby is one of the most anxiety-laden parts of early parenting — and one of the most heavily marketed.
@@ -44,7 +44,7 @@ Let's start with what we actually know.
 
 The research on early nutrition is clearer on some things than others. Where the evidence is strong, we'll tell you. Where there's genuine uncertainty, we'll say that too. No "guaranteed" outcomes from specific feeding approaches.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 1. The First Food: Breastmilk & Formula (0–6 months) {#first-food}
@@ -72,7 +72,7 @@ Modern infant formula is a nutritionally complete, safe, and developmentally app
 
 **What you don't need:** specialty formulas marketed for fussiness, gas, or colic unless specifically recommended by your pediatrician for diagnosed reflux or milk protein allergy. These are frequently marketed well beyond their evidence base.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 2. When to Start Solids {#when-to-start}
@@ -91,7 +91,7 @@ The older recommendation of 4 months has been updated based on research showing:
 
 Don't start solids before 4 months under any circumstances. The 4–6 month window is where individual variation lives; 6 months is the general target.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 3. Puree vs. Baby-Led Weaning: What the Research Says {#blw-vs-puree}
@@ -111,7 +111,7 @@ Baby-Led Weaning (BLW) means offering soft, appropriately sized pieces of real f
 
 **Safety note for BLW:** All foods should pass the "squish test" — you should be able to squish a piece between your fingers. Size should be strip or finger-shaped initially, not small coins or spheres. Seat baby upright. Never leave baby unattended while eating.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 4. Feeding Timeline: 6 Months to 3 Years {#feeding-timeline}
@@ -153,7 +153,7 @@ Most of what your family eats (appropriately prepared) is now appropriate for ba
 
 Three meals, 2–3 snacks per day. Family meals remain the most powerful context for developing healthy eating patterns.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 5. The Allergen Introduction Question {#allergens}
@@ -170,7 +170,7 @@ The research on allergen introduction has changed significantly in the past deca
 - For infants with severe eczema or existing egg allergy — consult your pediatrician before peanut introduction (LEAP study identified these as higher-risk; guided introduction is recommended)
 - Introduce one new food every 3–5 days so that any reaction can be traced to a specific food
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 6. Common Nutrition Concerns {#common-concerns}
@@ -207,7 +207,7 @@ Evidence-based approaches:
 - Avoid pressure, force, or rewards for eating — these consistently make food issues worse
 - Serve the rejected food alongside one accepted food at every meal
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 7. What Toddlers Actually Need {#toddler-nutrition}
@@ -223,7 +223,7 @@ Toddler nutritional needs are smaller than most parents expect. A 2-year-old nee
 
 **The biggest mistake:** Giving toddlers too much milk or juice, which displaces solid food intake and reduces exposure to the variety needed for nutritional adequacy and palate development. Maximum: 16–24 oz milk, 4–6 oz juice (or no juice) per day.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 8. Division of Responsibility in Feeding {#dor}
@@ -238,7 +238,7 @@ When parents try to take over the child's job — pressuring them to eat, restri
 
 The hardest thing: trusting your child's appetite signals. Children who are offered a variety of nutritious foods at regular intervals and are allowed to eat to their own hunger and satiation cues, maintain healthy intake over time — even if any single meal looks insufficient.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 9. Red Flags & When to Consult a Professional {#red-flags}
@@ -255,7 +255,7 @@ heroImage: "/og/baby-nutrition-health-guide-en.png"
 - **Registered dietitian with pediatric specialization:** For complex nutrition concerns, growth worries, or special dietary needs
 - **Allergist:** For confirmed or suspected food allergies beyond mild reactions
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## 10. BloomPath & Nutrition Tracking {#bloompath}
@@ -264,7 +264,7 @@ The [BloomPath app](https://bloompath.quakr.dev) tracks developmental milestones
 
 If you have questions about specific feeding challenges, the AI Parenting Advisor can provide guidance calibrated to your child's current developmental stage.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## FAQ {#faq}
@@ -281,7 +281,7 @@ A: When the selectivity is severe (eating fewer than 10 foods total, and that nu
 **Q: Is organic baby food worth the extra cost?**
 A: The evidence for health benefits of organic vs. conventional produce for infants is not strong enough to justify the premium in most cases. More important: variety of foods offered (the nutritional and flavor exposure matters more than organic status), avoiding high-mercury fish (shark, swordfish, king mackerel, tilefish), and following standard food safety practices.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 <script type="application/ld+json">
@@ -317,12 +317,12 @@ heroImage: "/og/baby-nutrition-health-guide-en.png"
 }
 </script>
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 *Back to start: [Montessori at Home Guide](/guides/montessori-at-home-guide) — the complete guide to [Montessori at home activities](/en/blog/montessori-activities-at-home-en) principles, age-by-age activities, and room setup.*
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 ## Products We Recommend
@@ -332,7 +332,7 @@ heroImage: "/og/baby-nutrition-health-guide-en.png"
 - [**Real Baby Food** by Jenna Helwig](https://www.amazon.com/dp/076238133X?tag=bloompath-20) — 100+ simple recipes designed for babies and toddlers. We used this constantly during the BLW phase.
 - [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — The evidence-based breakdown on what actually matters in feeding choices -- without the guilt.
 
-heroImage: "/og/baby-nutrition-health-guide-en.png"
+
 ---
 
 **Related Reading:**

@@ -10,14 +10,14 @@ tags: ["teen digital safety", "social media", "parenting teens", "positive paren
 author: "Ethan Moore"
 affiliate: ["bark", "circle", "the-anxious-generation"]
 ageGroup: ["school", "teen"]
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+image: "/og/australia-teen-social-media-ban-parents-guide-en.png"
 ---
 
 <!-- SCHEMA: FAQPage + Article JSON-LD — see end of file -->
 
 **TL;DR:** Australia banned social media for under-16s in December 2025 -- the first national ban worldwide. Ten more countries are following. Teens spending 3+ hours daily on social media face double the risk of depression (U.S. Surgeon General). But the most surprising finding: teens with strong [positive parenting teens](/en/blog/positive-parenting-guide-en)al relationships showed only 2% suicidal ideation vs. 22% without, regardless of [screen time research in 2026](/en/blog/screen-time-2026-guide-en). Your relationship with your teen may matter more than their phone settings. Two tools worth considering: Bark (content monitoring) and Circle (time management).
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 *This article is part of our [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide-en).*
 
@@ -36,7 +36,7 @@ This article isn't going to tell you what to think. I'm an engineer dad, not a p
 
 By the time you finish reading this, you'll know: what the law actually does (and doesn't do), what the research says about teens and social media, why even UNICEF *opposes* the ban, and what positive parenting looks like in a screen-saturated world. Including two specific tools that might actually help.
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## What Australia's Law Actually Does (and Doesn't Do)
@@ -61,7 +61,7 @@ The law is called the *Online Safety Amendment (Social Media Minimum Age) Act 20
 
 **Engineering take:** It's like building a fence around a swimming pool. It stops the accidental falls. It doesn't stop a determined 15-year-old with a VPN and their cousin's email address.
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## The Global Wave You Need to Know About
@@ -81,7 +81,7 @@ Australia didn't act in isolation. As of March 2026, here's what's happening glo
 
 **Social influence signal for parents:** You are not alone in wondering whether to restrict your teen's social media. Governments across five continents are asking the same question. Whatever decision you make for your family, you're part of the largest conversation about childhood and technology in a generation.
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## What the Research Actually Says
@@ -116,7 +116,7 @@ Same screen time. Radically different outcome.
 
 Your relationship with your teen may matter more than how many hours they're on their phone. I don't say that to guilt-trip anyone (I had three 30-minute stress-yelling sessions last month, so I'm not exactly winning Dad of the Year). I say it because it shifts what we should be focused on.
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## The Ban Debate: Two Reasonable Camps
@@ -149,7 +149,7 @@ The Brookings Institution raised another concern: bans may push teen activity to
 
 Most experts I read advocated for *both*: meaningful age restrictions *and* active digital literacy education. Not one or the other.
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## What Positive Parenting Looks Like Here
@@ -195,7 +195,7 @@ A few things worth deciding together:
 
 BloomPath's AI Parenting Advisor can help you draft and iterate on these conversations based on your teen's specific age and situation — [worth exploring if you're not sure where to start](https://bloompath.quakr.dev).
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## Two Tools That Actually Help (Honest Review)
@@ -234,7 +234,7 @@ Where Bark is about content monitoring, Circle is about time boundaries. You can
 
 [Find it on Amazon →](https://www.amazon.com/dp/0593655036) *(Amazon Associates link)* | [博客來 →](https://www.books.com.tw)
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## FAQ: Your Questions Answered
@@ -279,7 +279,7 @@ Start with genuine curiosity, not interrogation. Ask how social media makes them
 
 Warning signs include: turning down in-person activities to stay online (40% of children do this — Internet Matters, 2026), using platforms even when not enjoying them (46% of children report this), sleep disruption, increased anxiety or low mood after phone use, or social comparison comments about peers' looks or lives.
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## The Part I Keep Coming Back To
@@ -292,12 +292,12 @@ I still have rules in our house. No phones at dinner. Off at 10 PM. I use Bark. 
 
 You're here reading this. You looked up the research. That already makes you the kind of parent that matters most.
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 *Tomorrow: [How to set up a family media agreement that actually sticks — a practical template for parents of 12-16 year olds]*
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## Evidence Panels
@@ -337,7 +337,7 @@ heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
 - **Data collection:** Annual UK-based survey, published March 23, 2026
 - **Limitation:** UK-centric sample; self/parent-reported data
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 <!-- JSON-LD Schema -->
@@ -432,7 +432,7 @@ heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
 }
 </script>
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 ## Products We Recommend
@@ -441,7 +441,7 @@ heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
 
 - [**The Anxious Generation** by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — The research that influenced the Australian ban -- and essential reading for parents everywhere navigating teen social media.
 
-heroImage: "/og/australia-teen-social-media-ban-parents-guide-en.png"
+
 ---
 
 **Related Reading:**

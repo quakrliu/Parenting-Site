@@ -5,11 +5,10 @@ pubDate: "2026-03-31"
 updatedDate: "2026-03-31"
 author: "Ethan Moore"
 tags: ["台灣生育補助2026", "生育津貼怎麼領", "各縣市生育補助", "100000生育給付", "新手父母"]
-image: "/images/taiwan-birth-subsidy-2026.jpg"
 imageAlt: "台灣2026生育補助完整指南"
 lang: "zh-TW"
 ageGroup: ["infant"]
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+image: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 ---
 
 # 台灣 2026 生育補助完整攻略：每個寶寶 NT$100,000 怎麼領？
@@ -24,7 +23,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 - 申請期限：出生後60天內，需備妥出生證明、戶籍謄本、父母身分證及存摺影本
 - 本文含各縣市加碼金額對照表、申請步驟、所需文件清單
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 > 養一個[幼兒發展里程碑](/zh/blog/child-development-milestones-zh)是整個社會的事，不只是爸媽的事。2026 年台灣政府的補助制度，是對每一個選擇生育的家庭最直接的支持。知道怎麼領，一分都不要漏掉。
@@ -34,7 +33,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 - 各縣市加碼補助金額（2026年3月更新）
 - 雙薪家庭如何最大化所有可領補助
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 恭喜新手爸媽！從 2026 年 1 月 1 日起，台灣中央政府大幅擴充生育支持政策，**每位新生兒可領 NT$100,000 統一生育給付**，雙胞胎則為 NT$200,000，且**不受勞保、健保資格限制**，幾乎所有在台出生的新生兒都適用。
@@ -43,7 +42,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 **補助金額與資訊更新至 2026 年 3 月。**
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 一、中央政府統一生育給付 NT$100,000
@@ -92,7 +91,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 建議於新生兒出生後 **6個月內**申請，超過2年可能失效（以主管機關公告為準）。
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 二、勞保生育給付（另計，可與統一給付並領）
@@ -114,7 +113,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 > 統一給付 + 勞保給付可以同時領，別漏掉！
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 三、各縣市加碼補助（2026年3月更新）
@@ -145,7 +144,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 所需文件通常與中央補助相同，但可能需要額外的**戶籍謄本**以證明居住年限。
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 四、育兒津貼：每月持續補助
@@ -166,7 +165,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 - 第三胎（以上）：育兒津貼再加碼 NT$1,000/月
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 五、產假、陪產假、育嬰留職停薪薪資補貼
@@ -187,7 +186,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 - 孩子3歲前，爸媽各可申請最長 **6個月**（合計最長1年）的留職停薪
 - 留停期間可領「育嬰留職停薪津貼」：投保薪資的 **80%**（最長6個月）
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 六、完整申請清單：一步一步來
@@ -214,7 +213,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 - [ ] 申請**兒童預防保健**服務（7次免費健檢）
 - [ ] 查詢縣市是否有**新生兒訪視**服務（免費衛教師到府指導）
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 所有補助加起來能領多少？
@@ -232,7 +231,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 **台中市雙薪家庭生育第一胎，中央加縣市加勞保給付合計可領 NT$200,000，另加育兒津貼 0-2 歲兩年共 NT$120,000。**
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 常見問題 Q&A
@@ -269,7 +268,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 是的。孩子 3 歲前，**爸媽各自**可申請最長 6 個月的育嬰留停，留停期間可領投保薪資 80% 的津貼（各最長 6 個月）。兩人可以同時申請，也可以分開申請，彈性很高。
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 資料來源
@@ -356,7 +355,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 }
 </script>
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 ## 推薦閱讀與好物
@@ -365,7 +364,7 @@ heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 - [**Cribsheet（嬰兒數據手冊）** — Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — 領完補助，接下來要做什麼決定？這本書幫你用數據分析從哺乳到托育的每個選擇。
 
-heroImage: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
+
 ---
 
 **延伸閱讀：**

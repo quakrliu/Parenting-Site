@@ -8,12 +8,12 @@ lang: "en"
 category: "digital-wellness"
 lastUpdated: "2026-03-31"
 ageGroup: ["school"]
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+image: "/og/screen-time-rules-school-age-kids-2026-en.png"
 ---
 
 *Last updated: March 2026 | Covers ages 6–12 | Sources: [the AAP 5 Cs of screen time](/en/blog/aap-5cs-screen-time-framework-preschoolers-en) Pediatrics January 2026, SickKids Hospital Toronto 2026, Internet Matters Wellbeing Index 2026*
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 *This article is part of our [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide-en).*
 
@@ -26,7 +26,7 @@ But here's what no one is telling you clearly enough: it wasn't replaced with pe
 
 If you're parenting a child between 6 and 12 right now, this window matters more than most parents realize. Before [Australia teen social media ban](/en/blog/australia-teen-social-media-ban-parents-guide-en). Before smartphones. Before algorithmic design gets its fullest grip on your child's developing prefrontal cortex. What happens in these years shapes a relationship with technology that will last decades.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## The 2-Hour Rule Was Written for a World That No Longer Exists
@@ -39,7 +39,7 @@ Your 8-year-old now lives in something categorically different — 87 algorithmi
 
 The new policy statement, *Digital Ecosystems, Children, and Adolescents*, published in *Pediatrics* in January 2026, covers eight categories of digital experience: social media, online gaming, digital assistants, smartphones, apps and tools, AI, streaming video, and podcasts. Because that's what childhood digital life actually is now — not a television in the corner.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## What the AAP Actually Recommends Now: The 5 C's
@@ -58,7 +58,7 @@ The AAP put it plainly in the policy itself: *"The traditional notion of 'screen
 
 The number of hours was never the real question. What your child is actually doing — and what they're not doing because of it — is.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## High-Quality vs. Harmful Screen Time: What the Research Actually Shows
@@ -83,7 +83,7 @@ Dr. Leah Singh, a child development researcher at Florida State University, desc
 
 A child spending 90 minutes watching PBS Kids is in a fundamentally different risk category than a child spending 90 minutes on algorithmic short-form video — even if the clock shows the same number.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## What Research Says About Children Ages 6–12 Specifically
@@ -98,7 +98,7 @@ The **Internet Matters 2026 Wellbeing Index** — the UK's largest annual digita
 
 The statistic that stopped me: **46% of children report continuing to watch or play even when they're not actually enjoying it anymore**. Compulsive, joyless consumption. That's not enrichment — that's an engagement algorithm working exactly as its designers intended.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## The Montessori Perspective: What Screens Replace Matters as Much as What They Provide
@@ -117,7 +117,7 @@ Screen time that quietly replaces this isn't harmful because of the screen. It's
 - Use devices for *creation*: coding (Scratch, Python basics), music composition, digital art
 - Protect unstructured outdoor time explicitly — it does something screens categorically cannot
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## A Practical 5-Step Guide for Parents Right Now
@@ -152,7 +152,7 @@ Jonathan Haidt's graphic novel ***The Amazing Generation*** (December 2025), co-
 
 The fact that Haidt moved from adult nonfiction to a children's graphic novel reflects something important: top-down parental control alone isn't enough. Children who understand *why* tech is designed the way it is make fundamentally different choices.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## Tracking Your Child's Development Beyond the Screen
@@ -161,7 +161,7 @@ If you want to track where your child actually stands across all developmental d
 
 The AI Parenting Advisor is particularly useful for the questions that don't have one-size-fits-all answers: "My 8-year-old wants to play Minecraft for two hours on a Saturday — is that fine?" The honest answer genuinely depends on what else happened that day, what your child's emotional state is, and what it's replacing. That's exactly what personalized guidance is designed for.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## Frequently Asked Questions {#faq}
@@ -206,7 +206,7 @@ Warning signs include screens consistently displacing sleep, exercise, or family
 
 Pick the three platforms your child uses most. Run each through the AAP's 5 C's: Child, Content, Calm, Crowding Out, Communication. You don't need a perfect score — you need honest answers about what's actually happening. That reflection is more useful than any timer.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 <script type="application/ld+json">
@@ -300,17 +300,17 @@ heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
 }
 </script>
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 **Coming tomorrow:** Minecraft, Roblox, and the Games That Are Actually Good for Kids — A Parent's Research Guide (2026)
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 *Sources: American Academy of Pediatrics, "Digital Ecosystems, Children, and Adolescents," Pediatrics January 2026; Internet Matters, Children's Wellbeing in a Digital World Index 2026; The Hospital for Sick Children (SickKids) Toronto / Scienceline February 2026; American Psychological Association, Screen Time and Emotional Problems Meta-Analysis, June 2025; Lancet Child & Adolescent Health, 2018 and 2021; Jonathan Haidt and Catherine Price, The Amazing Generation, December 2025; Florida State University, February 2026; CHOC (Children's Hospital of Orange County), Updated AAP Screen Time Recommendations, 2026.*
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 ## Products We Recommend
@@ -319,7 +319,7 @@ heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
 
 - [**The Anxious Generation** by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — The essential backdrop for school-age screen time rules -- explains what the research says about social media, gaming, and device use.
 
-heroImage: "/og/screen-time-rules-school-age-kids-2026-en.png"
+
 ---
 
 **Related Reading:**

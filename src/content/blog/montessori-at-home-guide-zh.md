@@ -5,7 +5,7 @@ pubDate: 2026-04-01
 lang: "zh-TW"
 tags: ["蒙特梭利居家", "蒙特梭利環境布置", "蒙特梭利活動", "蒙特梭利嬰兒", "居家蒙特梭利", "蒙特梭利玩具推薦", "蒙特梭利台灣"]
 ageGroup: ["infant", "toddler", "preschool"]
-heroImage: "/og/montessori-at-home-guide-zh.png"
+image: "/og/montessori-at-home-guide-zh.png"
 ---
 
 # 蒙特梭利[蒙特梭利居家環境布置](/zh/blog/montessori-home-environment-zh)實踐完整指南（0–6歲）
@@ -20,7 +20,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 7. [BloomPath 如何幫助你實踐蒙特梭利](#bloompath)
 8. [常見問題](#常見問題)
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 重點整理
@@ -31,7 +31,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 - **五大核心原則：** 跟隨孩子、準備好的環境、動手操作、自由與限制並存、敏感期。
 - **台灣爸媽最常犯的錯：** 把蒙特梭利等於木製玩具、買太多不輪替、太快出手幫忙。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 有一種說法是這樣的：蒙特梭利不是一種教學法，是一種眼光。
@@ -44,7 +44,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 
 關鍵在於：蒙特梭利的力量來自「環境」，而家才是孩子待最久的環境。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 1. 蒙特梭利居家到底是什麼？ {#是什麼}
@@ -60,7 +60,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 - 這個設計邀請他專注和反覆操作嗎？
 - 這和他現在的發展階段吻合嗎？
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 2. 五大核心原則 {#五大原則}
@@ -109,7 +109,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 
 知道這些視窗，你就不會覺得一歲半的孩子因為襪子穿歪了崩潰是在找麻煩——那是大腦正在努力建構秩序感的訊號。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 3. 各房間布置攻略 {#房間布置}
@@ -171,7 +171,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 
 帶孩子去公園時，讓他們撿葉子、石頭，觀察螞蟻、蝸牛。這些不只是玩——是真正的自然科學探索，是所有生物學、生態學概念的具身基礎。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 4. 0–6歲分齡活動指南 {#分齡指南}
@@ -224,7 +224,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 
 閱讀和基本算術通常在這個階段萌芽。蒙特梭利的方法是：先音、後形（先認識字的聲音，再認識字的形狀）；先量、後符號（先用實物數數，再認識阿拉伯數字）。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 5. 必備教具（不用花大錢） {#必備教具}
@@ -257,7 +257,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 - 蝦皮、momo：蒙特梭利教具搜尋「蒙特梭利教具」
 - 旋轉木馬、愛玩客：台灣本土嬰童品牌
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 6. 台灣爸媽最常犯的6個錯誤 {#常見錯誤}
@@ -292,7 +292,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 
 台灣家長兩極化：要麼全開放，要麼全禁止。蒙特梭利的態度是：優先提供豐富的真實世界體驗，然後在孩子有能力辨別主動與被動媒體使用的階段（大約2歲後），才考慮有選擇性地引入高品質內容，而且一定要陪看、共同討論。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 7. BloomPath 如何幫助你實踐蒙特梭利 {#bloompath}
@@ -303,7 +303,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 
 不用再猜這週該給什麼。每週進度報告讓你看到孩子成長的軌跡，遇到問題時也有 AI 育兒顧問可以直接問。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 常見問題 {#常見問題}
@@ -323,7 +323,7 @@ A：這是台灣很常見的狀況。不需要強求一致，也不需要讓阿�
 **Q：台灣哪裡可以買到蒙特梭利教具？**
 A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。博客來有豐富的蒙特梭利相關童書。旋轉木馬、愛玩客、奇哥也有部分符合原則的教具。進口品牌 Lovevery 可透過台灣代購，品質和發展研究支持都很扎實。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 <script type="application/ld+json">
@@ -367,12 +367,12 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 }
 </script>
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 *明天繼續：[正向教養完整指南](/guides/zheng-xiang-jiao-yang-zhinan) — 情緒輔導、自然結果法，和建立孩子的內在動機。*
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 ## 推薦閱讀與好物
@@ -382,7 +382,7 @@ heroImage: "/og/montessori-at-home-guide-zh.png"
 - [**The Montessori Toddler（蒙特梭利幼兒手冊）** — Simone Davies](https://www.amazon.com/dp/1523506725?tag=bloompath-20) — 居家蒙特梭利的最佳入門書。作者是台灣父母圈很推薦的蒙特梭利教師，圖文並茂、步驟清晰。
 - [**No Bad Kids（沒有壞孩子）** — Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — 搭配蒙特梭利環境的教養方法。讓孩子獨立探索的同時，爸媽怎麼設立界限？這本書有答案。
 
-heroImage: "/og/montessori-at-home-guide-zh.png"
+
 ---
 
 **延伸閱讀：**
