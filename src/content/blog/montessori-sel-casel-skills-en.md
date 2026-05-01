@@ -1,5 +1,5 @@
 ---
-title: "Montessori Was Doing SEL Before It Had a Name: How the Method Builds All 5 CASEL Skills"
+title: "Why Montessori Kids Handle Emotions Better: The Social Skills Advantage Explained"
 description: "Your child's school is suddenly talking about SEL. Here's what it actually means — and why Montessori classrooms have been doing it for 100 years without the acronym."
 pubDate: "2026-04-18"
 lastUpdated: "2026-04-18"

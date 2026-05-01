@@ -1,5 +1,5 @@
 ---
-title: "Cycle-Breaking Parenting: The Gen Z Guide to Healing Generational Trauma"
+title: "I Don't Want to Parent Like My Parents Did: A Practical Guide to Breaking the Cycle"
 description: "37% of parents are now focused on breaking generational cycles. Here's what that actually looks like on a Tuesday when you've already yelled twice before breakfast."
 pubDate: "2026-04-07"
 tags: ["cycle breaking parenting", "generational trauma", "positive parenting", "emotional regulation", "montessori", "conscious parenting"]
