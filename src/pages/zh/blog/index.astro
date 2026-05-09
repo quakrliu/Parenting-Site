@@ -4,73 +4,142 @@ import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations } from '../../../i18n/utils';
-
-const lang = 'zh';
-const t = useTranslations(lang);
-
-const allPosts = await getCollection('blog');
-const now = new Date();
-const posts = allPosts
-  .filter((post) => post.data.pubDate <= now && post.data.lang === 'zh-TW')
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const lang = 'zh'; const t = useTranslations(lang);
+const allPosts = await getCollection("blog"); const now = new Date();
+const posts = allPosts.filter((post) => post.data.pubDate <= now && post.data.lang === "zh-TW").sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const featuredPost = posts[0]; const remainingPosts = posts.slice(1);
+const popularTags = ["正向教養","蒙特梭利","toddler","幼兒","學齡前"];
+const popularPosts = remainingPosts.filter((p) => p.data.tags && p.data.tags.some((tag) => popularTags.some(pt => tag.toLowerCase().includes(pt.toLowerCase())))).slice(0, 6);
+const popularIds = new Set(popularPosts.map(p => p.id));
+const guidePosts = remainingPosts.filter((p) => !popularIds.has(p.id) && p.data.description && (p.data.description.includes("指南") || p.data.description.includes("完整") || p.data.description.toLowerCase().includes("guide"))).slice(0, 6);
+const guideIds = new Set(guidePosts.map(p => p.id));
+const allRemainingPosts = remainingPosts.filter((p) => !popularIds.has(p.id) && !guideIds.has(p.id));
 ---
-
-<BaseLayout title={`${t('blog.title')} | ${t('site.title')}`} description={t('blog.desc')} lang={lang}>
+<BaseLayout title={`${t("blog.title")} | ${t("site.title")}`} description={t("blog.desc")} lang={lang}>
   <Header lang={lang} />
-
   <main class="blog-listing">
     <div class="container">
       <div class="listing-header">
-        <h1>{t('blog.title')}</h1>
-        <p>{t('blog.desc')}</p>
+        <h1>{t("blog.title")}</h1>
+        <p>{t("blog.desc")}</p>
       </div>
-
-      <div class="posts-grid">
-        {posts.map((post) => (
-          <article class="post-card">
-            <div class="post-meta">
-              <time datetime={post.data.pubDate.toISOString()}>
-                {post.data.pubDate.toLocaleDateString('zh-TW', { month: 'short', day: 'numeric', year: 'numeric' })}
-              </time>
+      {featuredPost && (
+        <a href={`/${lang}/blog/${featuredPost.id}`} class="featured-card">
+          {featuredPost.data.image && (
+            <div class="featured-image-wrap">
+              <img src={featuredPost.data.image} alt={featuredPost.data.title} loading="eager" class="featured-image" />
             </div>
-            <h2><a href={`/${lang}/blog/${post.id}`}>{post.data.title}</a></h2>
-            <p>{post.data.description}</p>
-            {post.data.tags && post.data.tags.length > 0 && (
-              <div class="post-tags">
-                {post.data.tags.slice(0, 3).map((tag: string) => (<span class="tag">{tag}</span>))}
-              </div>
-            )}
-          </article>
-        ))}
-      </div>
-
-      {posts.length === 0 && (
-        <div class="empty-state">
-          <p>{t('blog.empty')}</p>
-        </div>
+          )}
+          <div class="featured-content">
+            <span class="featured-label">精選文章</span>
+            <h2 class="featured-title">{featuredPost.data.title}</h2>
+            <p class="featured-desc">{featuredPost.data.description}</p>
+            <time datetime={featuredPost.data.pubDate.toISOString()} class="featured-date">
+              {featuredPost.data.pubDate.toLocaleDateString("zh-TW", { month: "short", day: "numeric", year: "numeric" })}
+            </time>
+          </div>
+        </a>
       )}
+      <div class="topic-buttons">
+        <a href="/zh/topics/montessori" class="topic-btn">蒙特梭利</a>
+        <a href="/zh/topics/positive-parenting" class="topic-btn">正向教養</a>
+      </div>
+      {popularPosts.length > 0 && (
+        <section class="post-section">
+          <h2 class="section-title">爸媽都在問</h2>
+          <div class="posts-grid">
+            {popularPosts.map((post) => (
+              <article class="post-card">
+                {post.data.image && (<img src={post.data.image} alt={post.data.title} loading="lazy" class="post-card-image" />)}
+                <div class="post-card-body">
+                  <div class="post-meta"><time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("zh-TW", { month: "short", day: "numeric", year: "numeric" })}</time></div>
+                  <h3><a href={`/${lang}/blog/${post.id}`}>{post.data.title}</a></h3>
+                  <p>{post.data.description}</p>
+                  {post.data.tags && post.data.tags.length > 0 && (<div class="post-tags">{post.data.tags.slice(0, 3).map((tag) => (<span class="tag">{tag}</span>))}</div>)}
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
+      {guidePosts.length > 0 && (
+        <section class="post-section">
+          <h2 class="section-title">完整指南</h2>
+          <div class="posts-grid">
+            {guidePosts.map((post) => (
+              <article class="post-card">
+                {post.data.image && (<img src={post.data.image} alt={post.data.title} loading="lazy" class="post-card-image" />)}
+                <div class="post-card-body">
+                  <div class="post-meta"><time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("zh-TW", { month: "short", day: "numeric", year: "numeric" })}</time></div>
+                  <h3><a href={`/${lang}/blog/${post.id}`}>{post.data.title}</a></h3>
+                  <p>{post.data.description}</p>
+                  {post.data.tags && post.data.tags.length > 0 && (<div class="post-tags">{post.data.tags.slice(0, 3).map((tag) => (<span class="tag">{tag}</span>))}</div>)}
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
+      <section class="post-section">
+        <h2 class="section-title">所有文章</h2>
+        {allRemainingPosts.length > 0 ? (
+          <div class="posts-grid">
+            {allRemainingPosts.map((post) => (
+              <article class="post-card">
+                {post.data.image && (<img src={post.data.image} alt={post.data.title} loading="lazy" class="post-card-image" />)}
+                <div class="post-card-body">
+                  <div class="post-meta"><time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("zh-TW", { month: "short", day: "numeric", year: "numeric" })}</time></div>
+                  <h3><a href={`/${lang}/blog/${post.id}`}>{post.data.title}</a></h3>
+                  <p>{post.data.description}</p>
+                  {post.data.tags && post.data.tags.length > 0 && (<div class="post-tags">{post.data.tags.slice(0, 3).map((tag) => (<span class="tag">{tag}</span>))}</div>)}
+                </div>
+              </article>
+            ))}
+          </div>
+        ) : (posts.length === 0 && (<div class="empty-state"><p>{t("blog.empty")}</p></div>))}
+      </section>
     </div>
   </main>
-
   <Footer lang={lang} />
 </BaseLayout>
 
 <style>
   .blog-listing { padding: 4rem 0; }
-  .listing-header { margin-bottom: 3rem; }
+  .listing-header { margin-bottom: 2rem; }
   .listing-header h1 { font-size: clamp(2rem, 4vw, 3rem); font-weight: 700; letter-spacing: -0.02em; }
   .listing-header p { font-size: 1.0625rem; color: var(--color-text-light); margin-top: 0.5rem; }
+  .featured-card { display: flex; flex-direction: column; background: var(--color-white); border-radius: 20px; overflow: hidden; border: 1px solid rgba(141, 155, 142, 0.12); margin-bottom: 2rem; text-decoration: none; color: inherit; transition: box-shadow 0.25s ease; }
+  .featured-card:hover { box-shadow: 0 12px 40px -12px rgba(141, 155, 142, 0.2); }
+  .featured-image-wrap { width: 100%; height: 240px; overflow: hidden; }
+  .featured-image { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .featured-content { padding: 1.75rem; }
+  .featured-label { display: inline-block; font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #fff; background: #8D9B8E; padding: 0.25rem 0.75rem; border-radius: 6px; margin-bottom: 0.75rem; }
+  .featured-title { font-size: clamp(1.25rem, 2.5vw, 1.75rem); font-weight: 700; line-height: 1.3; margin-bottom: 0.75rem; color: var(--color-text); }
+  .featured-desc { font-size: 1rem; color: var(--color-text-light); line-height: 1.6; margin-bottom: 0.75rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .featured-date { font-size: 0.8125rem; color: var(--color-text-light); }
+  @media (min-width: 768px) {
+    .featured-card { flex-direction: row; min-height: 260px; }
+    .featured-image-wrap { width: 60%; height: auto; flex-shrink: 0; }
+    .featured-content { width: 40%; display: flex; flex-direction: column; justify-content: center; }
+  }
+  .topic-buttons { display: flex; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap; }
+  .topic-btn { display: inline-block; background: #8D9B8E; color: #fff; font-size: 0.9375rem; font-weight: 600; padding: 0.625rem 1.25rem; border-radius: 9999px; text-decoration: none; transition: background 0.2s ease; }
+  .topic-btn:hover { background: #7a8a7b; }
+  .post-section { margin-bottom: 3rem; }
+  .section-title { font-size: 1.375rem; font-weight: 700; margin-bottom: 1.25rem; padding-bottom: 0.5rem; border-bottom: 2px solid #C4A882; display: inline-block; }
   .posts-grid { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
-  .post-card { background: var(--color-white); border-radius: 16px; padding: 1.75rem; border: 1px solid rgba(141, 155, 142, 0.06); transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1); }
+  @media (min-width: 640px) { .posts-grid { grid-template-columns: repeat(2, 1fr); } }
+  .post-card { background: var(--color-white); border-radius: 16px; overflow: hidden; border: 1px solid rgba(141, 155, 142, 0.06); transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1); }
   .post-card:hover { border-color: rgba(141, 155, 142, 0.15); box-shadow: 0 8px 30px -10px rgba(141, 155, 142, 0.08); }
-  .post-meta { display: flex; align-items: center; gap: 0.625rem; margin-bottom: 0.75rem; }
+  .post-card-image { width: 100%; height: 180px; object-fit: cover; border-radius: 12px 12px 0 0; display: block; }
+  .post-card-body { padding: 1.25rem 1.5rem 1.5rem; }
+  .post-meta { display: flex; align-items: center; gap: 0.625rem; margin-bottom: 0.5rem; }
   .post-meta time { font-size: 0.8125rem; color: var(--color-text-light); }
-  .post-card h2 { font-size: 1.125rem; font-weight: 600; line-height: 1.4; }
-  .post-card h2 a { color: var(--color-text); text-decoration: none; }
-  .post-card h2 a:hover { color: var(--color-forest); }
-  .post-card p { font-size: 0.9375rem; color: var(--color-text-light); line-height: 1.6; margin-top: 0.5rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-  .post-tags { display: flex; flex-wrap: wrap; gap: 0.375rem; margin-top: 0.875rem; }
+  .post-card h3 { font-size: 1.0625rem; font-weight: 600; line-height: 1.4; }
+  .post-card h3 a { color: var(--color-text); text-decoration: none; }
+  .post-card h3 a:hover { color: #8D9B8E; }
+  .post-card p { font-size: 0.9rem; color: var(--color-text-light); line-height: 1.6; margin-top: 0.375rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .post-tags { display: flex; flex-wrap: wrap; gap: 0.375rem; margin-top: 0.75rem; }
   .tag { font-size: 0.75rem; color: var(--color-text-light); background: rgba(141, 155, 142, 0.05); padding: 0.1875rem 0.625rem; border-radius: 6px; }
   .empty-state { text-align: center; padding: 4rem 0; color: var(--color-text-light); }
-  @media (min-width: 640px) { .posts-grid { grid-template-columns: repeat(2, 1fr); } }
 </style>
