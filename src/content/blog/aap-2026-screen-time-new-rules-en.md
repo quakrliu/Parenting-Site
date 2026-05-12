@@ -29,6 +29,8 @@ I felt the familiar parental guilt kick in. Was I supposed to take it away? Befo
 
 Here is what I did not know yet: that rule no longer exists.
 
+And here is what I wish someone had told me sooner: the first five years of brain development do not wait for us to figure out a screen policy. Ninety percent of a child's brain architecture forms before age five. Every month we spend arguing about whether two hours or three hours is "the right number," we are missing the point entirely. The AAP finally agrees.
+
 ---
 
 ## What Did the AAP Actually Change in 2026?
@@ -108,6 +110,8 @@ The new guidelines point to Common Sense Media for content ratings and highlight
 **5. Does your child want to go outside less after watching it?** One or two episodes of something genuinely good will not kill outdoor time. A steady diet of algorithmically optimized content will.
 
 I keep this list in my phone. When Lily asks to watch something new, I run a quick mental check. Most of the time the answer is obvious within thirty seconds.
+
+Here is what is empowering about this: you do not need an AAP committee to make this call. You already know when something feels off. This checklist just gives you the words for what your gut was already telling you. Print it, stick it on the fridge, and hand it to your partner and grandparents. Everyone on the same page means fewer arguments and less guilt.
 
 ---
 
