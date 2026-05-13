@@ -1,0 +1,79 @@
+# Default headers for all files
+/*
+  Cache-Control: public, max-age=3600
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# HTML files - 1 hour cache (文章經常更新)
+/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/en/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/zh/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/en/*/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/zh/*/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+# CSS and JS with hashes - 1 month cache (靜態資產不會變)
+/*.css
+  Cache-Control: public, max-age=2592000, immutable
+
+/*.js
+  Cache-Control: public, max-age=2592000, immutable
+
+/_astro/*.css
+  Cache-Control: public, max-age=2592000, immutable
+
+/_astro/*.js
+  Cache-Control: public, max-age=2592000, immutable
+
+# Images - 1 month cache
+/*.png
+  Cache-Control: public, max-age=2592000, immutable
+
+/*.jpg
+  Cache-Control: public, max-age=2592000, immutable
+
+/*.jpeg
+  Cache-Control: public, max-age=2592000, immutable
+
+/*.webp
+  Cache-Control: public, max-age=2592000, immutable
+
+/*.svg
+  Cache-Control: public, max-age=2592000, immutable
+
+/*.gif
+  Cache-Control: public, max-age=2592000, immutable
+
+/images/*
+  Cache-Control: public, max-age=2592000, immutable
+
+# OG images - 1 week cache (可能會更新)
+/og/*
+  Cache-Control: public, max-age=604800, must-revalidate
+
+# Fonts - 1 year cache (very stable)
+/*.woff
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Verification files - no cache
+/*.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+/robots.txt
+  Cache-Control: public, max-age=0, must-revalidate
