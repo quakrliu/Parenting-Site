@@ -1,0 +1,527 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import CusdisComments from '../components/CusdisComments.astro';
+import BookCTA from '../components/BookCTA.astro';
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+  post: any;
+  lang: 'en' | 'zh';
+  pageUrl: string;
+}
+
+const { post, lang, pageUrl } = Astro.props;
+const t = useTranslations(lang);
+const postLang = post.data.lang === 'zh-TW' ? 'zh' : 'en';
+
+const rawBody: string = post.body || "";
+let readingTime: number;
+if (postLang === 'zh') {
+  const charCount = rawBody.replace(/s+/g, "").length;
+  readingTime = Math.max(1, Math.ceil(charCount / 400));
+} else {
+  const wordCount = rawBody.trim().split(/s+/).length;
+  readingTime = Math.max(1, Math.ceil(wordCount / 200));
+}
+
+const readingTimeLabel = postLang === 'zh'
+  ? `阅读時間：${readingTime} 分鐘`
+  : `${readingTime} min read`;
+
+const ctaMsg = postLang === 'zh'
+  ? '用 BloomPath 追蹤寶貝的成長里程碑'
+  : "Track your child's development with BloomPath";
+const ctaBtn = postLang === 'zh' ? '免費下載' : 'Download free';
+const tocLabel = postLang === 'zh' ? '目錄' : 'Table of Contents';
+const tocPageLabel = postLang === 'zh' ? '目錄' : 'On this page';
+
+const { Content } = await (async () => {
+  const { render } = await import('astro:content');
+  return render(post);
+})();
+---
+
+<BaseLayout
+  title={`${post.data.title} | ${t('site.title')}`}
+  description={post.data.description}
+  lang={postLang}
+  ogImage={post.data.image ? new URL(post.data.image, Astro.site).toString() : undefined}
+>
+  <Header lang={lang} />
+
+  <main class="blog-post">
+    <div class="blog-layout">
+
+      <!-- Mobile TOC (collapsible) -->
+      <div class="toc-mobile" id="toc-mobile">
+        <button class="toc-toggle" id="toc-toggle" aria-expanded="false">
+          <span class="toc-toggle-icon">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+          </span>
+          <span>{tocLabel}</span>
+          <span class="toc-chevron">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </span>
+        </button>
+        <nav class="toc-list-mobile" id="toc-list-mobile" aria-hidden="true"></nav>
+      </div>
+
+      <!-- Main article -->
+      <div class="blog-main">
+        <article>
+          <header class="post-header">
+            <div class="post-meta">
+              <time datetime={post.data.pubDate.toISOString()}>
+                {post.data.pubDate.toLocaleDateString(postLang === 'zh' ? 'zh-TW' : 'en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+              </time>
+              <span class="meta-sep">&middot;</span>
+              <span class="reading-time">{readingTimeLabel}</span>
+            </div>
+            <h1>{post.data.title}</h1>
+            {post.data.author && <p class="post-author">By {post.data.author}</p>}
+          </header>
+
+          <div class="post-content" id="post-content">
+            <Content />
+          </div>
+
+          {post.data.tags && post.data.tags.length > 0 && (
+            <footer class="post-footer">
+              <div class="post-tags">
+                {post.data.tags.map((tag: string) => (<span class="tag">{tag}</span>))}
+              </div>
+            </footer>
+          )}
+        </article>
+
+        <BookCTA lang={lang} />
+
+        <CusdisComments
+          lang={lang}
+          pageUrl={pageUrl}
+          pageId={`/${lang}/blog/${post.id}`}
+          pageTitle={post.data.title}
+        />
+
+        <nav class="post-nav">
+          <a href={`/${lang}/blog`} class="back-link">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+            {t('blog.back')}
+          </a>
+        </nav>
+      </div>
+
+      <!-- Desktop sticky TOC sidebar -->
+      <aside class="toc-desktop" id="toc-desktop" aria-label={tocPageLabel}>
+        <div class="toc-sticky">
+          <p class="toc-heading">{tocPageLabel}</p>
+          <nav id="toc-list-desktop"></nav>
+        </div>
+      </aside>
+
+    </div>
+  </main>
+
+  <!-- Mid-article CTA data (read by JS) -->
+  <div id="mid-cta-data" data-msg={ctaMsg} data-btn={ctaBtn} style="display:none"></div>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  /* ── Layout ── */
+  .blog-post { padding: 3rem 0; }
+
+  .blog-layout {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "toc-mobile"
+      "main";
+    gap: 0;
+  }
+
+  @media (min-width: 1024px) {
+    .blog-layout {
+      padding: 0 2.5rem;
+      grid-template-columns: 1fr 240px;
+      grid-template-areas: "main sidebar";
+      gap: 3rem;
+      align-items: start;
+    }
+    .toc-mobile { display: none !important; }
+  }
+
+  .blog-main { grid-area: main; min-width: 0; }
+  .toc-desktop { display: none; grid-area: sidebar; }
+  @media (min-width: 1024px) { .toc-desktop { display: block; } }
+
+  /* ── Post header ── */
+  .post-header {
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid rgba(141, 155, 142, 0.15);
+  }
+  .post-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+  .post-meta time,
+  .reading-time,
+  .meta-sep { font-size: 0.875rem; color: var(--color-text-light); }
+  .post-header h1 {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+    max-width: 70ch;
+  }
+  .post-author { font-size: 0.9375rem; color: var(--color-text-light); margin-top: 0.75rem; }
+
+  /* ── Post content ── */
+  .post-content {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+    color: var(--color-text);
+  }
+
+  /* H2 section divider (items 3 + 7) */
+  .post-content :global(h2) {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    letter-spacing: -0.01em;
+    border-top: 1px solid #e0d8c8;
+    padding-top: 2rem;
+    margin-top: 2.5rem;
+  }
+  .post-content :global(h2:first-of-type) {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 1.5rem;
+  }
+
+  .post-content :global(h3) { font-size: 1.25rem; font-weight: 600; margin-top: 2rem; margin-bottom: 0.75rem; }
+  .post-content :global(p) { margin-bottom: 1.2rem; }
+  .post-content :global(ul),
+  .post-content :global(ol) { margin-bottom: 1.2rem; padding-left: 1.5rem; }
+  .post-content :global(li) { margin-bottom: 0.375rem; }
+
+  /* Default blockquote */
+  .post-content :global(blockquote) {
+    border-left: 3px solid var(--color-forest);
+    padding: 0.75rem 1.25rem;
+    margin: 1.5rem 0;
+    background: rgba(141, 155, 142, 0.04);
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    color: var(--color-text-light);
+  }
+
+  /* TL;DR callout card (item 1) */
+  .post-content :global(blockquote.tldr-card) {
+    border-left: 4px solid #2d5a27;
+    background: #f0f7f0;
+    border-radius: 0 8px 8px 0;
+    padding: 1.5rem;
+    font-style: normal;
+    color: var(--color-text);
+    margin: 1.5rem 0 2rem;
+  }
+  .post-content :global(blockquote.tldr-card p) { margin-bottom: 0; }
+  .post-content :global(blockquote.tldr-card strong:first-child) {
+    display: inline-block;
+    color: #2d5a27;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-right: 0.5rem;
+  }
+
+  /* Key Takeaway card (item 5) */
+  .post-content :global(h3.key-takeaway-heading) {
+    background: #f0f4ff;
+    border-left: 4px solid #4a6fa5;
+    padding: 1rem 1.25rem 0.75rem;
+    border-radius: 0 8px 8px 0;
+    color: #1e3a5f;
+    margin-top: 2.5rem;
+  }
+  .post-content :global(.key-takeaway-section) {
+    background: #f0f4ff;
+    border-radius: 0 0 8px 8px;
+    padding: 0 1.25rem 1.25rem;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+  .post-content :global(.key-takeaway-section > *:last-child) { margin-bottom: 0; }
+
+  .post-content :global(a) { color: var(--color-forest); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  .post-content :global(strong) { font-weight: 600; color: var(--color-text); }
+  .post-content :global(table) { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9375rem; }
+  .post-content :global(th),
+  .post-content :global(td) { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid rgba(141, 155, 142, 0.1); }
+  .post-content :global(th) { font-weight: 600; background: rgba(141, 155, 142, 0.04); }
+  .post-content :global(hr) { border: none; border-top: 1px solid #e0d8c8; margin: 2rem 0; }
+
+  /* ── Post footer/nav ── */
+  .post-footer { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid rgba(141, 155, 142, 0.1); }
+  .post-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .tag { font-size: 0.8125rem; color: var(--color-text-light); background: rgba(141, 155, 142, 0.06); padding: 0.25rem 0.75rem; border-radius: 6px; }
+  .post-nav { margin-top: 3rem; }
+  .back-link { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.9375rem; font-weight: 500; color: var(--color-forest); text-decoration: none; transition: gap 0.2s ease; }
+  .back-link:hover { gap: 0.75rem; color: var(--color-forest-dark); }
+
+  /* ── Mobile TOC (item 2) ── */
+  .toc-mobile {
+    grid-area: toc-mobile;
+    margin-bottom: 1.5rem;
+    border: 1px solid #e0d8c8;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .toc-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.875rem 1rem;
+    background: #f8f5f0;
+    border: none;
+    cursor: pointer;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--color-text);
+    font-family: var(--font-primary);
+    text-align: left;
+  }
+  .toc-toggle-icon { flex-shrink: 0; color: var(--color-forest); }
+  .toc-chevron { margin-left: auto; flex-shrink: 0; color: var(--color-text-light); transition: transform 0.2s ease; }
+  .toc-toggle[aria-expanded="true"] .toc-chevron { transform: rotate(180deg); }
+
+  .toc-list-mobile {
+    display: none;
+    padding: 0.75rem 1rem 1rem;
+    background: white;
+  }
+  .toc-list-mobile.open { display: block; }
+
+  /* ── Desktop sticky TOC (item 2) ── */
+  .toc-sticky {
+    position: sticky;
+    top: 5rem;
+    max-height: calc(100vh - 8rem);
+    overflow-y: auto;
+    padding: 1.25rem;
+    background: #faf8f5;
+    border: 1px solid #e0d8c8;
+    border-radius: 8px;
+  }
+  .toc-heading {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-light);
+    margin-bottom: 0.75rem;
+  }
+</style>
+
+<script>
+  function initBlogEnhancements() {
+    const content = document.getElementById('post-content');
+    if (!content) return;
+
+    // 1. TL;DR callout card
+    const blockquotes = content.querySelectorAll('blockquote');
+    blockquotes.forEach(function(bq) {
+      const text = bq.textContent || '';
+      if (
+        text.includes('TL;DR') ||
+        text.includes('重點整理') ||
+        text.includes('重點摘要') ||
+        text.toLowerCase().includes('tldr')
+      ) {
+        bq.classList.add('tldr-card');
+      }
+    });
+
+    // 5. Key Takeaway H3 card
+    const h3s = content.querySelectorAll('h3');
+    h3s.forEach(function(h3) {
+      const text = h3.textContent || '';
+      if (
+        text.includes('Key Takeaway') ||
+        text.includes('3 件事記住就好') ||
+        text.includes('重點回顾') ||
+        text.includes('記住就好') ||
+        text.includes('Summary') ||
+        text.includes('總結')
+      ) {
+        h3.classList.add('key-takeaway-heading');
+        const wrapper = document.createElement('div');
+        wrapper.className = 'key-takeaway-section';
+        const toWrap = [];
+        let next = h3.nextElementSibling;
+        while (next && next.tagName !== 'H2' && next.tagName !== 'H3') {
+          toWrap.push(next);
+          next = next.nextElementSibling;
+        }
+        if (toWrap.length > 0) {
+          h3.after(wrapper);
+          toWrap.forEach(function(el) { wrapper.appendChild(el); });
+        }
+      }
+    });
+
+    // 2. TOC generation
+    const h2s = Array.from(content.querySelectorAll('h2'));
+    h2s.forEach(function(h2, i) {
+      if (!h2.id) {
+        const slug = (h2.textContent || '')
+          .toLowerCase()
+          .replace(/[^w一-鿿s-]/g, '')
+          .trim()
+          .replace(/s+/g, '-')
+          .substring(0, 60);
+        h2.id = slug || ('section-' + i);
+      }
+    });
+
+    function buildLinks(container) {
+      h2s.forEach(function(h2) {
+        const a = document.createElement('a');
+        a.href = '#' + h2.id;
+        a.textContent = h2.textContent || '';
+        a.dataset.target = h2.id;
+        container.appendChild(a);
+      });
+    }
+
+    const mobileList = document.getElementById('toc-list-mobile');
+    const desktopList = document.getElementById('toc-list-desktop');
+    if (mobileList) buildLinks(mobileList);
+    if (desktopList) buildLinks(desktopList);
+
+    // Mobile toggle
+    const toggleBtn = document.getElementById('toc-toggle');
+    if (toggleBtn && mobileList) {
+      toggleBtn.addEventListener('click', function() {
+        const expanded = toggleBtn.getAttribute('aria-expanded') === 'true';
+        toggleBtn.setAttribute('aria-expanded', String(!expanded));
+        mobileList.classList.toggle('open', !expanded);
+        mobileList.setAttribute('aria-hidden', String(expanded));
+      });
+    }
+
+    // Desktop scroll-spy
+    if (desktopList && h2s.length > 0) {
+      const desktopLinks = desktopList.querySelectorAll('a[data-target]');
+      const observer = new IntersectionObserver(
+        function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              desktopLinks.forEach(function(l) { l.classList.remove('toc-active'); });
+              const active = desktopList.querySelector('a[data-target="' + entry.target.id + '"]');
+              if (active) active.classList.add('toc-active');
+            }
+          });
+        },
+        { rootMargin: '0px 0px -60% 0px', threshold: 0 }
+      );
+      h2s.forEach(function(h2) { observer.observe(h2); });
+    }
+
+    // 6. Mid-article CTA at ~50%
+    if (h2s.length >= 2) {
+      const ctaData = document.getElementById('mid-cta-data');
+      const msg = (ctaData && ctaData.dataset.msg) || "Track your child's development with BloomPath";
+      const btn = (ctaData && ctaData.dataset.btn) || 'Download free';
+      const midIndex = Math.floor(h2s.length / 2);
+      const targetH2 = h2s[midIndex];
+      const cta = document.createElement('div');
+      cta.className = 'mid-article-cta';
+      cta.innerHTML =
+        '<span class="mid-cta-msg">' + msg + '</span>' +
+        '<a href="https://bloom-path.app" class="mid-cta-btn" target="_blank" rel="noopener">' + btn + ' →</a>';
+      if (targetH2.parentNode) {
+        targetH2.parentNode.insertBefore(cta, targetH2);
+      }
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initBlogEnhancements);
+  } else {
+    initBlogEnhancements();
+  }
+</script>
+
+<style is:global>
+  /* Mid-article CTA and TOC link styles (DOM-injected by JS) */
+  .mid-article-cta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    background: #f5f0eb;
+    border-left: 4px solid var(--color-orange, #C4A882);
+    border-radius: 0 8px 8px 0;
+    padding: 1rem 1.25rem;
+    margin: 2.5rem 0;
+  }
+  .mid-cta-msg {
+    font-size: 0.9375rem;
+    font-weight: 500;
+    color: var(--color-text, #4A4543);
+    flex: 1;
+    min-width: 0;
+  }
+  .mid-cta-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    background: var(--color-forest, #8D9B8E);
+    color: white !important;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: background 0.2s ease;
+    flex-shrink: 0;
+  }
+  .mid-cta-btn:hover {
+    background: var(--color-forest-dark, #707D72);
+    color: white !important;
+  }
+  #toc-list-mobile a,
+  #toc-list-desktop a {
+    display: block;
+    font-size: 0.875rem;
+    color: var(--color-text-light, #7A7573);
+    text-decoration: none;
+    padding: 0.3rem 0.625rem;
+    line-height: 1.4;
+    transition: color 0.15s ease;
+    border-left: 2px solid transparent;
+  }
+  #toc-list-mobile a:hover,
+  #toc-list-desktop a:hover { color: var(--color-forest, #8D9B8E); }
+  #toc-list-desktop a.toc-active {
+    color: #2d5a27;
+    border-left-color: #2d5a27;
+    font-weight: 500;
+  }
+</style>
