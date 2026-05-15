@@ -70,8 +70,8 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
     flex-wrap: wrap;
   }
   .app-banner-cta {
-    background: var(--color-white);
-    color: var(--color-forest, #8D9B8E);
+    background: rgba(255, 255, 255, 0.9);
+    color: #4a5a4b;
     padding: 0.25rem 0.75rem;
     border-radius: 6px;
     font-weight: 700;
@@ -80,6 +80,13 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
     transition: opacity 0.2s;
   }
   .app-banner-cta:hover { opacity: 0.9; }
+
+  @media (prefers-color-scheme: dark) {
+    .app-banner-cta {
+      background: rgba(255, 255, 255, 0.15);
+      color: #f0ede8;
+    }
+  }
 
   .site-header {
     position: sticky;
@@ -90,6 +97,13 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
     -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid rgba(141, 155, 142, 0.08);
     padding: 0.875rem 0;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .site-header {
+      background: rgba(28, 27, 25, 0.92);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    }
   }
 
   .header-inner {
