@@ -26,6 +26,7 @@
   --color-bg: #FAF8F5;
   --color-pink: #D4B5B0;
   --color-white: #FFFFFF;
+  --color-on-primary: #FFFFFF; /* text color on colored buttons — stays white in dark mode */
 
   /* BlogPost component tokens */
   --color-tldr-bg: #f0f7f0;
@@ -57,9 +58,10 @@
     --color-cream: #2d2a26;
     --color-cream-dark: #252320;
     --color-white: #262422;
-    --color-forest: #a8bda9;
-    --color-forest-dark: #c0d3c2;
-    --color-forest-light: #8aa08c;
+    --color-on-primary: #f0ede8; /* button text stays light on dark-mode green buttons */
+    --color-forest: #6a8a6c;
+    --color-forest-dark: #7d9d7f;
+    --color-forest-light: #4a6a4c;
     --color-orange: #dcc49e;
     --color-orange-dark: #d4b892;
     --color-pink: #d4b5b0;
@@ -149,7 +151,7 @@ a:hover {
 
 ::selection {
   background-color: var(--color-forest);
-  color: var(--color-white);
+  color: var(--color-on-primary);
 }
 
 /* ── Utilities ── */
@@ -203,13 +205,13 @@ button:active, .btn:active {
 
 .btn--primary {
   background: var(--color-forest);
-  color: var(--color-white);
+  color: var(--color-on-primary);
   box-shadow: var(--shadow-card);
 }
 
 .btn--primary:hover {
   background: var(--color-forest-dark);
-  color: var(--color-white);
+  color: var(--color-on-primary);
   transform: translateY(-2px);
   box-shadow: var(--shadow-card-hover);
 }
@@ -317,5 +319,5 @@ hr {
     border-color: var(--color-input-border) !important;
     color: var(--color-text) !important;
   }
-  .generate-btn, .track-btn { background: var(--color-forest) !important; }
+  .generate-btn, .track-btn { background: var(--color-forest) !important; color: var(--color-on-primary) !important; }
 }

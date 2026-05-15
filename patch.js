@@ -1,0 +1,1 @@
+const fs=require("fs");let c=fs.readFileSync("C:/shu-guo/parenting-site/src/layouts/BlogPost.astro","utf8");console.log("read",c.length);fs.unlinkSync("C:/shu-guo/parenting-site/patch.js");
