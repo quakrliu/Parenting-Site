@@ -53,6 +53,10 @@
     --color-toc-bg: #222220;
     --color-toc-border: #3a3835;
     --color-toc-active: #4a7a44;
+    --color-surface: #252320;
+    --color-input-bg: #2a2825;
+    --color-input-border: #3a3835;
+    --color-card-shadow: rgba(0, 0, 0, 0.3);
   }
 }
 
@@ -235,4 +239,17 @@ button:active, .btn:active {
   border-color: var(--color-forest);
   background: rgba(141, 155, 142, 0.04);
   color: var(--color-forest);
+}
+
+@media (prefers-color-scheme: dark) {
+  /* Tool pages dark mode */
+  .tool-page { background: var(--color-bg) !important; }
+  .tool-card, .summary-card, .progress-section, .tips-section,
+  .schedule-timeline { background: var(--color-cream) !important; box-shadow: 0 2px 16px var(--color-card-shadow) !important; }
+  .age-input-row, .text-input, .time-input {
+    background: var(--color-input-bg) !important;
+    border-color: var(--color-input-border) !important;
+    color: var(--color-text) !important;
+  }
+  .generate-btn, .track-btn { background: var(--color-forest) !important; }
 }
