@@ -53,6 +53,7 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
     </div>
   </div>
 </header>
+<div class="nav-overlay" id="nav-overlay"></div>
 
 <style>
   .app-banner {
@@ -70,7 +71,7 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
   }
   .app-banner-cta {
     background: var(--color-white);
-    color: var(--color-forestcolor: var(--color-forest), #8D9B8E);
+    color: var(--color-forest, #8D9B8E);
     padding: 0.25rem 0.75rem;
     border-radius: 6px;
     font-weight: 700;
@@ -163,7 +164,7 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
     top: 100%;
     left: 0;
     background: var(--color-white);
-    border: 1px solid rgba(141, 155, 142, 0.15)border: 1px solid rgba(141, 155, 142, 0.15);
+    border: 1px solid rgba(141, 155, 142, 0.15);
     border-radius: 8px;
     padding: 0.5rem 0;
     min-width: 180px;
@@ -251,27 +252,55 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
     .mobile-toggle { display: none; }
     .lang-switch-mobile { display: none; }
   }
+
+  .nav-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 39;
+  }
+  .nav-overlay.active { display: block; }
 </style>
 
 <script>
   const toggle = document.querySelector('.mobile-toggle');
   const nav = document.querySelector('.main-nav');
+  const overlay = document.getElementById('nav-overlay');
+
+  function closeMenu() {
+    if (!toggle || !nav) return;
+    toggle.setAttribute('aria-expanded', 'false');
+    (nav as HTMLElement).style.display = 'none';
+    overlay?.classList.remove('active');
+  }
+
+  function openMenu() {
+    if (!toggle || !nav) return;
+    toggle.setAttribute('aria-expanded', 'true');
+    (nav as HTMLElement).style.display = 'flex';
+    (nav as HTMLElement).style.flexDirection = 'column';
+    (nav as HTMLElement).style.position = 'absolute';
+    (nav as HTMLElement).style.top = '100%';
+    (nav as HTMLElement).style.left = '0';
+    (nav as HTMLElement).style.right = '0';
+    (nav as HTMLElement).style.background = 'rgba(250, 248, 245, 0.98)';
+    (nav as HTMLElement).style.padding = '1rem 1.5rem';
+    (nav as HTMLElement).style.borderBottom = '1px solid rgba(141, 155, 142, 0.08)';
+    (nav as HTMLElement).style.gap = '0.75rem';
+    overlay?.classList.add('active');
+  }
+
   if (toggle && nav) {
     toggle.addEventListener('click', () => {
       const expanded = toggle.getAttribute('aria-expanded') === 'true';
-      toggle.setAttribute('aria-expanded', String(!expanded));
-      (nav as HTMLElement).style.display = expanded ? 'none' : 'flex';
-      if (!expanded) {
-        (nav as HTMLElement).style.flexDirection = 'column';
-        (nav as HTMLElement).style.position = 'absolute';
-        (nav as HTMLElement).style.top = '100%';
-        (nav as HTMLElement).style.left = '0';
-        (nav as HTMLElement).style.right = '0';
-        (nav as HTMLElement).style.background = 'rgba(250, 248, 245, 0.98)';
-        (nav as HTMLElement).style.padding = '1rem 1.5rem';
-        (nav as HTMLElement).style.borderBottom = '1px solid rgba(141, 155, 142, 0.08)';
-        (nav as HTMLElement).style.gap = '0.75rem';
-      }
+      if (expanded) closeMenu(); else openMenu();
     });
   }
+
+  overlay?.addEventListener('click', closeMenu);
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeMenu();
+  });
 </script>

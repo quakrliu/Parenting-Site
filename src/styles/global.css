@@ -30,9 +30,9 @@
   /* BlogPost component tokens */
   --color-tldr-bg: #f0f7f0;
   --color-tldr-border: #2d5a27;
-  --color-takeaway-bg: #f0f4ff;
-  --color-takeaway-border: #4a6fa5;
-  --color-takeaway-text: #1e3a5f;
+  --color-takeaway-bg: rgba(196, 168, 130, 0.08);
+  --color-takeaway-border: #C4A882;
+  --color-takeaway-text: #6b5a42;
   --color-divider: #e0d8c8;
   --color-toc-bg: #faf8f5;
   --color-toc-border: #e0d8c8;
@@ -66,9 +66,9 @@
     --color-divider: #3a3835;
     --color-tldr-bg: #1e2a1e;
     --color-tldr-border: #4a7a44;
-    --color-takeaway-bg: #1e2430;
-    --color-takeaway-border: #5a7faa;
-    --color-takeaway-text: #a0b8d0;
+    --color-takeaway-bg: rgba(196, 168, 130, 0.1);
+    --color-takeaway-border: #d4b892;
+    --color-takeaway-text: #d4c4a8;
     --color-toc-bg: #222220;
     --color-toc-border: #3a3835;
     --color-toc-active: #4a7a44;
