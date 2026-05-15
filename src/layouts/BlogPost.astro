@@ -19,10 +19,10 @@ const postLang = post.data.lang === 'zh-TW' ? 'zh' : 'en';
 const rawBody: string = post.body || "";
 let readingTime: number;
 if (postLang === 'zh') {
-  const charCount = rawBody.replace(/s+/g, "").length;
+  const charCount = rawBody.replace(/\s+/g, "").length;
   readingTime = Math.max(1, Math.ceil(charCount / 400));
 } else {
-  const wordCount = rawBody.trim().split(/s+/).length;
+  const wordCount = rawBody.trim().split(/\s+/).length;
   readingTime = Math.max(1, Math.ceil(wordCount / 200));
 }
 
@@ -194,6 +194,7 @@ const { Content } = await (async () => {
     line-height: 1.8;
     color: var(--color-text);
     max-width: 70ch;
+    margin: 0 auto;
   }
 
   /* H2 section divider (items 3 + 7) */
@@ -394,7 +395,7 @@ const { Content } = await (async () => {
   /* ── Desktop sticky TOC (item 2) ── */
   .toc-sticky {
     position: sticky;
-    top: 5rem;
+    top: 7rem;
     max-height: calc(100vh - 8rem);
     overflow-y: auto;
     padding: 1.25rem;
@@ -467,9 +468,9 @@ const { Content } = await (async () => {
       if (!h2.id) {
         const slug = (h2.textContent || '')
           .toLowerCase()
-          .replace(/[^w一-鿿s-]/g, '')
+          .replace(/[^\w一-鿿\s-]/g, '')
           .trim()
-          .replace(/s+/g, '-')
+          .replace(/\s+/g, '-')
           .substring(0, 60);
         h2.id = slug || ('section-' + i);
       }

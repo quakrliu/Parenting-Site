@@ -10,6 +10,11 @@ import PodcastSection from '../../components/PodcastSection.astro';
 import BooksSection from '../../components/BooksSection.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations } from '../../i18n/utils';
+import AgeNavigator from '../../components/AgeNavigator.astro';
+import TopicsSection from '../../components/TopicsSection.astro';
+import PhilosophyPillars from '../../components/PhilosophyPillars.astro';
+import CommunitySection from '../../components/CommunitySection.astro';
+import DailyStickiness from '../../components/DailyStickiness.astro';
 
 const lang = 'en';
 const t = useTranslations(lang);
@@ -26,7 +31,12 @@ const featuredPosts = allPosts
   <Header lang={lang} />
   <HomeHero lang={lang} />
   <FeaturedArticles lang={lang} posts={featuredPosts} />
+  <TopicsSection lang={lang} />
+  <AgeNavigator lang={lang} />
+  <PhilosophyPillars lang={lang} />
+  <DailyStickiness lang={lang} />
   <BooksSection lang={lang} />
+  <CommunitySection lang={lang} />
   <PodcastSection lang={lang} />
   <NewsletterSection lang={lang} />
   <AboutSection lang={lang} />

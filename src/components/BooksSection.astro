@@ -62,7 +62,7 @@ const books = [
 <style>
 .books-section {
   padding: 5rem 1.5rem;
-  background: var(--color-surface, #f9f7f4);
+  background: var(--color-cream);
 }
 
 .books-inner {
@@ -80,20 +80,20 @@ const books = [
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: var(--color-accent, #3d7a6b);
+  color: var(--color-forest);
   margin-bottom: 0.6rem;
 }
 
 .books-heading {
   font-size: clamp(1.6rem, 3vw, 2.1rem);
   font-weight: 700;
-  color: var(--color-heading, #1a1a1a);
+  color: var(--color-text);
   line-height: 1.25;
   margin-bottom: 0.6rem;
 }
 
 .books-desc {
-  color: var(--color-text-muted, #666);
+  color: var(--color-text-light);
   font-size: 1rem;
   max-width: 52ch;
   line-height: 1.7;
@@ -111,15 +111,15 @@ const books = [
   justify-content: space-between;
   gap: 1.5rem;
   padding: 2rem;
-  border: 1px solid var(--color-border, #e5e0d8);
+  border: 1px solid var(--color-divider);
   border-radius: 12px;
-  background: var(--color-bg, #fff);
+  background: var(--color-white);
   transition: box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
 .book-card:hover {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-  border-color: var(--color-accent, #3d7a6b);
+  border-color: var(--color-forest);
 }
 
 .book-card-body {
@@ -131,28 +131,28 @@ const books = [
 .book-title {
   font-size: 1.1rem;
   font-weight: 700;
-  color: var(--color-heading, #1a1a1a);
+  color: var(--color-text);
   line-height: 1.3;
 }
 
 .book-subtitle {
   font-size: 0.9rem;
-  color: var(--color-text-muted, #666);
+  color: var(--color-text-light);
   line-height: 1.6;
 }
 
 .book-price {
   font-size: 1.05rem;
   font-weight: 700;
-  color: var(--color-accent, #3d7a6b);
+  color: var(--color-forest);
   margin-top: 0.25rem;
 }
 
 .book-cta {
   display: inline-block;
   align-self: flex-start;
-  background: var(--color-accent, #3d7a6b);
-  color: #fff;
+  background: var(--color-forest);
+  color: var(--color-white);
   font-weight: 600;
   font-size: 0.9rem;
   padding: 0.65rem 1.4rem;
@@ -162,7 +162,7 @@ const books = [
 }
 
 .book-cta:hover {
-  background: var(--color-accent-dark, #2d5e52);
+  background: var(--color-forest-dark);
 }
 
 @media (max-width: 900px) {

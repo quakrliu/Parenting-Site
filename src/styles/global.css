@@ -81,6 +81,11 @@
   }
 }
 
+
+/* Fix anchor scroll offset for sticky header */
+[id] {
+  scroll-margin-top: 7rem;
+}
 /* ── Reset ── */
 *,
 *::before,
