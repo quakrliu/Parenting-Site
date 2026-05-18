@@ -1,5 +1,5 @@
 ---
-title: "我們家客廳變成蒙特梭利教室的那一天（附各年齡實作清單）"
+title: "在家打造蒙特梭利教室 2026：附 0-6 歲各年齡實作清單（工程師爸爸改造實錄）"
 description: "從零開始打造蒙特梭利居家環境的完整攻略：各房間佈置、各年齡段活動、五大核心原則，還有台灣爸媽最常犯的錯誤。"
 pubDate: 2026-04-01
 lang: "zh-TW"
@@ -385,8 +385,17 @@ A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。�
 
 ---
 
-**延伸閱讀：**
+---
 
-- [蒙特梭利居家環境布置](/blog/montessori-home-environment-zh)
-- [蒙特梭利 vs. 傳統幼兒園](/blog/montessori-vs-traditional-preschool-zh)
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+## 延伸閱讀
+
+探索更多蒙特梭利系列文章：
+
+- [蒙特梭利居家環境布置完整攻略](/zh/blog/montessori-home-environment-zh)
+- [蒙特梭利 vs 傳統幼兒園：科學終於給出答案了](/zh/blog/montessori-vs-traditional-preschool-zh)
+- [蒙特梭利幼兒園更便宜還更有效？2026 全國研究結果](/zh/blog/montessori-national-study-2026-results-zh)
+- [2026 台北蒙特梭利學校完整指南](/zh/blog/taipei-montessori-schools-2026-zh)
+- [台灣蒙特梭利學校完整指南 2026](/zh/blog/taipei-montessori-schools-guide-zh)
+- [幼兒園怎麼選？公幼、蒙特梭利、雙語完整比較](/zh/blog/kindergarten-guide-taiwan-2026-zh)
+- [孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援](/zh/blog/kids-say-bored-montessori-prepared-environment-zh)
+- [燈塔式育兒：讓孩子有根、也有翅膀](/zh/blog/lighthouse-parenting-montessori-zh)

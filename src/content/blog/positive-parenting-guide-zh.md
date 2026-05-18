@@ -1,5 +1,5 @@
 ---
-title: "我不打不罵帶大女兒：一個工程師爸爸的正向教養實戰筆記"
+title: "不打不罵帶大孩子！工程師爸爸的正向教養 2026 實戰筆記（附 5 個每日對話公式）"
 description: "有研究支持的正向教養完整攻略：情緒輔導、自然結果法、溫和設立界限、建立內在動機——適用0–8歲孩子的爸媽。"
 pubDate: 2026-04-01
 lang: "zh-TW"
@@ -308,8 +308,15 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 
 ---
 
-**延伸閱讀：**
+---
 
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
-- [孩子崩潰怎麼辦](/blog/toddler-tantrum-positive-parenting-zh)
+## 延伸閱讀
+
+探索更多正向教養系列文章：
+
+- [孩子發脾氣、大哭大鬧？3 個正向教養步驟立刻化解](/zh/blog/toddler-tantrum-positive-parenting-zh)
+- [正向教養讓你累垮了嗎？邊界感才是真正的關鍵](/zh/blog/gentle-parenting-burnout-empathy-limits-zh)
+- [溫和教養不夠用？2026 台灣爸媽都在用「混合式教養」](/zh/blog/hybrid-parenting-2026-zh)
+- [4歲為什麼總是跟你對著幹？發展心理學這樣解釋](/zh/blog/4-year-old-power-struggles-zh)
+- [爸爸的角色有多重要？父親參與育兒的科學實證](/zh/blog/daddy-role-in-parenting-zh)
+- [家長職業倦怠：92% 父母精疲力竭，你也中了嗎？](/zh/blog/parental-burnout-solutions-2026)
