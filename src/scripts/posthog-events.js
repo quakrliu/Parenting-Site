@@ -29,8 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 2. Affiliate Link Click Tracking
-  document.querySelectorAll('a[href*="amazon.com"], a[href*="tag=bloompath"]').forEach(link => {
+  // 2. Affiliate Link Click Tracking (search entire page, not just .post-content)
+  document.querySelectorAll('a[href*="amazon.com"], a[href*="tag=bloompath"], a[href*="amzn.to"]').forEach(link => {
     link.addEventListener('click', () => {
       posthog.capture('affiliate_link_click', {
         url: link.href,
@@ -40,29 +40,40 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // 3. App Download Click Tracking
-  document.querySelectorAll('a[href*="apps.apple.com"], a[href*="play.google.com"], a[href*="app-store"], .app-download').forEach(link => {
+  // 3. App Download Click Tracking (include bloompath.quakr.dev + bloom-path.app links)
+  document.querySelectorAll('a[href*="apps.apple.com"], a[href*="play.google.com"], a[href*="app-store"], a[href*="bloompath.quakr.dev"], .app-download, .mid-cta-btn, .app-banner-cta').forEach(link => {
     link.addEventListener('click', () => {
       posthog.capture('app_download_click', {
-        store: link.href.includes('apple') ? 'ios' : 'android',
+        url: link.href || '',
+        text: link.textContent.trim().substring(0, 100),
         path: window.location.pathname
       });
     });
   });
 
-  // 4. Newsletter Signup Tracking
-  document.querySelectorAll('form[action*="beehiiv"], form[action*="subscribe"], .newsletter-form').forEach(form => {
+  // 4. Newsletter Signup Tracking (forms + any beehiiv embed)
+  document.querySelectorAll('form[action*="beehiiv"], form[action*="subscribe"], .newsletter-form, form[data-beehiiv]').forEach(form => {
     form.addEventListener('submit', () => {
       posthog.capture('newsletter_signup', {
         path: window.location.pathname
       });
     });
   });
+  // Also track clicks on any beehiiv subscribe button
+  document.querySelectorAll('a[href*="beehiiv"], button[class*="subscribe"], input[type="submit"][value*="ubscri"]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      posthog.capture('newsletter_signup', {
+        path: window.location.pathname,
+        method: 'button_click'
+      });
+    });
+  });
 
-  // 5. Internal Link Click Tracking
-  document.querySelectorAll('.post-content a[href^="/"], .post-content a[href*="bloom-path.app"]').forEach(link => {
-    // Exclude affiliate and external links
-    if (link.href.includes('amazon') || link.href.includes('apps.apple')) return;
+  // 5. Internal Link Click Tracking (search entire page for internal links)
+  document.querySelectorAll('a[href^="/"], a[href*="bloom-path.app"]').forEach(link => {
+    // Exclude affiliate, external, and nav links
+    if (link.href.includes('amazon') || link.href.includes('apps.apple') || link.href.includes('bloompath.quakr.dev')) return;
+    if (link.closest('header') || link.closest('footer') || link.closest('nav')) return;
     link.addEventListener('click', () => {
       posthog.capture('internal_link_click', {
         from: window.location.pathname,
