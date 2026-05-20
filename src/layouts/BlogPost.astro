@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import YouTubeEmbed from '../components/YouTubeEmbed.astro';
 import { useTranslations } from '../i18n/utils';
 
 interface Props {
@@ -84,6 +85,10 @@ const { Content } = await (async () => {
             <h1>{post.data.title}</h1>
             {post.data.author && <p class="post-author">By {post.data.author}</p>}
           </header>
+
+          {post.data.youtubeId && (
+            <YouTubeEmbed videoId={post.data.youtubeId} title={post.data.title} />
+          )}
 
           <div class="post-content" id="post-content">
             <Content />

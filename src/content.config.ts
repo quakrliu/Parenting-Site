@@ -14,6 +14,7 @@ const blog = defineCollection({
     imageAlt: z.string().optional(),
     lang: z.string().default('en'),
     ageGroup: z.array(z.string()).optional(),
+    youtubeId: z.string().optional(),
     draft: z.boolean().optional(),
   }),
 });
