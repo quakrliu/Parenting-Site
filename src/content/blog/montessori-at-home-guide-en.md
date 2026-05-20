@@ -353,8 +353,19 @@ A: Start with what you have. Treasure baskets from your kitchen. Beans and conta
 
 ---
 
-**Related Reading:**
+---
 
-- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
-- [Setting Up a Montessori Home Environment](/blog/montessori-home-environment-en)
-- [Montessori vs. Traditional Preschool](/blog/montessori-vs-traditional-preschool-en)
+## Related Reading
+
+Explore more in our Montessori at Home series:
+
+- [Montessori Home Environment: Room-by-Room Setup Guide](/en/blog/montessori-home-environment-en)
+- [10 Montessori Activities You Can Do Today](/en/blog/montessori-activities-at-home-en)
+- [Montessori vs Traditional Preschool: What the Research Proves](/en/blog/montessori-vs-traditional-preschool-en)
+- [Does Montessori Actually Work? A Landmark Study](/en/blog/en-montessori-pnas-research-2026)
+- [Montessori vs Gentle Parenting: What's Actually Different](/en/blog/montessori-vs-gentle-parenting-en)
+- [Montessori Preschool Costs Less AND Works Better — National Study 2026](/en/blog/montessori-national-study-2026-results-en)
+- [Montessori Was Doing SEL Before It Had a Name](/en/blog/montessori-sel-casel-skills-en)
+- [Lovevery 4-Year-Old Play Kits: An Honest Review](/en/blog/lovevery-4-year-old-play-kits-review-en)
+- [The Analog Childhood Movement: Why Montessori Parents Are Already Ahead](/en/blog/analog-childhood-montessori-screen-free-en)
+- [Is Gentle Parenting Dead? What Montessori Says About Boundaries](/en/blog/en-gentle-parenting-montessori-boundaries)

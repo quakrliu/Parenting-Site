@@ -301,8 +301,15 @@ A: Consistency helps, but it isn't everything. A child who has one consistently 
 
 ---
 
-**Related Reading:**
+---
 
-- [How to Set Boundaries Without Punishment](/blog/positive-parenting-boundaries-en)
-- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
-- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)
+## Related Reading
+
+Explore more in our Positive Parenting series:
+
+- [How to Set Boundaries Without Punishment: The Positive Parenting Way](/en/blog/positive-parenting-boundaries-en)
+- [Your Toddler's Meltdowns Are Normal: A Montessori Approach](/en/blog/toddler-meltdowns-montessori-en)
+- [Why I Stopped Being a 'Gentle Parent' (And Became a Better Dad)](/en/blog/hybrid-parenting-2026-gentle-parenting-en)
+- [Gentle Parenting Burned You Out? Here's the Science of Empathy + Limits](/en/blog/gentle-parenting-burnout-empathy-limits-en)
+- [Cycle-Breaking Parenting: The Gen Z Guide to Healing Generational Trauma](/en/blog/cycle-breaking-parenting-generational-trauma-en)
+- [4 Year Old Power Struggles: 5 Science-Backed Strategies That Actually Work](/en/blog/4-year-old-power-struggles-en)

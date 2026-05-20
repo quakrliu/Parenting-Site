@@ -332,8 +332,13 @@ You already care about getting this right. That caring is the most important var
 
 ---
 
-**Related Reading:**
+---
 
-- [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-[screen time rules for school-age kids](/en/blog/screen-time-rules-school-age-kids-2026-en)-kids-2026-en)
-- [AAP Screen Time Guidelines 2026](/blog/aap-screen-time-guidelines-2026)
-- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)
+## Related Reading
+
+Explore more in our Screen Time series:
+
+- [Screen Time Rules for School-Age Kids in 2026](/en/blog/screen-time-rules-school-age-kids-2026-en)
+- [The AAP's New 5 Cs of Screen Time: A Practical Breakdown](/en/blog/aap-5cs-screen-time-framework-preschoolers-en)
+- [Children's Internet Safety in 2026: AI Toys, New Laws, and What Actually Works](/en/blog/children-internet-safety-2026-en)
+- [Australia Just Banned Social Media for Under-16s: What Parents Should Know](/en/blog/australia-teen-social-media-ban-parents-guide-en)
