@@ -19,9 +19,36 @@ const featuredPosts = allPosts
   .filter((post) => post.data.pubDate <= now && post.data.lang === 'en')
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 6);
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "BloomPath",
+  alternateName: "育見未來",
+  url: "https://bloom-path.app",
+  logo: "https://bloom-path.app/logo-nav.png",
+  sameAs: [
+    "https://www.youtube.com/@BloomPathParenting",
+    "https://www.youtube.com/@%E8%82%B2%E8%A6%8B%E6%9C%AA%E4%BE%86BloomPath-%E4%B8%AD%E6%96%87",
+  ],
+};
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "BloomPath",
+  url: "https://bloom-path.app/en/",
+  inLanguage: "en",
+  publisher: { "@type": "Organization", name: "BloomPath" },
+};
 ---
 
-<BaseLayout title={`${t('site.title')} | ${t('site.tagline')}`} description={t('site.description')} lang={lang}>
+<BaseLayout
+  title={`${t('site.title')} | ${t('site.tagline')}`}
+  description={t('site.description')}
+  lang={lang}
+  jsonLd={[organizationSchema, websiteSchema]}
+>
   <Header lang={lang} />
   <HomeHero lang={lang} />
   <FeaturedArticles lang={lang} posts={featuredPosts} />

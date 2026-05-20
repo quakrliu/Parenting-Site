@@ -19,6 +19,38 @@ const appStoreUrl = postLang === 'zh'
   ? 'https://apps.apple.com/tw/app/id6759791532'
   : 'https://apps.apple.com/us/app/id6759791532';
 
+const articleSchema: Record<string, any> = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.pubDate.toISOString(),
+  dateModified: (post.data.updatedDate || post.data.pubDate).toISOString(),
+  inLanguage: postLang === 'zh' ? 'zh-TW' : 'en',
+  author: {
+    "@type": "Person",
+    name: post.data.author || "BloomPath",
+  },
+  publisher: {
+    "@type": "Organization",
+    name: "BloomPath",
+    logo: {
+      "@type": "ImageObject",
+      url: new URL("/logo-nav.png", Astro.site).toString(),
+    },
+  },
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": pageUrl,
+  },
+};
+if (post.data.image) {
+  articleSchema.image = new URL(post.data.image, Astro.site).toString();
+}
+if (post.data.tags && post.data.tags.length) {
+  articleSchema.keywords = post.data.tags.join(', ');
+}
+
 const rawBody: string = post.body || "";
 let readingTime: number;
 if (postLang === 'zh') {
@@ -51,6 +83,7 @@ const { Content } = await (async () => {
   description={post.data.description}
   lang={postLang}
   ogImage={post.data.image ? new URL(post.data.image, Astro.site).toString() : undefined}
+  jsonLd={articleSchema}
 >
   <Header lang={lang} />
 

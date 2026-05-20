@@ -6,6 +6,7 @@ interface Props {
   description?: string;
   lang?: string;
   ogImage?: string;
+  jsonLd?: Record<string, any> | Record<string, any>[];
 }
 
 const currentLang = getLangFromUrl(Astro.url);
@@ -16,7 +17,11 @@ const {
   description = 'BloomPath - Research-backed parenting guides, developmental milestones, and practical tools for raising confident children.',
   lang = currentLang,
   ogImage,
+  jsonLd,
 } = Astro.props;
+
+const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+const serializeJsonLd = (data: Record<string, any>) => JSON.stringify(data).replace(/</g, '\\u003c');
 
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -56,6 +61,11 @@ const altHreflang = altLang === 'zh' ? 'zh-TW' : 'en';
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
+
+    <!-- JSON-LD Schema -->
+    {jsonLdArray.map((data) => (
+      <script type="application/ld+json" set:html={serializeJsonLd(data)} />
+    ))}
 
     <!-- Google Fonts: non-blocking load -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
