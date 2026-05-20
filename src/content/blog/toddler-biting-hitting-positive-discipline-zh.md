@@ -4,6 +4,7 @@ description: "孩子咬人、打人，不是壞，是大腦還沒準備好。蒙
 pubDate: "2026-05-06"
 tags: ["幼兒咬人", "幼兒打人", "正向管教", "蒙特梭利幼兒", "幼兒攻擊行為", "情緒管理", "育兒台灣"]
 lang: "zh-TW"
+youtubeId: "k2esMgi0_kA"
 author: "Mei Chen"
 image: "/og/toddler-biting-hitting-positive-discipline-zh.png"
 draft: false

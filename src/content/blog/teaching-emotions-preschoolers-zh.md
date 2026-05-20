@@ -4,6 +4,7 @@ description: "工程師爸爸分享如何用感受輪、角色扮演和繪本，
 pubDate: "2026-05-02"
 tags: ["情緒教育", "學齡前", "正向教養", "4歲", "感受輪"]
 lang: "zh-TW"
+youtubeId: "h8sJOv-NAWA"
 author: "Ethan Moore"
 image: "/og/teaching-emotions-preschoolers-zh.png"
 draft: false

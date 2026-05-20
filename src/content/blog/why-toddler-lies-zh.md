@@ -4,6 +4,7 @@ description: "孩子睜著大眼睛說謊，爸媽的心都涼了一半。但研
 pubDate: "2026-05-16"
 tags: ["幼兒行為", "孩子說謊", "正向教養", "兒童發展"]
 lang: "zh-TW"
+youtubeId: "0Q7cnCOqhhw"
 author: "Ethan Moore"
 image: "/og/why-toddler-lies-zh.png"
 draft: false

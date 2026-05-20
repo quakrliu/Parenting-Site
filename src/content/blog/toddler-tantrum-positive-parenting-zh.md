@@ -4,6 +4,7 @@ description: "當寶貝在超市倒地大哭、回家路上崩潰發脾氣，你
 pubDate: "2026-04-11"
 tags: ["正向教養", "幼兒情緒", "發脾氣", "情緒管理", "蒙特梭利"]
 lang: "zh-TW"
+youtubeId: "4JgmZAzWMSQ"
 author: "Ethan Moore"
 draft: false
 image: "/og/toddler-tantrum-positive-parenting-zh.png"

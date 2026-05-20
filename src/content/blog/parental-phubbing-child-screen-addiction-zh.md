@@ -4,6 +4,7 @@ description: "Frontiers in Psychology 最新研究：925 名家長確認，爸�
 pubDate: "2026-04-10"
 tags: ["螢幕時間", "低頭族", "親子關係", "正向教養", "3C管理", "蒙特梭利"]
 lang: "zh-TW"
+youtubeId: "i6EDzHRfidg"
 author: "Ethan Moore"
 draft: false
 image: "/og/parental-phubbing-child-screen-addiction-zh.png"

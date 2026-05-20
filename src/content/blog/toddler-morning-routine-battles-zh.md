@@ -4,6 +4,7 @@ description: "每天早上出門前都要上演穿鞋大戰？工程師爸爸Eth
 pubDate: "2026-05-13"
 tags: ["正向教養", "幼兒", "早晨例行", "權力鬥爭", "獨立自主"]
 lang: "zh-TW"
+youtubeId: "6iOCmfOatKo"
 author: "Ethan Moore"
 image: "/og/toddler-morning-routine-battles-zh.png"
 draft: false

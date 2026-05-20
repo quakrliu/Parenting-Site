@@ -3,6 +3,7 @@ title: "溫和睡眠訓練有用嗎？2026 蒙特梭利實踐版：5 步驟讓�
 description: "4 種主流溫和睡眠訓練方法對照 + 蒙特梭利地板床與睡前儀式的實踐做法，一位工程師爸爸的誠實告白與 7 天調整計劃。"
 pubDate: "2026-04-21"
 lang: "zh-TW"
+youtubeId: "6iVHeBhUfxA"
 tags: ["溫和睡眠訓練", "蒙特梭利", "寶寶睡眠", "哄睡", "幼兒睡眠"]
 ageGroup: ["infant", "toddler"]
 image: "/og/gentle-sleep-training-montessori-zh.png"

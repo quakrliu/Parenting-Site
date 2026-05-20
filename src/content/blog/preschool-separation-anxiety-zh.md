@@ -4,6 +4,7 @@ description: "送孩子上幼兒園哭個不停？這不是你的錯，也不是
 pubDate: "2026-04-30"
 tags: ["分離焦慮", "幼兒園", "正向教養", "4歲", "育兒"]
 lang: "zh-TW"
+youtubeId: "LbSCZaIl3kg"
 author: "Ethan Moore"
 image: "/og/preschool-separation-anxiety-zh.png"
 draft: false

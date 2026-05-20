@@ -4,6 +4,7 @@ description: "孩子在超市、捷運、百貨公司突然大哭崩潰，所有
 pubDate: "2026-05-01"
 tags: ["正向教養", "親子教養", "幼兒情緒", "公共場合崩潰", "情緒調節"]
 lang: "zh-TW"
+youtubeId: "NA4HypRs19Y"
 author: "Ethan Moore"
 image: "/og/toddler-meltdown-in-public-zh.png"
 draft: false
