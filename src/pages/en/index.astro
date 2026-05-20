@@ -4,17 +4,12 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import HomeHero from '../../components/HomeHero.astro';
 import FeaturedArticles from '../../components/FeaturedArticles.astro';
-import NewsletterSection from '../../components/NewsletterSection.astro';
-import AboutSection from '../../components/AboutSection.astro';
 import PodcastSection from '../../components/PodcastSection.astro';
 import BooksSection from '../../components/BooksSection.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations } from '../../i18n/utils';
 import AgeNavigator from '../../components/AgeNavigator.astro';
 import TopicsSection from '../../components/TopicsSection.astro';
-import PhilosophyPillars from '../../components/PhilosophyPillars.astro';
-import CommunitySection from '../../components/CommunitySection.astro';
-import DailyStickiness from '../../components/DailyStickiness.astro';
 
 const lang = 'en';
 const t = useTranslations(lang);
@@ -33,12 +28,7 @@ const featuredPosts = allPosts
   <FeaturedArticles lang={lang} posts={featuredPosts} />
   <TopicsSection lang={lang} />
   <AgeNavigator lang={lang} />
-  <PhilosophyPillars lang={lang} />
-  <DailyStickiness lang={lang} />
   <BooksSection lang={lang} />
-  <CommunitySection lang={lang} />
   <PodcastSection lang={lang} />
-  <NewsletterSection lang={lang} />
-  <AboutSection lang={lang} />
   <Footer lang={lang} />
 </BaseLayout>

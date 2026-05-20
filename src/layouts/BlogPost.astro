@@ -2,7 +2,6 @@
 import BaseLayout from './BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import CusdisComments from '../components/CusdisComments.astro';
 import BookCTA from '../components/BookCTA.astro';
 import { useTranslations } from '../i18n/utils';
 
@@ -15,6 +14,10 @@ interface Props {
 const { post, lang, pageUrl } = Astro.props;
 const t = useTranslations(lang);
 const postLang = post.data.lang === 'zh-TW' ? 'zh' : 'en';
+
+const appStoreUrl = postLang === 'zh'
+  ? 'https://apps.apple.com/tw/app/id6759791532'
+  : 'https://apps.apple.com/us/app/id6759791532';
 
 const rawBody: string = post.body || "";
 let readingTime: number;
@@ -98,13 +101,6 @@ const { Content } = await (async () => {
 
         <BookCTA lang={lang} />
 
-        <CusdisComments
-          lang={lang}
-          pageUrl={pageUrl}
-          pageId={`/${lang}/blog/${post.id}`}
-          pageTitle={post.data.title}
-        />
-
         <nav class="post-nav">
           <a href={`/${lang}/blog`} class="back-link">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
@@ -125,7 +121,7 @@ const { Content } = await (async () => {
   </main>
 
   <!-- Mid-article CTA data (read by JS) -->
-  <div id="mid-cta-data" data-msg={ctaMsg} data-btn={ctaBtn} style="display:none"></div>
+  <div id="mid-cta-data" data-msg={ctaMsg} data-btn={ctaBtn} data-href={appStoreUrl} style="display:none"></div>
 
   <Footer lang={lang} />
 </BaseLayout>
@@ -525,13 +521,14 @@ const { Content } = await (async () => {
       const ctaData = document.getElementById('mid-cta-data');
       const msg = (ctaData && ctaData.dataset.msg) || "Track your child's development with BloomPath";
       const btn = (ctaData && ctaData.dataset.btn) || 'Download free';
+      const href = (ctaData && ctaData.dataset.href) || 'https://apps.apple.com/us/app/id6759791532';
       const midIndex = Math.floor(h2s.length / 2);
       const targetH2 = h2s[midIndex];
       const cta = document.createElement('div');
       cta.className = 'mid-article-cta';
       cta.innerHTML =
         '<span class="mid-cta-msg">' + msg + '</span>' +
-        '<a href="https://bloom-path.app" class="mid-cta-btn" target="_blank" rel="noopener">' + btn + ' →</a>';
+        '<a href="' + href + '" class="mid-cta-btn" target="_blank" rel="noopener">' + btn + ' →</a>';
       if (targetH2.parentNode) {
         targetH2.parentNode.insertBefore(cta, targetH2);
       }

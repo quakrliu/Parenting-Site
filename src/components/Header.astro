@@ -9,6 +9,10 @@ const { lang = 'en' } = Astro.props;
 const t = useTranslations(lang);
 const altLang = getAlternateLang(lang);
 
+const appStoreUrl = lang === 'zh'
+  ? 'https://apps.apple.com/tw/app/id6759791532'
+  : 'https://apps.apple.com/us/app/id6759791532';
+
 // Build alternate URL by swapping locale prefix
 const currentPath = Astro.url.pathname;
 const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}/`;
@@ -17,7 +21,7 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
 <div class="app-banner">
   <div class="container app-banner-inner">
     <span>{lang === 'zh' ? '🌱 BloomPath App 已上架！追蹤寶貝 224 項發展里程碑' : '🌱 BloomPath App is live! Track 224 developmental milestones'}</span>
-    <a href="https://bloompath.quakr.dev" target="_blank" class="app-banner-cta">{lang === 'zh' ? '免費下載' : 'Download Free'}</a>
+    <a href={appStoreUrl} target="_blank" rel="noopener" class="app-banner-cta">{lang === 'zh' ? '免費下載' : 'Download Free'}</a>
   </div>
 </div>
 <header class="site-header">
