@@ -4,6 +4,7 @@ description: "Your toddler looked you dead in the eye and lied. Before you spira
 pubDate: "2026-05-16"
 tags: ["toddler behavior", "lying", "positive parenting", "child development"]
 lang: "en"
+youtubeId: "S5a8xztZu78"
 author: "Ethan Moore"
 image: "/og/why-toddler-lies-en.png"
 draft: false

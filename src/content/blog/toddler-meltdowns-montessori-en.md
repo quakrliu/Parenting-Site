@@ -3,6 +3,7 @@ title: "Your Toddler's Meltdowns Are Normal: A Montessori Approach to Tantrums"
 description: "Why toddler meltdowns happen, what they mean developmentally, and a 5-step Montessori-aligned approach to handling them with calm and connection."
 pubDate: 2026-04-10
 lang: en
+youtubeId: "GEmcR_A8CLM"
 slug: toddler-meltdowns-montessori
 keywords: ["toddler meltdowns", "toddler tantrums", "montessori tantrums", "how to handle toddler meltdowns", "toddler emotional regulation", "montessori discipline toddler", "toddler meltdown scripts"]
 category: "Montessori Education"

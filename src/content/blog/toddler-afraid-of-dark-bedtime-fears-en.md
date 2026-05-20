@@ -4,6 +4,7 @@ description: "Sound familiar? After months of bedtime battles and false starts, 
 pubDate: "2026-05-16"
 tags: ["sleep", "bedtime fears", "toddler", "parenting tips", "sleep training"]
 lang: "en"
+youtubeId: "JxWZuIaa0ho"
 author: "Ethan Moore"
 image: "/og/toddler-afraid-of-dark-bedtime-fears-en.png"
 draft: false

@@ -4,6 +4,7 @@ description: "If your toddler turns into a statue the moment you say 'shoes on,'
 pubDate: "2026-05-13"
 tags: ["positive parenting", "toddler", "morning routine", "power struggles", "independence"]
 lang: "en"
+youtubeId: "Qo8AEDixybI"
 author: "Ethan Moore"
 image: "/og/toddler-morning-routine-battles-en.png"
 draft: false
