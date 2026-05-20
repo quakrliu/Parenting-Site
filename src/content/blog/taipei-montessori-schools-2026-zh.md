@@ -1,5 +1,5 @@
 ---
-title: "2026 台北蒙特梭利學校完整指南：TMIS、T.I.M.E.S、Y2MAC 選校攻略＋費用比較"
+title: "2026 台北蒙特梭利學校選哪間？TMIS 長華、T.I.M.E.S、Y2MAC 學費＋特色實地比較"
 description: "台北有哪些蒙特梭利學校？TMIS、T.I.M.E.S、Y2MAC 特色、費用、適合年齡完整比較。2026 最新整理，幫助台灣爸媽做出最適合孩子的選校決定。"
 pubDate: 2026-04-01
 updatedDate: 2026-03-31

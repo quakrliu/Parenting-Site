@@ -1,5 +1,5 @@
 ---
-title: "台灣蒙特梭利學校完整指南 2026 — 選校攻略、費用與各年齡建議"
+title: "台灣蒙特梭利學校完整指南 2026：TMIS 長華、T.I.M.E.S、Y2MAC 學費比較＋選校攻略"
 description: "從幼兒園到高中，台灣有哪些真正的蒙特梭利學校？本文整理 TMIS 長華、T.I.M.E.S、Y2MAC 等主要學校，幫你找到適合寶貝的選擇。"
 slug: "taipei-montessori-schools-guide"
 pubDate: 2026-03-31
