@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 image: "/og/toddler-wakes-every-2-hours-en.png"
+ageGroup: ["toddler"]
 ---
 
 **TL;DR:** Your toddler wakes every 2 hours because they learned to fall asleep *with* you -- and now they need you back every time they surface between sleep cycles. The fix is teaching them to fall asleep independently. Drowsy-but-awake, a consistent bedtime routine, and a gradual exit strategy are the tools that work.

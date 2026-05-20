@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/imaginative-play-benefits-4-year-old-en.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 **TL;DR:** Imaginative play isn't goofing off. For 4-year-olds, pretending to be a dragon, running a restaurant, or diagnosing stuffed animals builds executive function, self-regulation, empathy, and language skills — all at the same time. Your job is mostly to get out of the way.

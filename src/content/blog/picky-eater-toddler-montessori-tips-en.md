@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/picky-eater-toddler-montessori-tips-en.png"
 draft: false
+ageGroup: ["toddler", "preschool"]
 ---
 
 Last January at IKEA in San Jose, my four-year-old Maya refused the meatballs.

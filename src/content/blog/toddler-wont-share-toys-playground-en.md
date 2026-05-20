@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-wont-share-toys-playground-en.png"
 draft: false
+ageGroup: ["toddler", "preschool"]
 ---
 
 Last Sunday at Woodside Memorial Park in San Jose, my daughter Lily spotted a red plastic shovel in the sandbox. The shovel belonged to a kid named Marcus, who was three-and-a-half and currently building what he described as "a castle for dinosaurs." Lily walked over, made zero eye contact, and yanked the shovel out of his hands.

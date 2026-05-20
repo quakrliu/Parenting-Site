@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 image: "/og/aap-5cs-screen-time-framework-preschoolers-en.png"
+ageGroup: ["preschool"]
 ---
 
 **TL;DR:** The American Academy of Pediatrics now uses a "5 Cs" framework — Child, Content, Calm, Crowding Out, and Communication — instead of hard time limits. A January 2026 UCL study of 4,700+ toddlers found that excessive [complete screen time research guide](/en/blog/screen-time-2026-guide-en) is linked to lower language scores by age 4.5. The good news: *how* your kid uses screens matters more than the clock. Here's how I apply each C at home with my 4-year-old.

@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-meltdown-in-public-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 Last March, IKEA, Sweden section. My daughter decided that the specific yellow throw pillow she had been carrying for the last twenty minutes was, without warning, the most important object in the universe. When I gently suggested we put it back, she dropped to the floor and began a sound that I can only describe as a smoke alarm having an argument with another smoke alarm.

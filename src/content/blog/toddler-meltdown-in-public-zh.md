@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-meltdown-in-public-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 去年三月，我們在忠孝復興的某間百貨。我女兒在玩具區看上了一個黃色的小抱枕，抱著走了二十分鐘。當我輕輕說要把它放回去，她直接坐到地板上，發出一種我只能形容為「煙霧警報器在跟另一個煙霧警報器吵架」的聲音。

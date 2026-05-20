@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/emotional-intelligence-4-year-olds-en.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 **TL;DR:** Four-year-olds aren't being dramatic — their brains literally can't regulate big emotions yet. The fix isn't punishment or distraction. It's emotion naming, calm co-regulation, and a few repeatable daily habits. This guide walks through exactly how to do that without losing your mind.

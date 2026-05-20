@@ -7,6 +7,7 @@ author: "Ethan Moore"
 image: "/og/toddler-wont-clean-up-toys-en.png"
 description: "Your toddler refuses to clean up toys every single night. Here's what actually works -- backed by child development research."
 draft: false
+ageGroup: ["toddler"]
 ---
 
 It's 7:43 PM on a Tuesday in Taipei. The living room floor looks like a toy warehouse exploded. My daughter has approximately 400 plastic animals scattered across every surface, and I've just stepped on a Duplo brick with my bare foot for the third time this week.

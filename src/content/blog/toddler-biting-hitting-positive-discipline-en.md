@@ -7,6 +7,7 @@ lang: "en"
 author: "Mei Chen"
 image: "/og/toddler-biting-hitting-positive-discipline-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 February, Menlo Park, playground sandbox. A 26-month-old named Oliver leaned over and bit the arm of the girl next to him — hard enough to leave marks.

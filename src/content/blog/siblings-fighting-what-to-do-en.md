@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/siblings-fighting-what-to-do-en.png"
 draft: false
+ageGroup: ["preschool", "school"]
 ---
 
 I only have one kid, so technically I'm not a direct expert here. But I grew up with two brothers, and my wife -- who has an early childhood education background -- has worked with enough multi-child families to fill several books.

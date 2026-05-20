@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/kindergarten-guide-taiwan-2026-zh.png"
+ageGroup: ["preschool"]
 ---
 
 *這篇文章幫你回答這個問題：如果選錯幼兒園，代價是什麼？*

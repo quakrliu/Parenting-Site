@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/grandparent-parenting-conflict-zh.png"
+ageGroup: ["all"]
 ---
 
 **重點摘要：** 跟阿公阿嬤的教養衝突，核心不是誰對誰錯，而是大人之間缺少「共同協議」。研究顯示直接禁止只會招致反抗，真正有效的是：先夫妻對齊，再溫柔拉阿公阿嬤進來，給替代方案，放寬不重要的事。

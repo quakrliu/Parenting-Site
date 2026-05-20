@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Mei Chen"
 image: "/og/toddler-afraid-of-dark-bedtime-fears-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 那天晚上十點半，我女兒已經叫我進去五次了。

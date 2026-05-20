@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Mei Chen"
 image: "/og/toddler-hates-hair-washing-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 上個禮拜五晚上九點，我在浴室外面聽到的聲音是：

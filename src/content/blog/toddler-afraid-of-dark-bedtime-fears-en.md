@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-afraid-of-dark-bedtime-fears-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 It was 11:14 PM on a Tuesday. I'd already done four check-ins. My daughter Lily had her nightlight on, her stuffed rabbit tucked under her arm, and a nature sounds playlist running quietly — everything she'd asked for. Then she called out again.

@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/parental-phubbing-child-screen-addiction-zh.png"
+ageGroup: ["all"]
 ---
 
 去年某個晚上，我太太突然拿出手機錄了一段影片給我看。

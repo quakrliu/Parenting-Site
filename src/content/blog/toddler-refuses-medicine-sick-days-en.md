@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-refuses-medicine-sick-days-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 It was 11:47 PM on a Tuesday. Lily had a fever of 102.4°F, the kind that makes their eyes look glassy and their cheeks flush wrong. I had the children's ibuprofen measured out — 5.5 mL, a precise amount — in a tiny plastic syringe. I crouched down to her level, used my most reassuring Dad Voice, explained that this would make her feel better, and carefully placed the tip of the syringe inside her cheek.

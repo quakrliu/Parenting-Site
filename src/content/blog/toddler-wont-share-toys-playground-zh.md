@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-wont-share-toys-playground-zh.png"
 draft: false
+ageGroup: ["toddler", "preschool"]
 ---
 
 上個禮拜天下午，我們帶 Lily 去大安森林公園。沙坑裡有個小男生正在挖「恐龍城堡」，手上拿著一支紅色鏟子。Lily 走過去，一句話沒說，直接把鏟子搶走。

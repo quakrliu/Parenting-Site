@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/emotional-intelligence-4-year-olds-zh.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 **重點先說：** 4歲孩子不是故意找麻煩，是他們的大腦發育還沒到位。情緒教育的核心不是「叫他們冷靜」，而是先幫他們說出感受。這篇文章分享我親身試過的方法，有效的、踩過的雷，都寫在裡面。

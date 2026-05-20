@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Mei Chen"
 image: "/og/toddler-biting-hitting-positive-discipline-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 三月的某個週六下午，我在大安森林公園旁的社區公園裡協助一個家庭做觀察。

@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/teaching-emotions-preschoolers-en.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 Last Thursday in Bali, my four-year-old daughter Mia knocked over her juice, looked me dead in the eyes, and screamed "I'M SO ANGRY" before dissolving into tears on the tile floor. Six months ago, that same moment would have ended with me raising my voice, her escalating into full meltdown territory, and both of us feeling terrible afterward.

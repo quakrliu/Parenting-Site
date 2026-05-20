@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/toddler-tantrum-positive-parenting-zh.png"
+ageGroup: ["toddler"]
 ---
 
 那天在全聯。

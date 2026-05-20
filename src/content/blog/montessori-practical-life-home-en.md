@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/montessori-practical-life-home-en.png"
 draft: false
+ageGroup: ["toddler", "preschool"]
 ---
 
 Last Tuesday in our rented apartment in Chiang Mai, I was making breakfast — scrambled eggs, nothing fancy — when Mia planted herself right next to the stove, reached up, and grabbed the spatula out of my hand. She was four. I was holding a hot pan. My first instinct was "absolutely not." Then my wife Sarah, who spent six years as an early childhood educator before we went nomad, said from behind her coffee cup: "Let her stir. Just turn the heat down."

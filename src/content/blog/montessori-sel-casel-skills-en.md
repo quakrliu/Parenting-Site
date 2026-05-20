@@ -8,6 +8,7 @@ tags: ["Montessori", "social emotional learning", "SEL", "CASEL", "child develop
 lang: "en"
 draft: false
 image: "/og/montessori-sel-casel-skills-en.png"
+ageGroup: ["preschool"]
 ---
 
 *Last updated: April 2026 | Sources: CASEL.org, PNAS (2025), Dr. Angeline Lillard (Oxford University Press, 2026)*

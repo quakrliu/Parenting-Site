@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/when-to-start-potty-training-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 我有個很不好意思的記憶：女兒兩歲生日過後，我媽開始每週問我「尿布戒了沒？」。我的岳母（前幼教老師）則每次看到我女兒還穿著尿布，都會說：「我帶的班，1 歲半就開始訓練了。」

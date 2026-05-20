@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/aap-2026-screen-time-quality-checklist-zh.jpg"
+ageGroup: ["all"]
 ---
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"AAP 2026 年真的取消每天 2 小時的螢幕時間限制了嗎？","acceptedAnswer":{"@type":"Answer","text":"是的。AAP 在 2026 年 1 月發布更新，正式放棄每天 2 小時的硬性上限，改以內容品質、陪伴方式和取代活動為評估標準。"}},{"@type":"Question","name":"獨自看螢幕 10 分鐘，真的有影響嗎？","acceptedAnswer":{"@type":"Answer","text":"根據 2026 年 3 月發表的研究，對語言能力較弱的學齡前幼兒來說，每天獨自看螢幕 10 到 30 分鐘，六個月後出現更多行為和情緒問題。陪伴的重要性遠大於控制時間長短。"}},{"@type":"Question","name":"18 個月以下的嬰兒還是不能看螢幕嗎？","acceptedAnswer":{"@type":"Answer","text":"是的，這一點 2026 年的指南沒有改變。18 個月以下除了視訊通話，仍然建議避免螢幕。"}},{"@type":"Question","name":"家庭媒體計畫去哪裡做？","acceptedAnswer":{"@type":"Answer","text":"AAP 在 HealthyChildren.org/fmp 提供免費的互動工具，可以根據每個孩子的年齡客製化，填完後可以列印出來。"}},{"@type":"Question","name":"阿嬤開電視哄孫子，算獨自看螢幕嗎？","acceptedAnswer":{"@type":"Answer","text":"如果阿嬤只是讓孩子坐在電視前沒有互動，效果接近獨自觀看。真正的共同觀看需要大人偶爾參與：評論、提問、把節目內容和孩子的生活連結起來。"}}]}

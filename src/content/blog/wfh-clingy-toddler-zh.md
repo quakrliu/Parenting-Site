@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/wfh-clingy-toddler-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 那天早上九點，我剛打開筆電，試算表還沒載入完，小米就爬上我的大腿。

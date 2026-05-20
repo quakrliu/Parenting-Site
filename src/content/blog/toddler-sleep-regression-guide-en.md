@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 image: "/og/toddler-sleep-regression-guide-en.png"
+ageGroup: ["toddler"]
 ---
 
 It was 2:17am. My daughter—who had been sleeping through the night for three months—was standing in her crib screaming like I'd stolen her stuffed elephant. I hadn't. Bruno was right there. She didn't want Bruno. She didn't want water. She didn't want me. Then she wanted ALL of those things at once.

@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/why-toddler-lies-zh.png"
 draft: false
+ageGroup: ["toddler", "preschool"]
 ---
 
 **重點整理：** 孩子說謊，是因為大腦正在發展「心智理論」——理解別人知道什麼、自己知道什麼的能力。這個能力大約在 3-4 歲出現，本身是認知里程碑。你的回應方式，決定孩子以後敢不敢跟你說真話。

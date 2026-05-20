@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/sunlight-child-development-outdoors-zh.png"
+ageGroup: ["all"]
 ---
 
 我以前覺得「帶寶寶出去走走」就是讓她不無聊。

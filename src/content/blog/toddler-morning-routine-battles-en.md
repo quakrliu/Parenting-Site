@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-morning-routine-battles-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 **TL;DR:** Your toddler isn't trying to make you late—they're developmentally wired to resist being bossed around right now. Three changes fixed our mornings: choosing clothes the night before together, offering real two-choice options at every step, and using a visual schedule chart Emma could "own." Week one still sucked. Week three, she reminded *me* to follow the chart.

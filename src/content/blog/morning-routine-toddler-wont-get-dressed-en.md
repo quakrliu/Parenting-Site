@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/morning-routine-toddler-wont-get-dressed-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 Tuesday, 7:18 a.m. My standup meeting is at 9. My daughter is lying on the hardwood floor of her bedroom, arms rigid at her sides, staring at the ceiling with the flat affect of someone whose flight just got cancelled. The offense: I put out jeans. She wanted the orange leggings. The orange leggings are in the wash. She doesn't care. She's completely certain they exist somewhere and completely certain we have failed her by not producing them.

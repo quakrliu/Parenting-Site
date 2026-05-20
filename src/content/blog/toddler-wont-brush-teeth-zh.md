@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-wont-brush-teeth-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 上週三晚上九點，我站在浴室裡，手拿牙刷，牙膏都擠好了。我兒子小歐站在我前面大約二十公分的距離——近到我還聞得到他晚餐吃的蛋炒飯——嘴巴閉得比保險箱還緊。

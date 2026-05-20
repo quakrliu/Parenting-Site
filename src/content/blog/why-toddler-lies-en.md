@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/why-toddler-lies-en.png"
 draft: false
+ageGroup: ["toddler", "preschool"]
 ---
 
 **TL;DR:** Toddlers lie because their brains are developing theory of mind — a complex skill that requires both self-control and the ability to imagine what other people know. The first lie is a developmental milestone, not a character flaw. How you respond in that first moment shapes whether your child feels safe telling the truth next time.

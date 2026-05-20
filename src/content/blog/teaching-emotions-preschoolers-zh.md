@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/teaching-emotions-preschoolers-zh.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 上週四下午我去接寶貝 Mia 放學，她一上車就開始哭。不是那種有原因的哭——就是哭。我問「怎麼了？」她說「不知道」。我問「哪裡不舒服？」她搖頭。我問「是不是有人欺負你？」她更大聲哭了。

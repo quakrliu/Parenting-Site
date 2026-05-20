@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-refuses-nap-survival-guide-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 **TL;DR:** Most toddlers drop the nap somewhere between 3 and 4 years old, but the transition takes months — not days. The secret is a "quiet time" replacement, a slightly earlier bedtime, and accepting that some days the nap will magically return. The 4 PM meltdown is a sign to pull the bedtime forward, not a sign you failed.

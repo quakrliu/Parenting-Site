@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 image: "/og/bedtime-reading-benefits-empathy-creativity-en.png"
+ageGroup: ["all"]
 ---
 
 The night I almost quit bedtime stories, my daughter was seven and I was running on four hours of sleep and cold leftover pad thai.

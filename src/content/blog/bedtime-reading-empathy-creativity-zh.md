@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/bedtime-reading-empathy-creativity-zh.png"
+ageGroup: ["all"]
 ---
 
 你上週幾天有好好說睡前故事？

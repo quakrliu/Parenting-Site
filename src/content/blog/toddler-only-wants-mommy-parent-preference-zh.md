@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-only-wants-mommy-parent-preference-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 去年十一月，一個星期三。

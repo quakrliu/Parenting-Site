@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/bilingual-4-year-old-vocabulary-en.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 Last March in Chiang Mai, I sat across from my daughter's preschool teacher and tried not to visibly panic. The teacher — a lovely woman, genuinely well-intentioned — had pulled out a vocabulary checklist. My four-year-old Mia scored lower than her monolingual Thai classmates in Thai, and lower than the English-speaking kids in English. On paper, she looked behind in both languages.

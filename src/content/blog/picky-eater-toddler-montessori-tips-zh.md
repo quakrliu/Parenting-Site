@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/picky-eater-toddler-montessori-tips-zh.png"
 draft: false
+ageGroup: ["toddler", "preschool"]
 ---
 
 今年農曆年，我帶著女兒葉子去阿嬤家吃年夜飯。

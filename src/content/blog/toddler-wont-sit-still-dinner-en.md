@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-wont-sit-still-dinner-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 My wife and I used to look forward to family dinners. Then our daughter turned 2, and dinners became an obstacle course. She'd eat three bites, announce she was 'all done,' and then try to escape the high chair while I was still assembling my fork.

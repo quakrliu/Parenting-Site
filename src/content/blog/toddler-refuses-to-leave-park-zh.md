@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-refuses-to-leave-park-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 那天是假日下午，我帶著三歲的女兒在河濱公園玩了將近一個半小時。滑梯、沙坑、旋轉木馬，她整個人玩到臉紅通通的，我拿起手機一看，已經快五點了，再不走晚上又要很晚吃飯。

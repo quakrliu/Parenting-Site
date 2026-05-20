@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 image: "/og/gentle-parenting-burnout-empathy-limits-en.png"
+ageGroup: ["all"]
 ---
 
 <script type="application/ld+json">

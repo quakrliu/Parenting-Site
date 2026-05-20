@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 image: "/og/montessori-vs-gentle-parenting-en.png"
+ageGroup: ["all"]
 ---
 
 <!-- AEO OVERVIEW — 50 words, extraction-ready -->

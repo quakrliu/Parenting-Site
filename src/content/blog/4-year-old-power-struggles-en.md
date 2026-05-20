@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 image: "/og/4-year-old-power-struggles-en.png"
+ageGroup: ["preschool"]
 ---
 
 <script type="application/ld+json">

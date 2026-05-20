@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/morning-routine-toddler-wont-get-dressed-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 早上七點十五分。晨會九點開始。女兒躺在臥室的木地板上，雙臂平放在兩側，用一種「我的班機剛剛被取消」的神情望著天花板。

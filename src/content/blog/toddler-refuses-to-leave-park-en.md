@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-refuses-to-leave-park-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 We were at the park near our apartment on a Saturday afternoon, my daughter flying on the swings, cheeks flushed, completely lit up. I looked at my watch. We needed to be home in 20 minutes for her nap window.

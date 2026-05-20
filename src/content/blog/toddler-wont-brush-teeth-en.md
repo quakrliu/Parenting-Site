@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-wont-brush-teeth-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 It was 8:47 PM on a Tuesday in March. I was standing in our bathroom holding a Paw Patrol toothbrush, pea-sized dot of toothpaste applied, fully ready. My two-year-old, Owen, was standing approximately six inches away — close enough that I could still smell his dinner — jaw clenched like a vault door.

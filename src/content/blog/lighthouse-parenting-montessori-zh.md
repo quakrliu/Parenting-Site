@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/lighthouse-parenting-montessori-zh.png"
+ageGroup: ["preschool"]
 ---
 
 我當爸之前，以為愛就是保護。

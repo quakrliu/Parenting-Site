@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-wont-sit-still-dinner-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 我太太最喜歡的故事是這樣的：女兒兩歲多的時候，我們在台南某間小店吃晚餐。她吃了三口，宣告「吃完了」，然後在我還沒反應過來之前，直接從椅子上爬下來，跑向廚房。

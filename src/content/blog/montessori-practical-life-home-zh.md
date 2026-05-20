@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/montessori-practical-life-home-zh.png"
 draft: false
+ageGroup: ["toddler", "preschool"]
 ---
 
 我媳婦第一次看到我讓四歲的女兒小米站在矮凳上幫我切香蕉，她的臉色直接變了。「這樣不行啦，會受傷！」這不是在說我太太反對蒙特梭利，她只是反射性的台灣媽媽反應。我自己一開始也這樣。在台北長大、在小小的公寓廚房裡長大的我們，從小就被說「廚房不是小孩的地方。」

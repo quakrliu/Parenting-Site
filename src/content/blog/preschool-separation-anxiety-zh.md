@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/preschool-separation-anxiety-zh.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 去年九月，我把女兒 Mia 送到台北內湖的幼兒園，第一天。

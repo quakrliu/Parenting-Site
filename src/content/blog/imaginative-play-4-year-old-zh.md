@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/imaginative-play-4-year-old-zh.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 **重點先說：** 4歲孩子玩扮家家酒不是在浪費時間——是在訓練大腦。假裝開餐廳、當醫生、蓋城堡，同時在鍛鍊工作記憶、自我控制、同理心和語言能力。爸媽最重要的任務是不要打斷。

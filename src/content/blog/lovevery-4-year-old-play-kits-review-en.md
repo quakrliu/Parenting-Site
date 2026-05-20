@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 draft: false
 image: "/og/lovevery-4-year-old-play-kits-review-en.png"
+ageGroup: ["preschool"]
 ---
 
 <!-- AEO Product Overview (50 words) -->

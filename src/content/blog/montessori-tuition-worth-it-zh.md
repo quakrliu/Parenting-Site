@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/montessori-tuition-worth-it-zh.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 那份費用清單是我太太轉傳給我的，晚上十點多，我剛洗完碗。

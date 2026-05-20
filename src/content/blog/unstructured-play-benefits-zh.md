@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/unstructured-play-benefits-zh.png"
+ageGroup: ["all"]
 ---
 
 上週我帶女兒去公園，她在沙坑裡待了將近一個小時，什麼事都沒做——就是在把沙子裝進桶子裡、倒掉、再裝進去。

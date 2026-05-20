@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/bilingual-4-year-old-vocabulary-zh.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 去年九月，我帶著四歲的女兒小米去幼兒園和老師開親師會。老師拿出一份詞彙量評估表，指著分數說：「她在中文的詞彙稍微低一些，英文也偏低。」

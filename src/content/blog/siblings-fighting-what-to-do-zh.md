@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/siblings-fighting-what-to-do-zh.png"
 draft: false
+ageGroup: ["preschool", "school"]
 ---
 
 我只有一個孩子，所以嚴格來說我不是手足衝突的直接當事人。但我有兩個兄弟，我老婆有幼教背景，我們也花了很多時間在她姊姊家——她姊姊有兩個孩子，4 歲和 7 歲，從早吵到晚，讓我觀察了很多。

@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-wont-clean-up-toys-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 每天晚上七點半，我家客廳都像被玩具炸彈攻擊過。小恐龍、積木、磁力片散落一地，而我女兒正專心地幫她的動物們排隊，完全無視我的存在。

@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/when-to-start-potty-training-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 Before kids, I thought potty training was simple. You wait until they're ready, you spend a weekend on it, done. My cousin trained her son in three days. I fully expected the same experience.

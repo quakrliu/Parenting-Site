@@ -7,6 +7,7 @@ lang: "en"
 author: "Mei Chen"
 image: "/og/montessori-schools-taiwan-2026-expat-guide-en.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 The night after we landed in Taipei—jet-lagged, three boxes unpacked, my daughter asking for the cat still in quarantine—I found myself Googling "Montessori school Taipei English" at 2am. By the time my husband found me on the couch, I had fourteen browser tabs open and no clearer answer than when I'd started. Half the school websites were in Mandarin only. One had photos of children sitting in rows doing worksheets under a banner that said MONTESSORI METHOD.

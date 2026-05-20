@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
 image: "/og/how-to-stop-yelling-at-kids-zh.png"
+ageGroup: ["all"]
 ---
 
 <script type="application/ld+json">

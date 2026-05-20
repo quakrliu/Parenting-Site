@@ -7,6 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-morning-routine-battles-zh.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 **重點先說：** 孩子早上不配合不是故意整你——是因為「建立自主性」是他們這個年紀最重要的發展任務。三個改變讓我家從每天崩潰到現在基本順暢：前一天晚上讓孩子參與準備、每一步都給真實的選擇、用視覺作息表取代「催催催」。第一週還是很慘，第三週Emma開始反過來提醒我。

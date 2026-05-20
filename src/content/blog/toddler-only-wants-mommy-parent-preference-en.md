@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-only-wants-mommy-parent-preference-en.png"
 draft: false
+ageGroup: ["toddler"]
 ---
 
 Tuesday. 8:17 PM. I walked into my daughter's room holding her gray stuffed elephant — the one without the hat, because that detail matters enormously when you're 22 months old — ready to do bedtime. She looked up. She assessed me. She made her ruling.

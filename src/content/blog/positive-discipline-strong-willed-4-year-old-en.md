@@ -7,6 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/positive-discipline-strong-willed-4-year-old-en.png"
 draft: false
+ageGroup: ["preschool"]
 ---
 
 Last Tuesday in Chiang Mai, my four-year-old daughter Mia decided she was absolutely, categorically, not-in-this-lifetime going to put on pants.
