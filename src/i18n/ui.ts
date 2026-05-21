@@ -104,7 +104,7 @@ export const ui = {
     'section.about.youtube': 'Watch on YouTube',
     // Hero personal
     'hero.name': 'We\'re Ethan and Mei.',
-    'hero.tagline': 'Two real parents, figuring it out — one meltdown at a time.',
+    'hero.tagline': 'Two parents, figuring it out — one meltdown at a time.',
     'hero.subtext': 'Montessori-inspired. Positive parenting. No guilt, no judgment.',
     'hero.trust.real': 'Evidence-based',
     'hero.trust.montessori': 'Montessori-inspired',
@@ -294,7 +294,7 @@ export const ui = {
     'section.about.youtube': '觀看 YouTube 頻道',
     // Hero personal
     'hero.name': '我們是 Ethan 和 Mei。',
-    'hero.tagline': '兩個真實的父母，在每一次崩潰中慢慢摸索。',
+    'hero.tagline': '兩個爸媽，在每一次崩潰中慢慢摸索。',
     'hero.subtext': '蒙特梭利啟發。正向教養。不批判，不內疚。',
     'hero.trust.real': '研究實證',
     'hero.trust.montessori': '蒙特梭利啟發',
