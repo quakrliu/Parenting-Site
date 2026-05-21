@@ -162,6 +162,12 @@ const labels = {
   .nl-form--card .nl-form__subtext {
     color: var(--color-text-light, #7A7572);
   }
+
+  /* Card variant + system dark mode: brighten message colors for contrast */
+  @media (prefers-color-scheme: dark) {
+    .nl-form--card .nl-form__message[data-state="success"] { color: #B5E3AE; }
+    .nl-form--card .nl-form__message[data-state="error"] { color: #FFB4AB; }
+  }
 </style>
 
 <script>
