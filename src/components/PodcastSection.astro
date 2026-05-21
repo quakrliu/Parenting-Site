@@ -8,9 +8,27 @@ interface Props {
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 
-// Placeholder: replace with actual latest video embed ID when available
-const youtubeChannelUrl = 'https://www.youtube.com/@BloomPathParenting';
-const youtubeEmbedUrl = 'https://www.youtube.com/embed/wcrgwmi6N7c';
+const isZh = lang === 'zh';
+const channelId = isZh ? 'UCyoXGgo9E7J9aasvalvpW1Q' : 'UCvNaIsUJEfrqhqySeq-MHRw';
+const channelHandle = isZh
+  ? '@%E8%82%B2%E8%A6%8B%E6%9C%AA%E4%BE%86BloomPath-%E4%B8%AD%E6%96%87'
+  : '@BloomPathParenting';
+
+// Fetch latest video ID at build time from RSS feed; fallback to known latest
+let latestVideoId = isZh ? 'EC8BYsf7Zkg' : 'z_c5XqSo2o8';
+try {
+  const res = await fetch(`https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`);
+  if (res.ok) {
+    const xml = await res.text();
+    const match = xml.match(/<yt:videoId>([^<]+)<\/yt:videoId>/);
+    if (match) latestVideoId = match[1];
+  }
+} catch {
+  // keep fallback
+}
+
+const youtubeChannelUrl = `https://www.youtube.com/${channelHandle}`;
+const youtubeEmbedUrl = `https://www.youtube.com/embed/${latestVideoId}`;
 ---
 
 <section id="podcast" class="podcast">
