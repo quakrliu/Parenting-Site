@@ -195,7 +195,7 @@ image: "/og/baby-product-reviews-guide-zh.png"
 
 ### 最佳廚房幫廚台
 
-幫廚台是有學步兒的家庭裡，發展投資報酬率最高的用品之一。詳細的設置指南請見[居家環境指南](/guides/ju-jia-huan-jing-she-ji)。
+幫廚台是有學步兒的家庭裡，發展投資報酬率最高的用品之一。詳細的設置指南請見[居家環境指南](/guides/montessori-home-environment-zh)。
 
 **台灣選項：** 旋轉木馬、奇哥、或蝦皮上的各種品牌。選擇實木材質、可調節高度。
 
@@ -305,7 +305,7 @@ A：問：孩子在做什麼？（主動還是被動？）適合這個月齡嗎�
 
 ---
 
-*明天繼續：[嬰幼兒副食品與營養完整指南](/guides/ying-er-ying-yang-jian-kang) — BLW 介紹法、各階段飲食時間表，以及常見[嬰幼兒副食品與營養](/zh/blog/baby-nutrition-health-guide-zh)問題解答。*
+*明天繼續：[嬰幼兒副食品與營養完整指南](/guides/baby-nutrition-feeding-zh) — BLW 介紹法、各階段飲食時間表，以及常見[嬰幼兒副食品與營養](/zh/blog/baby-nutrition-health-guide-zh)問題解答。*
 
 
 ---

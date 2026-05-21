@@ -3,7 +3,7 @@ title: "嬰幼兒副食品與營養完整指南（0–3歲）"
 description: "有研究支持的0–3歲嬰幼兒飲食完整攻略：母乳與配方奶、副食品添加時機、BLW介紹法、各階段飲食時間表、台灣常見的營養疑問，以及何時需要找醫師。"
 pubDate: 2026-04-05
 lang: zh
-slug: ying-er-ying-yang-jian-kang
+slug: baby-nutrition-feeding-zh
 keywords: ["嬰兒副食品", "副食品添加", "BLW台灣", "嬰兒離乳食", "學步兒飲食", "副食品何時開始", "嬰兒食物過敏", "嬰幼兒營養"]
 category: "餵食與健康"
 affiliate: ["博客來", "momo"]

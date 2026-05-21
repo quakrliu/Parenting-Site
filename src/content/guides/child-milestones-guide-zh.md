@@ -3,7 +3,7 @@ title: "0–6歲發展里程碑完整指南：正常範圍、紅旗警訊、何�
 description: "有研究根據的0–6歲發展里程碑完整攻略：8大發展領域、各月齡里程碑、正常變異與發展疑慮的區別，以及台灣爸媽何時該找兒科醫師評估。"
 pubDate: 2026-04-05
 lang: zh
-slug: fa-zhan-li-cheng-bei-zhinan
+slug: child-milestones-guide-zh
 keywords: ["發展里程碑", "嬰兒發展里程碑", "學步兒里程碑", "各月齡發展", "兒童發展遲緩", "語言發展里程碑", "動作發展嬰兒", "何時找兒科醫師"]
 category: "發展里程碑"
 affiliate: ["lovevery", "博客來"]

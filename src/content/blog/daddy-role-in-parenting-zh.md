@@ -210,8 +210,8 @@ A：研究顯示，早期（0-3歲）的父親投入對神經發育有特別重�
 ## 延伸閱讀
 
 - [The Role of the Father in Child Development](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118269848) — Michael E. Lamb（第五版，Wiley，2010）
-- [蒙特梭利居家入門](/zh/guides/ju-jia-huan-jing-she-ji/)
-- [正向教養指南](/zh/guides/zheng-xiang-jiao-yang-zhinan/)
+- [蒙特梭利居家入門](/zh/guides/montessori-home-environment-zh/)
+- [正向教養指南](/zh/guides/positive-parenting-pillar-zh/)
 
 
 ---

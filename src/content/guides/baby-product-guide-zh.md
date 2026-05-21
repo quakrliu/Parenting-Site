@@ -3,7 +3,7 @@ title: "嬰幼兒產品評測指南：我們怎麼挑、怎麼測、推薦什麼
 description: "BloomPath 如何評測嬰幼兒產品——評測標準、紅旗警訊、各類別真正值得買的推薦，以及台灣爸媽常踩的坑。"
 pubDate: 2026-04-05
 lang: zh
-slug: chan-pin-ping-ce-zhinan
+slug: baby-product-guide-zh
 keywords: ["嬰幼兒產品推薦", "嬰兒玩具評測", "蒙特梭利玩具推薦", "嬰兒用品推薦台灣", "益智玩具評測", "如何選嬰兒玩具", "寶寶玩具推薦"]
 category: "產品評測指南"
 affiliate: ["lovevery", "博客來", "蝦皮"]

@@ -3,7 +3,7 @@ title: "蒙特梭利居家實踐完整指南（0–6歲）"
 description: "從零開始打造蒙特梭利居家環境的完整攻略：各房間佈置、各年齡段活動、五大核心原則，還有台灣爸媽最常犯的錯誤。"
 pubDate: 2026-04-05
 lang: zh
-slug: montessori-ju-jia-zhinan
+slug: montessori-home-complete-zh
 keywords: ["蒙特梭利居家", "蒙特梭利環境布置", "蒙特梭利活動", "蒙特梭利嬰兒", "居家蒙特梭利", "蒙特梭利玩具推薦", "蒙特梭利台灣"]
 category: "蒙特梭利教育"
 affiliate: ["lovevery", "博客來"]

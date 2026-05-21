@@ -3,7 +3,7 @@ title: "正向教養完整指南：從理論到每天的實際應用"
 description: "有研究支持的正向教養完整攻略：情緒輔導、自然結果法、溫和設立界限、建立內在動機——適用0–8歲孩子的爸媽。"
 pubDate: 2026-04-05
 lang: zh
-slug: zheng-xiang-jiao-yang-zhinan
+slug: positive-parenting-pillar-zh
 keywords: ["正向教養", "正向教養技巧", "情緒輔導兒童", "正向管教", "自然結果法", "兒童內在動機", "正向教養台灣"]
 category: "正向教養"
 affiliate: ["hahow", "博客來"]

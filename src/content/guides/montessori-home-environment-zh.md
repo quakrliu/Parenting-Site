@@ -3,7 +3,7 @@ title: "蒙特梭利居家環境布置完整攻略：各房間設計＋IKEA 改�
 description: "從嬰兒房到廚房，從全新購置到 IKEA 改造，這份指南告訴你如何在台灣的家打造真正能運作的蒙特梭利環境——不需要大坪數，不需要全面裝修。"
 pubDate: 2026-04-05
 lang: zh
-slug: ju-jia-huan-jing-she-ji
+slug: montessori-home-environment-zh
 keywords: ["蒙特梭利環境", "蒙特梭利房間布置", "蒙特梭利嬰兒房", "蒙特梭利學步兒房間", "IKEA蒙特梭利", "小坪數蒙特梭利", "矮書架", "地板床"]
 category: "居家環境"
 affiliate: ["IKEA", "蝦皮", "博客來"]

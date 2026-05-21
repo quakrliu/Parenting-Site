@@ -321,7 +321,7 @@ A：有機 vs. 一般蔬果對嬰兒健康效益的研究，不足以支持大�
 
 ---
 
-*回到起點：[蒙特梭利居家實踐完整指南](/guides/montessori-ju-jia-zhinan) — [蒙特梭利居家環境](/zh/blog/montessori-home-environment-zh)原則、各年齡活動、環境布置全攻略。*
+*回到起點：[蒙特梭利居家實踐完整指南](/guides/montessori-home-complete-zh) — [蒙特梭利居家環境](/zh/blog/montessori-home-environment-zh)原則、各年齡活動、環境布置全攻略。*
 
 
 ---
