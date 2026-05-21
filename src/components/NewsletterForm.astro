@@ -206,6 +206,7 @@ const labels = {
           msg.textContent = msg.dataset.successText || 'Success!';
           msg.dataset.state = 'success';
           form.reset();
+          document.dispatchEvent(new Event('newsletter-subscribed'));
         } else {
           msg.textContent = msg.dataset.errorText || 'Error.';
           msg.dataset.state = 'error';

@@ -4,6 +4,9 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import YouTubeEmbed from '../components/YouTubeEmbed.astro';
 import NewsletterForm from '../components/NewsletterForm.astro';
+import NewsletterModal from '../components/NewsletterModal.astro';
+import StickyMobileBar from '../components/StickyMobileBar.astro';
+import ExitIntentTrigger from '../components/ExitIntentTrigger.astro';
 import { useTranslations } from '../i18n/utils';
 
 interface Props {
@@ -170,6 +173,10 @@ const { Content } = await (async () => {
   <div id="mid-cta-data" data-msg={ctaMsg} data-btn={ctaBtn} data-href={appStoreUrl} style="display:none"></div>
 
   <Footer lang={lang} />
+
+  <NewsletterModal lang={lang} source={`blog-${postLang}-modal`} />
+  <StickyMobileBar lang={lang} />
+  <ExitIntentTrigger />
 </BaseLayout>
 
 <style>

@@ -1,0 +1,29 @@
+---
+// No-UI component: listens for desktop exit-intent (mouse leaves
+// through the top of the viewport) and fires open-newsletter-modal.
+// Fires once per session, never on mobile, never if user already subscribed.
+---
+
+<script>
+  const TRIGGERED_KEY = 'exit-intent-triggered';
+  const SUBSCRIBED_KEY = 'newsletter-subscribed';
+  const MIN_TIME_MS = 10_000; // give the reader at least 10s before triggering
+
+  const triggeredThisSession = sessionStorage.getItem(TRIGGERED_KEY) === '1';
+  const subscribed = localStorage.getItem(SUBSCRIBED_KEY) === '1';
+  const isDesktop = window.matchMedia('(min-width: 1024px)').matches;
+
+  if (!triggeredThisSession && !subscribed && isDesktop) {
+    const armedAt = Date.now();
+
+    const onLeave = (e: MouseEvent) => {
+      if (e.clientY > 0) return;
+      if (Date.now() - armedAt < MIN_TIME_MS) return;
+      sessionStorage.setItem(TRIGGERED_KEY, '1');
+      document.removeEventListener('mouseout', onLeave);
+      document.dispatchEvent(new Event('open-newsletter-modal'));
+    };
+
+    document.addEventListener('mouseout', onLeave);
+  }
+</script>

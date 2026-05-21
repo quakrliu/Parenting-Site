@@ -1,0 +1,147 @@
+---
+interface Props {
+  lang: 'en' | 'zh';
+}
+
+const { lang } = Astro.props;
+const isZh = lang === 'zh';
+
+const text = isZh ? '每週新文章直送 inbox' : 'Weekly insights to your inbox';
+const cta = isZh ? '免費訂閱' : 'Subscribe';
+const closeLabel = isZh ? '關閉' : 'Close';
+---
+
+<aside class="sticky-bar" id="sticky-newsletter-bar" hidden>
+  <p class="sticky-bar__text">{text}</p>
+  <button type="button" class="sticky-bar__cta" id="sticky-newsletter-open">{cta}</button>
+  <button type="button" class="sticky-bar__close" id="sticky-newsletter-close" aria-label={closeLabel}>
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+      <line x1="18" y1="6" x2="6" y2="18"/>
+      <line x1="6" y1="6" x2="18" y2="18"/>
+    </svg>
+  </button>
+</aside>
+
+<style>
+  .sticky-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 30;
+    display: none;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.875rem 1rem;
+    padding-bottom: calc(0.875rem + env(safe-area-inset-bottom, 0));
+    background: var(--color-forest-dark, #707D72);
+    color: white;
+    box-shadow: 0 -8px 24px -8px rgba(0, 0, 0, 0.25);
+    transform: translateY(110%);
+    transition: transform 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+  .sticky-bar[data-visible="true"] {
+    transform: translateY(0);
+  }
+  .sticky-bar__text {
+    flex: 1;
+    margin: 0;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+  .sticky-bar__cta {
+    flex-shrink: 0;
+    background: white;
+    color: var(--color-forest-dark, #707D72);
+    border: none;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.15s ease, transform 0.1s ease;
+  }
+  .sticky-bar__cta:hover { background: rgba(255, 255, 255, 0.92); }
+  .sticky-bar__cta:active { transform: scale(0.96); }
+  .sticky-bar__close {
+    flex-shrink: 0;
+    background: transparent;
+    border: none;
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0.25rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    transition: color 0.15s ease, background 0.15s ease;
+  }
+  .sticky-bar__close:hover {
+    color: white;
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  @media (max-width: 767px) {
+    .sticky-bar { display: flex; }
+  }
+</style>
+
+<script>
+  const STORAGE_KEY = 'sticky-newsletter-dismissed';
+  const DISMISS_DAYS = 7;
+  const SHOW_DELAY_MS = 6000; // wait until reader is engaged
+  const SHOW_SCROLL_THRESHOLD = 0.4; // reveal after 40% scroll
+  const SUBSCRIBED_KEY = 'newsletter-subscribed';
+
+  const bar = document.getElementById('sticky-newsletter-bar');
+  const openBtn = document.getElementById('sticky-newsletter-open');
+  const closeBtn = document.getElementById('sticky-newsletter-close');
+
+  if (bar && openBtn && closeBtn) {
+    const dismissedAt = Number(localStorage.getItem(STORAGE_KEY) || 0);
+    const dismissedRecently = dismissedAt && Date.now() - dismissedAt < DISMISS_DAYS * 86400 * 1000;
+    const subscribed = localStorage.getItem(SUBSCRIBED_KEY) === '1';
+    const isMobile = window.matchMedia('(max-width: 767px)').matches;
+
+    if (!dismissedRecently && !subscribed && isMobile) {
+      bar.removeAttribute('hidden');
+
+      let shown = false;
+      const reveal = () => {
+        if (shown) return;
+        shown = true;
+        bar.setAttribute('data-visible', 'true');
+      };
+
+      // Reveal on scroll past threshold or after delay, whichever first
+      const scrollHandler = () => {
+        const scrolled = window.scrollY / Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
+        if (scrolled > SHOW_SCROLL_THRESHOLD) {
+          reveal();
+          window.removeEventListener('scroll', scrollHandler);
+        }
+      };
+      window.addEventListener('scroll', scrollHandler, { passive: true });
+      setTimeout(reveal, SHOW_DELAY_MS);
+    }
+
+    openBtn.addEventListener('click', () => {
+      document.dispatchEvent(new Event('open-newsletter-modal'));
+    });
+
+    closeBtn.addEventListener('click', () => {
+      bar.removeAttribute('data-visible');
+      localStorage.setItem(STORAGE_KEY, String(Date.now()));
+      setTimeout(() => bar.setAttribute('hidden', ''), 400);
+    });
+
+    // Mark as subscribed when any newsletter form succeeds
+    document.addEventListener('newsletter-subscribed', () => {
+      localStorage.setItem(SUBSCRIBED_KEY, '1');
+      bar.removeAttribute('data-visible');
+      setTimeout(() => bar.setAttribute('hidden', ''), 400);
+    });
+  }
+</script>

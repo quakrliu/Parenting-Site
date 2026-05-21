@@ -1,0 +1,110 @@
+---
+import NewsletterForm from './NewsletterForm.astro';
+
+interface Props {
+  lang: 'en' | 'zh';
+  source?: string;
+}
+
+const { lang, source = 'modal' } = Astro.props;
+const isZh = lang === 'zh';
+
+const heading = isZh ? '別走太快——先帶一份回家' : 'Wait — grab this before you go';
+const subtext = isZh
+  ? '每週一封 email：研究新知、實戰腳本、Ethan + Mei 親身經驗。'
+  : 'One email a week: research, scripts, and notes from Ethan + Mei.';
+const closeLabel = isZh ? '關閉' : 'Close';
+---
+
+<dialog id="newsletter-modal" class="nl-modal" aria-labelledby="nl-modal-heading">
+  <button class="nl-modal__close" type="button" aria-label={closeLabel}>
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <line x1="18" y1="6" x2="6" y2="18"/>
+      <line x1="6" y1="6" x2="18" y2="18"/>
+    </svg>
+  </button>
+  <NewsletterForm
+    lang={lang}
+    variant="card"
+    source={source}
+    heading={heading}
+    subtext={subtext}
+  />
+</dialog>
+
+<style>
+  .nl-modal {
+    border: none;
+    border-radius: 16px;
+    padding: 0;
+    max-width: 480px;
+    width: calc(100% - 2rem);
+    background: transparent;
+    box-shadow: 0 24px 60px -16px rgba(0, 0, 0, 0.3);
+  }
+  .nl-modal::backdrop {
+    background: rgba(28, 27, 25, 0.65);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+  }
+  .nl-modal[open] {
+    animation: nl-modal-in 0.25s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+  @keyframes nl-modal-in {
+    from { opacity: 0; transform: translateY(8px) scale(0.98); }
+    to   { opacity: 1; transform: translateY(0)   scale(1);    }
+  }
+  .nl-modal :global(.nl-form--card) {
+    margin: 0;
+  }
+  .nl-modal__close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    z-index: 2;
+    background: rgba(141, 155, 142, 0.12);
+    border: none;
+    border-radius: 999px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--color-text, #4A4543);
+    transition: background 0.2s ease, transform 0.1s ease;
+  }
+  .nl-modal__close:hover {
+    background: rgba(141, 155, 142, 0.25);
+  }
+  .nl-modal__close:active {
+    transform: scale(0.94);
+  }
+  @media (prefers-color-scheme: dark) {
+    .nl-modal__close {
+      background: rgba(255, 255, 255, 0.1);
+      color: rgba(255, 255, 255, 0.85);
+    }
+    .nl-modal__close:hover {
+      background: rgba(255, 255, 255, 0.18);
+    }
+  }
+</style>
+
+<script>
+  const modal = document.getElementById('newsletter-modal') as HTMLDialogElement | null;
+  if (modal) {
+    const closeBtn = modal.querySelector('.nl-modal__close');
+
+    document.addEventListener('open-newsletter-modal', () => {
+      if (!modal.open) modal.showModal();
+    });
+
+    closeBtn?.addEventListener('click', () => modal.close());
+
+    // Close when clicking the backdrop (dialog itself, not its children)
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) modal.close();
+    });
+  }
+</script>
