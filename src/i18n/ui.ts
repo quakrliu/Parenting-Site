@@ -106,7 +106,7 @@ export const ui = {
     'hero.name': 'We\'re Ethan and Mei.',
     'hero.tagline': 'Two real parents, figuring it out — one meltdown at a time.',
     'hero.subtext': 'Montessori-inspired. Positive parenting. No guilt, no judgment.',
-    'hero.trust.real': 'Written by real parents',
+    'hero.trust.real': 'Evidence-based',
     'hero.trust.montessori': 'Montessori-inspired',
     // Podcast
     'section.podcast': 'On YouTube',
@@ -296,7 +296,7 @@ export const ui = {
     'hero.name': '我們是 Ethan 和 Mei。',
     'hero.tagline': '兩個真實的父母，在每一次崩潰中慢慢摸索。',
     'hero.subtext': '蒙特梭利啟發。正向教養。不批判，不內疚。',
-    'hero.trust.real': '由真實父母撰寫',
+    'hero.trust.real': '研究實證',
     'hero.trust.montessori': '蒙特梭利啟發',
     // Podcast
     'section.podcast': 'YouTube 頻道',
