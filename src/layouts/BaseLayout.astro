@@ -23,6 +23,8 @@ const {
 const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const serializeJsonLd = (data: Record<string, any>) => JSON.stringify(data).replace(/</g, '\\u003c');
 
+const ga4Id = import.meta.env.PUBLIC_GA4_ID;
+
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
@@ -78,6 +80,10 @@ const altHreflang = altLang === 'zh' ? 'zh-TW' : 'en';
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" />
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&display=swap" />
     </noscript>
+
+    <!-- Google Analytics 4 -->
+    {ga4Id && <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`}></script>}
+    {ga4Id && <script set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${ga4Id}');`}></script>}
 
     <!-- PostHog Analytics -->
     <script>

@@ -106,6 +106,9 @@ const fallbackThumb = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
         iframe.setAttribute('allowfullscreen', '');
         iframe.setAttribute('title', btn.getAttribute('aria-label') || 'YouTube video');
         wrapper.replaceChildren(iframe);
+        if (typeof (window as any).gtag === 'function') {
+          (window as any).gtag('event', 'youtube_play', { video_id: videoId });
+        }
       }, { once: true });
     });
   }

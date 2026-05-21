@@ -585,6 +585,14 @@ const { Content } = await (async () => {
       if (targetH2.parentNode) {
         targetH2.parentNode.insertBefore(cta, targetH2);
       }
+      const ctaLink = cta.querySelector('.mid-cta-btn');
+      if (ctaLink) {
+        ctaLink.addEventListener('click', function () {
+          if (typeof window.gtag === 'function') {
+            window.gtag('event', 'app_store_click', { placement: 'blog-mid-article' });
+          }
+        });
+      }
     }
   }
 

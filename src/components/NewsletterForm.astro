@@ -207,6 +207,12 @@ const labels = {
           msg.dataset.state = 'success';
           form.reset();
           document.dispatchEvent(new Event('newsletter-subscribed'));
+          if (typeof (window as any).gtag === 'function') {
+            (window as any).gtag('event', 'newsletter_signup', {
+              method: 'beehiiv',
+              source: form.dataset.source || 'unknown',
+            });
+          }
         } else {
           msg.textContent = msg.dataset.errorText || 'Error.';
           msg.dataset.state = 'error';

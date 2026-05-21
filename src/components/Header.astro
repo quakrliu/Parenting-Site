@@ -321,4 +321,11 @@ const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') closeMenu();
   });
+
+  // GA4: track header app banner clicks
+  document.querySelector('.app-banner-cta')?.addEventListener('click', () => {
+    if (typeof (window as any).gtag === 'function') {
+      (window as any).gtag('event', 'app_store_click', { placement: 'header-banner' });
+    }
+  });
 </script>
