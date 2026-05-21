@@ -1,0 +1,216 @@
+---
+interface Props {
+  lang: 'en' | 'zh';
+  variant?: 'dark' | 'light' | 'card';
+  source?: string;
+  heading?: string;
+  subtext?: string;
+}
+
+const {
+  lang,
+  variant = 'dark',
+  source = 'unknown',
+  heading,
+  subtext,
+} = Astro.props;
+
+const isZh = lang === 'zh';
+
+const labels = {
+  placeholder: isZh ? '你的 email' : 'Your email',
+  button: isZh ? '免費訂閱' : 'Subscribe',
+  buttonLoading: isZh ? '處理中…' : 'Sending…',
+  success: isZh ? '✓ 已送出。請去 inbox 確認訂閱（也順便看一下垃圾信夾）。' : "✓ You're in! Check your inbox to confirm (and your spam folder).",
+  error: isZh ? '失敗了，請稍後再試。' : 'Something went wrong. Please try again.',
+  invalidEmail: isZh ? '請輸入有效的 email。' : 'Please enter a valid email.',
+  privacy: isZh ? '不會發垃圾郵件，隨時可取消訂閱。' : 'No spam. Unsubscribe anytime.',
+};
+---
+
+<form class={`nl-form nl-form--${variant}`} data-source={source} novalidate>
+  {heading && <p class="nl-form__heading">{heading}</p>}
+  {subtext && <p class="nl-form__subtext">{subtext}</p>}
+  <div class="nl-form__row">
+    <input
+      type="email"
+      name="email"
+      required
+      placeholder={labels.placeholder}
+      aria-label={labels.placeholder}
+      class="nl-form__input"
+    />
+    <button type="submit" class="nl-form__submit" data-label={labels.button} data-loading={labels.buttonLoading}>
+      {labels.button}
+    </button>
+  </div>
+  <p class="nl-form__privacy">{labels.privacy}</p>
+  <p
+    class="nl-form__message"
+    data-state="hidden"
+    data-success-text={labels.success}
+    data-error-text={labels.error}
+    data-invalid-text={labels.invalidEmail}
+    role="status"
+    aria-live="polite"
+  ></p>
+</form>
+
+<style>
+  .nl-form { width: 100%; max-width: 480px; }
+  .nl-form__heading {
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin: 0 0 0.25rem;
+  }
+  .nl-form__subtext {
+    font-size: 0.875rem;
+    margin: 0 0 1rem;
+    opacity: 0.75;
+    line-height: 1.5;
+  }
+  .nl-form__row {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .nl-form__input {
+    flex: 1 1 200px;
+    min-width: 0;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: 1px solid rgba(141, 155, 142, 0.3);
+    font-family: inherit;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  .nl-form__input:focus {
+    outline: none;
+    border-color: var(--color-forest, #8D9B8E);
+    box-shadow: 0 0 0 3px rgba(141, 155, 142, 0.15);
+  }
+  .nl-form__submit {
+    padding: 0.75rem 1.5rem;
+    font-size: 0.9375rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: var(--color-forest, #8D9B8E);
+    color: white;
+    transition: background 0.2s ease, transform 0.1s ease;
+    font-family: inherit;
+    white-space: nowrap;
+  }
+  .nl-form__submit:hover:not(:disabled) {
+    background: var(--color-forest-dark, #707D72);
+  }
+  .nl-form__submit:active:not(:disabled) {
+    transform: scale(0.98);
+  }
+  .nl-form__submit:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  .nl-form__privacy {
+    font-size: 0.75rem;
+    margin: 0.625rem 0 0;
+    opacity: 0.6;
+  }
+  .nl-form__message {
+    font-size: 0.875rem;
+    margin: 0.75rem 0 0;
+    line-height: 1.5;
+    min-height: 1.25em;
+  }
+  .nl-form__message[data-state="hidden"] { display: none; }
+  .nl-form__message[data-state="success"] { color: #2D5A27; }
+  .nl-form__message[data-state="error"] { color: #B3261E; }
+
+  /* Dark variant (on forest background) */
+  .nl-form--dark .nl-form__heading,
+  .nl-form--dark .nl-form__subtext { color: white; }
+  .nl-form--dark .nl-form__input {
+    background: rgba(255, 255, 255, 0.95);
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+  .nl-form--dark .nl-form__submit {
+    background: white;
+    color: var(--color-forest-dark, #707D72);
+  }
+  .nl-form--dark .nl-form__submit:hover:not(:disabled) {
+    background: rgba(255, 255, 255, 0.92);
+  }
+  .nl-form--dark .nl-form__privacy {
+    color: rgba(255, 255, 255, 0.65);
+  }
+  .nl-form--dark .nl-form__message[data-state="success"] { color: #B5E3AE; }
+  .nl-form--dark .nl-form__message[data-state="error"] { color: #FFB4AB; }
+
+  /* Card variant (in article footer) */
+  .nl-form--card {
+    background: var(--color-cream, #F5F0EB);
+    border: 1px solid rgba(141, 155, 142, 0.15);
+    border-radius: 16px;
+    padding: 1.75rem;
+    margin: 3rem 0 2rem;
+  }
+  .nl-form--card .nl-form__heading {
+    color: var(--color-text, #4A4543);
+    font-size: 1.25rem;
+  }
+  .nl-form--card .nl-form__subtext {
+    color: var(--color-text-light, #7A7572);
+  }
+</style>
+
+<script>
+  function isValidEmail(value: string): boolean {
+    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value);
+  }
+
+  document.querySelectorAll<HTMLFormElement>('form.nl-form').forEach((form) => {
+    const input = form.querySelector<HTMLInputElement>('input[name="email"]');
+    const submit = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+    const msg = form.querySelector<HTMLParagraphElement>('.nl-form__message');
+    if (!input || !submit || !msg) return;
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = input.value.trim();
+
+      if (!isValidEmail(email)) {
+        msg.textContent = msg.dataset.invalidText || 'Invalid email.';
+        msg.dataset.state = 'error';
+        return;
+      }
+
+      const originalLabel = submit.dataset.label || submit.textContent || '';
+      submit.disabled = true;
+      submit.textContent = submit.dataset.loading || 'Sending…';
+      msg.dataset.state = 'hidden';
+
+      try {
+        const res = await fetch('/api/newsletter', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email, source: form.dataset.source || 'unknown' }),
+        });
+        if (res.ok) {
+          msg.textContent = msg.dataset.successText || 'Success!';
+          msg.dataset.state = 'success';
+          form.reset();
+        } else {
+          msg.textContent = msg.dataset.errorText || 'Error.';
+          msg.dataset.state = 'error';
+        }
+      } catch {
+        msg.textContent = msg.dataset.errorText || 'Error.';
+        msg.dataset.state = 'error';
+      } finally {
+        submit.disabled = false;
+        submit.textContent = originalLabel;
+      }
+    });
+  });
+</script>

@@ -3,6 +3,7 @@ import BaseLayout from './BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import YouTubeEmbed from '../components/YouTubeEmbed.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
 import { useTranslations } from '../i18n/utils';
 
 interface Props {
@@ -135,6 +136,16 @@ const { Content } = await (async () => {
             </footer>
           )}
         </article>
+
+        <NewsletterForm
+          lang={lang}
+          variant="card"
+          source={`blog-${postLang}-footer`}
+          heading={postLang === 'zh' ? '想收到每週新內容？' : 'Want fresh weekly research?'}
+          subtext={postLang === 'zh'
+            ? '每週一封 email：研究新知、實戰腳本、Ethan + Mei 親身經驗。'
+            : 'One email a week: research insights, real-life scripts, and notes from Ethan + Mei.'}
+        />
 
         <nav class="post-nav">
           <a href={`/${lang}/blog`} class="back-link">
