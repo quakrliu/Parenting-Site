@@ -137,7 +137,7 @@ export const ui = {
     // App preview
     'app.section': 'Coming Soon',
     'app.section.title': 'Your parenting companion, in your pocket',
-    'app.section.desc': 'Track milestones, get personalized activity ideas, and access expert-curated content \u2014 all in one app designed for real parents.',
+    'app.section.desc': 'Track milestones, get personalized activity ideas, and access expert-curated content \u2014 all in one app designed for parents.',
     'app.cta': 'Join the Waitlist',
 
     // Daily stickiness features
@@ -301,7 +301,7 @@ export const ui = {
     // Podcast
     'section.podcast': 'YouTube 頻道',
     'section.podcast.title': '觀看最新集數',
-    'section.podcast.desc': '每週 Ethan 和 Mei 分享真實的育兒對話——成功的、掙扎的、以及真正有效的方法。',
+    'section.podcast.desc': '每週 Ethan 和 Mei 分享育兒對話——成功的、掙扎的、以及真正有效的方法。',
     'section.podcast.cta': '查看所有集數',
     // Age Navigator
     'age.section': '找到你的階段',
@@ -327,7 +327,7 @@ export const ui = {
     // App preview
     'app.section': '即將推出',
     'app.section.title': '你的育兒夥伴，就在口袋裡',
-    'app.section.desc': '追蹤里程碑、獲得個人化活動建議、存取專家策劃的內容 \u2014 一個為真實父母設計的 App。',
+    'app.section.desc': '追蹤里程碑、獲得個人化活動建議、存取專家策劃的內容 \u2014 一個為爸媽設計的 App。',
     'app.cta': '加入候補名單',
 
     // Daily stickiness features
