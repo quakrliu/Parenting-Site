@@ -1,5 +1,16 @@
 @import "tailwindcss";
 
+/* Tailwind 4 + Astro: content scanning of .astro files is unreliable, so
+   safelist the responsive / state variants used in landing pages. */
+@source inline("{md,lg}:{flex,block,hidden,grid,grid-cols-1,grid-cols-2,grid-cols-3}");
+@source inline("{md,lg}:{py-20,py-28,py-32,px-12,px-6,gap-8,gap-12,gap-14,gap-16,mb-4,mb-8}");
+@source inline("{md,lg}:{text-xl,text-2xl,text-3xl,text-4xl,text-5xl,text-6xl,text-7xl}");
+@source inline("md:grid-cols-[5fr_4fr] md:grid-cols-[auto_1fr] md:[direction:rtl] md:[direction:ltr]");
+@source inline("md:w-64 md:h-64 md:justify-start md:py-28 md:py-32");
+@source inline("lg:to-transparent lg:grid-cols-2 lg:gap-16 lg:px-12 lg:py-0 lg:flex");
+@source inline("hover:bg-primary-dark hover:bg-stone-800 hover:scale-105 hover:bg-cream hover:opacity-90");
+@source inline("hover:bg-primary/5 hover:border-primary/40 hover:bg-white/92");
+
 @theme inline {
   --color-cream: #FBF8F4;
   --color-primary: #8BB5A2;
