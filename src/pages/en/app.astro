@@ -1,0 +1,385 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import '../../styles/landing.css';
+
+const lang = 'en';
+const appStoreUrl = 'https://apps.apple.com/us/app/bloompath-ai-parenting-app/id6759791532';
+
+const ageGroups = [
+  { range: '0–1', label: 'Infant', desc: 'The golden period for building attachment, sensory exploration, and motor development', features: ['Rolling, crawling, standing milestones', 'Visual tracking & auditory response', 'Parent-child attachment records', 'Daily feeding & sleep tracking'] },
+  { range: '1–3', label: 'Toddler', desc: 'A critical stage of language explosion, independent exploration, and social emergence', features: ['Vocabulary growth tracking', 'Fine & gross motor development', 'Emotion recognition & expression', 'Montessori daily life practice'] },
+  { range: '3–6', label: 'Preschool', desc: 'High-speed development of imagination, logical thinking, and peer interaction', features: ['Early numeracy & literacy', 'Creative play & artistic expression', 'Emotional regulation & social skills', 'Self-care skills (dressing, potty training)'] },
+  { range: '6–12', label: 'School Age', desc: 'Stable growth stage for academic foundations, responsibility, and deepening friendships', features: ['Study habits & focus', 'Critical thinking & problem solving', 'Extracurricular skills & interests', 'Chores, responsibility & discipline'] },
+  { range: '12–18', label: 'Teen', desc: 'A transformative period for identity formation, emotional intelligence, and future planning', features: ['Identity & values exploration', 'Stress management & emotional health', 'Academic & career planning support', 'Parent-teen communication strategies'] },
+];
+
+const features = [
+  { title: 'Science-Based Development Tracking', solves: 'Solves: Not knowing if your child is developing normally', desc: '224 skill indicators designed to international child development standards, covering 8 domains from ages 0–18. See clearly where your child excels and where they need more attention.', img: '/images/section-worry.jpg', icon: '📊' },
+  { title: 'AI Parenting Mentor', solves: "Solves: Can't find reliable parenting answers", desc: "A parenting consultant available even at 3 AM. Based on Montessori methods, it gives personalized advice for your child's age and development — not generic copy-paste answers.", img: '/images/section-play.jpg', icon: '💬' },
+  { title: 'Daily Growth Tasks', solves: 'Solves: Knowing the theory but not how to practice', desc: '3 tailored parent-child activities each day, completable in 5–15 minutes. Bringing Montessori into daily life — no special materials needed, doable at home.', img: '/images/section-phone.jpg', icon: '✅' },
+  { title: 'Weekly Growth Reports', solves: 'Solves: No systematic record of growth', desc: 'Automatically compiles weekly progress with clear charts showing growth trends. Not just recording the past — helping you see what to focus on next.', img: '/images/section-bedtime.jpg', icon: '📈' },
+];
+
+const comparison = [
+  { others: 'Only tracks height and weight', ours: 'Tracks 224 cognitive & behavioral indicators' },
+  { others: 'Generic parenting articles', ours: 'AI gives personalized advice for your child' },
+  { others: 'Passive recording', ours: 'Proactively recommends daily growth tasks' },
+  { others: 'Only covers ages 0-5', ours: 'Full coverage of 8 domains, ages 0-18' },
+  { others: 'Single language', ours: 'Bilingual: Traditional Chinese & English' },
+];
+
+const testimonials = [
+  { quote: "I was really anxious because my 15-month-old wasn't talking much. After using BloomPath, we had specific language activities to do every day. Two months later, his vocabulary improved noticeably. Most importantly, I stopped feeling helpless — I finally knew how to help him.", author: 'Melissa T.', childAge: 'Child, 19 months', seed: 1011 },
+  { quote: "The AI mentor is genuinely impressive. When I ask about specific situations, it gives targeted advice based on my child's actual age and stage — not the kind of generic answer you'd find in any parenting book.", author: 'David K.', childAge: 'Child, 3 years', seed: 1022 },
+  { quote: "The weekly report lets me see growth trends clearly. Instead of just 'feeling like there's progress,' I have data to back it up. My partner got interested and started tracking together.", author: 'Rachel N.', childAge: 'Child, 5 years', seed: 1033 },
+];
+
+const socialProof = ['1,247 families on waitlist', 'Montessori-Aligned', 'Research-Backed', '0–18 Years Full Coverage', '224 Skills Tracked', 'AI Personalized Guidance', 'Just 5 Minutes a Day', 'Bilingual: ZH & EN'];
+
+const screens = [
+  { title: 'Daily Growth Tasks', desc: 'AI recommends 3 parent-child activities today, done in 5–15 minutes', img: '/images/app-roadmap-en.png' },
+  { title: 'Milestone Tracking', desc: 'Monitor 224 skill indicators and track developmental progress at a glance', img: '/images/app-roadmap-detail-en.png' },
+  { title: 'AI Parenting Mentor', desc: 'A 24/7 parenting advisor giving specific guidance for your child', img: '/images/app-mentor-en.png' },
+];
+---
+
+<BaseLayout
+  title="BloomPath | AI Parenting Companion · Ages 0–18"
+  description="AI parenting companion based on Montessori & positive parenting. 224 skill indicators, daily growth tasks, AI mentor. From birth to 18 years, every step guided by science."
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="landing-root min-h-screen overflow-x-hidden">
+
+    <section class="relative min-h-[100dvh] flex items-center overflow-hidden">
+      <div class="absolute inset-0">
+        <img src="/images/hero-en.jpg" alt="" class="w-full h-full object-cover object-center" loading="eager" />
+        <div class="absolute inset-0 bg-gradient-to-r from-[#FBF8F4]/90 via-[#FBF8F4]/75 to-[#FBF8F4]/40 lg:to-transparent"></div>
+      </div>
+
+      <div class="blob blob-animate absolute -top-20 -right-20 w-[500px] h-[500px] bg-mint/20 blur-3xl"></div>
+      <div class="blob blob-animate absolute -bottom-32 -left-32 w-[600px] h-[600px] bg-peach/15 blur-3xl" style="animation-delay: -3s"></div>
+
+      <div class="relative w-full max-w-7xl mx-auto px-6 lg:px-12 py-20 lg:py-0">
+        <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          <div class="max-w-xl">
+            <div class="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-primary/20 rounded-full px-5 py-2 mb-8 animate-fade-up shadow-sm">
+              <div class="w-2.5 h-2.5 rounded-full bg-primary animate-pulse-dot"></div>
+              <span class="text-xs font-extrabold text-primary-dark tracking-wide uppercase">Download Now</span>
+            </div>
+
+            <h1 class="mb-6 animate-fade-up delay-100">
+              <span class="block text-5xl md:text-6xl lg:text-7xl font-extrabold text-text tracking-tighter leading-[0.95] mb-4">BloomPath</span>
+              <span class="block text-lg md:text-xl text-primary-dark font-bold tracking-widest uppercase">AI Parenting Companion</span>
+            </h1>
+
+            <p class="text-xl md:text-2xl font-bold text-text/80 leading-relaxed mb-2 animate-fade-up delay-200">
+              From birth to 18 years,<br/>every step guided by science.
+            </p>
+            <p class="text-base text-text-muted mb-10 animate-fade-up delay-300">
+              AI parenting companion based on Montessori & positive parenting
+            </p>
+
+            <div class="flex gap-3 mb-10 animate-fade-up delay-400">
+              <div class="bg-white/90 backdrop-blur-sm border border-border/50 rounded-2xl px-5 py-3 text-center shadow-sm">
+                <div class="text-2xl font-extrabold text-text tracking-tighter">224</div>
+                <div class="text-xs text-text-muted font-medium">Skill Indicators</div>
+              </div>
+              <div class="bg-white/90 backdrop-blur-sm border border-border/50 rounded-2xl px-5 py-3 text-center shadow-sm">
+                <div class="text-2xl font-extrabold text-text tracking-tighter">0–18</div>
+                <div class="text-xs text-text-muted font-medium">Years Coverage</div>
+              </div>
+            </div>
+
+            <div class="animate-fade-up delay-500">
+              <a href={appStoreUrl} target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-3 bg-primary text-white rounded-full px-10 py-5 text-lg font-extrabold hover:bg-primary-dark hover:scale-105 transition-all duration-300 shadow-[0_8px_30px_-6px_rgba(139,181,162,0.5)]">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+                Download on the App Store
+              </a>
+              <p class="text-sm text-text-muted mt-4">Free to download. No credit card required.</p>
+            </div>
+          </div>
+
+          <div class="hidden lg:flex items-center justify-center relative animate-fade-up delay-300">
+            <div class="absolute w-[320px] h-[320px] rounded-full bg-gradient-to-br from-mint/50 to-lavender/30 blur-sm"></div>
+            <div class="relative animate-float" style="width: 200px; height: 400px">
+              <div class="absolute inset-0 rounded-[36px] bg-stone-800 shadow-[0_32px_64px_-16px_rgba(74,69,67,0.35)]"></div>
+              <div class="absolute inset-[3px] rounded-[33px] bg-stone-900 overflow-hidden">
+                <div class="absolute top-2.5 left-1/2 -translate-x-1/2 w-16 h-4 bg-stone-900 rounded-full z-20"></div>
+                <div class="absolute inset-0 rounded-[30px] overflow-hidden">
+                  <img src="/images/app-roadmap-en.png" alt="BloomPath app preview" class="w-full h-full object-cover object-top" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-5 bg-white/60 border-y border-border/50 overflow-hidden">
+      <div class="flex animate-marquee whitespace-nowrap">
+        {[...socialProof, ...socialProof].map((item) => (
+          <span class="inline-flex items-center gap-2 mx-6 text-sm text-text-secondary font-semibold shrink-0">
+            <span class="w-1.5 h-1.5 rounded-full bg-primary shrink-0"></span>
+            {item}
+          </span>
+        ))}
+      </div>
+    </section>
+
+    <section class="py-20 md:py-28 px-6">
+      <div class="max-w-5xl mx-auto">
+        <div class="mb-14">
+          <span class="inline-block text-xs font-bold text-primary-dark bg-primary/10 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">App Preview</span>
+          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">Every feature, designed for you</h2>
+          <p class="text-text-secondary max-w-md">An intuitive interface that gives parenting a clear direction</p>
+        </div>
+
+        <div class="flex flex-col items-center gap-10">
+          <div class="grid grid-cols-3 gap-4 md:gap-8 max-w-3xl w-full">
+            {screens.map((s, i) => (
+              <div class={`${i === 1 ? 'scale-100 z-10' : 'scale-90 opacity-70'} transition-all`}>
+                <div class="relative mx-auto" style="aspect-ratio: 1/2; max-width: 200px">
+                  <div class="absolute inset-0 rounded-[28px] bg-stone-800 shadow-xl"></div>
+                  <div class="absolute inset-[3px] rounded-[26px] bg-stone-900 overflow-hidden">
+                    <div class="absolute top-2 left-1/2 -translate-x-1/2 w-12 h-3 bg-stone-900 rounded-full z-20"></div>
+                    <img src={s.img} alt={s.title} class="w-full h-full object-cover object-top" loading="lazy" />
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          <div class="grid md:grid-cols-3 gap-6 max-w-3xl w-full">
+            {screens.map((s) => (
+              <div class="text-center">
+                <p class="font-bold text-text mb-1">{s.title}</p>
+                <p class="text-sm text-text-muted">{s.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-20 md:py-28 section-mint">
+      <div class="max-w-5xl mx-auto px-6">
+        <div class="mb-14">
+          <span class="inline-block text-xs font-bold text-secondary bg-secondary/10 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Features</span>
+          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter">BloomPath Turns Worry Into Action</h2>
+        </div>
+
+        <div class="space-y-16">
+          {features.map((feature, i) => (
+            <div class={`grid md:grid-cols-2 gap-8 items-center ${i % 2 === 1 ? 'md:[direction:rtl]' : ''}`}>
+              <div class={`relative rounded-3xl overflow-hidden min-h-[260px] ${i % 2 === 1 ? 'md:[direction:ltr]' : ''}`}>
+                <img src={feature.img} alt="" class="w-full h-full object-cover absolute inset-0" loading="lazy" />
+                <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+                <div class="absolute bottom-4 left-4 w-12 h-12 rounded-2xl bg-white/90 backdrop-blur-sm flex items-center justify-center shadow-sm text-xl">{feature.icon}</div>
+              </div>
+              <div class={i % 2 === 1 ? 'md:[direction:ltr]' : ''}>
+                <p class="text-xs font-bold text-secondary uppercase tracking-wide mb-3">{feature.solves}</p>
+                <h3 class="text-2xl font-extrabold text-text tracking-tight mb-3">{feature.title}</h3>
+                <p class="text-text-secondary leading-relaxed">{feature.desc}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="py-20 md:py-28 section-lavender relative overflow-hidden">
+      <div class="blob blob-animate absolute -top-20 -right-20 w-[400px] h-[400px] bg-lavender/30 blur-3xl"></div>
+      <div class="blob blob-animate absolute -bottom-20 -left-20 w-[400px] h-[400px] bg-peach/25 blur-3xl" style="animation-delay: -4s"></div>
+
+      <div class="max-w-5xl mx-auto px-6 relative">
+        <div class="grid md:grid-cols-[auto_1fr] gap-10 md:gap-14 items-center">
+          <div class="flex justify-center md:justify-start">
+            <div class="relative">
+              <div class="absolute inset-0 bg-gradient-to-br from-primary/30 to-lavender/40 rounded-full blur-2xl scale-110"></div>
+              <div class="relative w-56 h-56 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-white shadow-[0_20px_50px_-15px_rgba(139,181,162,0.4)]">
+                <img src="/images/mei-avatar.png" alt="Mei — BloomPath Mentor" class="w-full h-full object-cover" />
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <span class="inline-block text-xs font-extrabold text-primary-dark bg-primary/15 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Meet Your Mentor</span>
+            <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">Say hi to Mei</h2>
+            <p class="text-base text-primary-dark font-semibold mb-6">Montessori teacher · Mom to Luna (2.5 yrs) · Your AI parenting partner</p>
+            <blockquote class="text-text-secondary leading-relaxed mb-6 pl-4 border-l-4 border-primary/30 italic">
+              &ldquo;I was a Montessori teacher for 6 years before Luna was born. Now I'm a mom navigating the same questions you have — and I've built BloomPath to give you what I wish I had when I started: real, practical advice grounded in child development science.&rdquo;
+            </blockquote>
+            <ul class="space-y-2 mb-8">
+              {['Montessori-trained educator (AMS/AMI methods)', 'Host of the BloomPath YouTube channel', 'Author at bloom-path.app blog', 'Based in Bali, raising Luna bilingual (ZH/EN)'].map((c) => (
+                <li class="flex items-start gap-2 text-sm text-text-secondary">
+                  <span class="text-primary-dark mt-1 shrink-0">✓</span>
+                  <span>{c}</span>
+                </li>
+              ))}
+            </ul>
+            <div class="flex flex-wrap gap-3">
+              <a href="/en/" class="inline-flex items-center gap-2 bg-white border-2 border-primary/40 text-primary-dark rounded-full px-5 py-2.5 text-sm font-bold hover:bg-primary/5 transition-colors">Read Mei's blog →</a>
+              <a href="https://www.youtube.com/@bloompath" target="_blank" rel="noopener" class="inline-flex items-center gap-2 bg-white border-2 border-border text-text rounded-full px-5 py-2.5 text-sm font-bold hover:bg-cream transition-colors">Watch on YouTube →</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-20 md:py-28 px-6">
+      <div class="max-w-5xl mx-auto">
+        <div class="mb-10 text-center">
+          <span class="inline-block text-xs font-bold text-accent bg-accent/20 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Age-Specific</span>
+          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">Every age has its own growth map</h2>
+          <p class="text-text-secondary max-w-xl mx-auto">BloomPath automatically adapts tracking content and activity suggestions to your child's developmental stage</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+          {ageGroups.map((g) => (
+            <div class="bg-white/80 rounded-3xl p-6 border border-border/50">
+              <div class="inline-block bg-primary/12 text-primary-dark text-xs font-bold rounded-full px-3 py-1 mb-3">Ages {g.range}</div>
+              <h3 class="text-xl font-extrabold text-text mb-2">{g.label}</h3>
+              <p class="text-sm text-text-secondary leading-relaxed mb-4">{g.desc}</p>
+              <ul class="space-y-2">
+                {g.features.map((feat) => (
+                  <li class="flex items-start gap-2">
+                    <span class="text-primary-dark mt-0.5 shrink-0 text-sm">✓</span>
+                    <span class="text-sm text-text-secondary">{feat}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="py-20 md:py-28 bg-white/40 px-6">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="text-3xl font-extrabold text-text tracking-tighter text-center mb-12">Typical Parenting Apps vs BloomPath</h2>
+        <div class="rounded-3xl overflow-hidden border border-border/50 bg-white shadow-[0_20px_40px_-15px_rgba(74,69,67,0.08)]">
+          <div class="grid grid-cols-[1fr_auto_1fr] bg-cream/60 border-b border-border/50">
+            <div class="px-6 py-4 text-sm font-bold text-text-muted text-center">Others</div>
+            <div class="w-px bg-border/50"></div>
+            <div class="px-6 py-4 text-sm font-bold text-primary-dark text-center">BloomPath</div>
+          </div>
+          {comparison.map((c, i) => (
+            <div class={`grid grid-cols-[1fr_auto_1fr] ${i < comparison.length - 1 ? 'border-b border-border/30' : ''}`}>
+              <div class="px-6 py-4 text-sm text-text-muted text-right line-through decoration-text-muted/40">{c.others}</div>
+              <div class="w-px bg-border/30 my-3"></div>
+              <div class="px-6 py-4 text-sm text-text font-semibold">{c.ours}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="py-20 md:py-28 px-6">
+      <div class="max-w-5xl mx-auto">
+        <div class="mb-12">
+          <span class="inline-block text-xs font-bold text-accent bg-accent/20 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Testimonials</span>
+          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter">What parents are saying</h2>
+        </div>
+
+        <div class="grid md:grid-cols-[5fr_4fr] gap-5">
+          <div class="bg-white rounded-3xl p-8 border border-border/50 shadow-[0_20px_40px_-15px_rgba(74,69,67,0.07)] flex flex-col justify-between">
+            <p class="text-text-secondary leading-relaxed text-base mb-6">&ldquo;{testimonials[0].quote}&rdquo;</p>
+            <div class="flex items-center gap-3">
+              <img src={`https://picsum.photos/seed/${testimonials[0].seed}/48/48`} alt={testimonials[0].author} width="48" height="48" class="rounded-full object-cover" loading="lazy" />
+              <div>
+                <p class="font-bold text-text text-sm">{testimonials[0].author}</p>
+                <p class="text-xs text-text-muted">{testimonials[0].childAge}</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="flex flex-col gap-5">
+            {testimonials.slice(1).map((t) => (
+              <div class="bg-cream/60 rounded-3xl p-6 border border-border/50 flex flex-col justify-between flex-1">
+                <p class="text-text-secondary leading-relaxed text-sm mb-5">&ldquo;{t.quote}&rdquo;</p>
+                <div class="flex items-center gap-3">
+                  <img src={`https://picsum.photos/seed/${t.seed}/40/40`} alt={t.author} width="40" height="40" class="rounded-full object-cover" loading="lazy" />
+                  <div>
+                    <p class="font-bold text-text text-sm">{t.author}</p>
+                    <p class="text-xs text-text-muted">{t.childAge}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-20 md:py-28 bg-white/40 px-6">
+      <div class="max-w-4xl mx-auto">
+        <div class="text-center mb-12">
+          <span class="inline-block text-xs font-bold text-primary-dark bg-primary/12 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Pricing</span>
+          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">Choose your plan</h2>
+          <p class="text-text-secondary">Start free, upgrade when you're ready</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-6">
+          <div class="bg-white/80 rounded-3xl p-8 border border-border/50">
+            <div class="mb-6">
+              <p class="text-sm font-bold text-text-muted uppercase tracking-wide mb-2">Free</p>
+              <div class="flex items-baseline gap-1"><span class="text-4xl font-extrabold text-text tracking-tighter">$0</span></div>
+              <p class="text-sm text-text-muted mt-2">Get started with the core features</p>
+            </div>
+            <ul class="space-y-3 mb-8">
+              {['Track 1 child', '1 daily task (all unlocked for first 3 days)', '3 AI chats per day', 'Basic development tracking', 'Email support'].map((f) => (
+                <li class="flex items-center gap-2.5 text-sm text-text-secondary">
+                  <div class="w-5 h-5 rounded-full bg-border flex items-center justify-center shrink-0 text-text-muted">✓</div>
+                  <span>{f}</span>
+                </li>
+              ))}
+            </ul>
+            <a href={appStoreUrl} target="_blank" rel="noopener" class="block text-center w-full py-3 rounded-xl border-2 border-border text-text font-bold text-sm hover:border-primary/40 hover:bg-primary/5 transition-all">Start for Free</a>
+          </div>
+
+          <div class="relative bg-white rounded-3xl p-8 border-2 border-primary/50 shadow-[0_20px_40px_-15px_rgba(141,155,142,0.25)]">
+            <div class="mb-6">
+              <p class="text-sm font-bold text-primary-dark uppercase tracking-wide mb-2">Pro</p>
+              <div class="flex items-baseline gap-2"><span class="text-4xl font-extrabold text-text tracking-tighter">$8.99</span><span class="text-text-muted">/ month</span></div>
+              <p class="text-sm text-text-muted mt-2">The complete parenting companion, fully unlocked</p>
+            </div>
+            <ul class="space-y-3 mb-8">
+              {['Track unlimited children', 'Daily AI-personalized tasks', 'Unlimited AI conversations', 'All 224 development indicators', 'Detailed weekly growth reports', 'AI bedtime stories (Pro only)', 'Priority customer support'].map((f) => (
+                <li class="flex items-center gap-2.5 text-sm text-text font-medium">
+                  <div class="w-5 h-5 rounded-full bg-primary/20 flex items-center justify-center shrink-0 text-primary-dark">✓</div>
+                  <span>{f}</span>
+                </li>
+              ))}
+            </ul>
+            <a href={appStoreUrl} target="_blank" rel="noopener" class="block text-center w-full py-3.5 rounded-xl bg-primary hover:bg-primary-dark text-white font-bold text-sm transition-all shadow-[0_4px_16px_rgba(141,155,142,0.4)]">Get BloomPath Pro</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-24 md:py-32 px-6">
+      <div class="max-w-2xl mx-auto text-center">
+        <div class="bg-gradient-to-b from-white to-cream/60 rounded-3xl p-12 border border-border/50 shadow-[0_20px_60px_-20px_rgba(74,69,67,0.1)]">
+          <div class="w-16 h-16 mx-auto mb-6">
+            <img src="/logo-nav.png" alt="BloomPath" width="64" height="64" class="rounded-2xl" />
+          </div>
+          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">Download BloomPath Now</h2>
+          <p class="text-text-secondary mb-8">Available on the App Store — start your child's growth journey today</p>
+
+          <a href={appStoreUrl} target="_blank" rel="noopener" class="inline-flex items-center gap-3 bg-stone-900 text-white rounded-2xl px-8 py-4 text-base font-bold hover:bg-stone-800 transition-colors shadow-lg">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+            Download on the App Store
+          </a>
+          <p class="text-sm text-text-muted mt-4">Free to download. No credit card required.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
