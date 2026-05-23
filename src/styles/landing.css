@@ -686,6 +686,33 @@ html:has(.landing-root) body {
   margin-right: auto;
 }
 
+/* Shared founders portrait (Ethan + Mei together) */
+.lp-family__portrait {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 3rem auto;
+  max-width: 480px;
+  position: relative;
+}
+
+.lp-family__portrait::before {
+  content: "";
+  position: absolute;
+  inset: 10% -5% 10% -5%;
+  background: radial-gradient(ellipse at center, rgba(197, 180, 214, 0.35) 0%, transparent 70%);
+  border-radius: 50%;
+  z-index: 0;
+}
+
+.lp-family__portrait img {
+  position: relative;
+  z-index: 1;
+  max-height: 380px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
 .lp-family__cards {
   display: grid;
   grid-template-columns: 1fr;
@@ -710,27 +737,17 @@ html:has(.landing-root) body {
   overflow: hidden;
 }
 
-.lp-founder__avatar-wrap {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 1.5rem;
-}
-
-.lp-founder__avatar {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  overflow: hidden;
-  border: 4px solid var(--white);
-  box-shadow: 0 12px 32px -8px rgba(45, 42, 38, 0.25);
-  position: relative;
-  background-color: var(--cream-warm);
-}
-
-.lp-founder__avatar img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.lp-founder__badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--primary-dark);
+  background-color: var(--primary-tint);
+  padding: 0.35rem 0.8rem;
+  border-radius: var(--radius-pill);
+  margin-bottom: 1rem;
 }
 
 .lp-founder__name {
@@ -738,7 +755,6 @@ html:has(.landing-root) body {
   font-weight: 800;
   letter-spacing: -0.025em;
   color: var(--text-strong);
-  text-align: center;
   margin: 0 0 0.5rem 0;
 }
 
@@ -746,7 +762,6 @@ html:has(.landing-root) body {
   font-size: 0.875rem;
   font-weight: 700;
   color: var(--primary-dark);
-  text-align: center;
   margin: 0 0 1.5rem 0;
   letter-spacing: 0.02em;
 }
