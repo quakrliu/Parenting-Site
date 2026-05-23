@@ -187,12 +187,16 @@ Blog SEO + YouTube + Podcast  ←───────────────�
 - ✅ Landing page 重寫（vanilla CSS + Claude design + Ethan/Mei 圖）
 - ✅ ASO 審計（subtitle、ratings、screenshots 問題已識別）
 - ✅ Monetization roadmap 建立（這份文件）
+- ✅ **W1-A 草稿完成**：`docs/aso/w1-aso-sprint.md`（subtitle/promo/keywords/dev name/review msg/screenshots 規劃）
+- ✅ **W1-C 草稿完成**：`docs/ebooks/ebook-01-toddler-meltdown.md`（15 頁完整內容）
 
 ### 下次 session 該做（按優先序）
-1. 🎯 **W1 動作 A**：ASO sprint 第一步——改 App Store subtitle 跟 promotional text（30 分鐘）
-2. 🎯 **W1 動作 B**：找 20-30 個熟人下載 + 寫評分（影響日下載最大）
-3. 🎯 **W1 動作 C**：寫 Free Ebook #1（情緒崩潰）大綱 + 從 blog 萃取重點
-4. 🎯 **W1 動作 D**：用 aso-appstore-screenshots skill 重做 5-8 張 screenshot
+1. 🎯 **Mei 過稿** `docs/ebooks/ebook-01-toddler-meltdown.md`（內容語氣、稱謂、句子節奏）
+2. 🎯 **使用者上 App Store Connect**：套用 `docs/aso/w1-aso-sprint.md` 的 subtitle/promo/keywords（30 分鐘）
+3. 🎯 **使用者發出 30 人請評分訊息**（用 `w1-aso-sprint.md` 的模板）
+4. 🎯 用 aso-appstore-screenshots skill 製作 8 張 screenshots
+5. 🎯 **W2 開始**：Ebook PDF 排版（Canva）+ Landing page `/zh/free/toddler-meltdown-playbook/`
+6. 🎯 **W2 開始**：Beehiiv 7 封 welcome sequence 寫作 + 自動化設定
 
 ### 開放問題（需使用者決定）
 - [ ] 是否搭 consulting bridge 延長 runway？（建議：是）
