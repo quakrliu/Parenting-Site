@@ -26,7 +26,7 @@ const comparison = [
   { others: '只追蹤身高體重', ours: '追蹤 224 項認知與行為發展指標' },
   { others: '通用教養文章', ours: 'AI 依孩子狀況給個人化建議' },
   { others: '被動記錄', ours: '每天主動推薦成長任務' },
-  { others: '只做 0-5 歲', ours: '完整涵蓋 0-18 歲八大領域' },
+  { others: '只做 0–5 歲', ours: '完整涵蓋 0–18 歲八大領域' },
   { others: '英文介面', ours: '繁體中文原生設計' },
 ];
 
@@ -43,6 +43,22 @@ const screens = [
   { title: '發展里程碑追蹤', desc: '清楚掌握 224 項技能進度，即時掌握成長狀況', img: '/images/app-welcome.png' },
   { title: 'AI 育兒導師', desc: '24 小時可問的育兒顧問，給出針對你孩子的具體建議', img: '/images/app-mentor.png' },
 ];
+
+const ethanCredentials = [
+  '10+ 年軟體工程經驗',
+  '矽谷 AI / 機器學習背景',
+  'BloomPath 技術架構設計',
+  '跟你一樣是新手爸爸，每天還在學',
+];
+
+const meiCredentials = [
+  '蒙特梭利認證教師（AMS / AMI）',
+  '6 年蒙特梭利幼兒園教學經驗',
+  'BloomPath YouTube 頻道主持人',
+  '雙語教養 Luna（中 / 英）',
+];
+
+const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>`;
 ---
 
 <BaseLayout
@@ -52,80 +68,71 @@ const screens = [
 >
   <Header lang={lang} />
 
-  <main class="landing-root min-h-screen overflow-x-hidden">
+  <main class="landing-root">
 
     <!-- 1. HERO -->
-    <section class="relative min-h-[100dvh] flex items-center overflow-hidden">
-      <div class="absolute inset-0">
-        <img src="/images/hero-zh.jpg" alt="" class="w-full h-full object-cover object-center" loading="eager" />
-        <div class="absolute inset-0 hero-overlay"></div>
-      </div>
-
-      <div class="blob blob-animate absolute -top-20 -right-20 w-[500px] h-[500px] bg-mint/20 blur-3xl"></div>
-      <div class="blob blob-animate absolute -bottom-32 -left-32 w-[600px] h-[600px] bg-peach/15 blur-3xl" style="animation-delay: -3s"></div>
-
-      <div class="relative w-full max-w-7xl mx-auto px-6 lg:px-12 py-20 lg:py-0">
-        <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
-          <div class="max-w-xl">
-            <div class="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-primary/20 rounded-full px-5 py-2 mb-8 animate-fade-up shadow-sm">
-              <div class="w-2.5 h-2.5 rounded-full bg-primary animate-pulse-dot"></div>
-              <span class="text-xs font-extrabold text-primary-dark tracking-wide uppercase">立即下載</span>
+    <section class="lp-hero">
+      <div class="lp-container">
+        <div class="lp-hero__grid">
+          <div>
+            <div class="lp-hero__badge lp-fade-up">
+              <span class="lp-hero__badge-dot"></span>
+              <span class="lp-hero__badge-text">App Store 已上架</span>
             </div>
 
-            <h1 class="mb-6 animate-fade-up delay-100">
-              <span class="block text-5xl md:text-6xl lg:text-7xl font-extrabold text-text tracking-tighter leading-[0.95] mb-4">育見未來</span>
-              <span class="block text-lg md:text-xl text-primary-dark font-bold tracking-widest uppercase">BloomPath</span>
-            </h1>
+            <h1 class="lp-hero__title lp-fade-up lp-delay-100">育見未來</h1>
+            <p class="lp-hero__subtitle lp-fade-up lp-delay-100">BloomPath</p>
 
-            <p class="text-xl md:text-2xl font-bold text-text/80 leading-relaxed mb-2 animate-fade-up delay-200">
-              陪伴孩子從出生到 18 歲，<br/>每一步都有科學指引。
+            <p class="lp-hero__lead lp-fade-up lp-delay-200">
+              陪伴孩子從出生到 18 歲，<br />每一步都有科學指引。
             </p>
-            <p class="text-base text-text-muted mb-10 animate-fade-up delay-300">
+            <p class="lp-hero__sublead lp-fade-up lp-delay-300">
               基於蒙特梭利與正向教養的 AI 育兒夥伴
             </p>
 
-            <div class="flex gap-3 mb-10 animate-fade-up delay-400">
-              <div class="bg-white/90 backdrop-blur-sm border border-border/50 rounded-2xl px-5 py-3 text-center shadow-sm">
-                <div class="text-2xl font-extrabold text-text tracking-tighter">224</div>
-                <div class="text-xs text-text-muted font-medium">技能指標</div>
+            <div class="lp-hero__stats lp-fade-up lp-delay-400">
+              <div class="lp-stat">
+                <div class="lp-stat__value">224</div>
+                <div class="lp-stat__label">技能指標</div>
               </div>
-              <div class="bg-white/90 backdrop-blur-sm border border-border/50 rounded-2xl px-5 py-3 text-center shadow-sm">
-                <div class="text-2xl font-extrabold text-text tracking-tighter">0–18</div>
-                <div class="text-xs text-text-muted font-medium">歲全覆蓋</div>
+              <div class="lp-stat">
+                <div class="lp-stat__value">0–18</div>
+                <div class="lp-stat__label">歲全覆蓋</div>
+              </div>
+              <div class="lp-stat">
+                <div class="lp-stat__value">24/7</div>
+                <div class="lp-stat__label">AI 導師</div>
               </div>
             </div>
 
-            <div class="animate-fade-up delay-500">
-              <a href={appStoreUrl} target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-3 bg-primary text-white rounded-full px-10 py-5 text-lg font-extrabold hover:bg-primary-dark hover:scale-105 transition-all duration-300 shadow-cta-pill">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+            <div class="lp-hero__cta-row lp-fade-up lp-delay-500">
+              <a href={appStoreUrl} target="_blank" rel="noopener noreferrer" class="lp-btn lp-btn--primary lp-btn--large">
+                <Fragment set:html={appleIcon} />
                 前往 App Store 下載
               </a>
-              <p class="text-sm text-text-muted mt-4">免費下載，無需信用卡。</p>
             </div>
+            <p class="lp-hero__footnote">免費下載，無需信用卡。</p>
           </div>
 
-          <div class="hidden lg:flex items-center justify-center relative animate-fade-up delay-300">
-            <div class="absolute w-[320px] h-[320px] rounded-full bg-gradient-to-br from-mint/50 to-lavender/30 blur-sm"></div>
-            <div class="relative animate-float" style="width: 200px; height: 400px">
-              <div class="absolute inset-0 rounded-[36px] bg-stone-800 shadow-phone-frame"></div>
-              <div class="absolute inset-[3px] rounded-[33px] bg-stone-900 overflow-hidden">
-                <div class="absolute top-2.5 left-1/2 -translate-x-1/2 w-16 h-4 bg-stone-900 rounded-full z-20"></div>
-                <div class="absolute inset-0 rounded-[30px] overflow-hidden">
-                  <img src="/images/app-roadmap.png" alt="BloomPath app preview" class="w-full h-full object-cover object-top" />
-                </div>
-              </div>
-            </div>
+          <div class="lp-hero__visual">
+            <div class="lp-hero__visual-bg"></div>
+            <img
+              src="/images/ethan-mei-luna-hero.png"
+              alt="Ethan, Mei 與 Luna 一家三口"
+              class="lp-hero__visual-img"
+              loading="eager"
+            />
           </div>
         </div>
       </div>
     </section>
 
     <!-- 2. SOCIAL PROOF -->
-    <section class="py-5 bg-white/60 border-y border-border/50 overflow-hidden">
-      <div class="flex animate-marquee whitespace-nowrap">
+    <section class="lp-proof">
+      <div class="lp-proof__track">
         {[...socialProof, ...socialProof].map((item) => (
-          <span class="inline-flex items-center gap-2 mx-6 text-sm text-text-secondary font-semibold shrink-0">
-            <span class="w-1.5 h-1.5 rounded-full bg-primary shrink-0"></span>
+          <span class="lp-proof__item">
+            <span class="lp-proof__dot"></span>
             {item}
           </span>
         ))}
@@ -133,61 +140,56 @@ const screens = [
     </section>
 
     <!-- 3. APP DEMO -->
-    <section class="py-20 md:py-28 px-6">
-      <div class="max-w-5xl mx-auto">
-        <div class="mb-14">
-          <span class="inline-block text-xs font-bold text-primary-dark bg-primary/10 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">App Preview</span>
-          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">每一個功能，為你而設計</h2>
-          <p class="text-text-secondary max-w-md">直觀介面，讓育兒變得更有方向感</p>
+    <section class="lp-section">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow">App Preview</span>
+          <h2 class="lp-h2">每一個功能，為你而設計</h2>
+          <p class="lp-body">直觀介面，讓育兒變得更有方向感。</p>
         </div>
 
-        <div class="flex flex-col items-center gap-10">
-          <div class="grid grid-cols-3 gap-4 md:gap-8 max-w-3xl w-full">
-            {screens.map((s, i) => (
-              <div class={`${i === 1 ? 'scale-100 z-10' : 'scale-90 opacity-70'} transition-all`}>
-                <div class="relative mx-auto" style="aspect-ratio: 1/2; max-width: 200px">
-                  <div class="absolute inset-0 rounded-[28px] bg-stone-800 shadow-xl"></div>
-                  <div class="absolute inset-[3px] rounded-[26px] bg-stone-900 overflow-hidden">
-                    <div class="absolute top-2 left-1/2 -translate-x-1/2 w-12 h-3 bg-stone-900 rounded-full z-20"></div>
-                    <img src={s.img} alt={s.title} class="w-full h-full object-cover object-top" loading="lazy" />
-                  </div>
-                </div>
+        <div class="lp-screens">
+          {screens.map((s, i) => (
+            <div class={`lp-screen ${i !== 1 ? 'lp-screen--side' : ''}`}>
+              <div class="lp-screen__frame"></div>
+              <div class="lp-screen__inner">
+                <div class="lp-screen__notch"></div>
+                <img src={s.img} alt={s.title} class="lp-screen__img" loading="lazy" />
               </div>
-            ))}
-          </div>
+            </div>
+          ))}
+        </div>
 
-          <div class="grid md:grid-cols-3 gap-6 max-w-3xl w-full">
-            {screens.map((s) => (
-              <div class="text-center">
-                <p class="font-bold text-text mb-1">{s.title}</p>
-                <p class="text-sm text-text-muted">{s.desc}</p>
-              </div>
-            ))}
-          </div>
+        <div class="lp-screens-captions">
+          {screens.map((s) => (
+            <div class="lp-screen-caption">
+              <p class="lp-screen-caption__title">{s.title}</p>
+              <p class="lp-screen-caption__desc">{s.desc}</p>
+            </div>
+          ))}
         </div>
       </div>
     </section>
 
     <!-- 4. FEATURES -->
-    <section class="py-20 md:py-28 section-mint">
-      <div class="max-w-5xl mx-auto px-6">
-        <div class="mb-14">
-          <span class="inline-block text-xs font-bold text-secondary bg-secondary/10 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Features</span>
-          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter">育見未來，幫你把焦慮變成行動</h2>
+    <section class="lp-section lp-section--mint">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--peach">Features</span>
+          <h2 class="lp-h2">育見未來，把焦慮變成行動</h2>
         </div>
 
-        <div class="space-y-16">
+        <div class="lp-features">
           {features.map((feature, i) => (
-            <div class={`grid md:grid-cols-2 gap-8 items-center ${i % 2 === 1 ? 'md:[direction:rtl]' : ''}`}>
-              <div class={`relative rounded-3xl overflow-hidden min-h-[260px] ${i % 2 === 1 ? 'md:[direction:ltr]' : ''}`}>
-                <img src={feature.img} alt="" class="w-full h-full object-cover absolute inset-0" loading="lazy" />
-                <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
-                <div class="absolute bottom-4 left-4 w-12 h-12 rounded-2xl bg-white/90 backdrop-blur-sm flex items-center justify-center shadow-sm text-xl">{feature.icon}</div>
+            <div class={`lp-feature ${i % 2 === 1 ? 'lp-feature--reverse' : ''}`}>
+              <div class="lp-feature__visual">
+                <img src={feature.img} alt={feature.title} class="lp-feature__img" loading="lazy" />
+                <div class="lp-feature__icon">{feature.icon}</div>
               </div>
-              <div class={i % 2 === 1 ? 'md:[direction:ltr]' : ''}>
-                <p class="text-xs font-bold text-secondary uppercase tracking-wide mb-3">{feature.solves}</p>
-                <h3 class="text-2xl font-extrabold text-text tracking-tight mb-3">{feature.title}</h3>
-                <p class="text-text-secondary leading-relaxed">{feature.desc}</p>
+              <div>
+                <p class="lp-feature__solves">{feature.solves}</p>
+                <h3 class="lp-feature__title">{feature.title}</h3>
+                <p class="lp-feature__desc">{feature.desc}</p>
               </div>
             </div>
           ))}
@@ -195,67 +197,93 @@ const screens = [
       </div>
     </section>
 
-    <!-- 4.5 MEET MEI -->
-    <section class="py-20 md:py-28 section-lavender relative overflow-hidden">
-      <div class="blob blob-animate absolute -top-20 -right-20 w-[400px] h-[400px] bg-lavender/30 blur-3xl"></div>
-      <div class="blob blob-animate absolute -bottom-20 -left-20 w-[400px] h-[400px] bg-peach/25 blur-3xl" style="animation-delay: -4s"></div>
+    <!-- 5. MEET ETHAN & MEI -->
+    <section class="lp-section lp-family">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-family__intro">
+          <span class="lp-eyebrow lp-eyebrow--lavender">Meet the Founders</span>
+          <h2 class="lp-h2">嗨，我們是 Ethan &amp; Mei</h2>
+          <p class="lp-lead">
+            一個工程師、一個蒙特梭利老師，加上一個 2 歲半的 Luna。<br />
+            BloomPath 是我們把專業知識與每天的育兒實踐，做成你也能用的工具。
+          </p>
+        </div>
 
-      <div class="max-w-5xl mx-auto px-6 relative">
-        <div class="grid md:grid-cols-[auto_1fr] gap-10 md:gap-14 items-center">
-          <div class="flex justify-center md:justify-start">
-            <div class="relative">
-              <div class="absolute inset-0 bg-gradient-to-br from-primary/30 to-lavender/40 rounded-full blur-2xl scale-110"></div>
-              <div class="relative w-56 h-56 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-white shadow-avatar">
-                <img src="/images/mei-avatar.png" alt="Mei — BloomPath Mentor" class="w-full h-full object-cover" />
+        <div class="lp-family__cards">
+          <!-- Ethan card -->
+          <article class="lp-founder">
+            <div class="lp-founder__avatar-wrap">
+              <div class="lp-founder__avatar">
+                <img src="/images/ethan-avatar.png" alt="Ethan — BloomPath 共同創辦人" loading="lazy" />
               </div>
             </div>
-          </div>
-
-          <div>
-            <span class="inline-block text-xs font-extrabold text-primary-dark bg-primary/15 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">認識你的育兒夥伴</span>
-            <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">嗨，我是 Mei</h2>
-            <p class="text-base text-primary-dark font-semibold mb-6">蒙特梭利老師 · Luna（2 歲半）的媽媽 · 你的 AI 育兒夥伴</p>
-            <blockquote class="text-text-secondary leading-relaxed mb-6 pl-4 border-l-4 border-primary/30 italic">
-              &ldquo;在 Luna 出生之前，我當了 6 年的蒙特梭利老師。現在我也是媽媽，跟你一樣每天都在摸索育兒的各種問題。我做 BloomPath，是想給你當年我最希望有的東西：基於兒童發展科學、真正用得上的建議。&rdquo;
+            <h3 class="lp-founder__name">Ethan</h3>
+            <p class="lp-founder__role">軟體工程師 · Luna 的爸爸 · BloomPath 共同創辦人</p>
+            <blockquote class="lp-founder__quote">
+              「Mei 是教養專家，我是看著她每天為各種育兒問題焦慮的工程師。我們做 BloomPath，是想把她的專業知識變成每個家長都用得到的工具——讓科學的育兒方法，不再只屬於少數人。」
             </blockquote>
-            <ul class="space-y-2 mb-8">
-              {['蒙特梭利認證教師（AMS/AMI）', 'BloomPath YouTube 頻道主持人', 'bloom-path.app 部落格作者', '現居峇里島，雙語教養 Luna（中/英）'].map((c) => (
-                <li class="flex items-start gap-2 text-sm text-text-secondary">
-                  <span class="text-primary-dark mt-1 shrink-0">✓</span>
-                  <span>{c}</span>
-                </li>
+            <ul class="lp-founder__credentials">
+              {ethanCredentials.map((c) => (
+                <li>{c}</li>
               ))}
             </ul>
-            <div class="flex flex-wrap gap-3">
-              <a href="/zh/" class="inline-flex items-center gap-2 bg-white border-2 border-primary/40 text-primary-dark rounded-full px-5 py-2.5 text-sm font-bold hover:bg-primary/5 transition-colors">看 Mei 的部落格 →</a>
-              <a href="https://www.youtube.com/@bloompath" target="_blank" rel="noopener" class="inline-flex items-center gap-2 bg-white border-2 border-border text-text rounded-full px-5 py-2.5 text-sm font-bold hover:bg-cream transition-colors">到 YouTube 看影片 →</a>
+          </article>
+
+          <!-- Mei card -->
+          <article class="lp-founder">
+            <div class="lp-founder__avatar-wrap">
+              <div class="lp-founder__avatar">
+                <img src="/images/mei-avatar.png" alt="Mei — BloomPath 共同創辦人" loading="lazy" />
+              </div>
             </div>
+            <h3 class="lp-founder__name">Mei</h3>
+            <p class="lp-founder__role">蒙特梭利老師 · Luna 的媽媽 · BloomPath 共同創辦人</p>
+            <blockquote class="lp-founder__quote">
+              「在 Luna 出生之前，我當了 6 年的蒙特梭利老師。現在我也是媽媽，跟你一樣每天都在摸索育兒的各種問題。我做 BloomPath，是想給你當年我最希望有的東西：基於兒童發展科學、真正用得上的建議。」
+            </blockquote>
+            <ul class="lp-founder__credentials">
+              {meiCredentials.map((c) => (
+                <li>{c}</li>
+              ))}
+            </ul>
+            <div class="lp-founder__links">
+              <a href="/zh/" class="lp-founder__link">看 Mei 的部落格</a>
+              <a href="https://www.youtube.com/@bloompath" target="_blank" rel="noopener" class="lp-founder__link">YouTube 頻道</a>
+            </div>
+          </article>
+        </div>
+
+        <!-- Luna mention -->
+        <div class="lp-family__luna">
+          <div class="lp-family__luna-avatar">
+            <img src="/images/luna-avatar.png" alt="Luna" loading="lazy" />
           </div>
+          <p class="lp-family__luna-text">
+            <strong>Luna（2 歲半）</strong> · BloomPath 的靈感來源，也是我們每天的測試對象。
+            App 裡每一個任務、每一條建議，都先在她身上跑過。
+          </p>
         </div>
       </div>
     </section>
 
-    <!-- 5. AGE NAVIGATOR -->
-    <section class="py-20 md:py-28 px-6">
-      <div class="max-w-5xl mx-auto">
-        <div class="mb-10 text-center">
-          <span class="inline-block text-xs font-bold text-accent bg-accent/20 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Age-Specific</span>
-          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">每個年齡，都有專屬的成長地圖</h2>
-          <p class="text-text-secondary max-w-xl mx-auto">根據孩子的年齡階段，BloomPath 自動切換最適合的追蹤內容與活動建議</p>
+    <!-- 6. AGE NAVIGATOR -->
+    <section class="lp-section">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head lp-section__head--center">
+          <span class="lp-eyebrow lp-eyebrow--rose">Age-Specific</span>
+          <h2 class="lp-h2">每個年齡，都有專屬的成長地圖</h2>
+          <p class="lp-body">根據孩子的年齡階段，BloomPath 自動切換最適合的追蹤內容與活動建議。</p>
         </div>
 
-        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+        <div class="lp-ages">
           {ageGroups.map((g) => (
-            <div class="bg-white/80 rounded-3xl p-6 border border-border/50">
-              <div class="inline-block bg-primary/12 text-primary-dark text-xs font-bold rounded-full px-3 py-1 mb-3">{g.range} 歲</div>
-              <h3 class="text-xl font-extrabold text-text mb-2">{g.label}</h3>
-              <p class="text-sm text-text-secondary leading-relaxed mb-4">{g.desc}</p>
-              <ul class="space-y-2">
+            <div class="lp-age-card">
+              <span class="lp-age-card__range">{g.range} 歲</span>
+              <h3 class="lp-age-card__label">{g.label}</h3>
+              <p class="lp-age-card__desc">{g.desc}</p>
+              <ul class="lp-age-card__features">
                 {g.features.map((feat) => (
-                  <li class="flex items-start gap-2">
-                    <span class="text-primary-dark mt-0.5 shrink-0 text-sm">✓</span>
-                    <span class="text-sm text-text-secondary">{feat}</span>
-                  </li>
+                  <li>{feat}</li>
                 ))}
               </ul>
             </div>
@@ -264,56 +292,59 @@ const screens = [
       </div>
     </section>
 
-    <!-- 6. COMPARISON -->
-    <section class="py-20 md:py-28 bg-white/40 px-6">
-      <div class="max-w-3xl mx-auto">
-        <h2 class="text-3xl font-extrabold text-text tracking-tighter text-center mb-12">一般育兒 App vs 育見未來</h2>
-        <div class="rounded-3xl overflow-hidden border border-border/50 bg-white shadow-card-soft">
-          <div class="grid grid-cols-[1fr_auto_1fr] bg-cream/60 border-b border-border/50">
-            <div class="px-6 py-4 text-sm font-bold text-text-muted text-center">Others</div>
-            <div class="w-px bg-border/50"></div>
-            <div class="px-6 py-4 text-sm font-bold text-primary-dark text-center">BloomPath</div>
+    <!-- 7. COMPARISON -->
+    <section class="lp-section lp-section--cream-warm">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head lp-section__head--center">
+          <h2 class="lp-h2">一般育兒 App vs 育見未來</h2>
+        </div>
+
+        <div class="lp-compare">
+          <div class="lp-compare__header">
+            <div class="lp-compare__header-col lp-compare__header-col--left">Others</div>
+            <div class="lp-compare__divider"></div>
+            <div class="lp-compare__header-col lp-compare__header-col--right">BloomPath</div>
           </div>
-          {comparison.map((c, i) => (
-            <div class={`grid grid-cols-[1fr_auto_1fr] ${i < comparison.length - 1 ? 'border-b border-border/30' : ''}`}>
-              <div class="px-6 py-4 text-sm text-text-muted text-right line-through decoration-text-muted/40">{c.others}</div>
-              <div class="w-px bg-border/30 my-3"></div>
-              <div class="px-6 py-4 text-sm text-text font-semibold">{c.ours}</div>
+          {comparison.map((c) => (
+            <div class="lp-compare__row">
+              <div class="lp-compare__cell lp-compare__cell--others">{c.others}</div>
+              <div class="lp-compare__divider"></div>
+              <div class="lp-compare__cell lp-compare__cell--ours">{c.ours}</div>
             </div>
           ))}
         </div>
       </div>
     </section>
 
-    <!-- 7. TESTIMONIALS -->
-    <section class="py-20 md:py-28 px-6">
-      <div class="max-w-5xl mx-auto">
-        <div class="mb-12">
-          <span class="inline-block text-xs font-bold text-accent bg-accent/20 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Testimonials</span>
-          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter">真實家長的親身體驗</h2>
+    <!-- 8. TESTIMONIALS -->
+    <section class="lp-section">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--rose">Testimonials</span>
+          <h2 class="lp-h2">真實家長的親身體驗</h2>
         </div>
 
-        <div class="grid md:grid-cols-[5fr_4fr] gap-5">
-          <div class="bg-white rounded-3xl p-8 border border-border/50 shadow-card-medium flex flex-col justify-between">
-            <p class="text-text-secondary leading-relaxed text-base mb-6">&ldquo;{testimonials[0].quote}&rdquo;</p>
-            <div class="flex items-center gap-3">
-              <img src={`https://picsum.photos/seed/${testimonials[0].seed}/48/48`} alt={testimonials[0].author} width="48" height="48" class="rounded-full object-cover" loading="lazy" />
+        <div class="lp-quotes">
+          <div class="lp-quote lp-quote--featured">
+            <p class="lp-quote__text">&ldquo;{testimonials[0].quote}&rdquo;</p>
+            <div class="lp-quote__author">
+              <img src={`https://picsum.photos/seed/${testimonials[0].seed}/48/48`} alt={testimonials[0].author} class="lp-quote__avatar" width="48" height="48" loading="lazy" />
               <div>
-                <p class="font-bold text-text text-sm">{testimonials[0].author}</p>
-                <p class="text-xs text-text-muted">{testimonials[0].childAge}</p>
+                <p class="lp-quote__name">{testimonials[0].author}</p>
+                <p class="lp-quote__meta">{testimonials[0].childAge}</p>
               </div>
             </div>
           </div>
 
-          <div class="flex flex-col gap-5">
+          <div class="lp-quote__stack">
             {testimonials.slice(1).map((t) => (
-              <div class="bg-cream/60 rounded-3xl p-6 border border-border/50 flex flex-col justify-between flex-1">
-                <p class="text-text-secondary leading-relaxed text-sm mb-5">&ldquo;{t.quote}&rdquo;</p>
-                <div class="flex items-center gap-3">
-                  <img src={`https://picsum.photos/seed/${t.seed}/40/40`} alt={t.author} width="40" height="40" class="rounded-full object-cover" loading="lazy" />
+              <div class="lp-quote lp-quote--small">
+                <p class="lp-quote__text">&ldquo;{t.quote}&rdquo;</p>
+                <div class="lp-quote__author">
+                  <img src={`https://picsum.photos/seed/${t.seed}/40/40`} alt={t.author} class="lp-quote__avatar" width="40" height="40" loading="lazy" />
                   <div>
-                    <p class="font-bold text-text text-sm">{t.author}</p>
-                    <p class="text-xs text-text-muted">{t.childAge}</p>
+                    <p class="lp-quote__name">{t.author}</p>
+                    <p class="lp-quote__meta">{t.childAge}</p>
                   </div>
                 </div>
               </div>
@@ -323,68 +354,62 @@ const screens = [
       </div>
     </section>
 
-    <!-- 8. PRICING -->
-    <section class="py-20 md:py-28 bg-white/40 px-6">
-      <div class="max-w-4xl mx-auto">
-        <div class="text-center mb-12">
-          <span class="inline-block text-xs font-bold text-primary-dark bg-primary/12 rounded-full px-4 py-1.5 mb-4 tracking-wide uppercase">Pricing</span>
-          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">選擇最適合你的方案</h2>
-          <p class="text-text-secondary">免費開始，隨時升級</p>
+    <!-- 9. PRICING -->
+    <section class="lp-section lp-section--cream-warm">
+      <div class="lp-container">
+        <div class="lp-section__head lp-section__head--center">
+          <span class="lp-eyebrow">Pricing</span>
+          <h2 class="lp-h2">選擇最適合你的方案</h2>
+          <p class="lp-body">免費開始，隨時升級。</p>
         </div>
 
-        <div class="grid md:grid-cols-2 gap-6">
-          <div class="bg-white/80 rounded-3xl p-8 border border-border/50">
-            <div class="mb-6">
-              <p class="text-sm font-bold text-text-muted uppercase tracking-wide mb-2">免費版</p>
-              <div class="flex items-baseline gap-1"><span class="text-4xl font-extrabold text-text tracking-tighter">NT$0</span></div>
-              <p class="text-sm text-text-muted mt-2">輕鬆入門，體驗核心功能</p>
+        <div class="lp-pricing">
+          <div class="lp-plan">
+            <p class="lp-plan__tier">免費版</p>
+            <div class="lp-plan__price">
+              <span class="lp-plan__amount">NT$0</span>
             </div>
-            <ul class="space-y-3 mb-8">
+            <p class="lp-plan__tagline">輕鬆入門，體驗核心功能</p>
+            <ul class="lp-plan__features">
               {['追蹤 1 位孩子', '每日 1 個任務（前 3 天解鎖全部）', '每天 3 則 AI 對話', '基礎發展指標追蹤', 'Email 客服'].map((f) => (
-                <li class="flex items-center gap-2.5 text-sm text-text-secondary">
-                  <div class="w-5 h-5 rounded-full bg-border flex items-center justify-center shrink-0 text-text-muted">✓</div>
-                  <span>{f}</span>
-                </li>
+                <li><span class="lp-plan__check">✓</span><span>{f}</span></li>
               ))}
             </ul>
-            <a href={appStoreUrl} target="_blank" rel="noopener" class="block text-center w-full py-3 rounded-xl border-2 border-border text-text font-bold text-sm hover:border-primary/40 hover:bg-primary/5 transition-all">免費開始</a>
+            <a href={appStoreUrl} target="_blank" rel="noopener" class="lp-btn lp-btn--ghost">免費開始</a>
           </div>
 
-          <div class="relative bg-white rounded-3xl p-8 border-2 border-primary/50 shadow-pricing-pro">
-            <div class="mb-6">
-              <p class="text-sm font-bold text-primary-dark uppercase tracking-wide mb-2">Pro 方案</p>
-              <div class="flex items-baseline gap-2"><span class="text-4xl font-extrabold text-text tracking-tighter">NT$180</span><span class="text-text-muted">/ 月</span></div>
-              <p class="text-sm text-text-muted mt-2">解鎖全部功能，最完整的育兒夥伴</p>
+          <div class="lp-plan lp-plan--pro">
+            <p class="lp-plan__tier">Pro 方案</p>
+            <div class="lp-plan__price">
+              <span class="lp-plan__amount">NT$180</span>
+              <span class="lp-plan__period">/ 月</span>
             </div>
-            <ul class="space-y-3 mb-8">
+            <p class="lp-plan__tagline">解鎖全部功能，最完整的育兒夥伴</p>
+            <ul class="lp-plan__features">
               {['追蹤多位孩子（無上限）', '每日 AI 個人化任務', '無限 AI 對話', '224 項完整發展指標', '每週詳細成長報告', 'AI 睡前故事（Pro 限定）', '優先客服支援'].map((f) => (
-                <li class="flex items-center gap-2.5 text-sm text-text font-medium">
-                  <div class="w-5 h-5 rounded-full bg-primary/20 flex items-center justify-center shrink-0 text-primary-dark">✓</div>
-                  <span>{f}</span>
-                </li>
+                <li><span class="lp-plan__check">✓</span><span>{f}</span></li>
               ))}
             </ul>
-            <a href={appStoreUrl} target="_blank" rel="noopener" class="block text-center w-full py-3.5 rounded-xl bg-primary hover:bg-primary-dark text-white font-bold text-sm transition-all shadow-cta-button">升級 Pro</a>
+            <a href={appStoreUrl} target="_blank" rel="noopener" class="lp-btn lp-btn--primary">升級 Pro</a>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- 9. FINAL CTA -->
-    <section class="py-24 md:py-32 px-6">
-      <div class="max-w-2xl mx-auto text-center">
-        <div class="bg-gradient-to-b from-white to-cream/60 rounded-3xl p-12 border border-border/50 shadow-card-large">
-          <div class="w-16 h-16 mx-auto mb-6">
-            <img src="/logo-nav.png" alt="BloomPath" width="64" height="64" class="rounded-2xl" />
+    <!-- 10. FINAL CTA -->
+    <section class="lp-section lp-final">
+      <div class="lp-container">
+        <div class="lp-final__card">
+          <div class="lp-final__logo">
+            <img src="/logo-nav.png" alt="BloomPath" width="72" height="72" />
           </div>
-          <h2 class="text-3xl md:text-4xl font-extrabold text-text tracking-tighter mb-3">立即下載育見未來</h2>
-          <p class="text-text-secondary mb-8">App Store 已上架 — 開始孩子的成長旅程</p>
-
-          <a href={appStoreUrl} target="_blank" rel="noopener" class="inline-flex items-center gap-3 bg-stone-900 text-white rounded-2xl px-8 py-4 text-base font-bold hover:bg-stone-800 transition-colors shadow-lg">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+          <h2 class="lp-final__title">立即下載育見未來</h2>
+          <p class="lp-final__desc">App Store 已上架 — 開始孩子的成長旅程。</p>
+          <a href={appStoreUrl} target="_blank" rel="noopener" class="lp-btn lp-btn--dark lp-btn--large">
+            <Fragment set:html={appleIcon} />
             前往 App Store 下載
           </a>
-          <p class="text-sm text-text-muted mt-4">免費下載，無需信用卡。</p>
+          <p class="lp-final__footnote">免費下載，無需信用卡。</p>
         </div>
       </div>
     </section>
