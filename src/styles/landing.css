@@ -26,6 +26,7 @@
    otherwise paint body #1c1b19 and turn cream variables dark. */
 .landing-root {
   scroll-behavior: smooth;
+  color-scheme: light;
   background-color: #FBF8F4;
   color: #3D3A36;
   --color-bg: #FBF8F4;
@@ -35,7 +36,10 @@
   --color-cream: #FBF8F4;
   --color-border: #E8E2DB;
 }
-html:has(.landing-root) body { background-color: #FBF8F4; }
+html:has(.landing-root) body {
+  color-scheme: light;
+  background-color: #FBF8F4;
+}
 
 /* Fade-up animation for sections */
 @keyframes fade-up {
@@ -112,6 +116,11 @@ html:has(.landing-root) body { background-color: #FBF8F4; }
   .hero-overlay {
     background: linear-gradient(to right, rgba(251, 248, 244, 0.9), rgba(251, 248, 244, 0.75), transparent);
   }
+}
+
+/* Ensure all sections in landing page inherit light theme */
+.landing-root section {
+  background-color: inherit;
 }
 
 /* Pre-baked shadow values used in landing page */
