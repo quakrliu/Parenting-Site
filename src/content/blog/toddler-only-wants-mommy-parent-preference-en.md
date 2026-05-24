@@ -90,7 +90,7 @@ Stay near. Be fun and available without requiring response. Read a book near whe
 
 ### 3. Let the Preferred Parent Step Back Strategically
 
-Mei, a Montessori teacher I spoke with about this — she's seen this pattern in classrooms countless times — described it this way: "The preferred parent is often the obstacle to the other parent's relationship, without meaning to be. If mom always rushes in the moment the toddler asks, the toddler never has to find out that dad is also safe."
+Mei, my co-founder and wife — who's been a Montessori-school parent for years and has heard this pattern from many teachers and other parents — described it this way: "The preferred parent is often the obstacle to the other parent's relationship, without meaning to be. If mom always rushes in the moment the toddler asks, the toddler never has to find out that dad is also safe."
 
 This requires the preferred parent to do something uncomfortable: step back. Not disappear. But delay the response by 30 seconds. Let the non-preferred parent step in calmly. Let the toddler discover that comfort is available from two sources. This is one of the most effective interventions in the research, and it requires teamwork.
 

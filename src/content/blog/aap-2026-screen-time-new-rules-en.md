@@ -18,7 +18,7 @@ ageGroup: ["all"]
 
 ---
 
-My daughter Lily figured out how to unlock my iPad before she could reliably use a spoon.
+My daughter Luna figured out how to unlock my iPad before she could reliably use a spoon.
 
 I am a software engineer. I should have seen this coming. The device was basically designed to be intuitive for humans of any age, and a four-year-old human is a tiny, extremely motivated UX tester. By the time I noticed, she had found YouTube Kids, navigated to a channel about excavators, and was completely absorbed.
 
@@ -110,7 +110,7 @@ The new guidelines point to Common Sense Media for content ratings and highlight
 
 **5. Does your child want to go outside less after watching it?** One or two episodes of something genuinely good will not kill outdoor time. A steady diet of algorithmically optimized content will.
 
-I keep this list in my phone. When Lily asks to watch something new, I run a quick mental check. Most of the time the answer is obvious within thirty seconds.
+I keep this list in my phone. When Luna asks to watch something new, I run a quick mental check. Most of the time the answer is obvious within thirty seconds.
 
 Here is what is empowering about this: you do not need an AAP committee to make this call. You already know when something feels off. This checklist just gives you the words for what your gut was already telling you. Print it, stick it on the fridge, and hand it to your partner and grandparents. Everyone on the same page means fewer arguments and less guilt.
 
@@ -122,7 +122,7 @@ One thing the 2026 guidelines did not change: the recommendation to avoid screen
 
 Under 18 months, children learn language and cause-and-effect from live interaction in ways screens cannot replicate. The human face - responsive, unpredictable, emotionally expressive - is a learning tool no screen has matched.
 
-Video calls are different because they are interactive. The child responds to a real person who responds back in real time. Lily face during video calls with my parents had a different quality than her face watching YouTube: present, social, actually engaged.
+Video calls are different because they are interactive. The child responds to a real person who responds back in real time. Luna face during video calls with my parents had a different quality than her face watching YouTube: present, social, actually engaged.
 
 For 18 months to 3 years, the guidance leans heavily toward co-viewing and content quality. This is also the window where the solitary screen time research bites hardest.
 
@@ -132,13 +132,13 @@ For 18 months to 3 years, the guidance leans heavily toward co-viewing and conte
 
 Making a media plan sounds great until you realize it requires agreement from a four-year-old with strong opinions about excavator channels.
 
-**Start with the non-negotiables.** Mei and I agreed on two things before we talked to Lily: no screens at dinner, and no iPad in bedrooms after bath time. These were not up for debate. A united front on the anchors makes the rest of the conversation easier.
+**Start with the non-negotiables.** Mei and I agreed on two things before we talked to Luna: no screens at dinner, and no iPad in bedrooms after bath time. These were not up for debate. A united front on the anchors makes the rest of the conversation easier.
 
-**Give your child some ownership.** We let Lily pick which shows she wanted on the approved list. She felt heard - and, to our surprise, she chose thoughtfully.
+**Give your child some ownership.** We let Luna pick which shows she wanted on the approved list. She felt heard - and, to our surprise, she chose thoughtfully.
 
 **Put it somewhere visible.** We wrote the key rules on a small whiteboard in the kitchen. Pointing at the board when the whining starts is less confrontational than repeating yourself.
 
-**Revisit it when it stops working.** The plan we made when Lily was three looks nothing like our plan now. Kids change. The plan should too.
+**Revisit it when it stops working.** The plan we made when Luna was three looks nothing like our plan now. Kids change. The plan should too.
 
 ---
 
@@ -169,7 +169,7 @@ PBS Kids and Sesame Workshop are specifically recommended. Use Common Sense Medi
 
 ## The Bottom Line
 
-I still do not have a perfect answer for the iPad situation in my house. Some days Lily watches more than I planned. Some days she ignores it completely and builds a blanket fort for three hours.
+I still do not have a perfect answer for the iPad situation in my house. Some days Luna watches more than I planned. Some days she ignores it completely and builds a blanket fort for three hours.
 
 What changed for me is the frame. The question stopped being did we hit the time limit today and started being did she have good stuff in her day. Sleep, outdoor time, meals together, imaginative play, books - those boxes need checking. The iPad is fine when the other boxes are full.
 

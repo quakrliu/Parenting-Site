@@ -37,7 +37,7 @@ Professor Kang Lee at the University of Toronto has studied children's lying beh
 
 And the children who could lie earlier? They scored *better* on executive function tests — planning, impulse control, working memory. The same mental hardware that enables deception is the hardware that drives complex thinking.
 
-"The first lie is actually a milestone," Mei told me. "I saw kids cross it in my classroom every single year. The cognitive work involved is significant."
+"The first lie is actually a milestone," Mei told me. "Teachers at Luna's Montessori school describe seeing kids cross it every single year. The cognitive work involved is significant."
 
 That doesn't mean you let it slide. It means you understand what's actually happening before you react.
 

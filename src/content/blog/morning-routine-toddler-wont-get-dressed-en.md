@@ -66,7 +66,7 @@ Mei pointed out that this is the same principle behind the [toddler won't clean 
 
 ### Get Them Doing the Dressing, Not Being Dressed
 
-Toddlers who feel like they're performing a skill -- rather than being acted upon -- cooperate dramatically better. Mei said something that changed how I thought about this: "In a Montessori classroom, we observe children for the moment they can do something themselves. Then we step back."
+Toddlers who feel like they're performing a skill -- rather than being acted upon -- cooperate dramatically better. Mei said something that changed how I thought about this, paraphrasing what she'd learned from our daughter's Montessori school: "Watch the child for the moment they can do something themselves. Then step back."
 
 For getting dressed, in practice:
 - Hand them the shirt and wait, instead of holding it open over their head
@@ -97,7 +97,7 @@ If sensory sensitivities are significant and show up across multiple daily activ
 
 ## The Prepared Environment Mei Talked Me Through
 
-About six months into the dressing battles, Mei walked me through something she'd observed consistently in her classroom: children who had real input into their self-care routine dressed more reliably and with less friction than children who were managed.
+About six months into the dressing battles, Mei walked me through something she'd noticed at our daughter's Montessori school: children who had real input into their self-care routine dressed more reliably and with less friction than children who were managed.
 
 "The goal isn't getting the shirt on," she said. "The goal is a child who can get themselves dressed. If you're always doing it for them, or always in a battle, they never build that capacity."
 

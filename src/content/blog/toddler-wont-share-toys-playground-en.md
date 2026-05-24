@@ -10,11 +10,11 @@ draft: false
 ageGroup: ["toddler", "preschool"]
 ---
 
-Last Sunday at Woodside Memorial Park in San Jose, my daughter Lily spotted a red plastic shovel in the sandbox. The shovel belonged to a kid named Marcus, who was three-and-a-half and currently building what he described as "a castle for dinosaurs." Lily walked over, made zero eye contact, and yanked the shovel out of his hands.
+Last Sunday at Woodside Memorial Park in San Jose, my daughter Luna spotted a red plastic shovel in the sandbox. The shovel belonged to a kid named Marcus, who was three-and-a-half and currently building what he described as "a castle for dinosaurs." Luna walked over, made zero eye contact, and yanked the shovel out of his hands.
 
 Marcus burst into tears. His dad looked at me. I looked at the sky. BloomPath — the parenting resource I'd been using for months — had just posted something about exactly this situation, and I still completely blanked.
 
-"Lily, you need to share," I said, which accomplished nothing except making her grip the shovel harder.
+"Luna, you need to share," I said, which accomplished nothing except making her grip the shovel harder.
 
 *This article is part of our [Complete Positive Parenting Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -24,11 +24,11 @@ Here's what Mei explained to me that evening, after I texted her a seven-paragra
 
 Toddlers under age 3 cannot share on demand. This isn't stubbornness or bad manners — it's brain development. To share willingly, a child needs two cognitive abilities that most two-year-olds simply don't have yet:
 
-**Theory of Mind** — the ability to understand that another person has feelings, wants, and a perspective different from your own. This develops gradually between ages 3 and 5. At 26 months, Lily genuinely couldn't process that Marcus wanted the shovel as much as she did.
+**Theory of Mind** — the ability to understand that another person has feelings, wants, and a perspective different from your own. This develops gradually between ages 3 and 5. At 26 months, Luna genuinely couldn't process that Marcus wanted the shovel as much as she did.
 
 **Object permanence in context** — the confidence that something still exists and will come back after it leaves your hand. When you're two, handing something away can feel like losing it forever.
 
-A 2023 study out of the University of Washington found that children under 36 months consistently interpret sharing as a form of loss, not a social exchange. The research showed that when the "sacrifice" element was removed from sharing scenarios, prosocial behavior increased significantly in toddlers as young as 18 months. In other words: Lily wasn't selfish. Her brain was just doing exactly what two-year-old brains do.
+A 2023 study out of the University of Washington found that children under 36 months consistently interpret sharing as a form of loss, not a social exchange. The research showed that when the "sacrifice" element was removed from sharing scenarios, prosocial behavior increased significantly in toddlers as young as 18 months. In other words: Luna wasn't selfish. Her brain was just doing exactly what two-year-old brains do.
 
 ## The Moment I Realized Forcing It Made Things Worse
 
@@ -56,15 +56,15 @@ These are what Mei gave me after the Marcus Incident. I've tested all of them. T
 
 **1. Name what's happening, don't demand a response**
 
-Instead of "You need to share that shovel," try: "Lily, Marcus wants a turn with the shovel. He's feeling sad right now." Full stop. No demand. You're narrating reality and trusting your child to process it. Give it 10-15 seconds. Sometimes they hand it over. Sometimes they don't — and that's information too.
+Instead of "You need to share that shovel," try: "Luna, Marcus wants a turn with the shovel. He's feeling sad right now." Full stop. No demand. You're narrating reality and trusting your child to process it. Give it 10-15 seconds. Sometimes they hand it over. Sometimes they don't — and that's information too.
 
 **2. Protect the child in use before the child waiting**
 
-If Lily is playing with something and another kid grabs it, step in to help Lily keep it. "Lily was using that. You'll need to wait until she's done." This sounds counterintuitive, but modeling that property rights are respected — in both directions — is how toddlers learn to respect them.
+If Luna is playing with something and another kid grabs it, step in to help Luna keep it. "Luna was using that. You'll need to wait until she's done." This sounds counterintuitive, but modeling that property rights are respected — in both directions — is how toddlers learn to respect them.
 
 **3. Use a visual timer instead of your judgment**
 
-Abstract "in a little while" means nothing to a two-year-old. "When the sand timer runs out, Marcus gets a turn" means something concrete. We use a sand timer or the timer on my phone. Lily can see time passing. It removes me as the enforcer and makes the clock the neutral party.
+Abstract "in a little while" means nothing to a two-year-old. "When the sand timer runs out, Marcus gets a turn" means something concrete. We use a sand timer or the timer on my phone. Luna can see time passing. It removes me as the enforcer and makes the clock the neutral party.
 
 **4. Acknowledge, don't shame**
 
@@ -76,7 +76,7 @@ Avoid "She's going through a phase" or "She's not usually like this" directed at
 
 ## The Script I Use Now
 
-When Lily grabs something at the playground, I walk over calmly and say:
+When Luna grabs something at the playground, I walk over calmly and say:
 
 *"Hey — Marcus was using that. Did you ask him if you could have a turn?"*
 
@@ -96,9 +96,9 @@ That doesn't mean you do nothing before age 4. You narrate, model, stay calm, an
 
 ## What About My Feelings at the Playground?
 
-Real talk: the hardest part of the Marcus Incident wasn't Lily's behavior. It was my own embarrassment. I was worried about what Marcus's dad thought. I was worried about my daughter's reputation on a playground she visits maybe once a month.
+Real talk: the hardest part of the Marcus Incident wasn't Luna's behavior. It was my own embarrassment. I was worried about what Marcus's dad thought. I was worried about my daughter's reputation on a playground she visits maybe once a month.
 
-Mei asked me: "Were you trying to help Lily, or were you trying to manage how you looked?"
+Mei asked me: "Were you trying to help Luna, or were you trying to manage how you looked?"
 
 That landed.
 
@@ -120,7 +120,7 @@ Yes. Developmentally appropriate parenting experts including Janet Lansbury cons
 
 **What do I say when another parent is watching and my toddler won't give back a toy?**
 
-Focus on your child, not the audience. "Marcus, Lily is still using this — she'll be done soon." Speak directly to both children. You don't owe the other parent an explanation of your parenting philosophy in real time.
+Focus on your child, not the audience. "Marcus, Luna is still using this — she'll be done soon." Speak directly to both children. You don't owe the other parent an explanation of your parenting philosophy in real time.
 
 **My toddler shares perfectly at home but grabs at the playground. Why?**
 
@@ -140,7 +140,7 @@ At home, object ownership is already established — she knows what's hers. Publ
 
 ## Products We Recommend
 
-These books changed how I handle conflict moments with Lily. They're the ones Mei put in my hands before the playground trips started:
+These books changed how I handle conflict moments with Luna. They're the ones Mei put in my hands before the playground trips started:
 
 - [No Bad Kids: Toddler Discipline Without Shame](https://www.amazon.com/dp/1499351119?tag=bloompath-20) by Janet Lansbury — the clearest framework I've found for understanding toddler behavior without losing my mind
 - [How to Talk So Little Kids Will Listen](https://www.amazon.com/dp/150113163X?tag=bloompath-20) by Joanna Faber & Julie King — practical scripts for ages 2–7, which is exactly what I needed at the sandbox
@@ -149,4 +149,4 @@ These books changed how I handle conflict moments with Lily. They're the ones Me
 
 *You're here reading this. That already makes you a great parent.*
 
-*Want to track Lily's milestones and see what developmental stage she's actually in? We built [BloomPath](https://bloom-path.app) for exactly that.*
+*Want to track Luna's milestones and see what developmental stage she's actually in? We built [BloomPath](https://bloom-path.app) for exactly that.*

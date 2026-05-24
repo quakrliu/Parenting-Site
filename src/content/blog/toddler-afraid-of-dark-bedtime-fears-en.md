@@ -11,7 +11,7 @@ draft: false
 ageGroup: ["toddler"]
 ---
 
-It was 11:14 PM on a Tuesday. I'd already done four check-ins. My daughter Lily had her nightlight on, her stuffed rabbit tucked under her arm, and a nature sounds playlist running quietly — everything she'd asked for. Then she called out again.
+It was 11:14 PM on a Tuesday. I'd already done four check-ins. My daughter Luna had her nightlight on, her stuffed rabbit tucked under her arm, and a nature sounds playlist running quietly — everything she'd asked for. Then she called out again.
 
 "Daddy. The shadow on the wall."
 
@@ -31,13 +31,13 @@ This is actually a sign of healthy cognitive development. The same creativity th
 
 What makes it worse at bedtime is the sensory shift. When the lights go down and the distractions disappear, the brain's threat-detection system runs without competition. Sounds that were filtered out during the day become audible. Shadows that were invisible in the light suddenly exist. For a nervous system that's still learning to regulate, this is genuinely overwhelming — not performed fear.
 
-I asked our pediatrician about this when Lily was two and a half, expecting her to say it was a phase. She said something that stuck with me: "The goal isn't to convince her there's nothing there. The goal is to help her learn she can handle it even if she feels scared."
+I asked our pediatrician about this when Luna was two and a half, expecting her to say it was a phase. She said something that stuck with me: "The goal isn't to convince her there's nothing there. The goal is to help her learn she can handle it even if she feels scared."
 
 That reframe took a while to actually change my approach. But it did.
 
 ## What I Tried (Honest Version)
 
-**The gradual retreat.** Every two or three days, I'd move my chair a few inches closer to the door. This works in theory. In practice, Lily tracked my position with the accuracy of a hawk and began screaming the moment I crossed some invisible threshold. We made it to about four feet from the bed before plateauing for three weeks.
+**The gradual retreat.** Every two or three days, I'd move my chair a few inches closer to the door. This works in theory. In practice, Luna tracked my position with the accuracy of a hawk and began screaming the moment I crossed some invisible threshold. We made it to about four feet from the bed before plateauing for three weeks.
 
 **The monster spray.** A water bottle with lavender, relabeled "Monster Away Spray." She loved it for eleven days. Then she decided the spray bottle itself was where the monsters lived and wanted me to remove it from the room. You can't win every round.
 
@@ -51,7 +51,7 @@ If your parents or in-laws are involved in bedtime, you've probably heard: "just
 
 Pediatric sleep research is clear on what kids actually need to develop sleep independence: they need to experience managing discomfort, with support that gradually decreases over time. That's not the same as being left alone to cry until they give up. It's scaffolded practice at tolerating something uncomfortable.
 
-When my mother-in-law told me I was "making Lily weak" by sitting with her, I explained it this way: I wouldn't throw a kid in the deep end to teach them to swim. I'd be in the water with them while they practiced, and then step back further as they got stronger. Same principle. She didn't fully buy it, but she stopped commenting.
+When my mother-in-law told me I was "making Luna weak" by sitting with her, I explained it this way: I wouldn't throw a kid in the deep end to teach them to swim. I'd be in the water with them while they practiced, and then step back further as they got stronger. Same principle. She didn't fully buy it, but she stopped commenting.
 
 ## The Things That Don't Work
 
@@ -67,13 +67,13 @@ Over-validating at the wrong time. There's a difference between acknowledging fe
 
 **Daytime bravery practice.** Research on childhood fear emphasizes this consistently: you can't only work on bedtime fear at bedtime. Helping kids practice small acts of courage during the day — going to get something from the next room alone, staying in the bathroom while you wait outside — builds the resources they draw on at night.
 
-**Consistency over technique.** The specific approach matters less than sticking with it. Lily responded to the brave plan method, but I know families where gradual retreat worked perfectly, or where co-sleeping through toddlerhood followed by a gentle transition at four was the right call. What kills progress is switching strategies every week because nothing's working fast enough.
+**Consistency over technique.** The specific approach matters less than sticking with it. Luna responded to the brave plan method, but I know families where gradual retreat worked perfectly, or where co-sleeping through toddlerhood followed by a gentle transition at four was the right call. What kills progress is switching strategies every week because nothing's working fast enough.
 
-**Keeping bedtime calm for at least 30 minutes beforehand.** This one I resisted — Lily's favorite time to run around shrieking is 7:30 PM — but it makes a measurable difference. Screens off, voices down, activities that require sitting. The nervous system needs wind-down time.
+**Keeping bedtime calm for at least 30 minutes beforehand.** This one I resisted — Luna's favorite time to run around shrieking is 7:30 PM — but it makes a measurable difference. Screens off, voices down, activities that require sitting. The nervous system needs wind-down time.
 
 ## Where We Are Now
 
-Lily is four. She doesn't need me in the room anymore. She still has her stuffed rabbit — now named General Floppington, Commander of Night Guards — she still uses the remote-controlled nightlight, and she still occasionally calls me in for a shadow check. Most nights she goes to sleep on her own in under fifteen minutes.
+Luna is four. She doesn't need me in the room anymore. She still has her stuffed rabbit — now named General Floppington, Commander of Night Guards — she still uses the remote-controlled nightlight, and she still occasionally calls me in for a shadow check. Most nights she goes to sleep on her own in under fifteen minutes.
 
 We're not done. She still has hard nights when she's sick or we're traveling. But the hard nights are the exception now, not the baseline.
 
@@ -158,8 +158,8 @@ If the fear is severe enough to interfere with daytime functioning, is getting p
 
 A few tools that made a real difference in our house:
 
-- **[Hatch Rest Sound Machine & Night Light](https://www.amazon.com/dp/B07N3BXFDZ?tag=bloompath-20)** — Remote-controlled light color and volume. Lily uses the app to pick her color every night, which gives her ownership over her sleep space.
+- **[Hatch Rest Sound Machine & Night Light](https://www.amazon.com/dp/B07N3BXFDZ?tag=bloompath-20)** — Remote-controlled light color and volume. Luna uses the app to pick her color every night, which gives her ownership over her sleep space.
 - **[VAVA Night Light for Kids](https://www.amazon.com/dp/B073WL5R38?tag=bloompath-20)** — Warm amber glow, touch-activated, portable. Great for kids who want to carry their own light.
-- **[Yoto Player](https://www.amazon.com/dp/B09GWQX8V2?tag=bloompath-20)** — Audio stories without a screen. Lily started using one at bedtime and it replaced the tablet entirely within a week.
-- **[The Darkest Dark](https://www.amazon.com/dp/1250115000?tag=bloompath-20)** — A picture book by astronaut Chris Hadfield about overcoming fear of the dark. Simple, effective, and Lily asked for it three nights in a row when we first got it.
+- **[Yoto Player](https://www.amazon.com/dp/B09GWQX8V2?tag=bloompath-20)** — Audio stories without a screen. Luna started using one at bedtime and it replaced the tablet entirely within a week.
+- **[The Darkest Dark](https://www.amazon.com/dp/1250115000?tag=bloompath-20)** — A picture book by astronaut Chris Hadfield about overcoming fear of the dark. Simple, effective, and Luna asked for it three nights in a row when we first got it.
 - **[Breathe Like a Bear](https://www.amazon.com/dp/1623369843?tag=bloompath-20)** — Calm-down breathing exercises for kids, in picture book form. We do one exercise before lights out every night.

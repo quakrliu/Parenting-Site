@@ -361,4 +361,4 @@ You don't need to pick a tribe. Take what works.
 
 ---
 
-*Ethan Moore is a software engineer turned stay-at-home dad living in Southeast Asia with his wife and daughter. He writes about Montessori, positive parenting, and the gap between parenting theory and real life at BloomPath.*
+*Ethan Moore is a software engineer and parent of one. He writes about Montessori, positive parenting, and the gap between parenting theory and real life at BloomPath. To protect his family's privacy, Ethan and his co-founder Mei present through AI characters at BloomPath — the content is real, the avatars are illustrated.*

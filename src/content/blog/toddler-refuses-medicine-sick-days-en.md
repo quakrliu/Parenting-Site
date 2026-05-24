@@ -10,7 +10,7 @@ draft: false
 ageGroup: ["toddler"]
 ---
 
-It was 11:47 PM on a Tuesday. Lily had a fever of 102.4°F, the kind that makes their eyes look glassy and their cheeks flush wrong. I had the children's ibuprofen measured out — 5.5 mL, a precise amount — in a tiny plastic syringe. I crouched down to her level, used my most reassuring Dad Voice, explained that this would make her feel better, and carefully placed the tip of the syringe inside her cheek.
+It was 11:47 PM on a Tuesday. Luna had a fever of 102.4°F, the kind that makes their eyes look glassy and their cheeks flush wrong. I had the children's ibuprofen measured out — 5.5 mL, a precise amount — in a tiny plastic syringe. I crouched down to her level, used my most reassuring Dad Voice, explained that this would make her feel better, and carefully placed the tip of the syringe inside her cheek.
 
 She looked me dead in the eyes and spit the entire dose onto my shirt.
 
@@ -18,11 +18,11 @@ Then she laughed.
 
 What followed was forty minutes of negotiation, bribery, tears (hers and mine), and eventually my wife Sarah taking over because I'd lost all credibility. We got the medicine in eventually. But we'd used up enough goodwill that the next dose — three hours later — was somehow worse.
 
-This went on for the better part of two years. Every sick day was a siege. Every dose was a battle. I genuinely believed Lily was unusually difficult about medicine until Mei pointed out that I'd been doing almost everything wrong from the start.
+This went on for the better part of two years. Every sick day was a siege. Every dose was a battle. I genuinely believed Luna was unusually difficult about medicine until Mei pointed out that I'd been doing almost everything wrong from the start.
 
 ## Why Toddlers Refuse Medicine (And It's Not Defiance)
 
-I assumed Lily refused medicine because she knew it was bad-tasting and was being stubborn about it. That's the logical adult interpretation. It's also mostly wrong.
+I assumed Luna refused medicine because she knew it was bad-tasting and was being stubborn about it. That's the logical adult interpretation. It's also mostly wrong.
 
 Mei walked me through what's actually happening when a toddler refuses medicine:
 
@@ -38,11 +38,11 @@ None of this means the medicine is optional. It means the approach needs to chan
 
 The standard playbook most parents default to — I certainly did — doesn't work and often makes the next dose harder.
 
-**Explaining it will help.** I have explained to Lily that ibuprofen reduces inflammation and brings down fever approximately ninety times. She has never once responded to this information by opening her mouth and accepting the medicine peacefully.
+**Explaining it will help.** I have explained to Luna that ibuprofen reduces inflammation and brings down fever approximately ninety times. She has never once responded to this information by opening her mouth and accepting the medicine peacefully.
 
 **Hiding it in food.** This sounds clever and sometimes works once, but the moment she tastes the medication in her yogurt, that yogurt becomes permanently contaminated. She still won't eat that brand of yogurt, and it's been eight months.
 
-**The "it tastes like candy" lie.** I don't know who decided this was a good strategy, but it destroys your credibility as a parent faster than almost anything else. Lily took one taste, heard me say it was candy, and has been suspicious of my flavor assessments ever since.
+**The "it tastes like candy" lie.** I don't know who decided this was a good strategy, but it destroys your credibility as a parent faster than almost anything else. Luna took one taste, heard me say it was candy, and has been suspicious of my flavor assessments ever since.
 
 **Force.** Restraining a toddler to administer medicine occasionally works in the sense that the medicine gets in. It never works in the sense of making the next dose easier. What you're teaching is that medicine comes with terror, which makes the next dose harder to give and reinforces the threat response.
 
@@ -56,7 +56,7 @@ The principle: toddlers cooperate when they feel they have some control over wha
 
 Here's how it plays out in practice.
 
-**Give 10 minutes of notice.** "Lily, in about ten minutes it's going to be medicine time. We'll do it in the bathroom." This sounds small and is actually enormous. She's not blindsided. She has time to mentally prepare. The ambush approach I used for two years was creating maximum defensiveness.
+**Give 10 minutes of notice.** "Luna, in about ten minutes it's going to be medicine time. We'll do it in the bathroom." This sounds small and is actually enormous. She's not blindsided. She has time to mentally prepare. The ambush approach I used for two years was creating maximum defensiveness.
 
 **Let her choose something.** The choice can be almost anything: which cup to drink water from afterward, whether she sits on the counter or stands, whether she holds the syringe or I do, which stuffed animal watches. The choice cannot be "whether to take the medicine." The choice has to be real — something you'll actually honor. Fake choices ("do you want to take your medicine now or in one second?") get recognized immediately and destroy trust.
 
@@ -66,13 +66,13 @@ Here's how it plays out in practice.
 
 These are specific tools, not just philosophy. Mix and match based on your child.
 
-**1. Flavor drops change everything.** FLAVORx is a pharmacy-based service that adds custom flavoring to prescription and OTC medications. Lily chose "bubblegum" and the transformation was remarkable. The pharmacy charges a few dollars. It is worth many times that. If you haven't asked your pharmacist about flavor additives, do this immediately.
+**1. Flavor drops change everything.** FLAVORx is a pharmacy-based service that adds custom flavoring to prescription and OTC medications. Luna chose "bubblegum" and the transformation was remarkable. The pharmacy charges a few dollars. It is worth many times that. If you haven't asked your pharmacist about flavor additives, do this immediately.
 
-**2. Temperature matters more than you think.** Chilling liquid medication in the fridge makes the taste less intense. Medications at room temperature are more flavorful, not less. We keep children's ibuprofen in the refrigerator and it made a measurable difference in how Lily tolerates it.
+**2. Temperature matters more than you think.** Chilling liquid medication in the fridge makes the taste less intense. Medications at room temperature are more flavorful, not less. We keep children's ibuprofen in the refrigerator and it made a measurable difference in how Luna tolerates it.
 
 **3. Syringe placement is a skill.** The back inside of the cheek — not the tongue, not the throat — is where medicine is absorbed and least likely to trigger the gag reflex. Most parents aim for the tongue or back of the throat. Both are wrong. Cheek pouch, halfway back. Go slow.
 
-**4. Give the child the syringe.** Lily will occasionally self-administer if I fill the syringe, hand it to her, and step back. It doesn't always work but when it does, she's genuinely proud of herself. "I took my own medicine" is a real toddler accomplishment.
+**4. Give the child the syringe.** Luna will occasionally self-administer if I fill the syringe, hand it to her, and step back. It doesn't always work but when it does, she's genuinely proud of herself. "I took my own medicine" is a real toddler accomplishment.
 
 **5. Same time, same place, same cup of juice.** Routine is powerful. If medicine always happens in the bathroom, on the little stool, with the yellow cup of apple juice waiting, the environment itself becomes part of the ritual and reduces anxiety before you even open the bottle.
 
@@ -80,7 +80,7 @@ These are specific tools, not just philosophy. Mix and match based on your child
 
 When a sick day hits, here's what I actually say and do now:
 
-*"Hey Lily, medicine time is coming in a few minutes. You want to sit on the counter or on your stool?"*
+*"Hey Luna, medicine time is coming in a few minutes. You want to sit on the counter or on your stool?"*
 
 [She picks. I mean it.]
 
@@ -104,7 +104,7 @@ The whole sequence takes about three minutes. We used to spend forty minutes on 
 
 ## When the Routine Falls Apart
 
-It won't work every time. There are sick days when Lily is so miserable that the ritual doesn't land, and what helps then is just slowing down even more — more notice, more genuine choices, more patience in my own voice. The failure mode is usually me getting anxious about getting the medication in and rushing through the ritual, which she senses immediately.
+It won't work every time. There are sick days when Luna is so miserable that the ritual doesn't land, and what helps then is just slowing down even more — more notice, more genuine choices, more patience in my own voice. The failure mode is usually me getting anxious about getting the medication in and rushing through the ritual, which she senses immediately.
 
 On genuinely bad days when nothing is working and the fever is high, I call our pediatrician's office. There are dissolvable strip formulations, suppository options, and sometimes a different medication entirely that might be easier to administer. It's worth asking. You are not locked into liquid oral medication as the only option.
 
@@ -123,7 +123,7 @@ I've called about missed doses twice. Both times the pediatrician gave us practi
 
 ## What This Taught Me About Control
 
-The medicine battles were never really about medicine. They were about Lily needing to feel some agency in a situation that felt entirely out of her control.
+The medicine battles were never really about medicine. They were about Luna needing to feel some agency in a situation that felt entirely out of her control.
 
 When kids are sick, they feel terrible and they don't understand why. They can't fix it. Adults are doing things to their body. The medicine is one more thing happening to them. Giving her the yellow cup, letting her choose the stool, counting to three — these aren't tricks. They're genuine accommodations for the developmental reality of being two.
 
@@ -169,13 +169,13 @@ There are some parent-used flavor additives on the market, but the safest approa
 
 These are the specific products that made our sick days more manageable. The flavor drops alone would be worth three times what I paid.
 
-- [FLAVORx Medicine Flavoring Kit](https://www.amazon.com/dp/B08B2NWXNM?tag=bloompath-20) — pharmacy-grade flavoring you can add at home; works with most OTC liquid medications and has made the single biggest difference in Lily's cooperation
+- [FLAVORx Medicine Flavoring Kit](https://www.amazon.com/dp/B08B2NWXNM?tag=bloompath-20) — pharmacy-grade flavoring you can add at home; works with most OTC liquid medications and has made the single biggest difference in Luna's cooperation
 - [Frida Baby MediFrida The Accu-Dose Pacifier](https://www.amazon.com/dp/B01ENMTBJI?tag=bloompath-20) — delivers medicine via pacifier motion; genuinely clever for infants and younger toddlers who still take a pacifier
 - [Burt's Bees Baby Saline Nasal Spray](https://www.amazon.com/dp/B01N7HMRQL?tag=bloompath-20) — not medicine refusal related, but saline spray is the sick-day tool I reach for before reaching for anything else; clearing the nose often brings fever down on its own
-- [Zarbee's Naturals Baby Cough Syrup](https://www.amazon.com/dp/B0057I18SK?tag=bloompath-20) — pediatrician-recommended, honey-based; Lily took this without a single battle, which was genuinely shocking given her track record
+- [Zarbee's Naturals Baby Cough Syrup](https://www.amazon.com/dp/B0057I18SK?tag=bloompath-20) — pediatrician-recommended, honey-based; Luna took this without a single battle, which was genuinely shocking given her track record
 
 ---
 
 *Sick days are hard. You're managing their fear, your worry, and the three-hour dosing schedule on no sleep. You're doing fine.*
 
-*Want to track what developmental stage Lily is actually in, including sensory development milestones that affect things like medicine tolerance? We built [BloomPath](https://bloom-path.app) for exactly this.*
+*Want to track what developmental stage Luna is actually in, including sensory development milestones that affect things like medicine tolerance? We built [BloomPath](https://bloom-path.app) for exactly this.*

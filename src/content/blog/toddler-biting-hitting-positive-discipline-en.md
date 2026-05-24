@@ -1,6 +1,6 @@
 ---
 title: "She Bit Another Kid. What Happens Next Matters More Than the Bite."
-description: "A Montessori teacher explains why toddlers bite and hit — the developmental science behind it, what most parents do wrong in the moment, and a step-by-step positive discipline response that actually works."
+description: "Why toddlers bite and hit — the developmental science behind it, what most parents do wrong in the moment, and a step-by-step positive discipline response that actually works. Real-parent reflection synthesizing Montessori principles and emotion-coaching research."
 pubDate: "2026-05-06"
 tags: ["toddler biting", "toddler hitting", "positive discipline", "montessori toddler", "toddler aggression", "child development", "emotional regulation toddlers"]
 lang: "en"
@@ -10,13 +10,15 @@ draft: false
 ageGroup: ["toddler"]
 ---
 
-February, Menlo Park, playground sandbox. A 26-month-old named Oliver leaned over and bit the arm of the girl next to him — hard enough to leave marks.
+February, playground sandbox. A 26-month-old named Oliver leaned over and bit the arm of the girl next to him — hard enough to leave marks. (Names and details have been changed.)
 
 Oliver's mother froze. The other parent pulled her daughter away. Oliver watched both of them, completely expressionless.
 
-I was there because Oliver's parents had reached out to [BloomPath](https://bloom-path.app) after his third biting incident in two weeks. But watching what happened next told me more than any intake form. Oliver's mom yanked him up, said "NO. We don't BITE. Say sorry," and marched him to the far side of the playground.
+I'm sharing this story because Oliver's parents are friends who reached out after his third biting incident in two weeks. What happened next told me more than any conversation could. Oliver's mom yanked him up, said "NO. We don't BITE. Say sorry," and marched him to the far side of the playground.
 
 Oliver said "sorry" in a flat voice. The incident was "handled." And nothing was learned.
+
+> **A note from us**: This article is written from Mei's voice — a real parent with 11 years of experience whose daughter attends a Montessori elementary school. To protect our daughter's privacy, BloomPath presents through AI characters. We are not certified Montessori teachers; what follows synthesizes what we've learned from real-life parenting, our daughter's Montessori school, and the research literature.
 
 *This article is part of our [Positive Parenting Complete Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -26,7 +28,7 @@ Oliver said "sorry" in a flat voice. The incident was "handled." And nothing was
 
 ## Why Toddlers Bite and Hit (It's Not What You Think)
 
-Before I explain the response, I need you to understand something that took me three years of classroom observation to truly internalize: **your toddler is not being malicious.**
+Before I explain the response, I need you to understand something it took me years of parent observation and reading to truly internalize: **your toddler is not being malicious.**
 
 The prefrontal cortex — the part of the brain that manages impulse control, empathy, and consequence-thinking — won't be functionally mature until around age 25. At 18 months to 3 years, it's barely online. When your toddler bites, they are not choosing aggression as a strategy. They are having a neurological event that exceeds their current capacity to manage.
 
@@ -42,7 +44,7 @@ I've watched this pattern thousands of times. A child reaches for a toy. Another
 
 Playgrounds, parks, birthday parties — these are neurologically intense environments for toddlers. Noise, movement, new faces, texture, the social demands of sharing and waiting all stack on top of each other. A toddler who is overstimulated reaches a threshold, and the overflow comes out physically.
 
-In my classroom, I used to track the time of day when incidents happened. Almost always: right before lunch, or about 40 minutes into open playtime. Two clear patterns — hunger plus sustained social demand. Once I adjusted the schedule, incidents dropped significantly.
+A pattern we've heard from teachers at Luna's Montessori school: incidents almost always cluster right before lunch, or about 40 minutes into open playtime. Two clear patterns — hunger plus sustained social demand. Adjusting the schedule around those windows dropped incidents significantly in the classes we've observed.
 
 ### Reason 3: Testing Cause and Effect
 
@@ -58,7 +60,7 @@ Two-year molars typically arrive between 20 and 33 months, sometimes as late as 
 
 ## What Most Parents Do in the Moment (and Why It Backfires)
 
-In my years working with families, I've seen a fairly consistent set of reactions to toddler biting or hitting. Almost all of them feel right. Almost none of them work — and some actively make things worse.
+From parent communities we've been part of for the last decade, we've seen a fairly consistent set of reactions to toddler biting or hitting. Almost all of them feel right. Almost none of them work — and some actively make things worse.
 
 **The lecture.** "We do NOT bite. Biting HURTS people. How would YOU feel if someone bit YOU?" A 2-year-old cannot absorb a multi-sentence ethical argument when their nervous system is dysregulated. The words become noise. What they register is the intensity of your emotion, which adds to their own dysregulation.
 
@@ -72,7 +74,7 @@ In my years working with families, I've seen a fairly consistent set of reaction
 
 ## The Montessori Response: What to Actually Do
 
-Here's what I taught Oliver's parents. Here's what I teach in my classroom. Here's what the research on co-regulation, emotion coaching, and positive discipline consistently supports.
+Here's what we shared with Oliver's parents — drawn from Luna's Montessori school's approach plus the research on co-regulation, emotion coaching, and positive discipline.
 
 ### Step 1: Protect the Victim First (5 seconds)
 
@@ -116,7 +118,7 @@ Oliver's biting always happened within the last 20 minutes before lunch. We move
 
 For toddlers who bite due to sensory needs — gum discomfort, oral stimulation seeking, or anxiety — having something appropriate to chew can dramatically reduce incidents.
 
-The [ARK Therapeutic chew necklace](https://www.amazon.com/dp/B07YHL9FSR?tag=bloompath-20) is designed specifically for oral sensory needs and is food-grade silicone. I've recommended these in classroom settings for children who have a genuine chewing need — and the feedback from parents has been consistently positive. Having a safe outlet often removes the need to bite a person entirely.
+The [ARK Therapeutic chew necklace](https://www.amazon.com/dp/B07YHL9FSR?tag=bloompath-20) is designed specifically for oral sensory needs and is food-grade silicone. These are widely recommended by occupational therapists for children with a genuine chewing need — and we've heard consistently positive feedback from other parents. Having a safe outlet often removes the need to bite a person entirely.
 
 ---
 
@@ -189,7 +191,7 @@ For most toddlers, biting peaks between 18 and 26 months and decreases significa
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "She Bit Another Kid. What Happens Next Matters More Than the Bite.",
-  "description": "A Montessori teacher explains why toddlers bite and hit — the developmental science, what most parents do wrong, and a step-by-step positive discipline response.",
+  "description": "Why toddlers bite and hit — the developmental science, what most parents do wrong, and a step-by-step positive discipline response. Real-parent reflection synthesizing Montessori principles and emotion-coaching research.",
   "author": {
     "@type": "Person",
     "name": "Mei Chen"
