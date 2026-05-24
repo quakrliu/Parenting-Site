@@ -1,0 +1,490 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import NewsletterForm from '../../../../components/NewsletterForm.astro';
+import '../../../../styles/landing.css';
+
+const lang = 'en';
+const appStoreUrl = 'https://apps.apple.com/us/app/bloompath/id6759791532';
+---
+
+<BaseLayout
+  title="Read: The 90-Second Toddler Meltdown Playbook | BloomPath"
+  description="Full online reading version: what to do in the first 90 seconds when your toddler melts down. 5 scenario scripts + 4 anti-patterns + 5 repair phrases + prevention strategies. Free."
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="ebook-root">
+
+    <div class="ebook-bar">
+      <div class="ebook-bar__inner">
+        <a href="/en/free/toddler-meltdown-playbook/" class="ebook-bar__back">← Back to landing</a>
+        <button class="ebook-bar__pdf" onclick="window.print()">📥 Print / Save as PDF</button>
+      </div>
+    </div>
+
+    <article class="ebook-article">
+
+      <header class="ebook-cover-section">
+        <p class="ebook-eyebrow">BloomPath</p>
+        <h1 class="ebook-title">The 90-Second<br />Toddler Meltdown<br />Playbook</h1>
+        <p class="ebook-subtitle">Store · Restaurant · Park · Bedtime<br />What to do in the first 90 seconds of a meltdown</p>
+        <div class="ebook-divider"></div>
+        <p class="ebook-byline">
+          By <strong>Mei</strong> (11-year parent) &amp; <strong>Ethan</strong> (software engineer dad)<br />
+          BloomPath co-founders
+        </p>
+        <p class="ebook-meta">15 pages · 5 scenario scripts · Free</p>
+      </header>
+
+      <section class="ebook-section">
+        <h2>To the parent opening this</h2>
+        <p>Hi,</p>
+        <p>You're reading this because today, probably, you lived through a meltdown.</p>
+        <p>Maybe in the toy aisle — they were hugging something and you said it had to go back, and they hit the floor. Maybe at the restaurant — they refused dinner and threw the spoon. Maybe at the playground — time to go home, they collapsed and wouldn't move.</p>
+        <p>People turned to look. Your face went hot. Five thoughts arrived at once: <em>Pick them up? Walk away? Pretend they're not yours? Just give in?</em></p>
+        <p><strong>When our daughter was 2 to 3</strong>, my husband Ethan and I lived through every version of this. She melted down 3–5 times a week, on average. She's 11 now — so this PDF distills what we figured out back then, plus the Montessori and positive-parenting research we self-studied along the way.</p>
+
+        <div class="ebook-callout">
+          <strong>About BloomPath</strong><br />
+          To protect our daughter's privacy, BloomPath uses AI characters (Mei = the AI avatar of a real mom, Ethan = the AI avatar of a real dad). <strong>The content is from real parenting; only the avatars are illustrated.</strong> Full story: <a href="/en/about/">/en/about/</a>.
+        </div>
+
+        <p>What you'll learn next:</p>
+        <ul>
+          <li><strong>The 90-second framework</strong>: what to do in 0–30s, 30–60s, 60–90s</li>
+          <li><strong>5 complete scenario scripts</strong>: candy at checkout, leaving the playground, refusing dinner, toy taken, "I want to do it myself" but can't</li>
+          <li><strong>4 reactions that backfire</strong> (anti-patterns)</li>
+          <li><strong>5 repair phrases</strong> for after the storm</li>
+          <li><strong>Prevention strategies</strong> (the "battery percentage" model)</li>
+        </ul>
+
+        <p>Bookmark this page on your phone. Pull it up the moment the next meltdown hits.</p>
+
+        <p class="ebook-signature">— Mei</p>
+      </section>
+
+      <section class="ebook-section">
+        <h2>60-second brain science</h2>
+        <p>One thing first: <strong>a toddler meltdown isn't misbehavior — it's a developing nervous system hitting its limit.</strong></p>
+
+        <p>Two brain regions matter:</p>
+
+        <table class="ebook-table">
+          <thead>
+            <tr><th>Region</th><th>Job</th><th>Fully developed when</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>Amygdala</strong></td><td>Emotion, fight-or-flight</td><td><strong>By age 1</strong></td></tr>
+            <tr><td><strong>Prefrontal Cortex</strong></td><td>Rational thought, emotional brakes</td><td><strong>Around age 25</strong></td></tr>
+          </tbody>
+        </table>
+
+        <p>Your 2-year-old has a fully-tuned gas pedal and almost no brakes.</p>
+
+        <p>Engineer framing: it's a high-clock CPU with no cooling system. Overheating isn't a bug — it's a guaranteed outcome of where the system is in development.</p>
+
+        <p>Harvard's Center on the Developing Child calls the solution <em>co-regulation</em>: a calm adult next to the child slowly brings the child's nervous system back to baseline.</p>
+
+        <blockquote>In other words: <strong>your steadiness is your child's brake.</strong></blockquote>
+
+        <p>That's why 70% of this playbook is about what you do, not what you say.</p>
+      </section>
+
+      <section class="ebook-section">
+        <h2>The 90-second framework</h2>
+
+        <div class="ebook-framework">
+          <div class="ebook-framework__step">
+            <div class="ebook-framework__time">0–30s</div>
+            <div class="ebook-framework__title">Steady yourself</div>
+            <ul>
+              <li>One slow breath (in 4, out 6)</li>
+              <li>Scan: are they safe where they are?</li>
+              <li>Inner mantra: "Their brakes aren't built yet."</li>
+            </ul>
+          </div>
+
+          <div class="ebook-framework__step">
+            <div class="ebook-framework__time">30–60s</div>
+            <div class="ebook-framework__title">Get close + name the feeling</div>
+            <ul>
+              <li>Kneel to their eye level</li>
+              <li>Hand on their back (if they let you)</li>
+              <li>One sentence: "You feel [emotion], because [reason]."</li>
+            </ul>
+          </div>
+
+          <div class="ebook-framework__step">
+            <div class="ebook-framework__time">60–90s</div>
+            <div class="ebook-framework__title">Wait + stay close</div>
+            <ul>
+              <li>No reasoning</li>
+              <li>No giving in</li>
+              <li>Just be there until their nervous system downshifts</li>
+            </ul>
+          </div>
+
+          <div class="ebook-framework__step ebook-framework__step--after">
+            <div class="ebook-framework__time">After 90s</div>
+            <div class="ebook-framework__title">Reconnect</div>
+            <ul>
+              <li>Wait until they're fully calm before speaking</li>
+              <li>"That was hard, wasn't it?" (no lecture)</li>
+              <li>Offer a small choice before the next transition</li>
+            </ul>
+          </div>
+        </div>
+
+        <p>Detailed walk-through of each stage below.</p>
+      </section>
+
+      <section class="ebook-section">
+        <h2>0–30s: Steady yourself (the hardest step)</h2>
+
+        <p>The moment a meltdown starts, <strong>your amygdala lights up too</strong>. Mirror neurons mean their emotion floods into you. Your anxiety floods back into them. Both nervous systems escalate together.</p>
+
+        <p>The way to break that loop: <strong>handle yourself first, then handle the child.</strong></p>
+
+        <h3>What to do</h3>
+        <ol>
+          <li><strong>One breath</strong>: in for 4, out for 6. Just one. Long enough to interrupt your stress response.</li>
+          <li><strong>Quick safety scan</strong>: Are they in a safe spot? Do you need to move them (off a road, away from a crowd)? If safe — stay put.</li>
+          <li><strong>Inner mantra</strong>: "Their brakes aren't built yet." "This is a developing nervous system, not bad behavior." "My calm is their brake."</li>
+        </ol>
+
+        <h3>Why this 30 seconds matters</h3>
+        <p>Research is clear: parent emotional intensity directly predicts meltdown duration:</p>
+        <ul>
+          <li><strong>You stay calm</strong> → average meltdown lasts 5–8 minutes</li>
+          <li><strong>You escalate too</strong> → average meltdown lasts 15–25 minutes</li>
+        </ul>
+        <p>This 30 seconds isn't wasted. It's the most important 30 seconds of the entire framework.</p>
+      </section>
+
+      <section class="ebook-section">
+        <h2>30–60s: Get close + name the feeling</h2>
+
+        <p>Move toward the child with two things in mind: <strong>physical proximity, verbal naming.</strong></p>
+
+        <h3>Get close (not away)</h3>
+        <p>Old-school parenting says "ignore them and they'll stop." For toddlers, <strong>this doesn't work</strong>. Walking away activates their attachment alarm and escalates the meltdown.</p>
+        <p>Kneel to their eye level. If they don't resist, <strong>put a hand on their back or hold them</strong>. Your body is telling their nervous system: "The safe person is here."</p>
+        <p>This is co-regulation — your steadiness transmits through touch.</p>
+
+        <h3>Name the feeling ("Name it to tame it")</h3>
+        <p>From neuroscientist Daniel Siegel: <strong>naming an emotion activates the brain's language-processing region, shifting the child from pure-feeling mode into a thinking-feeling mode.</strong></p>
+
+        <p><strong>The template</strong>:</p>
+        <blockquote>"You feel [emotion], because [reason]."</blockquote>
+
+        <p>5 examples:</p>
+        <ul>
+          <li>"You feel so angry, because you wanted that candy."</li>
+          <li>"You're disappointed, because it's time to leave."</li>
+          <li>"You feel frustrated, because the puzzle won't fit."</li>
+          <li>"You feel sad, because your brother took your car."</li>
+          <li>"You wanted to put your shoes on yourself, and the lace is stuck — that's so annoying."</li>
+        </ul>
+
+        <h3>Three traps</h3>
+        <ol>
+          <li><strong>Don't add "but"</strong>: ❌ "You're angry, but you can't hit." The "but" erases the empathy. ✅ Stop at "you're angry." Handle the behavior later, when they're calm.</li>
+          <li><strong>Don't rush to fix it</strong>: ❌ "You're sad, it's okay, we'll come back tomorrow." Rushing to redirect = denying the feeling. ✅ Let them feel "I was heard" first.</li>
+          <li><strong>You don't have to agree with the demand</strong>: ❌ "You want candy, let's buy it." (caving in). Empathy ≠ agreement. ✅ "You want candy. We're not buying it today. I know you're disappointed."</li>
+        </ol>
+      </section>
+
+      <section class="ebook-section">
+        <h2>60–90s: Wait + stay close</h2>
+
+        <p>This is the most counter-intuitive stage: <strong>do nothing.</strong></p>
+
+        <h3>Why wait</h3>
+        <p>When a child is flooded, their prefrontal cortex is basically offline. Reasoning, bargaining, threats, bribery — <strong>none of it lands</strong>. You're typing commands into a crashed computer.</p>
+        <p>Harvard's co-regulation research: with a calm adult nearby, the child's nervous system returns to baseline in <strong>5–15 minutes</strong>.</p>
+
+        <h3>What you're doing during the wait</h3>
+        <ul>
+          <li>Kneel beside them</li>
+          <li>Hand on their back (if they accept it)</li>
+          <li>Stop talking (or repeat "I'm here")</li>
+          <li>Don't scroll your phone, don't watch onlookers</li>
+          <li><strong>Just be there</strong></li>
+        </ul>
+        <p>Your presence is the therapy.</p>
+
+        <h3>What NOT to do</h3>
+        <ul>
+          <li>❌ Lecture ("See, nobody likes when you do that")</li>
+          <li>❌ Threaten ("Keep crying and I'll leave")</li>
+          <li>❌ Cave ("Okay okay, you can have it")</li>
+          <li>❌ Bribe ("Stop crying and I'll buy you ice cream")</li>
+          <li>❌ Rush to carry them away (unless the environment is unsafe)</li>
+        </ul>
+      </section>
+
+      <section class="ebook-section">
+        <h2>5 complete scenario scripts</h2>
+
+        <h3>Scenario 1: Candy meltdown at checkout</h3>
+        <p><strong>Setup</strong>: You're at the store. They point at the candy display. You say "not today." They drop to the floor, kicking, screaming.</p>
+        <ul>
+          <li><strong>0–30s</strong>: One breath. Check safety (not in an aisle, no breakables). Inner mantra.</li>
+          <li><strong>30–60s</strong>: Kneel. Hand on back (if they don't shake it off). Say: "You're so angry. You really wanted that candy, and I said no today. That feels awful."</li>
+          <li><strong>60–90s</strong>: Stop talking. Don't watch the other shoppers. Don't leave. Just stay.</li>
+          <li><strong>After</strong>: Wait until they're fully calm, then: "That was hard, wasn't it? You really wanted that candy." ⚠️ No post-mortem lecture.</li>
+        </ul>
+
+        <h3>Scenario 2: Won't leave the playground</h3>
+        <p><strong>Setup</strong>: You said "10 more minutes." 10 minutes is up. They collapse: "NO! I want to play more!"</p>
+        <ul>
+          <li><strong>0–30s</strong>: One breath. Remember: this is a transition meltdown. They happen.</li>
+          <li><strong>30–60s</strong>: Kneel. "You wanted to keep playing. Leaving feels so disappointing. You love this slide."</li>
+          <li><strong>60–90s</strong>: Wait. If they grab your leg, let them. Don't say "we'll come back tomorrow" (that's rushing to redirect).</li>
+          <li><strong>After 90s</strong>: Once they're 50% calmer, offer a choice: "Do you want to walk to the car yourself, or have me carry you?"</li>
+          <li><strong>Prevention</strong>: Next time, give a 15-minute warning + "three more slides, then we go" specific count.</li>
+        </ul>
+
+        <h3>Scenario 3: Restaurant refusal</h3>
+        <p><strong>Setup</strong>: 10 minutes into the meal: "I don't want this!" Crying, spoon on the floor.</p>
+        <ul>
+          <li><strong>0–30s</strong>: Quick check — are they hungry? Tired? Overstimulated? Restaurant meltdowns are usually about overwhelm, not the food.</li>
+          <li><strong>30–60s</strong>: Sit beside them. "You don't want to eat this. You feel a little overwhelmed, don't you?" Name "uncomfortable" rather than "angry."</li>
+          <li><strong>60–90s</strong>: Don't push food. Don't say "three more bites." Offer water (drinking water has co-regulation effect).</li>
+          <li><strong>After 90s</strong>: Take them out of the dining area for 2 minutes. Not a punishment — a nervous-system reset.</li>
+          <li><strong>Prevention</strong>: Choose restaurants with kids' menus + fast service. Don't push tired-time meals.</li>
+        </ul>
+
+        <h3>Scenario 4: Toy taken</h3>
+        <p><strong>Setup</strong>: They're playing with blocks. Another kid takes one. Instant meltdown.</p>
+        <ul>
+          <li><strong>0–30s</strong>: Make sure no physical contact escalates. Inner mantra: "Property ownership is a Big Deal at this age."</li>
+          <li><strong>30–60s</strong>: Kneel. "Your block was taken. You were playing — getting it taken feels SO unfair!" To the other child: "He's playing with that — you need to ask first."</li>
+          <li><strong>60–90s</strong>: Let them cry. Hand the block back (if appropriate). Don't lecture about sharing.</li>
+          <li><strong>After</strong>: Once calm: "He wanted your block. Would you like to give it to him in a minute, or play with a different toy?" Give a choice, not a forced share.</li>
+          <li>⚠️ Real sharing is a 4–5-year-old skill. Forcing it at 2–3 teaches the child "my things aren't safe."</li>
+        </ul>
+
+        <h3>Scenario 5: "I want to do it myself" but can't</h3>
+        <p><strong>Setup</strong>: They want to tie their own shoes. The laces are stuck. You reach in to help — they explode: "I WANT TO DO IT MYSELF!"</p>
+        <ul>
+          <li><strong>0–30s</strong>: Remember: <em>autonomy frustration</em> is a core 1–3-year-old developmental task. It's not about you — it's about their limit.</li>
+          <li><strong>30–60s</strong>: Kneel. Don't help yet. "You really wanted to do it yourself. But the lace is stuck. That's SO frustrating."</li>
+          <li><strong>60–90s</strong>: Wait. Don't help unprompted. If they cry to be helped, offer a choice: "Do you want a tiny bit of help, or do you want to keep trying?"</li>
+          <li><strong>After</strong>: "You felt SO frustrated. But you didn't give up." Praise the process, not the outcome.</li>
+          <li><strong>Prevention</strong>: Start tasks 10 minutes earlier so there's time to try. Buy easier shoes (velcro &gt; laces at this age).</li>
+        </ul>
+      </section>
+
+      <section class="ebook-section">
+        <h2>4 reactions that backfire</h2>
+
+        <div class="ebook-antipattern">
+          <h3>Trap 1: "Keep crying and I'll leave you here"</h3>
+          <p><strong>Why it fails</strong>: Sends the amygdala the message "having a feeling = abandonment." Fear spikes. Crying intensifies.</p>
+          <p><strong>Try instead</strong>: "I'm here. I'll wait with you until you're done."</p>
+        </div>
+
+        <div class="ebook-antipattern">
+          <h3>Trap 2: "There's nothing to cry about"</h3>
+          <p><strong>Why it fails</strong>: Denying a feeling doesn't erase it. It just teaches the child "my feelings don't count."</p>
+          <p><strong>Try instead</strong>: "You're really sad. I get it."</p>
+        </div>
+
+        <div class="ebook-antipattern">
+          <h3>Trap 3: Giving in to stop the crying</h3>
+          <p><strong>Why it fails</strong>: Short-term silence. Long-term lesson: "crying = getting what I want." The threshold drops next time.</p>
+          <p><strong>Try instead</strong>: Validate the feeling, hold the limit. "You really want it. We're not buying it today."</p>
+        </div>
+
+        <div class="ebook-antipattern">
+          <h3>Trap 4: Continuing to reason mid-storm</h3>
+          <p><strong>Why it fails</strong>: Prefrontal cortex is offline. Reasoning has nowhere to land.</p>
+          <p><strong>Try instead</strong>: Co-regulate first. Address behavior once they're calm, not during the storm.</p>
+        </div>
+      </section>
+
+      <section class="ebook-section">
+        <h2>5 repair phrases for after the storm</h2>
+
+        <p>Within 30 minutes of a calmed-down meltdown is the best window for <strong>connection + learning</strong>. But <strong>the goal isn't a lecture</strong> — it's <strong>relationship repair + emotion vocabulary</strong>.</p>
+
+        <ol class="ebook-repair-list">
+          <li><strong>Reflect the feeling</strong>: "You were so [emotion]. You really wanted [need]. That was hard, wasn't it?"</li>
+          <li><strong>Normalize</strong>: "Every kid feels this way sometimes. I did too when I was little."</li>
+          <li><strong>Reinforce your presence</strong>: "I was right next to you. It's okay to cry."</li>
+          <li><strong>Preview a tool</strong>: "Next time you feel close to a meltdown, you can grab my hand and say 'I need help,' okay?"</li>
+          <li><strong>Own your imperfection</strong> (if you didn't handle it well): "I used a loud voice earlier. I'm sorry. I'm still practicing too — thanks for letting me know."</li>
+        </ol>
+
+        <h3>Why repair matters more than perfection</h3>
+        <p>Research is consistent: <strong>parents who never make mistakes don't exist. Parents who repair after mistakes raise the most securely attached kids.</strong></p>
+        <p>Relationship safety doesn't come from "never breaking." It comes from "when broken, it gets fixed."</p>
+      </section>
+
+      <section class="ebook-section">
+        <h2>Prevention: the "battery percentage" model</h2>
+
+        <p>Think of your child's emotional self-regulation as a battery:</p>
+        <ul>
+          <li>Start of day: 100%</li>
+          <li>New environment / noise / crowd: drains 1–2%/minute</li>
+          <li>Hungry / tired / sleepy: 2–3× faster drain</li>
+          <li>By the third errand: might be at 5%</li>
+        </ul>
+
+        <p><strong>All prevention is really one principle: don't let the battery drop below 5%.</strong></p>
+
+        <h3>5 prevention moves</h3>
+        <ol>
+          <li><strong>Time outings well</strong>: Go out after they're fed and rested.</li>
+          <li><strong>Keep outings short</strong>: Leave before the battery runs out.</li>
+          <li><strong>Warn before transitions</strong>: "10 more minutes, then we go."</li>
+          <li><strong>Give real choices</strong>: "Red shirt or blue shirt?" Small autonomy → big drop in power struggles.</li>
+          <li><strong>Take care of yourself</strong>: A depleted parent can't deliver calm. Yours is the only nervous system you can directly control.</li>
+        </ol>
+      </section>
+
+      <section class="ebook-section ebook-cta-section">
+        <h2>What's next</h2>
+
+        <p>This is BloomPath's Free Guide #1. If it was useful:</p>
+
+        <div class="ebook-cta-grid">
+          <div class="ebook-cta-card">
+            <h3>📘 The full Companion (40 pages)</h3>
+            <p>30+ scenario scripts (siblings, bedtime, homework, tweens)<br />
+            Printable "90-Second Card" for the fridge<br />
+            Bilingual emotion-vocabulary list (50 phrases)</p>
+            <p class="ebook-cta-price">$4.99 USD · Coming soon</p>
+            <p class="ebook-cta-note">Already on our newsletter? You'll get a heads-up the day it launches.</p>
+          </div>
+
+          <div class="ebook-cta-card ebook-cta-card--featured">
+            <h3>📱 BloomPath App</h3>
+            <p>24/7 AI parenting mentor<br />
+            3 personalized daily activities (5–15 min)<br />
+            224 developmental indicators tracked</p>
+            <p class="ebook-cta-price">7-day free trial, no credit card</p>
+            <a href={appStoreUrl} target="_blank" rel="noopener" class="lp-btn lp-btn--primary">Get it on the App Store</a>
+          </div>
+        </div>
+
+        <div class="ebook-newsletter-card">
+          <h3>Not on the newsletter yet?</h3>
+          <p>Every Thursday, one short parenting note. Real, usable, no fluff. ~4 min to read.</p>
+          <NewsletterForm
+            lang={lang}
+            variant="card"
+            source="free-ebook-meltdown-en-read"
+            heading=""
+            subtext="No spam, unsubscribe anytime."
+          />
+        </div>
+
+        <p class="ebook-signature">
+          See you before the next meltdown.<br /><br />
+          — Mei<br />
+          (11-year parent · BloomPath co-founder)
+        </p>
+
+        <hr style="margin: 3rem 0; border: none; border-top: 1px solid #E8E2DB;" />
+
+        <p style="font-size: 0.875rem; color: #8E8780; text-align: center;">
+          <strong>BloomPath</strong> · bloom-path.app · hello@bloom-path.app<br />
+          © 2026 BloomPath · Share freely with other parents · No commercial reuse
+        </p>
+      </section>
+
+    </article>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  /* Same styles as ZH version — same vanilla CSS, no Tailwind */
+  .ebook-root {
+    background-color: #FBF8F4;
+    color: #2D2A26;
+    min-height: 100vh;
+    color-scheme: light;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  html:has(.ebook-root) body {
+    color-scheme: light;
+    background-color: #FBF8F4 !important;
+    color: #2D2A26 !important;
+  }
+  .ebook-bar { position: sticky; top: 0; background: rgba(251, 248, 244, 0.92); backdrop-filter: blur(10px); border-bottom: 1px solid #E8E2DB; z-index: 50; }
+  .ebook-bar__inner { max-width: 720px; margin: 0 auto; padding: 0.75rem 1.5rem; display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+  .ebook-bar__back { font-size: 0.875rem; color: #5C5751; text-decoration: none; font-weight: 600; }
+  .ebook-bar__back:hover { color: #5E9A7E; }
+  .ebook-bar__pdf { background: #5E9A7E; color: white; border: none; padding: 0.55rem 1.25rem; border-radius: 999px; font-size: 0.875rem; font-weight: 700; cursor: pointer; font-family: inherit; }
+  .ebook-bar__pdf:hover { background: #4A8268; }
+  .ebook-article { max-width: 720px; margin: 0 auto; padding: 3rem 1.5rem 5rem; }
+  .ebook-cover-section { text-align: center; padding: 3rem 0 4rem; border-bottom: 1px solid #E8E2DB; margin-bottom: 3rem; }
+  .ebook-eyebrow { font-size: 0.8125rem; font-weight: 800; letter-spacing: 0.18em; color: #5E9A7E; text-transform: uppercase; margin: 0 0 2rem 0; }
+  .ebook-title { font-size: clamp(2.25rem, 5vw, 3.5rem); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05; color: #1A1714; margin: 0 0 1.5rem 0; }
+  .ebook-subtitle { font-size: 1.125rem; color: #5C5751; line-height: 1.5; margin: 0 0 2rem 0; }
+  .ebook-divider { width: 60px; height: 3px; background: #5E9A7E; margin: 2rem auto; border-radius: 2px; }
+  .ebook-byline { font-size: 1rem; color: #2D2A26; line-height: 1.65; margin: 0 0 2rem 0; }
+  .ebook-meta { font-size: 0.875rem; color: #8E8780; margin: 0; letter-spacing: 0.04em; }
+  .ebook-section { margin-bottom: 4rem; }
+  .ebook-section h2 { font-size: 1.875rem; font-weight: 800; letter-spacing: -0.025em; color: #1A1714; margin: 0 0 1.5rem 0; line-height: 1.2; }
+  .ebook-section h3 { font-size: 1.25rem; font-weight: 700; color: #1A1714; margin: 2rem 0 0.75rem 0; line-height: 1.3; }
+  .ebook-section p { font-size: 1.0625rem; line-height: 1.75; color: #2D2A26; margin: 0 0 1.25rem 0; }
+  .ebook-section ul, .ebook-section ol { padding-left: 1.5rem; margin: 0 0 1.5rem 0; }
+  .ebook-section li { font-size: 1.0625rem; line-height: 1.75; color: #2D2A26; margin-bottom: 0.5rem; }
+  .ebook-section blockquote { border-left: 3px solid #5E9A7E; padding-left: 1.25rem; margin: 1.5rem 0; font-style: italic; color: #5C5751; font-size: 1.0625rem; line-height: 1.7; }
+  .ebook-section a { color: #5E9A7E; text-decoration: underline; text-underline-offset: 2px; }
+  .ebook-callout { background: linear-gradient(135deg, #EDE6F3 0%, #F5E6E3 100%); border-left: 4px solid #C5B4D6; border-radius: 0 12px 12px 0; padding: 1.5rem 1.75rem; margin: 2rem 0; font-size: 0.9375rem; line-height: 1.7; color: #2D2A26; }
+  .ebook-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(45, 42, 38, 0.05); }
+  .ebook-table th { background: #F0E9DD; padding: 0.875rem 1rem; text-align: left; font-weight: 700; color: #1A1714; font-size: 0.9375rem; letter-spacing: -0.01em; }
+  .ebook-table td { padding: 0.875rem 1rem; border-top: 1px solid #F0EAE2; font-size: 0.9375rem; color: #2D2A26; vertical-align: top; }
+  .ebook-framework { display: grid; gap: 1rem; margin: 2rem 0; }
+  .ebook-framework__step { background: white; border: 1px solid #E8E2DB; border-radius: 12px; padding: 1.5rem; position: relative; }
+  .ebook-framework__step--after { background: linear-gradient(135deg, #E8F5EE 0%, #FBF8F4 100%); border-color: #C8E6D8; }
+  .ebook-framework__time { display: inline-block; background: #5E9A7E; color: white; font-size: 0.8125rem; font-weight: 700; letter-spacing: 0.05em; padding: 0.3rem 0.8rem; border-radius: 999px; margin-bottom: 0.75rem; }
+  .ebook-framework__step--after .ebook-framework__time { background: #8BB5A2; }
+  .ebook-framework__title { font-size: 1.125rem; font-weight: 800; color: #1A1714; margin-bottom: 0.75rem; }
+  .ebook-framework__step ul { margin: 0; padding-left: 1.25rem; }
+  .ebook-framework__step li { font-size: 0.9375rem; line-height: 1.6; margin-bottom: 0.35rem; }
+  .ebook-antipattern { background: linear-gradient(135deg, #FDF0EA 0%, #FBF8F4 100%); border-left: 4px solid #E8A87C; border-radius: 0 12px 12px 0; padding: 1.25rem 1.5rem; margin: 1.25rem 0; }
+  .ebook-antipattern h3 { color: #B86F3E; margin: 0 0 0.75rem 0; font-size: 1.0625rem; }
+  .ebook-antipattern p { font-size: 0.9375rem; margin-bottom: 0.5rem; }
+  .ebook-repair-list li { background: white; border: 1px solid #E8E2DB; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 0.75rem; line-height: 1.65; }
+  .ebook-cta-section { background: linear-gradient(180deg, #FBF8F4 0%, #F0E9DD 100%); border-radius: 16px; padding: 3rem 2rem; margin-top: 4rem; }
+  .ebook-cta-grid { display: grid; grid-template-columns: 1fr; gap: 1.25rem; margin: 2rem 0; }
+  @media (min-width: 720px) { .ebook-cta-grid { grid-template-columns: 1fr 1fr; } }
+  .ebook-cta-card { background: white; border: 1px solid #E8E2DB; border-radius: 14px; padding: 1.75rem; }
+  .ebook-cta-card--featured { border: 2px solid #8BB5A2; box-shadow: 0 8px 30px -10px rgba(139, 181, 162, 0.3); }
+  .ebook-cta-card h3 { font-size: 1.125rem; font-weight: 800; margin: 0 0 0.75rem 0; color: #1A1714; }
+  .ebook-cta-card p { font-size: 0.9375rem; line-height: 1.65; color: #5C5751; margin: 0 0 0.75rem 0; }
+  .ebook-cta-price { font-weight: 700; color: #5E9A7E !important; font-size: 0.9375rem !important; }
+  .ebook-cta-note { font-size: 0.8125rem !important; color: #8E8780 !important; font-style: italic; }
+  .ebook-newsletter-card { background: white; border-radius: 14px; padding: 2rem; margin: 2rem 0; border: 1px solid #E8E2DB; }
+  .ebook-newsletter-card h3 { font-size: 1.25rem; font-weight: 800; margin: 0 0 0.5rem 0; color: #1A1714; }
+  .ebook-newsletter-card p { font-size: 0.9375rem; color: #5C5751; margin: 0 0 1.25rem 0; }
+  .ebook-signature { margin-top: 2.5rem; color: #5C5751; font-size: 1rem; line-height: 1.6; }
+
+  @media print {
+    .ebook-bar, header.site-header, .app-banner, footer, .nav-overlay, .ebook-cta-section a.lp-btn, .nl-form { display: none !important; }
+    .ebook-root { background: white !important; }
+    .ebook-article { max-width: 100%; padding: 0 1.5rem; }
+    .ebook-section, .ebook-cover-section { page-break-inside: avoid; margin-bottom: 1.5rem; }
+    .ebook-section h2 { page-break-after: avoid; }
+    .ebook-cover-section { page-break-after: always; padding-top: 0; padding-bottom: 2rem; }
+    .ebook-section p, .ebook-section li { orphans: 3; widows: 3; }
+    .ebook-callout, .ebook-framework__step, .ebook-antipattern, .ebook-cta-card, .ebook-newsletter-card { page-break-inside: avoid; }
+    .ebook-cta-section { background: white !important; padding: 1rem 0; }
+    a { color: #2D2A26 !important; text-decoration: none !important; }
+    .ebook-section a:not(.lp-btn)::after { content: " (" attr(href) ")"; font-size: 0.75rem; color: #8E8780; }
+  }
+</style>

@@ -32,11 +32,13 @@ Sequence:  7 emails over 14 days, then graduate to weekly Thursday cadence
 ```
 嗨 {{first_name | default: "你好"}}，
 
-謝謝你訂閱 BloomPath。你的《幼兒情緒崩潰 90 秒應對劇本》PDF 在這裡：
+謝謝你訂閱 BloomPath。《幼兒情緒崩潰 90 秒應對劇本》在這裡：
 
-📥 [點這裡下載 PDF（15 頁）](https://bloom-path.app/free-ebooks/toddler-meltdown-playbook-zh.pdf)
+📖 [點這裡開始閱讀（線上版，含可儲存 PDF 按鈕）](https://bloom-path.app/zh/free/toddler-meltdown-playbook/read/)
 
-建議：**存在手機相簿或雲端硬碟，下次崩潰當下打開就能用**。
+頁面右上角有「列印 / 存成 PDF」按鈕，按下去可以直接存成 PDF 到你的手機/電腦。
+
+建議：**存在手機書籤或雲端硬碟，下次崩潰當下打開就能用**。
 
 ---
 
@@ -147,7 +149,7 @@ PS. 為了保護孩子隱私，BloomPath 用 AI 角色呈現。內容是真實�
 
 明天我會寄一封信解釋這段背後的腦科學——**為什麼「叫他冷靜」反而讓崩潰更嚴重**。一個 60 秒可以讀完的版本。
 
-如果你還沒打開 PDF，[現在下載](https://bloom-path.app/free-ebooks/toddler-meltdown-playbook-zh.pdf)——明天的內容會跟它配在一起。
+如果你還沒打開 PDF，[現在打開閱讀](https://bloom-path.app/zh/free/toddler-meltdown-playbook/read/)——明天的內容會跟它配在一起。
 
 — Mei
 
@@ -391,7 +393,7 @@ PDF 教的是框架。評估告訴你**怎麼把框架調整到你孩子的年�
 
 — Mei
 
-PS. 如果你目前還沒打開 PDF，[現在下載](https://bloom-path.app/free-ebooks/toddler-meltdown-playbook-zh.pdf)。
+PS. 如果你目前還沒打開 PDF，[現在打開閱讀](https://bloom-path.app/zh/free/toddler-meltdown-playbook/read/)。
 ```
 
 ---
@@ -528,7 +530,7 @@ PS. App 的 paywall 我們有意做得很乾淨：取消路徑在設定第一層
 
 下次你經歷崩潰之前，把 PDF 存在手機相簿。
 
-如果還沒下載過：[點這裡](https://bloom-path.app/free-ebooks/toddler-meltdown-playbook-zh.pdf)
+如果還沒下載過：[點這裡閱讀](https://bloom-path.app/zh/free/toddler-meltdown-playbook/read/)
 
 如果還沒做評估：[點這裡](https://bloom-path.app/zh/assessment/)
 

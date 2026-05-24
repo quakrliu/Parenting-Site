@@ -10,7 +10,9 @@
     "build": "astro build",
     "postbuild": "node scripts/indexnow.mjs",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "pdf:ebook": "node scripts/generate-ebook-pdf.mjs",
+    "pdf:ebook:prod": "BASE_URL=https://bloom-path.app node scripts/generate-ebook-pdf.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.3",

@@ -32,11 +32,13 @@ Sequence:  7 emails over 14 days, then graduate to weekly Thursday cadence
 ```
 Hi {{first_name | default: "there"}},
 
-Thanks for subscribing to BloomPath. Your *90-Second Toddler Meltdown Playbook* PDF is here:
+Thanks for subscribing to BloomPath. Your *90-Second Toddler Meltdown Playbook* is here:
 
-📥 [Download the PDF (15 pages)](https://bloom-path.app/free-ebooks/toddler-meltdown-playbook-en.pdf)
+📖 [Read it online (with a one-tap "Save as PDF" button at the top)](https://bloom-path.app/en/free/toddler-meltdown-playbook/read/)
 
-**Save it to your phone's photos or cloud drive.** When the next meltdown hits, you'll have something to open right there in the moment.
+The page has a "Print / Save as PDF" button in the top-right — tap that to save it to your phone or computer.
+
+**Bookmark it or save the PDF.** When the next meltdown hits, you'll have something to open right there in the moment.
 
 ---
 
@@ -147,7 +149,7 @@ We'd put the pillow back. Walk out of that aisle. She'd wave goodbye to it.
 
 Tomorrow I'll send a 60-second explanation of the brain science behind this — **why "calm down" makes meltdowns worse**.
 
-If you haven't opened the PDF yet, [download it now](https://bloom-path.app/free-ebooks/toddler-meltdown-playbook-en.pdf) — tomorrow's email pairs with it.
+If you haven't opened the PDF yet, [read it now](https://bloom-path.app/en/free/toddler-meltdown-playbook/read/) — tomorrow's email pairs with it.
 
 — Mei
 
@@ -391,7 +393,7 @@ Next email is Day 11 — I'll introduce BloomPath the App.
 
 — Mei
 
-PS. If you haven't opened the PDF yet, [download it now](https://bloom-path.app/free-ebooks/toddler-meltdown-playbook-en.pdf).
+PS. If you haven't opened the PDF yet, [read it now](https://bloom-path.app/en/free/toddler-meltdown-playbook/read/).
 ```
 
 ---
@@ -528,7 +530,7 @@ I'd genuinely rather you read because **you want to**, than count an inflated su
 
 If you haven't yet — save the PDF to your phone before the next meltdown.
 
-If you haven't downloaded: [click here](https://bloom-path.app/free-ebooks/toddler-meltdown-playbook-en.pdf)
+If you haven't downloaded: [click here](https://bloom-path.app/en/free/toddler-meltdown-playbook/read/)
 
 If you haven't taken the assessment: [click here](https://bloom-path.app/en/assessment/)
 

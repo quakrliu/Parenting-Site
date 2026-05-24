@@ -1,0 +1,891 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import NewsletterForm from '../../../../components/NewsletterForm.astro';
+import '../../../../styles/landing.css';
+
+const lang = 'zh';
+const appStoreUrl = 'https://apps.apple.com/tw/app/%E8%82%B2%E8%A6%8B%E6%9C%AA%E4%BE%86-bloompath/id6759791532';
+---
+
+<BaseLayout
+  title="閱讀：幼兒情緒崩潰 90 秒應對劇本 | BloomPath"
+  description="完整線上閱讀版：超市/賣場/餐廳崩潰時前 90 秒怎麼做。5 個情境腳本 + 4 個雷區 + 5 句修補對話 + 預防策略。免費。"
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="ebook-root">
+
+    <!-- HEADER BAR -->
+    <div class="ebook-bar">
+      <div class="ebook-bar__inner">
+        <a href="/zh/free/toddler-meltdown-playbook/" class="ebook-bar__back">← 回到主頁</a>
+        <button class="ebook-bar__pdf" onclick="window.print()">📥 列印 / 存成 PDF</button>
+      </div>
+    </div>
+
+    <article class="ebook-article">
+
+      <!-- COVER PAGE -->
+      <header class="ebook-cover-section">
+        <p class="ebook-eyebrow">BloomPath · 育見未來</p>
+        <h1 class="ebook-title">幼兒情緒崩潰<br />90 秒應對劇本</h1>
+        <p class="ebook-subtitle">超市 / 賣場 / 餐廳 / 公園<br />孩子倒地哭鬧時，前 90 秒怎麼做</p>
+        <div class="ebook-divider"></div>
+        <p class="ebook-byline">
+          By <strong>Mei</strong>（11 年實戰媽媽）&amp; <strong>Ethan</strong>（軟體工程師爸爸）<br />
+          BloomPath 共同創辦人
+        </p>
+        <p class="ebook-meta">15 頁 · 5 個情境腳本 · 完全免費</p>
+      </header>
+
+      <!-- INTRO / AI DISCLOSURE -->
+      <section class="ebook-section">
+        <h2>給打開這份 PDF 的你</h2>
+        <p>嗨，</p>
+        <p>你打開這份 PDF，可能是因為今天剛剛經歷一場崩潰。</p>
+        <p>可能是在超市玩具區，他抱著一個東西不放，你說要放回去，他直接坐到地板上。可能是在餐廳，他不想吃飯，把湯匙丟在地上。可能是在公園，時間到了要回家，他癱在地上不肯走。</p>
+        <p>旁邊的人看過來。你的臉紅了。你腦袋裡同時閃過五個念頭：「現在抱起來？走掉？假裝不是我的？妥協買給他？」</p>
+        <p><strong>當我們女兒兩三歲的時候</strong>，我跟先生 Ethan 也經歷過無數次這樣的場景。她那時候平均一週崩潰 3-5 次。現在她 11 歲了，當年的那些經驗——加上我們後來自學的 Montessori 與正向教養方法——整理成了這份 PDF。</p>
+
+        <div class="ebook-callout">
+          <strong>關於 BloomPath</strong><br />
+          為了保護我女兒的隱私，BloomPath 用 AI 角色（Mei 是真實媽媽的 AI 化身、Ethan 是真實爸爸的 AI 化身）呈現。<strong>內容是真實的育兒經驗，角色是動畫的</strong>。完整故事在 <a href="/zh/about/">/zh/about/</a>。
+        </div>
+
+        <p>接下來你會學到：</p>
+        <ul>
+          <li><strong>90 秒應對框架</strong>：0-30 秒、30-60 秒、60-90 秒各做什麼</li>
+          <li><strong>5 個常見情境的具體腳本</strong>：超市要糖、公園不離開、餐廳不吃飯、玩具被搶、自己做不到</li>
+          <li><strong>4 個你不該做的反應</strong>（雷區）</li>
+          <li><strong>崩潰之後的修補對話</strong>（5 句模板）</li>
+          <li><strong>預防策略</strong>（手機電量比喻）</li>
+        </ul>
+
+        <p>把這頁存在手機書籤，下次崩潰當下打開就能用。</p>
+
+        <p class="ebook-signature">— Mei</p>
+      </section>
+
+      <!-- BRAIN SCIENCE -->
+      <section class="ebook-section">
+        <h2>60 秒腦科學：為什麼會崩潰</h2>
+        <p>你需要先知道一件事：<strong>幼兒崩潰不是搗亂，是神經系統正常發展中的限制。</strong></p>
+
+        <p>大腦管情緒的兩個部分：</p>
+
+        <table class="ebook-table">
+          <thead>
+            <tr><th>區域</th><th>功能</th><th>何時發育完成</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>杏仁核</strong>（Amygdala）</td><td>情緒反應、打或逃</td><td><strong>1 歲就很發達</strong></td></tr>
+            <tr><td><strong>前額葉皮質</strong>（Prefrontal Cortex）</td><td>理性思考、情緒剎車</td><td><strong>要到 25 歲才完整</strong></td></tr>
+          </tbody>
+        </table>
+
+        <p>兩歲的孩子，情緒油門踩得很深、但剎車根本還沒裝。</p>
+
+        <p>用工程師的角度想：就像一台高速 CPU 裝在沒散熱系統的機殼裡。<strong>過熱是必然的，不是 bug，是發展中。</strong></p>
+
+        <p>哈佛兒童發展中心的「情緒共調（co-regulation）」研究指出：這個年齡的孩子無法自我調節，他們需要冷靜的大人在旁邊協助，神經系統才能慢慢回到穩定。</p>
+
+        <blockquote>換句話說：<strong>你的反應，就是孩子的剎車。</strong></blockquote>
+
+        <p>這就是為什麼這份 PDF 的方法，70% 是關於你怎麼做，30% 才是說什麼。</p>
+      </section>
+
+      <!-- 90-SECOND FRAMEWORK -->
+      <section class="ebook-section">
+        <h2>90 秒應對框架</h2>
+
+        <div class="ebook-framework">
+          <div class="ebook-framework__step">
+            <div class="ebook-framework__time">0-30 秒</div>
+            <div class="ebook-framework__title">穩住自己</div>
+            <ul>
+              <li>深呼吸一口（吸 4 秒，吐 6 秒）</li>
+              <li>環境快速檢查（安全嗎？）</li>
+              <li>心裡說：「他的大腦在發育中」</li>
+            </ul>
+          </div>
+
+          <div class="ebook-framework__step">
+            <div class="ebook-framework__time">30-60 秒</div>
+            <div class="ebook-framework__title">靠近 + 命名情緒</div>
+            <ul>
+              <li>蹲下到他的視線高度</li>
+              <li>手放他背上（如果他願意）</li>
+              <li>一句話命名：「你現在 [情緒]，因為 [原因]」</li>
+            </ul>
+          </div>
+
+          <div class="ebook-framework__step">
+            <div class="ebook-framework__time">60-90 秒</div>
+            <div class="ebook-framework__title">等與陪伴</div>
+            <ul>
+              <li>不講道理</li>
+              <li>不妥協買東西</li>
+              <li>平靜陪在旁邊，等他的神經系統回穩</li>
+            </ul>
+          </div>
+
+          <div class="ebook-framework__step ebook-framework__step--after">
+            <div class="ebook-framework__time">90 秒後</div>
+            <div class="ebook-framework__title">重新連結</div>
+            <ul>
+              <li>等他完全平靜後再開口</li>
+              <li>「剛才很辛苦對不對」（不說教）</li>
+              <li>下一個步驟前，給他一個小選擇</li>
+            </ul>
+          </div>
+        </div>
+
+        <p>下面開始拆解每個階段的細節。</p>
+      </section>
+
+      <!-- STAGE 1 -->
+      <section class="ebook-section">
+        <h2>0-30 秒：穩住自己（最難的一步）</h2>
+
+        <p>崩潰發生時，<strong>你的杏仁核也會被激發</strong>——孩子的情緒透過鏡像神經元傳染給你，你的焦慮再傳染回去，雙方一起升級。</p>
+
+        <p>打斷這個循環的方法：<strong>先處理自己，再處理孩子。</strong></p>
+
+        <h3>具體動作</h3>
+        <ol>
+          <li><strong>深呼吸一口</strong>：吸 4 秒，吐 6 秒。就一次就好。這一次足以打斷你自己的應激反應。</li>
+          <li><strong>快速環境檢查</strong>：他在安全的地方嗎？有沒有要移動的必要（馬路邊、人擠人）？如果安全，留在原地。</li>
+          <li><strong>心裡的咒語</strong>：「他的大腦在發育中。」「這是發展中的神經系統，不是壞行為。」「我冷靜就是他的剎車。」</li>
+        </ol>
+
+        <h3>為什麼這 30 秒這麼重要</h3>
+        <p>研究顯示，家長的情緒反應強度，直接決定崩潰的時長：</p>
+        <ul>
+          <li><strong>你冷靜</strong>，崩潰平均 5-8 分鐘結束</li>
+          <li><strong>你也跟著崩潰</strong>，崩潰平均 15-25 分鐘結束</li>
+        </ul>
+        <p>這 30 秒不是浪費時間。這是整個方法成敗的關鍵。</p>
+      </section>
+
+      <!-- STAGE 2 -->
+      <section class="ebook-section">
+        <h2>30-60 秒：靠近 + 命名情緒</h2>
+
+        <p>走向孩子的時候要做兩件事：<strong>身體靠近，言語命名。</strong></p>
+
+        <h3>身體靠近（不是走遠）</h3>
+        <p>有些舊式教養會說「不理他他就會停」——對幼兒<strong>完全不適用</strong>。走開反而激活孩子的依附警報，崩潰會升級。</p>
+        <p>蹲下到他的視線高度。如果他不抗拒，<strong>手放在他的背上或抱著他</strong>。你的身體，是在告訴他的神經系統：「安全的人在這裡。」</p>
+        <p>這就是「情緒共調（co-regulation）」——你的穩定，透過接觸傳遞給他。</p>
+
+        <h3>言語命名情緒（Name it to tame it）</h3>
+        <p>這個方法來自神經科學家 Daniel Siegel。<strong>幫情緒命名能啟動大腦的語言處理區，讓孩子從純情緒模式切換到理性模式。</strong></p>
+
+        <p><strong>正確的句型</strong>：</p>
+        <blockquote>「你現在 [情緒]，因為 [原因]。」</blockquote>
+
+        <p>5 個範例：</p>
+        <ul>
+          <li>「你現在好生氣，因為你想要那個糖果。」</li>
+          <li>「你很失望，因為時間到了我們要走了。」</li>
+          <li>「你很挫折，因為這個拼圖一直拼不上去。」</li>
+          <li>「你好難過，因為哥哥拿走了你的車車。」</li>
+          <li>「你想要自己穿鞋子，但鞋帶卡住了，你很煩。」</li>
+        </ul>
+
+        <h3>三個禁忌</h3>
+        <ol>
+          <li><strong>不要加「但是」</strong>：❌「你很生氣，但是你不能打人。」→ 「但是」會把前面同理感受全部消除。✅ 先停在「你很生氣」，等他冷靜後再處理行為。</li>
+          <li><strong>不要急著解決問題</strong>：❌「你很生氣，沒關係，我們明天再來。」→ 急著轉移注意力 = 否認情緒。✅ 讓他先感受到「我被聽見了」。</li>
+          <li><strong>不需要同意他的要求</strong>：❌「你想要糖果，我們買吧。」（妥協）→ 同理感受 ≠ 同意要求。✅ 「你想要糖果，我們今天不買。我知道你很失望。」</li>
+        </ol>
+      </section>
+
+      <!-- STAGE 3 -->
+      <section class="ebook-section">
+        <h2>60-90 秒：等與陪伴</h2>
+
+        <p>這是最反直覺的階段：<strong>什麼都不做。</strong></p>
+
+        <h3>為什麼要等</h3>
+        <p>孩子在情緒淹沒的時候，前額葉皮質幾乎下線。這時候你跟他講道理、跟他談條件、跟他威脅利誘——<strong>全部沒用</strong>。等於對著一台正在當機的電腦輸入指令。</p>
+        <p>哈佛的共調研究很清楚：大人在旁邊保持平靜，讓孩子的神經系統逐漸回到基線，<strong>通常需要 5-15 分鐘</strong>。</p>
+
+        <h3>等的時候你在做什麼</h3>
+        <ul>
+          <li>蹲在他旁邊</li>
+          <li>手放在他背上（如果他願意）</li>
+          <li>不講話（或重複一句「我在這裡」）</li>
+          <li>不滑手機、不看周圍人</li>
+          <li><strong>就只是「在」</strong></li>
+        </ul>
+        <p>你的存在本身就是治療。</p>
+
+        <h3>不要做的事</h3>
+        <ul>
+          <li>❌ 講道理（「你看，這樣大家都不喜歡你」）</li>
+          <li>❌ 威脅（「你再哭我就不要你了」）</li>
+          <li>❌ 妥協（「好啦好啦，買給你」）</li>
+          <li>❌ 賄賂（「不哭就給你冰淇淋」）</li>
+          <li>❌ 急著抱離開（除非環境不安全）</li>
+        </ul>
+      </section>
+
+      <!-- 5 SCENARIO SCRIPTS -->
+      <section class="ebook-section">
+        <h2>5 個情境完整腳本</h2>
+
+        <h3>情境 1：超市要糖崩潰</h3>
+        <p><strong>場景</strong>：你在全聯，他指著架上的糖果。你說：「今天不買。」他立刻倒地、開始踢腳、大哭。</p>
+        <ul>
+          <li><strong>0-30 秒</strong>：一口深呼吸。確認他在的位置安全（不在通道中間、沒有易碎品）。心裡：「他的大腦在發育中。」</li>
+          <li><strong>30-60 秒</strong>：蹲下到他高度。手放他背上（如果他不甩開）。說：「你好生氣。你很想要那個糖果，媽媽說今天不買。這個感覺很難受。」</li>
+          <li><strong>60-90 秒</strong>：不再說話。不看周圍的人。不離開。平靜地陪著。</li>
+          <li><strong>崩潰結束後</strong>：等他完全平靜後再說：「剛才很辛苦對不對？你超想要那個糖果。」⚠️ 不要事後說教。</li>
+        </ul>
+
+        <h3>情境 2：公園不肯離開崩潰</h3>
+        <p><strong>場景</strong>：你說「再 10 分鐘要回家」，10 分鐘到，他立刻癱在地上：「我不要！我還要玩！」</p>
+        <ul>
+          <li><strong>0-30 秒</strong>：一口深呼吸。提醒自己：這是轉換時刻的崩潰，正常發生。</li>
+          <li><strong>30-60 秒</strong>：蹲下。說：「你還想玩。要走真的好失望。你超喜歡這個溜滑梯。」</li>
+          <li><strong>60-90 秒</strong>：等。如果他抓住你的腿不放，讓他抓。不講「我們明天再來」（這是急著轉移）。</li>
+          <li><strong>90 秒之後</strong>：等情緒緩和到 50% 時，給選擇：「你想要自己走，還是媽媽抱？」</li>
+          <li><strong>預防</strong>：下次提前 15 分鐘預告，加上「再玩 3 次溜滑梯就要走」的具體 count。</li>
+        </ul>
+
+        <h3>情境 3：餐廳不吃飯崩潰</h3>
+        <p><strong>場景</strong>：他坐 10 分鐘後說：「我不要吃這個！」開始哭、把湯匙丟在地上。</p>
+        <ul>
+          <li><strong>0-30 秒</strong>：快速檢查——他餓嗎？累嗎？太吵嗎？餐廳崩潰通常是過度刺激的訊號，不一定是「不想吃飯」。</li>
+          <li><strong>30-60 秒</strong>：坐他旁邊。說：「你不想吃這個。你有點不舒服對不對。」注意命名「不舒服」而非「生氣」——餐廳崩潰通常是 overwhelm。</li>
+          <li><strong>60-90 秒</strong>：不要硬塞食物。不要說「再吃 3 口就好」。給他喝水（喝水有共調效果）。</li>
+          <li><strong>90 秒之後</strong>：把他帶離餐桌一下（外面走 2 分鐘）。不是處罰，是給神經系統 reset。</li>
+          <li><strong>預防</strong>：餐廳優先選有兒童區、上菜快的。不要選孩子已經累了的時段。</li>
+        </ul>
+
+        <h3>情境 4：玩具被拿走崩潰</h3>
+        <p><strong>場景</strong>：他正在玩積木。哥哥（或別的小朋友）走過來拿走了。他立刻大哭，伸手要搶回來。</p>
+        <ul>
+          <li><strong>0-30 秒</strong>：確認沒有打人/被打的肢體衝突。心裡：「物品所有權對幼兒是世界級的事」。</li>
+          <li><strong>30-60 秒</strong>：蹲下。說：「你的積木被拿走了。你正在玩，被搶很生氣！」同時對另一個孩子：「弟弟正在玩，你要先問。」</li>
+          <li><strong>60-90 秒</strong>：讓他哭。把積木拿回來（如果合適）。不講「要分享」。</li>
+          <li><strong>90 秒之後</strong>：「他想要你的積木。你願意之後給他玩嗎？或是換另一個玩具？」給選擇，不是強迫。</li>
+          <li>⚠️ 分享是 4-5 歲才能真正理解的能力，2-3 歲強行分享只會讓他學到「我的東西不安全」。</li>
+        </ul>
+
+        <h3>情境 5：自己做不到崩潰</h3>
+        <p><strong>場景</strong>：他想自己穿鞋子。鞋帶卡住了。你伸手幫忙——他立刻大哭：「我要自己！」</p>
+        <ul>
+          <li><strong>0-30 秒</strong>：提醒自己：自主感受挫折是 1-3 歲的核心發展任務。他不是針對我，是針對能力的限制。</li>
+          <li><strong>30-60 秒</strong>：蹲下，不要直接幫忙。說：「你很想自己穿。但是鞋帶卡住了，超挫折。」</li>
+          <li><strong>60-90 秒</strong>：等。不主動幫忙。如果他哭著要幫，給選擇：「你想要媽媽幫忙一點點，還是繼續自己試？」</li>
+          <li><strong>90 秒之後</strong>：「你剛才好挫折。但你沒有放棄。」強調過程而非結果。</li>
+          <li><strong>預防</strong>：提早 10 分鐘開始這類任務。選擇容易的鞋款（魔鬼氈優於綁帶）。</li>
+        </ul>
+      </section>
+
+      <!-- ANTI-PATTERNS -->
+      <section class="ebook-section">
+        <h2>4 個雷區（你不該做的反應）</h2>
+
+        <div class="ebook-antipattern">
+          <h3>雷區 1：「你再哭我就不要你了」</h3>
+          <p><strong>為什麼錯</strong>：對杏仁核傳遞「有情緒 = 會被遺棄」的訊息，恐懼升高，哭得更大聲。</p>
+          <p><strong>改成</strong>：「我在這裡，我陪你哭完。」</p>
+        </div>
+
+        <div class="ebook-antipattern">
+          <h3>雷區 2：「沒什麼好哭的」</h3>
+          <p><strong>為什麼錯</strong>：否定情緒感受不會讓情緒消失，只會讓孩子學到「我的感受不重要」。</p>
+          <p><strong>改成</strong>：「你覺得很難過。我懂。」</p>
+        </div>
+
+        <div class="ebook-antipattern">
+          <h3>雷區 3：妥協買東西</h3>
+          <p><strong>為什麼錯</strong>：短期止哭，長期教會孩子「哭鬧 = 得到」。下次門檻更低。</p>
+          <p><strong>改成</strong>：同理感受但不改變決定。「你很想要。今天不買。」</p>
+        </div>
+
+        <div class="ebook-antipattern">
+          <h3>雷區 4：繼續講道理</h3>
+          <p><strong>為什麼錯</strong>：前額葉皮質下線，講道理進不去。</p>
+          <p><strong>改成</strong>：先共調，等情緒下來後（不是還在崩潰時）再簡短處理。</p>
+        </div>
+      </section>
+
+      <!-- REPAIR CONVERSATIONS -->
+      <section class="ebook-section">
+        <h2>崩潰之後：5 句修補對話模板</h2>
+
+        <p>崩潰結束後 30 分鐘內，是最好的「連結 + 學習」時刻。但<strong>重點不是教訓</strong>，是<strong>修補關係 + 強化情緒詞彙</strong>。</p>
+
+        <ol class="ebook-repair-list">
+          <li><strong>回顧情緒</strong>：「剛才你好 [情緒]。你超想要 [需求]。這個感覺很難受對不對？」</li>
+          <li><strong>正常化</strong>：「每個小孩都會有這種感覺。媽媽小時候也會。」</li>
+          <li><strong>強化你的存在</strong>：「我在你旁邊。你哭沒關係。」</li>
+          <li><strong>預告下次怎麼做</strong>：「下次你覺得快崩潰的時候，可以拉媽媽的手說『我需要幫忙』，好嗎？」</li>
+          <li><strong>承認自己的不完美</strong>（如果你那次反應沒做好）：「剛才媽媽的聲音太大聲了，對不起。我在練習，謝謝你讓我知道。」</li>
+        </ol>
+
+        <h3>為什麼修補比避免錯誤更重要</h3>
+        <p>研究顯示：<strong>從不犯錯的家長並不存在；犯錯後修補的家長，反而培養出最有安全感的孩子</strong>。</p>
+        <p>關係的安全感來自「壞了會修」，不是「永遠不壞」。</p>
+      </section>
+
+      <!-- PREVENTION -->
+      <section class="ebook-section">
+        <h2>預防策略：手機電量比喻</h2>
+
+        <p>把孩子的情緒調節能力想成手機電量：</p>
+        <ul>
+          <li>出門前：100%</li>
+          <li>新環境、新聲音、人多：每分鐘耗 1-2%</li>
+          <li>餓、累、睏：耗電 2-3 倍</li>
+          <li>逛到第三個地方：可能剩 5%</li>
+        </ul>
+
+        <p><strong>所有預防策略，本質上都是「不要讓電量降到 5% 以下」。</strong></p>
+
+        <h3>5 個預防招式</h3>
+        <ol>
+          <li><strong>選對外出時機</strong>：吃飽睡好才出門</li>
+          <li><strong>縮短外出時間</strong>：在電量用盡前離開</li>
+          <li><strong>提前預告轉換</strong>：「再 10 分鐘要走了」</li>
+          <li><strong>給選擇空間</strong>：「你想穿紅色還是藍色？」一點自主感大幅減少權力鬥爭</li>
+          <li><strong>照顧你自己</strong>：疲憊的爸媽，沒辦法持續給冷靜回應</li>
+        </ol>
+      </section>
+
+      <!-- CTA -->
+      <section class="ebook-section ebook-cta-section">
+        <h2>下一步</h2>
+
+        <p>這份內容是 BloomPath 的 Free Guide #1。如果你覺得有用：</p>
+
+        <div class="ebook-cta-grid">
+          <div class="ebook-cta-card">
+            <h3>📘 完整版 PDF（40 頁）</h3>
+            <p>30+ 情境腳本（含手足衝突、睡前抗拒、寫作業崩潰等）<br />
+            可印的「90 秒卡」貼冰箱用<br />
+            親子情緒詞彙對照表（中英文）</p>
+            <p class="ebook-cta-price">NT$149｜即將上線</p>
+            <p class="ebook-cta-note">想第一時間收到？已在 newsletter 中，會在發行當天通知。</p>
+          </div>
+
+          <div class="ebook-cta-card ebook-cta-card--featured">
+            <h3>📱 BloomPath App</h3>
+            <p>AI 育兒導師（24/7 可問）<br />
+            每日 3 個量身打造親子活動（5-15 分鐘）<br />
+            224 項發展指標追蹤</p>
+            <p class="ebook-cta-price">7 天免費試用，無需信用卡</p>
+            <a href={appStoreUrl} target="_blank" rel="noopener" class="lp-btn lp-btn--primary">前往 App Store 下載</a>
+          </div>
+        </div>
+
+        <div class="ebook-newsletter-card">
+          <h3>還沒訂閱 newsletter？</h3>
+          <p>每週四，4 分鐘讀完的育兒筆記。真實的、可立刻用的、不講空話。</p>
+          <NewsletterForm
+            lang={lang}
+            variant="card"
+            source="free-ebook-meltdown-zh-read"
+            heading=""
+            subtext="不會發垃圾信，隨時可取消訂閱。"
+          />
+        </div>
+
+        <p class="ebook-signature">
+          下次崩潰前見。<br /><br />
+          — Mei<br />
+          （11 年實戰媽媽｜BloomPath 共同創辦人）
+        </p>
+
+        <hr style="margin: 3rem 0; border: none; border-top: 1px solid #E8E2DB;" />
+
+        <p style="font-size: 0.875rem; color: #8E8780; text-align: center;">
+          <strong>BloomPath</strong> · bloom-path.app · hello@bloom-path.app<br />
+          © 2026 BloomPath · 本指南可自由分享給其他家長 · 禁止商業重製或修改
+        </p>
+      </section>
+
+    </article>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  /* ============================================================
+     Ebook Reading View Styles
+     Inline styles for typography + print
+     ============================================================ */
+
+  .ebook-root {
+    background-color: #FBF8F4;
+    color: #2D2A26;
+    min-height: 100vh;
+    color-scheme: light;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html:has(.ebook-root) body {
+    color-scheme: light;
+    background-color: #FBF8F4 !important;
+    color: #2D2A26 !important;
+  }
+
+  /* HEADER BAR (top sticky) */
+  .ebook-bar {
+    position: sticky;
+    top: 0;
+    background: rgba(251, 248, 244, 0.92);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid #E8E2DB;
+    z-index: 50;
+  }
+
+  .ebook-bar__inner {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .ebook-bar__back {
+    font-size: 0.875rem;
+    color: #5C5751;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .ebook-bar__back:hover { color: #5E9A7E; }
+
+  .ebook-bar__pdf {
+    background: #5E9A7E;
+    color: white;
+    border: none;
+    padding: 0.55rem 1.25rem;
+    border-radius: 999px;
+    font-size: 0.875rem;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: inherit;
+  }
+
+  .ebook-bar__pdf:hover { background: #4A8268; }
+
+  /* ARTICLE CONTAINER */
+  .ebook-article {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 5rem;
+  }
+
+  /* COVER */
+  .ebook-cover-section {
+    text-align: center;
+    padding: 3rem 0 4rem;
+    border-bottom: 1px solid #E8E2DB;
+    margin-bottom: 3rem;
+  }
+
+  .ebook-eyebrow {
+    font-size: 0.8125rem;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    color: #5E9A7E;
+    text-transform: uppercase;
+    margin: 0 0 2rem 0;
+  }
+
+  .ebook-title {
+    font-size: clamp(2.25rem, 5vw, 3.5rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.05;
+    color: #1A1714;
+    margin: 0 0 1.5rem 0;
+  }
+
+  .ebook-subtitle {
+    font-size: 1.125rem;
+    color: #5C5751;
+    line-height: 1.5;
+    margin: 0 0 2rem 0;
+  }
+
+  .ebook-divider {
+    width: 60px;
+    height: 3px;
+    background: #5E9A7E;
+    margin: 2rem auto;
+    border-radius: 2px;
+  }
+
+  .ebook-byline {
+    font-size: 1rem;
+    color: #2D2A26;
+    line-height: 1.65;
+    margin: 0 0 2rem 0;
+  }
+
+  .ebook-meta {
+    font-size: 0.875rem;
+    color: #8E8780;
+    margin: 0;
+    letter-spacing: 0.04em;
+  }
+
+  /* SECTIONS */
+  .ebook-section {
+    margin-bottom: 4rem;
+  }
+
+  .ebook-section h2 {
+    font-size: 1.875rem;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    color: #1A1714;
+    margin: 0 0 1.5rem 0;
+    line-height: 1.2;
+  }
+
+  .ebook-section h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #1A1714;
+    margin: 2rem 0 0.75rem 0;
+    line-height: 1.3;
+  }
+
+  .ebook-section p {
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    color: #2D2A26;
+    margin: 0 0 1.25rem 0;
+  }
+
+  .ebook-section ul,
+  .ebook-section ol {
+    padding-left: 1.5rem;
+    margin: 0 0 1.5rem 0;
+  }
+
+  .ebook-section li {
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    color: #2D2A26;
+    margin-bottom: 0.5rem;
+  }
+
+  .ebook-section blockquote {
+    border-left: 3px solid #5E9A7E;
+    padding-left: 1.25rem;
+    margin: 1.5rem 0;
+    font-style: italic;
+    color: #5C5751;
+    font-size: 1.0625rem;
+    line-height: 1.7;
+  }
+
+  .ebook-section a {
+    color: #5E9A7E;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  /* CALLOUT BOX */
+  .ebook-callout {
+    background: linear-gradient(135deg, #EDE6F3 0%, #F5E6E3 100%);
+    border-left: 4px solid #C5B4D6;
+    border-radius: 0 12px 12px 0;
+    padding: 1.5rem 1.75rem;
+    margin: 2rem 0;
+    font-size: 0.9375rem;
+    line-height: 1.7;
+    color: #2D2A26;
+  }
+
+  /* TABLE */
+  .ebook-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(45, 42, 38, 0.05);
+  }
+
+  .ebook-table th {
+    background: #F0E9DD;
+    padding: 0.875rem 1rem;
+    text-align: left;
+    font-weight: 700;
+    color: #1A1714;
+    font-size: 0.9375rem;
+    letter-spacing: -0.01em;
+  }
+
+  .ebook-table td {
+    padding: 0.875rem 1rem;
+    border-top: 1px solid #F0EAE2;
+    font-size: 0.9375rem;
+    color: #2D2A26;
+    vertical-align: top;
+  }
+
+  /* 90-SECOND FRAMEWORK BLOCKS */
+  .ebook-framework {
+    display: grid;
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+
+  .ebook-framework__step {
+    background: white;
+    border: 1px solid #E8E2DB;
+    border-radius: 12px;
+    padding: 1.5rem;
+    position: relative;
+  }
+
+  .ebook-framework__step--after {
+    background: linear-gradient(135deg, #E8F5EE 0%, #FBF8F4 100%);
+    border-color: #C8E6D8;
+  }
+
+  .ebook-framework__time {
+    display: inline-block;
+    background: #5E9A7E;
+    color: white;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 0.3rem 0.8rem;
+    border-radius: 999px;
+    margin-bottom: 0.75rem;
+  }
+
+  .ebook-framework__step--after .ebook-framework__time {
+    background: #8BB5A2;
+  }
+
+  .ebook-framework__title {
+    font-size: 1.125rem;
+    font-weight: 800;
+    color: #1A1714;
+    margin-bottom: 0.75rem;
+  }
+
+  .ebook-framework__step ul {
+    margin: 0;
+    padding-left: 1.25rem;
+  }
+
+  .ebook-framework__step li {
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    margin-bottom: 0.35rem;
+  }
+
+  /* ANTIPATTERN */
+  .ebook-antipattern {
+    background: linear-gradient(135deg, #FDF0EA 0%, #FBF8F4 100%);
+    border-left: 4px solid #E8A87C;
+    border-radius: 0 12px 12px 0;
+    padding: 1.25rem 1.5rem;
+    margin: 1.25rem 0;
+  }
+
+  .ebook-antipattern h3 {
+    color: #B86F3E;
+    margin: 0 0 0.75rem 0;
+    font-size: 1.0625rem;
+  }
+
+  .ebook-antipattern p {
+    font-size: 0.9375rem;
+    margin-bottom: 0.5rem;
+  }
+
+  /* REPAIR LIST */
+  .ebook-repair-list li {
+    background: white;
+    border: 1px solid #E8E2DB;
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.65;
+  }
+
+  /* CTA SECTION */
+  .ebook-cta-section {
+    background: linear-gradient(180deg, #FBF8F4 0%, #F0E9DD 100%);
+    border-radius: 16px;
+    padding: 3rem 2rem;
+    margin-top: 4rem;
+  }
+
+  .ebook-cta-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    margin: 2rem 0;
+  }
+
+  @media (min-width: 720px) {
+    .ebook-cta-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .ebook-cta-card {
+    background: white;
+    border: 1px solid #E8E2DB;
+    border-radius: 14px;
+    padding: 1.75rem;
+  }
+
+  .ebook-cta-card--featured {
+    border: 2px solid #8BB5A2;
+    box-shadow: 0 8px 30px -10px rgba(139, 181, 162, 0.3);
+  }
+
+  .ebook-cta-card h3 {
+    font-size: 1.125rem;
+    font-weight: 800;
+    margin: 0 0 0.75rem 0;
+    color: #1A1714;
+  }
+
+  .ebook-cta-card p {
+    font-size: 0.9375rem;
+    line-height: 1.65;
+    color: #5C5751;
+    margin: 0 0 0.75rem 0;
+  }
+
+  .ebook-cta-price {
+    font-weight: 700;
+    color: #5E9A7E !important;
+    font-size: 0.9375rem !important;
+  }
+
+  .ebook-cta-note {
+    font-size: 0.8125rem !important;
+    color: #8E8780 !important;
+    font-style: italic;
+  }
+
+  .ebook-newsletter-card {
+    background: white;
+    border-radius: 14px;
+    padding: 2rem;
+    margin: 2rem 0;
+    border: 1px solid #E8E2DB;
+  }
+
+  .ebook-newsletter-card h3 {
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin: 0 0 0.5rem 0;
+    color: #1A1714;
+  }
+
+  .ebook-newsletter-card p {
+    font-size: 0.9375rem;
+    color: #5C5751;
+    margin: 0 0 1.25rem 0;
+  }
+
+  .ebook-signature {
+    margin-top: 2.5rem;
+    color: #5C5751;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  /* ============================================================
+     PRINT STYLES — for "Save as PDF"
+     ============================================================ */
+  @media print {
+    .ebook-bar,
+    header.site-header,
+    .app-banner,
+    footer,
+    .nav-overlay,
+    .ebook-cta-section a.lp-btn,
+    .nl-form {
+      display: none !important;
+    }
+
+    .ebook-root {
+      background: white !important;
+    }
+
+    .ebook-article {
+      max-width: 100%;
+      padding: 0 1.5rem;
+    }
+
+    .ebook-section,
+    .ebook-cover-section {
+      page-break-inside: avoid;
+      margin-bottom: 1.5rem;
+    }
+
+    .ebook-section h2 {
+      page-break-after: avoid;
+    }
+
+    .ebook-cover-section {
+      page-break-after: always;
+      padding-top: 0;
+      padding-bottom: 2rem;
+    }
+
+    .ebook-section p,
+    .ebook-section li {
+      orphans: 3;
+      widows: 3;
+    }
+
+    .ebook-callout,
+    .ebook-framework__step,
+    .ebook-antipattern,
+    .ebook-cta-card,
+    .ebook-newsletter-card {
+      page-break-inside: avoid;
+    }
+
+    /* Hide CTA section from PDF */
+    .ebook-cta-section {
+      background: white !important;
+      padding: 1rem 0;
+    }
+
+    /* Make link colors print-friendly */
+    a {
+      color: #2D2A26 !important;
+      text-decoration: none !important;
+    }
+
+    /* Add URL after links for print */
+    .ebook-section a:not(.lp-btn)::after {
+      content: " (" attr(href) ")";
+      font-size: 0.75rem;
+      color: #8E8780;
+    }
+  }
+</style>
