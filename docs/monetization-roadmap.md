@@ -189,23 +189,22 @@ Blog SEO + YouTube + Podcast  ←───────────────�
 - ✅ Monetization roadmap 建立
 - ✅ W1-A 草稿（ASO sprint）
 - ✅ W1-C 草稿（Ebook #1 15 頁）
-- ✅ **Brand truth pivot**：發現 Mei = AI avatar、揭露所有假 credentials
-  - 建立 `docs/brand/positioning.md` 當 source of truth
-  - 更新 `CLAUDE.md` 真實 framing
-  - 修 `i18n/ui.ts`（去除「Mei 前幼教」「Bali」「全職奶爸」假宣稱）
-  - 修 zh/en `app.astro` Founders section（11 年家長 + AI disclosure）
-  - 修 Footer + 加 AI disclosure 行 + link
-  - 新建 zh/en `about.astro`（完整故事 + 4 張「我們不是什麼」card）
-  - 修 ASO sprint 文案（去除「蒙特梭利老師」）
-  - 修 Ebook P2（過去式 + AI disclosure block）
+- ✅ **Brand truth pivot**：建 positioning.md + 修 i18n + 修 app.astro + Footer + about page + ASO + Ebook
+- ✅ **Blog audit**：20 個 blog 檔案的假 claim 全部清除（Mei 老師、Bali、stay-at-home、Lily/Emma → Luna）
+- ✅ **Script audit**：110 個 YouTube script 掃完，14 個有問題；其中 13 個已上架（leave alone per user），1 個 bp-43-zh 尚未上架
+- ✅ **C 完成**：建好 `/zh/free/toddler-meltdown-playbook/` + `/en/free/...` Landing page，含 email opt-in + ebook cover mockup + FAQ
+- ✅ **B 草稿完成**：`docs/email-sequences/welcome-ebook-meltdown-zh.md` + `-en.md`（7 封 email × 2 語言，14 天 sequence，Mei 真實 voice，含 D0-D14 全部內容 + Beehiiv 設定步驟 + checklist）
 
 ### 下次 session 該做（按優先序）
-1. 🎯 **使用者上 App Store Connect**：套用 `docs/aso/w1-aso-sprint.md` 的 subtitle/promo/keywords（30 分鐘）
-2. 🎯 **使用者發出 30 人請評分訊息**（用 `w1-aso-sprint.md` 的模板）
-3. 🎯 用 aso-appstore-screenshots skill 製作 8 張 screenshots
-4. 🎯 **W2**：Ebook PDF 排版（Canva）+ Landing page `/zh/free/toddler-meltdown-playbook/`
-5. 🎯 **W2**：Beehiiv 7 封 welcome sequence 寫作 + 自動化設定（**新規則：所有 email 用「我們」第一人稱複數、適度過去式、必須有 AI disclosure 段落**）
-6. 🎯 **接 PostHog MCP**：抓現況轉換漏斗數據
+1. 🎯 **使用者親自做**：上 Beehiiv 後台貼 7 封 email + 設 automation trigger（用 `welcome-ebook-meltdown-zh/en.md`）
+2. 🎯 **使用者親自做**：上 App Store Connect 改 subtitle/promo/keywords（用 `docs/aso/w1-aso-sprint.md`）
+3. 🎯 **使用者親自做**：發 30 人請評分訊息
+4. 🎯 **產出 PDF**：把 `docs/ebooks/ebook-01-toddler-meltdown.md` 排版成 PDF（Canva 或我用 markdown → HTML → PDF script）+ 上 Cloudflare R2
+5. 🎯 用 aso-appstore-screenshots skill 製作 8 張 screenshots
+6. 🎯 **A**：接 PostHog MCP，抓現況轉換漏斗數據
+7. 🎯 **D**：50 篇 blog 塞 Amazon / 蝦皮 affiliate link（需先確認你已申請 affiliate 帳號）
+8. 🎯 **W3**：開始 Paid Companion Ebook #1（40 頁完整版） + Gumroad 上架
+9. 🎯 **M2 W1**：開始 Free Ebook #2《孩子不肯睡：14 天作息重建計畫》
 
 ### 開放問題（需使用者決定）
 - [ ] 是否搭 consulting bridge 延長 runway？（建議：是）
