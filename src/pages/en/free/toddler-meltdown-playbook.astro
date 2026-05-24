@@ -1,0 +1,345 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import NewsletterForm from '../../../components/NewsletterForm.astro';
+import '../../../styles/landing.css';
+
+const lang = 'en';
+---
+
+<BaseLayout
+  title="Free Download: The 90-Second Toddler Meltdown Playbook (15-page PDF) | BloomPath"
+  description="What to do in the first 90 seconds when your toddler melts down at the grocery store, the restaurant, or the playground. 5 scenario scripts + 4 anti-patterns + 5 repair phrases. Free, delivered to your inbox."
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="landing-root">
+
+    <!-- HERO -->
+    <section class="lp-hero">
+      <div class="lp-container">
+        <div class="lp-hero__grid">
+          <div>
+            <div class="lp-hero__badge lp-fade-up">
+              <span class="lp-hero__badge-dot"></span>
+              <span class="lp-hero__badge-text">Free · 15-page PDF</span>
+            </div>
+
+            <h1 class="lp-hero__title lp-fade-up lp-delay-100">The 90-Second<br />Toddler Meltdown<br />Playbook</h1>
+
+            <p class="lp-hero__lead lp-fade-up lp-delay-200">
+              The grocery store, the candy aisle, the playground slide —<br />
+              the 90 seconds after they hit the floor matter most.
+            </p>
+            <p class="lp-hero__sublead lp-fade-up lp-delay-300">
+              Distilled from 11 years of real parenting + child-development research. Completely free.
+            </p>
+
+            <div class="lp-hero__cta-row lp-fade-up lp-delay-500" style="flex-direction: column; align-items: stretch; max-width: 480px;">
+              <NewsletterForm
+                lang={lang}
+                variant="card"
+                source="free-ebook-meltdown-en"
+                heading="Drop your email — we'll send the PDF"
+                subtext="Plus one short parenting note every Thursday (~4 min read)."
+              />
+            </div>
+          </div>
+
+          <div class="lp-hero__visual">
+            <div class="lp-hero__visual-bg"></div>
+            <!-- Ebook cover mockup using CSS -->
+            <div class="ebook-cover">
+              <div class="ebook-cover__corner">FREE PDF</div>
+              <div class="ebook-cover__brand">BloomPath</div>
+              <h2 class="ebook-cover__title">The 90-Second<br />Toddler Meltdown<br />Playbook</h2>
+              <p class="ebook-cover__sub">Store · Restaurant · Park</p>
+              <div class="ebook-cover__divider"></div>
+              <p class="ebook-cover__byline">By Mei &amp; Ethan<br /><span>BloomPath co-founders</span></p>
+              <p class="ebook-cover__meta">15 pages · 5 scripts · Free</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHAT'S INSIDE -->
+    <section class="lp-section lp-section--mint">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--peach">What's inside</span>
+          <h2 class="lp-h2">15 pages, 6 sections, all usable on day one</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1.25rem;">
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P4-5</span>
+            <h3 class="lp-age-card__label">The 90-second framework</h3>
+            <p class="lp-age-card__desc">0–30s how to steady yourself. 30–60s how to get close and name the feeling. 60–90s how to wait and stay present. Everything else is an extension of this.</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P6</span>
+            <h3 class="lp-age-card__label">60-second brain science</h3>
+            <p class="lp-age-card__desc">The amygdala is fully online by age 1. The prefrontal cortex won't be done until 25. "Their brakes aren't installed yet" is literal — not a metaphor.</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P8-12</span>
+            <h3 class="lp-age-card__label">5 complete scenario scripts</h3>
+            <p class="lp-age-card__desc">Wanting candy at checkout · Won't leave the playground · Refusing dinner · Toy snatched away · "I want to do it myself" but can't. Each with verbatim 0–30s / 30–60s / 60–90s dialogue.</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P13</span>
+            <h3 class="lp-age-card__label">4 reactions that backfire</h3>
+            <p class="lp-age-card__desc">"I'll leave you here" — "There's nothing to cry about" — Buying the candy — Trying to reason mid-storm. Why each one fails, and what to say instead.</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P14</span>
+            <h3 class="lp-age-card__label">5 repair phrases for after the meltdown</h3>
+            <p class="lp-age-card__desc">Swap into any situation. The research is clear: parents who can repair &gt; parents who never make mistakes.</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P15</span>
+            <h3 class="lp-age-card__label">Prevention (the "battery percentage" model)</h3>
+            <p class="lp-age-card__desc">5 moves that keep their emotional battery from dropping below 5%. Most meltdowns can be prevented if you spot the drain early.</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- WHO IS THIS FOR -->
+    <section class="lp-section">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--rose">Who this is for</span>
+          <h2 class="lp-h2">If any of these sound like you</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; max-width: 720px;">
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border); display: flex; gap: 1rem; align-items: flex-start;">
+            <span style="font-size: 1.5rem;">✋</span>
+            <p style="margin: 0; color: var(--text-secondary); line-height: 1.65;">You recently had one of those "every adult in the building is staring at me" public meltdown moments</p>
+          </div>
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border); display: flex; gap: 1rem; align-items: flex-start;">
+            <span style="font-size: 1.5rem;">💭</span>
+            <p style="margin: 0; color: var(--text-secondary); line-height: 1.65;">You've tried "ignore it," reasoning, giving in, bribing — none feel right, but you're not sure what's better</p>
+          </div>
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border); display: flex; gap: 1rem; align-items: flex-start;">
+            <span style="font-size: 1.5rem;">📚</span>
+            <p style="margin: 0; color: var(--text-secondary); line-height: 1.65;">You've read plenty of positive-parenting theory, but you want a script you can <strong>open on your phone in the moment</strong></p>
+          </div>
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border); display: flex; gap: 1rem; align-items: flex-start;">
+            <span style="font-size: 1.5rem;">👶</span>
+            <p style="margin: 0; color: var(--text-secondary); line-height: 1.65;">Your child is roughly 1–4 years old (older/younger can still use the framework — scenarios are written for 1–4)</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHO WROTE THIS -->
+    <section class="lp-section lp-family">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-family__intro">
+          <span class="lp-eyebrow lp-eyebrow--lavender">Who wrote this</span>
+          <h2 class="lp-h2">Mei &amp; Ethan · two real parents, 11 years in</h2>
+          <p class="lp-lead">
+            Our daughter is 11. She attends a Montessori elementary school. Back when she was 1–4, we lived through every meltdown you're living through now.<br />
+            This PDF distills what we figured out — through trial, through books, through conversations with her Montessori teachers.
+          </p>
+          <p class="lp-body" style="font-size: 0.9375rem; color: var(--text-muted); margin-top: 1rem;">
+            To protect our child's privacy, we present through AI characters. <a href="/en/about/" style="color: var(--primary-dark); text-decoration: underline;">Learn more →</a>
+          </p>
+        </div>
+
+        <!-- Shared portrait of Ethan + Mei -->
+        <div class="lp-family__portrait">
+          <img src="/images/ethan-mei-fullbody.png" alt="Ethan and Mei — BloomPath co-founders" loading="lazy" />
+        </div>
+
+        <div style="background: var(--white); border-radius: var(--radius-xl); padding: 2rem; border: 1px solid var(--border); max-width: 720px; margin: 0 auto;">
+          <p style="font-size: 1rem; line-height: 1.75; color: var(--text-secondary); margin: 0 0 1rem 0;">
+            <strong style="color: var(--text-strong);">To be clear:</strong> we are not certified Montessori teachers, and we are not child psychologists. We are real parents — 11 years in — sharing what we wish we'd had earlier.
+          </p>
+          <p style="font-size: 1rem; line-height: 1.75; color: var(--text-secondary); margin: 0;">
+            The framework draws on Daniel Siegel (neuroscience), Jane Nelsen (positive discipline), and Dr. Becky Kennedy (attachment). You don't have to read all those books — this PDF has filtered the actionable parts.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="lp-section lp-section--cream-warm">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <h2 class="lp-h2">Common questions</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; max-width: 720px;">
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">Is this really free?</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">Yes. No charge, no auto-billing, no selling your email. A longer paid companion (40 pages with printable scripts) is coming later, but this 15-page core PDF stays <strong>free forever</strong>.</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">Why do you need my email?</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">Email is more reliable than instant-download (you can always find it again). You also get our newsletter — one short parenting note every Thursday (~4 min). <strong>Unsubscribe anytime in one click.</strong></p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">Will you spam me?</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">No. One email a Thursday, that's it. No upsell barrage, no link-spam, no reselling your data. If any email isn't worth your time, unsubscribe and you won't hear from us again.</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">My kid is 5+, or under 1 — is this still useful?</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">The 90-second framework works for ages 1–6. The 5 scenario scripts are written for 1–4 specifically. If your child is younger or older, the framework still applies; the scenarios may need light adaptation.</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">What if the PDF doesn't show up?</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">Check your spam folder first (it lands there often). Still nothing? <a href="mailto:hello@bloom-path.app" style="color: var(--primary-dark);">Email us</a> and we'll resend it manually.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- FINAL CTA -->
+    <section class="lp-section lp-final">
+      <div class="lp-container">
+        <div class="lp-final__card">
+          <div class="lp-final__logo">
+            <img src="/logo-nav.png" alt="BloomPath" width="72" height="72" />
+          </div>
+          <h2 class="lp-final__title">Be ready before the next meltdown</h2>
+          <p class="lp-final__desc">Save the PDF on your phone. When the next storm hits, you'll have something to open.</p>
+
+          <div style="max-width: 480px; margin: 1.5rem auto 0;">
+            <NewsletterForm
+              lang={lang}
+              variant="card"
+              source="free-ebook-meltdown-en-final"
+              heading="Drop your email — we'll send the PDF"
+              subtext="Plus one short parenting note every Thursday."
+            />
+          </div>
+
+          <p class="lp-final__footnote">No spam, unsubscribe anytime.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  /* Ebook cover mockup styles */
+  .ebook-cover {
+    position: relative;
+    z-index: 1;
+    width: 320px;
+    aspect-ratio: 3 / 4;
+    background: linear-gradient(135deg, #FBF8F4 0%, #F0E9DD 50%, #E8E2DB 100%);
+    border-radius: 8px 18px 18px 8px;
+    padding: 2.5rem 2rem;
+    box-shadow:
+      -8px 0 0 #5E9A7E,
+      0 30px 60px -20px rgba(45, 42, 38, 0.35),
+      0 8px 20px -8px rgba(45, 42, 38, 0.2);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    transform: rotate(-2deg);
+    transition: transform 0.3s ease;
+  }
+
+  .ebook-cover:hover {
+    transform: rotate(0deg);
+  }
+
+  .ebook-cover__corner {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #E8A87C;
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+  }
+
+  .ebook-cover__brand {
+    font-size: 0.875rem;
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #5E9A7E;
+    margin-bottom: 1.5rem;
+  }
+
+  .ebook-cover__title {
+    font-size: 1.375rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    color: #2D2A26;
+    margin: 0 0 1rem 0;
+  }
+
+  .ebook-cover__sub {
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    color: #8E8780;
+    margin: 0 0 1rem 0;
+  }
+
+  .ebook-cover__divider {
+    width: 40px;
+    height: 2px;
+    background: #5E9A7E;
+    margin: 0.5rem auto 1.5rem;
+  }
+
+  .ebook-cover__byline {
+    font-size: 0.85rem;
+    color: #5C5751;
+    margin: 0 0 1rem 0;
+    line-height: 1.4;
+  }
+
+  .ebook-cover__byline span {
+    font-size: 0.7rem;
+    color: #8E8780;
+  }
+
+  .ebook-cover__meta {
+    margin-top: auto;
+    font-size: 0.7rem;
+    color: #8E8780;
+    letter-spacing: 0.05em;
+  }
+
+  details summary::-webkit-details-marker { display: none; }
+  details summary::before {
+    content: "+";
+    display: inline-block;
+    margin-right: 0.5rem;
+    color: var(--primary-dark);
+    font-weight: 700;
+    transition: transform 0.2s ease;
+  }
+  details[open] summary::before {
+    content: "−";
+  }
+</style>

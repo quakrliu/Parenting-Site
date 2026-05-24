@@ -1,0 +1,345 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import NewsletterForm from '../../../components/NewsletterForm.astro';
+import '../../../styles/landing.css';
+
+const lang = 'zh';
+---
+
+<BaseLayout
+  title="免費下載：幼兒情緒崩潰 90 秒應對劇本（15 頁 PDF）| BloomPath"
+  description="超市/賣場/餐廳崩潰時前 90 秒怎麼做。5 個情境腳本 + 4 個雷區 + 5 句修補對話。完全免費，立刻寄到你信箱。"
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="landing-root">
+
+    <!-- HERO -->
+    <section class="lp-hero">
+      <div class="lp-container">
+        <div class="lp-hero__grid">
+          <div>
+            <div class="lp-hero__badge lp-fade-up">
+              <span class="lp-hero__badge-dot"></span>
+              <span class="lp-hero__badge-text">免費 · 15 頁 PDF</span>
+            </div>
+
+            <h1 class="lp-hero__title lp-fade-up lp-delay-100">幼兒情緒崩潰<br />90 秒應對劇本</h1>
+
+            <p class="lp-hero__lead lp-fade-up lp-delay-200">
+              超市玩具區、賣場糖果架、公園溜滑梯前——<br />
+              她倒在地上的那 90 秒，你做什麼最關鍵。
+            </p>
+            <p class="lp-hero__sublead lp-fade-up lp-delay-300">
+              來自我們 11 年實戰育兒 + 兒童發展科學的整理。完全免費。
+            </p>
+
+            <div class="lp-hero__cta-row lp-fade-up lp-delay-500" style="flex-direction: column; align-items: stretch; max-width: 480px;">
+              <NewsletterForm
+                lang={lang}
+                variant="card"
+                source="free-ebook-meltdown-zh"
+                heading="留下 email，PDF 直接寄到信箱"
+                subtext="附贈每週四的育兒筆記（內容平均閱讀 4 分鐘）。"
+              />
+            </div>
+          </div>
+
+          <div class="lp-hero__visual">
+            <div class="lp-hero__visual-bg"></div>
+            <!-- Ebook cover mockup using CSS -->
+            <div class="ebook-cover">
+              <div class="ebook-cover__corner">免費 PDF</div>
+              <div class="ebook-cover__brand">BloomPath</div>
+              <h2 class="ebook-cover__title">幼兒情緒崩潰<br />90 秒應對劇本</h2>
+              <p class="ebook-cover__sub">超市 · 賣場 · 餐廳 · 公園</p>
+              <div class="ebook-cover__divider"></div>
+              <p class="ebook-cover__byline">By Mei &amp; Ethan<br /><span>BloomPath 共同創辦人</span></p>
+              <p class="ebook-cover__meta">15 頁 · 5 個情境腳本 · 完全免費</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHAT'S INSIDE -->
+    <section class="lp-section lp-section--mint">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--peach">這份 PDF 裡有什麼</span>
+          <h2 class="lp-h2">15 頁，6 個區塊，全部可立刻用</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1.25rem;">
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P4-5</span>
+            <h3 class="lp-age-card__label">90 秒應對框架</h3>
+            <p class="lp-age-card__desc">0-30 秒怎麼穩住自己｜30-60 秒怎麼靠近 + 命名情緒｜60-90 秒怎麼等與陪伴。這就是核心，其他都是它的延伸。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P6</span>
+            <h3 class="lp-age-card__label">60 秒腦科學：為什麼會崩潰</h3>
+            <p class="lp-age-card__desc">杏仁核 1 歲就很發達、前額葉皮質要 25 歲才完整——「他的剎車還沒裝好」是事實，不是比喻。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P8-12</span>
+            <h3 class="lp-age-card__label">5 個情境完整腳本</h3>
+            <p class="lp-age-card__desc">超市要糖果｜公園不肯離開｜餐廳不吃飯｜玩具被搶｜想自己做卻做不到。每個情境都有逐字 0-30s / 30-60s / 60-90s 對話。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P13</span>
+            <h3 class="lp-age-card__label">4 個你不該做的反應（雷區）</h3>
+            <p class="lp-age-card__desc">「你再哭我就走」「沒什麼好哭的」「妥協買糖」「繼續講道理」——為什麼都沒用，以及替代說法。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P14</span>
+            <h3 class="lp-age-card__label">崩潰後 5 句修補對話模板</h3>
+            <p class="lp-age-card__desc">情境替換使用。研究顯示：能修補關係的家長 &gt; 從不犯錯的家長。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">P15</span>
+            <h3 class="lp-age-card__label">預防策略（手機電量比喻）</h3>
+            <p class="lp-age-card__desc">5 個招式幫你「不要讓電量降到 5% 以下」——大部分崩潰是可以提前避開的。</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- WHO IS THIS FOR -->
+    <section class="lp-section">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--rose">給誰用</span>
+          <h2 class="lp-h2">如果你符合以下任何一條</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; max-width: 720px;">
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border); display: flex; gap: 1rem; align-items: flex-start;">
+            <span style="font-size: 1.5rem;">✋</span>
+            <p style="margin: 0; color: var(--text-secondary); line-height: 1.65;">你最近在公共場所經歷過「全場眼光集中在我身上」的崩潰時刻</p>
+          </div>
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border); display: flex; gap: 1rem; align-items: flex-start;">
+            <span style="font-size: 1.5rem;">💭</span>
+            <p style="margin: 0; color: var(--text-secondary); line-height: 1.65;">你試過「冷處理」「講道理」「妥協」「賄賂」——都不太對，但又不知道該怎麼做</p>
+          </div>
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border); display: flex; gap: 1rem; align-items: flex-start;">
+            <span style="font-size: 1.5rem;">📚</span>
+            <p style="margin: 0; color: var(--text-secondary); line-height: 1.65;">看過很多正向教養的「理論」，但缺一份可以**當下打開手機就照著做**的腳本</p>
+          </div>
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border); display: flex; gap: 1rem; align-items: flex-start;">
+            <span style="font-size: 1.5rem;">👶</span>
+            <p style="margin: 0; color: var(--text-secondary); line-height: 1.65;">你的孩子目前 1-4 歲（其他年齡可參考但情境會差比較多）</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHO WROTE THIS -->
+    <section class="lp-section lp-family">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-family__intro">
+          <span class="lp-eyebrow lp-eyebrow--lavender">誰寫的</span>
+          <h2 class="lp-h2">Mei &amp; Ethan · 育兒 11 年的真實家長</h2>
+          <p class="lp-lead">
+            我們的女兒 11 歲，就讀蒙特梭利小學。當她 1-4 歲的時候，我們經歷過你正在經歷的所有崩潰。<br />
+            這份 PDF 把那段時間我們試錯、讀書、跟學校老師交流學到的方法，整理成可立刻用的工具。
+          </p>
+          <p class="lp-body" style="font-size: 0.9375rem; color: var(--text-muted); margin-top: 1rem;">
+            為了保護孩子隱私，我們用 AI 角色 Mei 和 Ethan 呈現。<a href="/zh/about/" style="color: var(--primary-dark); text-decoration: underline;">了解更多 →</a>
+          </p>
+        </div>
+
+        <!-- Shared portrait of Ethan + Mei -->
+        <div class="lp-family__portrait">
+          <img src="/images/ethan-mei-fullbody.png" alt="Ethan 與 Mei — BloomPath 共同創辦人" loading="lazy" />
+        </div>
+
+        <div style="background: var(--white); border-radius: var(--radius-xl); padding: 2rem; border: 1px solid var(--border); max-width: 720px; margin: 0 auto;">
+          <p style="font-size: 1rem; line-height: 1.75; color: var(--text-secondary); margin: 0 0 1rem 0;">
+            <strong style="color: var(--text-strong);">坦白說：</strong>我們不是蒙特梭利認證老師、也不是兒童心理學家。我們是 11 年實戰的真實家長，把走過的彎路、有效的方法、做錯的反省，整理給你。
+          </p>
+          <p style="font-size: 1rem; line-height: 1.75; color: var(--text-secondary); margin: 0;">
+            內容引用 Daniel Siegel（神經科學）、Jane Nelsen（正向教養）、Dr. Becky Kennedy（依附理論）的研究文獻。你不需要讀完那些書——這份 PDF 已經幫你篩過了。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="lp-section lp-section--cream-warm">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <h2 class="lp-h2">常見問題</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; max-width: 720px;">
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">真的完全免費嗎？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">是。我們不會收你錢、不會自動跟你扣款、不會把你的 email 賣給別人。完整版（40 頁含腳本卡 + 印刷版）之後會推出付費版，但這份 15 頁的核心內容**永遠免費**。</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">為什麼要 email？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">PDF 寄到你信箱比 instant download 更可靠（信箱還在你就還能找到）。同時你會被加進我們的 Newsletter——每週四一篇育兒筆記，平均 4 分鐘讀完。<strong>隨時可取消，一鍵搞定。</strong></p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">你會不會發很多垃圾信？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">不會。每週四一封，就這樣。不推銷、不丟連結轟炸、不轉賣資料。如果哪一封讓你覺得不值得，請直接點取消訂閱，不會有第二次。</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">我孩子已經 5 歲了/還沒 1 歲，這份還有用嗎？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">90 秒應對框架對 1-6 歲都適用，5 個情境腳本是 1-4 歲設計的。如果你的孩子還小、或已經 5-6 歲，框架仍然有用，情境腳本可能要自己微調。</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">PDF 還沒寄到怎麼辦？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">先查垃圾信夾（很常被丟到那）。還是沒有的話，<a href="mailto:hello@bloom-path.app" style="color: var(--primary-dark);">寄信給我們</a>，我們手動補寄。</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- FINAL CTA -->
+    <section class="lp-section lp-final">
+      <div class="lp-container">
+        <div class="lp-final__card">
+          <div class="lp-final__logo">
+            <img src="/logo-nav.png" alt="BloomPath" width="72" height="72" />
+          </div>
+          <h2 class="lp-final__title">下次崩潰之前，先準備好</h2>
+          <p class="lp-final__desc">把這份 PDF 存在手機，下次崩潰當下打開就能用。</p>
+
+          <div style="max-width: 480px; margin: 1.5rem auto 0;">
+            <NewsletterForm
+              lang={lang}
+              variant="card"
+              source="free-ebook-meltdown-zh-final"
+              heading="留下 email，PDF 直接寄到信箱"
+              subtext="附贈每週四的育兒筆記。"
+            />
+          </div>
+
+          <p class="lp-final__footnote">無垃圾信，隨時可取消訂閱。</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  /* Ebook cover mockup styles */
+  .ebook-cover {
+    position: relative;
+    z-index: 1;
+    width: 320px;
+    aspect-ratio: 3 / 4;
+    background: linear-gradient(135deg, #FBF8F4 0%, #F0E9DD 50%, #E8E2DB 100%);
+    border-radius: 8px 18px 18px 8px;
+    padding: 2.5rem 2rem;
+    box-shadow:
+      -8px 0 0 #5E9A7E,
+      0 30px 60px -20px rgba(45, 42, 38, 0.35),
+      0 8px 20px -8px rgba(45, 42, 38, 0.2);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    transform: rotate(-2deg);
+    transition: transform 0.3s ease;
+  }
+
+  .ebook-cover:hover {
+    transform: rotate(0deg);
+  }
+
+  .ebook-cover__corner {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #E8A87C;
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+  }
+
+  .ebook-cover__brand {
+    font-size: 0.875rem;
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #5E9A7E;
+    margin-bottom: 1.5rem;
+  }
+
+  .ebook-cover__title {
+    font-size: 1.5rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    color: #2D2A26;
+    margin: 0 0 1rem 0;
+  }
+
+  .ebook-cover__sub {
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    color: #8E8780;
+    margin: 0 0 1rem 0;
+  }
+
+  .ebook-cover__divider {
+    width: 40px;
+    height: 2px;
+    background: #5E9A7E;
+    margin: 0.5rem auto 1.5rem;
+  }
+
+  .ebook-cover__byline {
+    font-size: 0.85rem;
+    color: #5C5751;
+    margin: 0 0 1rem 0;
+    line-height: 1.4;
+  }
+
+  .ebook-cover__byline span {
+    font-size: 0.7rem;
+    color: #8E8780;
+  }
+
+  .ebook-cover__meta {
+    margin-top: auto;
+    font-size: 0.7rem;
+    color: #8E8780;
+    letter-spacing: 0.05em;
+  }
+
+  details summary::-webkit-details-marker { display: none; }
+  details summary::before {
+    content: "+";
+    display: inline-block;
+    margin-right: 0.5rem;
+    color: var(--primary-dark);
+    font-weight: 700;
+    transition: transform 0.2s ease;
+  }
+  details[open] summary::before {
+    content: "−";
+  }
+</style>
