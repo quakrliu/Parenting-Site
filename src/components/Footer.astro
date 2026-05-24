@@ -32,6 +32,11 @@ const year = new Date().getFullYear();
     </div>
 
     <div class="footer-bottom">
+      <p class="footer-ai">
+        {t('footer.aiDisclosure')}
+        {' '}
+        <a href={localePath('/about', lang)} class="footer-ai-link">{t('footer.aiDisclosure.link')} →</a>
+      </p>
       <p>&copy; {year} {t('footer.copyright')}</p>
       <p class="footer-disclaimer">{t('footer.disclaimer')}</p>
     </div>
@@ -101,6 +106,22 @@ const year = new Date().getFullYear();
   }
 
   .footer-disclaimer { margin-top: 0.5rem; font-size: 0.75rem !important; }
+
+  .footer-ai {
+    color: rgba(255, 255, 255, 0.7) !important;
+    font-size: 0.8125rem !important;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-ai-link {
+    color: rgba(255, 255, 255, 0.9) !important;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .footer-ai-link:hover {
+    color: var(--color-orange) !important;
+  }
 
   @media (min-width: 768px) {
     .footer-inner { grid-template-columns: 1fr 1fr; }

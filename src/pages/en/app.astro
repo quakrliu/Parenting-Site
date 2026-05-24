@@ -46,16 +46,16 @@ const screens = [
 
 const ethanCredentials = [
   '10+ years software engineering',
-  'AI / ML background in Silicon Valley',
-  'BloomPath technical architect',
-  'A new dad — still learning every day',
+  'Self-taught AI integration to build BloomPath',
+  '11 years in the parenting trenches · Montessori-school parent',
+  'BloomPath co-founder & technical architect',
 ];
 
 const meiCredentials = [
-  'Certified Montessori teacher (AMS / AMI)',
-  '6 years teaching in Montessori preschools',
-  'Host of the BloomPath YouTube channel',
-  'Raising Luna bilingually (English / Chinese)',
+  '11 years of real-life parenting experience',
+  'Montessori elementary-school parent',
+  'Self-studied Montessori + positive parenting',
+  'BloomPath co-founder',
 ];
 
 const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>`;
@@ -204,8 +204,11 @@ const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="current
           <span class="lp-eyebrow lp-eyebrow--lavender">Meet the Founders</span>
           <h2 class="lp-h2">Hi, we're Ethan &amp; Mei</h2>
           <p class="lp-lead">
-            One engineer, one Montessori teacher, and a 2½-year-old named Luna.<br />
-            BloomPath is how we turned our expertise — and our daily parenting practice — into something you can use too.
+            Two real parents, 11 years in. Our daughter attends a Montessori elementary school.<br />
+            BloomPath is how we turned 11 years of trench experience — plus the Montessori and positive-parenting methods we taught ourselves — into something you can actually use.
+          </p>
+          <p class="lp-body" style="font-size: 0.9375rem; color: var(--text-muted); margin-top: 1rem;">
+            To protect our child's privacy, we present through AI characters. <a href="/en/about/" style="color: var(--primary-dark); text-decoration: underline;">Learn more →</a>
           </p>
         </div>
 
@@ -219,9 +222,9 @@ const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="current
           <article class="lp-founder">
             <span class="lp-founder__badge">Ethan · Co-founder</span>
             <h3 class="lp-founder__name">Ethan</h3>
-            <p class="lp-founder__role">Software engineer · Luna's dad</p>
+            <p class="lp-founder__role">Software engineer · 11 years in the trenches</p>
             <blockquote class="lp-founder__quote">
-              "Mei is the parenting expert. I'm the engineer who watched her wrestle with the same parenting questions every day. We built BloomPath to turn her expertise into a tool every parent can actually use — so science-based parenting isn't just for the lucky few."
+              "I'm the engineer who's watched my wife and I muddle through parenting for 11 years. We built BloomPath to turn what we've learned — research, methods, real trial-and-error — into a tool every parent can actually use. Science-based parenting shouldn't be reserved for people who can read a bookshelf."
             </blockquote>
             <ul class="lp-founder__credentials">
               {ethanCredentials.map((c) => (
@@ -234,9 +237,9 @@ const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="current
           <article class="lp-founder">
             <span class="lp-founder__badge">Mei · Co-founder</span>
             <h3 class="lp-founder__name">Mei</h3>
-            <p class="lp-founder__role">Montessori teacher · Luna's mom</p>
+            <p class="lp-founder__role">11 years of parenting · Montessori-school parent</p>
             <blockquote class="lp-founder__quote">
-              "Before Luna was born, I taught Montessori for 6 years. Now I'm a mom too, working through the same parenting questions you are. BloomPath is the thing I wish I'd had: real child-development science, distilled into advice that actually fits your day."
+              "I am not a certified Montessori teacher. I'm a real parent, making mistakes and learning every day, just like you. Our daughter attends a Montessori elementary school, and over the years I've brought the methods home and self-studied Daniel Siegel, Jane Nelsen, and Dr. Becky's work. BloomPath is 11 years of our experience — so you don't have to walk the same long road."
             </blockquote>
             <ul class="lp-founder__credentials">
               {meiCredentials.map((c) => (
@@ -244,8 +247,9 @@ const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="current
               ))}
             </ul>
             <div class="lp-founder__links">
-              <a href="/en/" class="lp-founder__link">Read Mei's blog</a>
+              <a href="/en/" class="lp-founder__link">Read the blog</a>
               <a href="https://www.youtube.com/@bloompath" target="_blank" rel="noopener" class="lp-founder__link">YouTube channel</a>
+              <a href="/en/about/" class="lp-founder__link">Full story →</a>
             </div>
           </article>
         </div>

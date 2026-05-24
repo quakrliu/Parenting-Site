@@ -18,12 +18,14 @@
 - **目前現況**：日下載 < 3、Newsletter < 10、Blog 320 篇但 UV 低、GA4 剛裝
 - **Runway**：~6 個月（建議搭 consulting bridge 延長到 24-36 個月）
 
-## 創辦人
+## 創辦人（真實 framing — 詳見 `docs/brand/positioning.md`）
 
-- **Mei**：蒙特梭利老師（AMS/AMI 認證、6 年教學經驗）· Luna 的媽媽 · YouTube/Podcast 主持人
-- **Ethan**：軟體工程師（矽谷 AI/ML 背景）· Luna 的爸爸 · 技術架構
-- **Luna**：2.5 歲，他們的女兒，BloomPath 的靈感來源
-- **landing page 規則**：只用真實照片（`ethan-mei-fullbody.png` 來自 F:\Youtube-Podcast\assets），**禁用 AI 生成卡通圖冒充創辦人**
+**Ethan 跟 Mei 都是 AI 角色（cartoon avatar），背後是真實家長**。為了保護孩子隱私，所有對外露出用 AI 角色呈現。所有 marketing / content 必須遵守 `docs/brand/positioning.md` 的 truth boundaries。
+
+- **Ethan**：真實 BloomPath 創辦人的 AI 化身。軟體工程師（10+ 年）· 11 年實戰爸爸 · 自學整合 AI 技術做 BloomPath。**禁用**：矽谷、AI/ML 學位 / 職歷、全職奶爸。
+- **Mei**：真實家長（Ethan 太太）的 AI 化身。11 年實戰媽媽 · 蒙特梭利小學家長 · 自學 Montessori 與正向教養。**禁用**：蒙特梭利老師 / 教師 / educator、6 年教學經驗、學位 / 證照。
+- **Luna**：真實 11 歲女兒的 AI 化身。**禁用**：固定具體年齡（如「2.5 歲」）、Luna 自己發言。可作為品牌靈感來源帶過。
+- **landing page 規則**：使用 AI 角色（Mei + Ethan）視覺即可，但**必須在 footer + about page 公開揭露 AI 角色**。**禁用** stock photo 西方家庭照（`about-family.jpg`, `hero-family.jpg` 等）。
 
 ## Auto-Reiterate 規則（**最重要**）
 

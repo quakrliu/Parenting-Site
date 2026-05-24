@@ -28,9 +28,9 @@
 
 ### 選項 1：Social Proof + Feature ⭐推薦
 ```
-1,247 個家庭已加入候補。AI 育兒導師 + 224 項發展追蹤，凌晨 3 點也能問。蒙特梭利老師 Mei 設計，從出生到 18 歲，每一步都有科學指引。
+1,247 個家庭已加入候補。AI 育兒導師 + 224 項發展追蹤，凌晨 3 點也能問。11 年實戰家長設計，從出生到 18 歲，每一步都有科學指引。
 ```
-（83 字）
+（82 字）
 
 ### 選項 2：Pain → Promise
 ```
@@ -40,11 +40,13 @@
 
 ### 選項 3：Free + Differentiator
 ```
-限時免費下載｜AI 個人化育兒建議＋224 項發展追蹤。蒙特梭利老師 6 年教學經驗 + 最新兒童發展科學，給你「不是 Google 來的」答案。0-18 歲全程陪伴。
+限時免費下載｜AI 個人化育兒建議＋224 項發展追蹤。11 年實戰家長 + 最新兒童發展科學，給你「不是 Google 來的」答案。0-18 歲全程陪伴。
 ```
-（80 字）
+（76 字）
 
-**推薦 1**：開頭數字 1,247 是強 hook，且包含三個 keyword 訊號（蒙特梭利、AI、224）。
+**推薦 1**：開頭數字 1,247 是強 hook，包含三個 keyword 訊號（11 年、AI、224）。
+
+⚠️ **誠信注意**：「1,247 個家庭」這個數字必須是**真的 newsletter / waitlist 訂閱數**。如果不是，改成你 newsletter 真實人數，或拿掉這個數字改成「BloomPath 早期支持者」。
 
 ---
 
@@ -187,9 +189,9 @@ Will buy you coffee / dinner next time ❤️
 - **Subtext**：不只記錄｜更指出下一步
 
 ### Screenshot 6 — Founders
-- **Headline**：蒙特梭利老師 × AI 工程師打造
-- **UI**：Ethan + Mei 真實照片（用 ethan-mei-fullbody.png）
-- **Subtext**：6 年教學經驗 + 矽谷 AI 背景
+- **Headline**：11 年實戰家長 × 軟體工程師打造
+- **UI**：Ethan + Mei AI 角色圖（用 ethan-mei-fullbody.png）
+- **Subtext**：女兒就讀蒙特梭利小學｜AI 角色保護孩子隱私
 
 ### Screenshot 7 — Social Proof（**只有真實 testimonials 才放**）
 - **Headline**：1,247 個家庭已加入

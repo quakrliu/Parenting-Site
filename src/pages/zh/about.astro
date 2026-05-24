@@ -1,0 +1,187 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import '../../styles/landing.css';
+
+const lang = 'zh';
+const appStoreUrl = 'https://apps.apple.com/tw/app/%E8%82%B2%E8%A6%8B%E6%9C%AA%E4%BE%86-bloompath/id6759791532';
+---
+
+<BaseLayout
+  title="關於 BloomPath | 兩位育兒 11 年的真實家長 · 用 AI 角色保護孩子隱私"
+  description="BloomPath 由兩位育兒 11 年的真實家長創立。我們的女兒就讀蒙特梭利小學。為了保護孩子隱私，我們用 AI 角色 Mei 和 Ethan 呈現我們的真實育兒經驗。"
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="landing-root">
+
+    <!-- HERO -->
+    <section class="lp-hero">
+      <div class="lp-container">
+        <div class="lp-hero__grid">
+          <div>
+            <div class="lp-hero__badge lp-fade-up">
+              <span class="lp-hero__badge-dot"></span>
+              <span class="lp-hero__badge-text">關於 BloomPath</span>
+            </div>
+
+            <h1 class="lp-hero__title lp-fade-up lp-delay-100">我們是兩位<br />育兒 11 年的<br />真實家長</h1>
+
+            <p class="lp-hero__lead lp-fade-up lp-delay-200">
+              女兒就讀蒙特梭利小學。<br />
+              為了保護她的隱私，我們用 AI 角色 Mei 和 Ethan 呈現。
+            </p>
+            <p class="lp-hero__sublead lp-fade-up lp-delay-300">
+              內容是真實的。角色是動畫的。
+            </p>
+          </div>
+
+          <div class="lp-hero__visual">
+            <div class="lp-hero__visual-bg"></div>
+            <img
+              src="/images/ethan-mei-fullbody.png"
+              alt="Ethan 與 Mei — BloomPath 共同創辦人"
+              class="lp-hero__visual-img"
+              loading="eager"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHY AI -->
+    <section class="lp-section lp-section--cream-warm">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow">為什麼用 AI 角色</span>
+          <h2 class="lp-h2">保護孩子的隱私</h2>
+        </div>
+
+        <div class="lp-body" style="max-width: 720px;">
+          <p style="margin-bottom: 1.5rem;">
+            我們的女兒今年 11 歲。她正處於一個尷尬的年紀——夠大到會 google 自己的名字、會在意網路上的個人資料；但又還沒大到能完全為自己做出「資訊曝光」的選擇。
+          </p>
+          <p style="margin-bottom: 1.5rem;">
+            10 年後她會謝謝我們嗎？或是會抱怨我們把她的童年放在網路上？我們沒辦法保證 10 年後我們的判斷是對的，但我們可以保證**現在做最保守的決定**。
+          </p>
+          <p style="margin-bottom: 1.5rem;">
+            所以 BloomPath 用 AI 角色呈現：
+          </p>
+          <ul style="margin-bottom: 1.5rem; padding-left: 1.5rem; color: var(--text-secondary); line-height: 1.8;">
+            <li><strong>Mei</strong> 是真實家長（Ethan 的太太）的 AI 化身</li>
+            <li><strong>Ethan</strong> 是真實家長（BloomPath 創辦人）的 AI 化身</li>
+            <li><strong>Luna</strong> 是品牌中提到女兒時使用的化名（女兒本人不公開出現）</li>
+          </ul>
+          <p>
+            這意味著：你看到的所有插圖、影片角色都是 AI 生成的；但<strong>所有內容、所有建議、所有「我們經歷過的故事」都是真實的</strong>——來自我們 11 年的育兒實戰。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 11 YEARS STORY -->
+    <section class="lp-section">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--peach">我們的 11 年</span>
+          <h2 class="lp-h2">從新生兒到準青少年</h2>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 2rem; max-width: 720px;">
+          <div style="border-left: 3px solid var(--primary); padding-left: 1.5rem;">
+            <h3 style="font-size: 1.125rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">0-2 歲｜新手期</h3>
+            <p style="color: var(--text-secondary); line-height: 1.7;">
+              跟所有新手爸媽一樣，我們手忙腳亂。睡眠剝奪、餵食焦慮、每一聲哭都不知道為什麼。讀了一堆書，才發現大多數的建議自相矛盾。
+            </p>
+          </div>
+
+          <div style="border-left: 3px solid var(--primary); padding-left: 1.5rem;">
+            <h3 style="font-size: 1.125rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">2-4 歲｜情緒風暴期</h3>
+            <p style="color: var(--text-secondary); line-height: 1.7;">
+              她開始在公共場合崩潰、開始拒絕一切、開始說「我不要」。我們從 Daniel Siegel 的腦科學 + Jane Nelsen 的正向教養 + Dr. Becky Kennedy 的依附關係，慢慢拼出可用的工具。這個階段，BloomPath 的 ebook #1《幼兒情緒崩潰 90 秒應對劇本》就是這 2 年的真實經驗。
+            </p>
+          </div>
+
+          <div style="border-left: 3px solid var(--primary); padding-left: 1.5rem;">
+            <h3 style="font-size: 1.125rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">4-6 歲｜蒙特梭利啟蒙</h3>
+            <p style="color: var(--text-secondary); line-height: 1.7;">
+              她進入蒙特梭利幼兒園。我們作為家長深度參與——讀 Maria Montessori 的原著、跟學校老師討論、把學校的方法帶回家。這是「蒙特梭利不是教室專利」這個信念的起點。
+            </p>
+          </div>
+
+          <div style="border-left: 3px solid var(--primary); padding-left: 1.5rem;">
+            <h3 style="font-size: 1.125rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">6-11 歲｜目前進行中</h3>
+            <p style="color: var(--text-secondary); line-height: 1.7;">
+              她目前 11 歲，就讀蒙特梭利小學。我們在學她怎麼想事情、怎麼跟朋友相處、怎麼面對失敗。我們知道 12-18 歲青少年期是更大的挑戰，BloomPath 也會跟著她（和你的孩子）一起走過去。
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHAT WE CAN / CAN'T CLAIM -->
+    <section class="lp-section lp-section--mint">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--peach">坦白說</span>
+          <h2 class="lp-h2">我們不是什麼</h2>
+          <p class="lp-body">為了透明，下面是我們**不是**什麼——避免你對 BloomPath 有不對的期待。</p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1.25rem; max-width: 720px;">
+
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">❌ 我們不是蒙特梭利認證教師</h3>
+            <p style="color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; margin: 0;">
+              Mei 不是 AMS / AMI 認證教師，沒在幼兒園任教過。我們是**蒙特梭利學校的家長**，在實際育兒中學習這個方法。
+            </p>
+          </div>
+
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">❌ 我們不是兒童心理學家或諮商師</h3>
+            <p style="color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; margin: 0;">
+              我們提供的是**家長視角的實戰經驗**，不是專業心理治療建議。嚴重的情緒、行為、發展問題請尋求合格專業人士協助。
+            </p>
+          </div>
+
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">❌ Ethan 不是 AI/ML 領域科班</h3>
+            <p style="color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; margin: 0;">
+              Ethan 是 10+ 年的軟體工程師，**自學整合 AI 技術**做 BloomPath。沒有 AI/ML 學位、沒在矽谷工作過。
+            </p>
+          </div>
+
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">✅ 我們是「11 年實戰的真實家長」</h3>
+            <p style="color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; margin: 0;">
+              我們提供的，是只有真正每天帶小孩的家長能寫出來的內容——夾雜 Montessori 與正向教養的科學基礎。
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="lp-section lp-final">
+      <div class="lp-container">
+        <div class="lp-final__card">
+          <div class="lp-final__logo">
+            <img src="/logo-nav.png" alt="BloomPath" width="72" height="72" />
+          </div>
+          <h2 class="lp-final__title">如果你也是真實家長</h2>
+          <p class="lp-final__desc">如果你覺得我們的故事跟你的有共鳴，下載 BloomPath App 一起走這條路。</p>
+          <a href={appStoreUrl} target="_blank" rel="noopener" class="lp-btn lp-btn--dark lp-btn--large">
+            前往 App Store 下載
+          </a>
+          <p class="lp-final__footnote">免費下載，無需信用卡。</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>

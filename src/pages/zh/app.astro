@@ -46,16 +46,16 @@ const screens = [
 
 const ethanCredentials = [
   '10+ 年軟體工程經驗',
-  '矽谷 AI / 機器學習背景',
-  'BloomPath 技術架構設計',
-  '跟你一樣是新手爸爸，每天還在學',
+  '自學整合 AI 技術打造 BloomPath',
+  '11 年實戰爸爸 · 蒙特梭利小學家長',
+  'BloomPath 技術架構與共同創辦人',
 ];
 
 const meiCredentials = [
-  '蒙特梭利認證教師（AMS / AMI）',
-  '6 年蒙特梭利幼兒園教學經驗',
-  'BloomPath YouTube 頻道主持人',
-  '雙語教養 Luna（中 / 英）',
+  '11 年育兒實戰經驗',
+  '蒙特梭利小學家長 · 深度參與校內方法',
+  '持續實踐 Montessori 與正向教養',
+  'BloomPath 共同創辦人',
 ];
 
 const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>`;
@@ -204,8 +204,11 @@ const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="current
           <span class="lp-eyebrow lp-eyebrow--lavender">Meet the Founders</span>
           <h2 class="lp-h2">嗨，我們是 Ethan &amp; Mei</h2>
           <p class="lp-lead">
-            一個工程師、一個蒙特梭利老師，加上一個 2 歲半的 Luna。<br />
-            BloomPath 是我們把專業知識與每天的育兒實踐，做成你也能用的工具。
+            兩個育兒 11 年的真實家長。我們的女兒就讀蒙特梭利小學。<br />
+            BloomPath 是我們把這 11 年的實戰經驗、自學的 Montessori 與正向教養方法，做成你也能用的工具。
+          </p>
+          <p class="lp-body" style="font-size: 0.9375rem; color: var(--text-muted); margin-top: 1rem;">
+            為了保護孩子隱私，我們用 AI 角色呈現。<a href="/zh/about/" style="color: var(--primary-dark); text-decoration: underline;">了解更多 →</a>
           </p>
         </div>
 
@@ -219,9 +222,9 @@ const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="current
           <article class="lp-founder">
             <span class="lp-founder__badge">Ethan · 共同創辦人</span>
             <h3 class="lp-founder__name">Ethan</h3>
-            <p class="lp-founder__role">軟體工程師 · Luna 的爸爸</p>
+            <p class="lp-founder__role">軟體工程師 · 11 年實戰爸爸</p>
             <blockquote class="lp-founder__quote">
-              「Mei 是教養專家，我是看著她每天為各種育兒問題焦慮的工程師。我們做 BloomPath，是想把她的專業知識變成每個家長都用得到的工具——讓科學的育兒方法，不再只屬於少數人。」
+              「我是工程師，這 11 年看著太太每天為各種育兒問題焦慮，自己也每天在摸索。我們做 BloomPath，是把我們學過的方法跟科學研究，做成每個家長都用得上的工具——讓科學育兒不再只屬於有時間讀完一櫃書的人。」
             </blockquote>
             <ul class="lp-founder__credentials">
               {ethanCredentials.map((c) => (
@@ -234,9 +237,9 @@ const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="current
           <article class="lp-founder">
             <span class="lp-founder__badge">Mei · 共同創辦人</span>
             <h3 class="lp-founder__name">Mei</h3>
-            <p class="lp-founder__role">蒙特梭利老師 · Luna 的媽媽</p>
+            <p class="lp-founder__role">11 年實戰媽媽 · 蒙特梭利小學家長</p>
             <blockquote class="lp-founder__quote">
-              「在 Luna 出生之前，我當了 6 年的蒙特梭利老師。現在我也是媽媽，跟你一樣每天都在摸索育兒的各種問題。我做 BloomPath，是想給你當年我最希望有的東西：基於兒童發展科學、真正用得上的建議。」
+              「我不是蒙特梭利認證老師。我是一位真實家長，跟你一樣每天在育兒中犯錯、學習、再修正。女兒就讀蒙特梭利小學，這幾年我把學校的方法帶回家、自學 Daniel Siegel、Jane Nelsen、Dr. Becky 的研究。BloomPath 是我們把這 11 年的經驗整理給你，希望你不用走我們走過的彎路。」
             </blockquote>
             <ul class="lp-founder__credentials">
               {meiCredentials.map((c) => (
@@ -244,8 +247,9 @@ const appleIcon = `<svg width="18" height="18" viewBox="0 0 24 24" fill="current
               ))}
             </ul>
             <div class="lp-founder__links">
-              <a href="/zh/" class="lp-founder__link">看 Mei 的部落格</a>
+              <a href="/zh/" class="lp-founder__link">看部落格</a>
               <a href="https://www.youtube.com/@bloompath" target="_blank" rel="noopener" class="lp-founder__link">YouTube 頻道</a>
+              <a href="/zh/about/" class="lp-founder__link">完整故事 →</a>
             </div>
           </article>
         </div>

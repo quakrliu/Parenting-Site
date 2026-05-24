@@ -1,0 +1,187 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import '../../styles/landing.css';
+
+const lang = 'en';
+const appStoreUrl = 'https://apps.apple.com/us/app/bloompath/id6759791532';
+---
+
+<BaseLayout
+  title="About BloomPath | Two Parents, 11 Years In · AI Characters Protect Our Child's Privacy"
+  description="BloomPath is built by two real parents with 11 years of parenting experience. Our daughter attends a Montessori elementary school. We use AI characters (Mei and Ethan) to protect her privacy while sharing real parenting content."
+  lang={lang}
+>
+  <Header lang={lang} />
+
+  <main class="landing-root">
+
+    <!-- HERO -->
+    <section class="lp-hero">
+      <div class="lp-container">
+        <div class="lp-hero__grid">
+          <div>
+            <div class="lp-hero__badge lp-fade-up">
+              <span class="lp-hero__badge-dot"></span>
+              <span class="lp-hero__badge-text">About BloomPath</span>
+            </div>
+
+            <h1 class="lp-hero__title lp-fade-up lp-delay-100">Two real parents.<br />11 years in.</h1>
+
+            <p class="lp-hero__lead lp-fade-up lp-delay-200">
+              Our daughter attends a Montessori elementary school.<br />
+              To protect her privacy, we present through AI characters Mei and Ethan.
+            </p>
+            <p class="lp-hero__sublead lp-fade-up lp-delay-300">
+              The content is real. Only the avatars are illustrated.
+            </p>
+          </div>
+
+          <div class="lp-hero__visual">
+            <div class="lp-hero__visual-bg"></div>
+            <img
+              src="/images/ethan-mei-fullbody.png"
+              alt="Ethan and Mei — BloomPath co-founders"
+              class="lp-hero__visual-img"
+              loading="eager"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHY AI -->
+    <section class="lp-section lp-section--cream-warm">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow">Why AI characters</span>
+          <h2 class="lp-h2">Protecting our daughter's privacy</h2>
+        </div>
+
+        <div class="lp-body" style="max-width: 720px;">
+          <p style="margin-bottom: 1.5rem;">
+            Our daughter is 11. She's at an awkward age — old enough to Google her own name and care about her digital footprint, but not quite old enough to fully consent to being publicly documented.
+          </p>
+          <p style="margin-bottom: 1.5rem;">
+            Will she thank us for keeping her offline 10 years from now? Or will she resent that her childhood was posted online? We can't predict, but we can make the conservative call <em>now</em>.
+          </p>
+          <p style="margin-bottom: 1.5rem;">
+            So BloomPath uses AI characters:
+          </p>
+          <ul style="margin-bottom: 1.5rem; padding-left: 1.5rem; color: var(--text-secondary); line-height: 1.8;">
+            <li><strong>Mei</strong> is the AI avatar of a real parent (Ethan's wife)</li>
+            <li><strong>Ethan</strong> is the AI avatar of a real parent (BloomPath founder)</li>
+            <li><strong>Luna</strong> is the pseudonym we use when referring to our daughter (she does not appear publicly)</li>
+          </ul>
+          <p>
+            That means: every illustration and video character you see is AI-generated; but <strong>all the content, advice, and "things we've lived through" stories are real</strong> — drawn from 11 years of actually parenting.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 11 YEARS STORY -->
+    <section class="lp-section">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--peach">Our 11 years</span>
+          <h2 class="lp-h2">From newborn to pre-teen</h2>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 2rem; max-width: 720px;">
+          <div style="border-left: 3px solid var(--primary); padding-left: 1.5rem;">
+            <h3 style="font-size: 1.125rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">0-2 years · The new-parent phase</h3>
+            <p style="color: var(--text-secondary); line-height: 1.7;">
+              Like every new parent: sleep-deprived, anxious about feeding, no idea why every cry was happening. We read a pile of books and discovered most of the advice contradicted itself.
+            </p>
+          </div>
+
+          <div style="border-left: 3px solid var(--primary); padding-left: 1.5rem;">
+            <h3 style="font-size: 1.125rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">2-4 years · The emotional storm</h3>
+            <p style="color: var(--text-secondary); line-height: 1.7;">
+              She started melting down in public, refusing everything, screaming "no!" at the world. We pieced together useful tools from Daniel Siegel's neuroscience, Jane Nelsen's positive discipline, and Dr. Becky Kennedy's attachment work. BloomPath's first ebook, <em>The 90-Second Toddler Meltdown Playbook</em>, comes from those two years.
+            </p>
+          </div>
+
+          <div style="border-left: 3px solid var(--primary); padding-left: 1.5rem;">
+            <h3 style="font-size: 1.125rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">4-6 years · Discovering Montessori</h3>
+            <p style="color: var(--text-secondary); line-height: 1.7;">
+              She started Montessori preschool. As parents we went deep — reading Maria Montessori's originals, talking with her teachers, bringing the methods home. This is when we realized: <strong>Montessori is not exclusive to classrooms.</strong>
+            </p>
+          </div>
+
+          <div style="border-left: 3px solid var(--primary); padding-left: 1.5rem;">
+            <h3 style="font-size: 1.125rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">6-11 years · Right now</h3>
+            <p style="color: var(--text-secondary); line-height: 1.7;">
+              She's 11 now, in Montessori elementary school. We're learning how she thinks, how she handles friendships, how she meets failure. We know 12-18 is a bigger challenge ahead — BloomPath will walk that road with her (and with your child) too.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHAT WE CAN / CAN'T CLAIM -->
+    <section class="lp-section lp-section--mint">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--peach">Honestly</span>
+          <h2 class="lp-h2">What we are not</h2>
+          <p class="lp-body">For full transparency, here's what we are <strong>not</strong> — so you have the right expectations of BloomPath.</p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1.25rem; max-width: 720px;">
+
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">❌ Not certified Montessori teachers</h3>
+            <p style="color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; margin: 0;">
+              Mei is not an AMS / AMI-certified teacher and has never taught in a preschool. We are <strong>Montessori-school parents</strong> who learned the methodology by living it.
+            </p>
+          </div>
+
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">❌ Not child psychologists or therapists</h3>
+            <p style="color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; margin: 0;">
+              What we offer is <strong>a parent's perspective from the trenches</strong>, not clinical mental-health advice. For serious emotional, behavioral, or developmental concerns, please seek a qualified professional.
+            </p>
+          </div>
+
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">❌ Not formally trained in AI/ML</h3>
+            <p style="color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; margin: 0;">
+              Ethan is a software engineer (10+ years) who <strong>taught himself to integrate AI</strong> to build BloomPath. No AI/ML degree, no Silicon Valley pedigree.
+            </p>
+          </div>
+
+          <div style="background: var(--white); border-radius: var(--radius-lg); padding: 1.5rem; border: 1px solid var(--border);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: var(--text-strong); margin-bottom: 0.5rem;">✅ We <em>are</em> real parents with 11 years of practice</h3>
+            <p style="color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; margin: 0;">
+              What we offer is content only real parents living the work could write — informed by the science behind Montessori and positive parenting.
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="lp-section lp-final">
+      <div class="lp-container">
+        <div class="lp-final__card">
+          <div class="lp-final__logo">
+            <img src="/logo-nav.png" alt="BloomPath" width="72" height="72" />
+          </div>
+          <h2 class="lp-final__title">If you're a real parent too</h2>
+          <p class="lp-final__desc">If our story resonates with yours, download BloomPath and walk this road with us.</p>
+          <a href={appStoreUrl} target="_blank" rel="noopener" class="lp-btn lp-btn--dark lp-btn--large">
+            Download on the App Store
+          </a>
+          <p class="lp-final__footnote">Free to download — no credit card required.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>

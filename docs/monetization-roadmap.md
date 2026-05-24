@@ -184,19 +184,28 @@ Blog SEO + YouTube + Podcast  ←───────────────�
 - **runway 剩餘**：~6 個月（2026-11）
 
 ### 上次 session 完成
-- ✅ Landing page 重寫（vanilla CSS + Claude design + Ethan/Mei 圖）
-- ✅ ASO 審計（subtitle、ratings、screenshots 問題已識別）
-- ✅ Monetization roadmap 建立（這份文件）
-- ✅ **W1-A 草稿完成**：`docs/aso/w1-aso-sprint.md`（subtitle/promo/keywords/dev name/review msg/screenshots 規劃）
-- ✅ **W1-C 草稿完成**：`docs/ebooks/ebook-01-toddler-meltdown.md`（15 頁完整內容）
+- ✅ Landing page 重寫（vanilla CSS + Claude design）
+- ✅ ASO 審計
+- ✅ Monetization roadmap 建立
+- ✅ W1-A 草稿（ASO sprint）
+- ✅ W1-C 草稿（Ebook #1 15 頁）
+- ✅ **Brand truth pivot**：發現 Mei = AI avatar、揭露所有假 credentials
+  - 建立 `docs/brand/positioning.md` 當 source of truth
+  - 更新 `CLAUDE.md` 真實 framing
+  - 修 `i18n/ui.ts`（去除「Mei 前幼教」「Bali」「全職奶爸」假宣稱）
+  - 修 zh/en `app.astro` Founders section（11 年家長 + AI disclosure）
+  - 修 Footer + 加 AI disclosure 行 + link
+  - 新建 zh/en `about.astro`（完整故事 + 4 張「我們不是什麼」card）
+  - 修 ASO sprint 文案（去除「蒙特梭利老師」）
+  - 修 Ebook P2（過去式 + AI disclosure block）
 
 ### 下次 session 該做（按優先序）
-1. 🎯 **Mei 過稿** `docs/ebooks/ebook-01-toddler-meltdown.md`（內容語氣、稱謂、句子節奏）
-2. 🎯 **使用者上 App Store Connect**：套用 `docs/aso/w1-aso-sprint.md` 的 subtitle/promo/keywords（30 分鐘）
-3. 🎯 **使用者發出 30 人請評分訊息**（用 `w1-aso-sprint.md` 的模板）
-4. 🎯 用 aso-appstore-screenshots skill 製作 8 張 screenshots
-5. 🎯 **W2 開始**：Ebook PDF 排版（Canva）+ Landing page `/zh/free/toddler-meltdown-playbook/`
-6. 🎯 **W2 開始**：Beehiiv 7 封 welcome sequence 寫作 + 自動化設定
+1. 🎯 **使用者上 App Store Connect**：套用 `docs/aso/w1-aso-sprint.md` 的 subtitle/promo/keywords（30 分鐘）
+2. 🎯 **使用者發出 30 人請評分訊息**（用 `w1-aso-sprint.md` 的模板）
+3. 🎯 用 aso-appstore-screenshots skill 製作 8 張 screenshots
+4. 🎯 **W2**：Ebook PDF 排版（Canva）+ Landing page `/zh/free/toddler-meltdown-playbook/`
+5. 🎯 **W2**：Beehiiv 7 封 welcome sequence 寫作 + 自動化設定（**新規則：所有 email 用「我們」第一人稱複數、適度過去式、必須有 AI disclosure 段落**）
+6. 🎯 **接 PostHog MCP**：抓現況轉換漏斗數據
 
 ### 開放問題（需使用者決定）
 - [ ] 是否搭 consulting bridge 延長 runway？（建議：是）
