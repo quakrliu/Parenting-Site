@@ -25,3 +25,4 @@ Thumbs.db
 
 # jetbrains setting folder
 .idea/
+__pycache__/
