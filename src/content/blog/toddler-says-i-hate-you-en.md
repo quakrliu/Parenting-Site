@@ -7,7 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-says-i-hate-you-en.png"
 draft: false
-ageGroup: "toddler"
+ageGroup: ["toddler"]
 ---
 
 It was 6:47 PM on a Tuesday. I know this because I'd just glanced at the clock, calculating whether dinner would be ready before the meltdown that was clearly building in the living room.

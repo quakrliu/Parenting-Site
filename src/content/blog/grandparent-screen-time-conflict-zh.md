@@ -7,7 +7,7 @@ lang: "zh-TW"
 author: "Mei Chen"
 image: "/og/grandparent-screen-time-conflict-zh.png"
 draft: false
-ageGroup: "toddler"
+ageGroup: ["toddler"]
 ---
 
 上個月某個週六早上，我跟寶貝一起去阿嬤家吃早飯。
