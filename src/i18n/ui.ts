@@ -93,7 +93,7 @@ export const ui = {
     // About
     'section.about': 'About',
     'section.about.title': 'Meet Ethan and Mei',
-    'section.about.p1': 'We\'re two parents with 11 years of real-life parenting experience. Our daughter attends a Montessori elementary school, and over the years we\'ve learned (and tested) Montessori and positive parenting in practice — not in a classroom.',
+    'section.about.p1': 'We\'re two real parents. Our daughter attends a Montessori elementary school, and over the years we\'ve learned (and tested) Montessori and positive parenting in practice — not in a classroom.',
     'section.about.p2': 'To protect our daughter\'s privacy, BloomPath uses AI characters (Mei and Ethan) to present our experience. The content is real; the avatars are illustrated.',
     'section.about.evidence': 'Evidence First',
     'section.about.evidence.desc': 'Every claim links to its source',
@@ -104,14 +104,14 @@ export const ui = {
     'section.about.youtube': 'Watch on YouTube',
     // Hero personal
     'hero.name': 'We\'re Ethan and Mei.',
-    'hero.tagline': 'Two parents, 11 years in — figuring it out, one meltdown at a time.',
+    'hero.tagline': 'Two parents in the trenches — figuring it out, one meltdown at a time.',
     'hero.subtext': 'Montessori-inspired. Positive parenting. AI characters protecting our child\'s privacy.',
     'hero.trust.real': 'Evidence-based',
     'hero.trust.montessori': 'Montessori-inspired',
     // Podcast
     'section.podcast': 'On YouTube',
     'section.podcast.title': 'Watch the Latest Episode',
-    'section.podcast.desc': 'Every week, Ethan and Mei share honest conversations about parenting — the wins, the struggles, and what actually works in our 11-year journey.',
+    'section.podcast.desc': 'Every week, Ethan and Mei share honest conversations about parenting — the wins, the struggles, and what actually works in our journey.',
     'section.podcast.cta': 'See All Episodes',
     // Age Navigator
     'age.section': 'Find Your Stage',
@@ -285,7 +285,7 @@ export const ui = {
     // About
     'section.about': '關於我們',
     'section.about.title': '認識 Ethan 和 Mei',
-    'section.about.p1': '我們是兩位育兒 11 年的真實家長。我們的女兒就讀蒙特梭利小學，這 11 年我們在「真實育兒」中學習並實踐蒙特梭利與正向教養——不是在教室裡，是在家裡每天。',
+    'section.about.p1': '我們是兩位真實家長。我們的女兒就讀蒙特梭利小學，這些年我們在「真實育兒」中學習並實踐蒙特梭利與正向教養——不是在教室裡，是在家裡每天。',
     'section.about.p2': '為了保護孩子的隱私，BloomPath 用 AI 角色（Mei 和 Ethan）呈現我們的經驗。內容是真實的，角色是動畫的。',
     'section.about.evidence': '證據優先',
     'section.about.evidence.desc': '每個主張都附有來源連結',
@@ -296,14 +296,14 @@ export const ui = {
     'section.about.youtube': '觀看 YouTube 頻道',
     // Hero personal
     'hero.name': '我們是 Ethan 和 Mei。',
-    'hero.tagline': '兩個爸媽，育兒 11 年——在每一次崩潰中慢慢摸索。',
+    'hero.tagline': '兩個爸媽，在崩潰中摸索——一次一次慢慢來。',
     'hero.subtext': '蒙特梭利啟發。正向教養。用 AI 角色保護孩子隱私。',
     'hero.trust.real': '研究實證',
     'hero.trust.montessori': '蒙特梭利啟發',
     // Podcast
     'section.podcast': 'YouTube 頻道',
     'section.podcast.title': '觀看最新集數',
-    'section.podcast.desc': '每週 Ethan 和 Mei 分享育兒對話——11 年的真實經驗，成功的、掙扎的、真正有效的。',
+    'section.podcast.desc': '每週 Ethan 和 Mei 分享育兒對話——多年的真實經驗，成功的、掙扎的、真正有效的。',
     'section.podcast.cta': '查看所有集數',
     // Age Navigator
     'age.section': '找到你的階段',

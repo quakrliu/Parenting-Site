@@ -18,7 +18,7 @@ I'm sharing this story because Oliver's parents are friends who reached out afte
 
 Oliver said "sorry" in a flat voice. The incident was "handled." And nothing was learned.
 
-> **A note from us**: This article is written from Mei's voice — a real parent with 11 years of experience whose daughter attends a Montessori elementary school. To protect our daughter's privacy, BloomPath presents through AI characters. We are not certified Montessori teachers; what follows synthesizes what we've learned from real-life parenting, our daughter's Montessori school, and the research literature.
+> **A note from us**: This article is written from Mei's voice — a real parent with years of experience whose daughter attends a Montessori elementary school. To protect our daughter's privacy, BloomPath presents through AI characters. We are not certified Montessori teachers; what follows synthesizes what we've learned from real-life parenting, our daughter's Montessori school, and the research literature.
 
 *This article is part of our [Positive Parenting Complete Guide](/en/blog/positive-parenting-guide-en).*
 
