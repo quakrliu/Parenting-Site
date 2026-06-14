@@ -1,13 +1,101 @@
 {
-  "generated": "2026-06-12T02:26:09.767Z",
+  "generated": "2026-06-14T02:24:39.430Z",
   "counts": {
-    "total": 166,
-    "en": 78,
-    "zh": 88,
+    "total": 170,
+    "en": 80,
+    "zh": 90,
     "drafts": 0,
     "skipped": 2
   },
   "posts": [
+    {
+      "slug": "toddler-summer-sleep-regression-zh",
+      "lang": "zh-TW",
+      "title": "小孩夏天睡眠大崩潰？高溫＋長日照的破解完全指南",
+      "description": "每年六月一到，孩子就開始不肯睡、半夜起來、早上五點就醒——這不是管教問題，是生理問題。工程師爸爸分享夏季睡眠倒退的真正原因和實戰應對法。",
+      "tags": [
+        "幼兒睡眠",
+        "夏天睡眠",
+        "睡眠倒退",
+        "幼兒作息",
+        "遮光窗簾",
+        "親子作息"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-14",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-summer-sleep-regression-zh"
+    },
+    {
+      "slug": "toddler-summer-sleep-regression-en",
+      "lang": "en",
+      "title": "Why Your Toddler Turns Into a Sleep Disaster Every Summer",
+      "description": "Longer days, heat, and disrupted routines don't just inconvenience you — they physically confuse your toddler's brain. Here's what's actually happening and what an engineer dad does about it.",
+      "tags": [
+        "toddler sleep",
+        "summer sleep regression",
+        "sleep tips",
+        "toddler bedtime",
+        "heat sleep disruption",
+        "circadian rhythm"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-14",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-summer-sleep-regression-en"
+    },
+    {
+      "slug": "toddler-bolting-runs-away-in-public-zh",
+      "lang": "zh-TW",
+      "title": "帶孩子出門就心驚驚：孩子愛衝出去亂跑，怎麼辦？",
+      "description": "一個轉身，孩子就不見了——這是每個帶過幼兒出門的爸媽都懂的恐慌。孩子亂跑不是壞，是大腦還在發育。這篇告訴你當下怎麼反應、出門前怎麼準備。",
+      "tags": [
+        "幼兒行為",
+        "幼兒安全",
+        "正向教養",
+        "帶孩子出門",
+        "幼兒亂跑",
+        "親子教養"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-13",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-bolting-runs-away-in-public-zh"
+    },
+    {
+      "slug": "toddler-bolting-runs-away-in-public-en",
+      "lang": "en",
+      "title": "My Toddler Bolts: How to Keep a Runner Safe Without Turning Every Outing Into a Standoff",
+      "description": "Your toddler darts the moment you loosen your grip — not because they're being bad, but because their brain is genuinely wired for it. Here's what actually helps in the moment and what makes it worse.",
+      "tags": [
+        "toddler safety",
+        "toddler behavior",
+        "positive parenting",
+        "toddler in public",
+        "running away",
+        "toddler discipline"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-13",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-bolting-runs-away-in-public-en"
+    },
     {
       "slug": "toddler-preschool-separation-anxiety-prep-zh",
       "lang": "zh-TW",
