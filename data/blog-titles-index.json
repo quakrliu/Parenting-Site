@@ -1,1686 +1,13 @@
 {
-  "generated": "2026-06-14T02:24:39.430Z",
+  "generated": "2026-06-16T06:30:05.714Z",
   "counts": {
-    "total": 170,
-    "en": 80,
-    "zh": 90,
+    "total": 176,
+    "en": 82,
+    "zh": 94,
     "drafts": 0,
     "skipped": 2
   },
   "posts": [
-    {
-      "slug": "toddler-summer-sleep-regression-zh",
-      "lang": "zh-TW",
-      "title": "小孩夏天睡眠大崩潰？高溫＋長日照的破解完全指南",
-      "description": "每年六月一到，孩子就開始不肯睡、半夜起來、早上五點就醒——這不是管教問題，是生理問題。工程師爸爸分享夏季睡眠倒退的真正原因和實戰應對法。",
-      "tags": [
-        "幼兒睡眠",
-        "夏天睡眠",
-        "睡眠倒退",
-        "幼兒作息",
-        "遮光窗簾",
-        "親子作息"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-14",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-summer-sleep-regression-zh"
-    },
-    {
-      "slug": "toddler-summer-sleep-regression-en",
-      "lang": "en",
-      "title": "Why Your Toddler Turns Into a Sleep Disaster Every Summer",
-      "description": "Longer days, heat, and disrupted routines don't just inconvenience you — they physically confuse your toddler's brain. Here's what's actually happening and what an engineer dad does about it.",
-      "tags": [
-        "toddler sleep",
-        "summer sleep regression",
-        "sleep tips",
-        "toddler bedtime",
-        "heat sleep disruption",
-        "circadian rhythm"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-14",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-summer-sleep-regression-en"
-    },
-    {
-      "slug": "toddler-bolting-runs-away-in-public-zh",
-      "lang": "zh-TW",
-      "title": "帶孩子出門就心驚驚：孩子愛衝出去亂跑，怎麼辦？",
-      "description": "一個轉身，孩子就不見了——這是每個帶過幼兒出門的爸媽都懂的恐慌。孩子亂跑不是壞，是大腦還在發育。這篇告訴你當下怎麼反應、出門前怎麼準備。",
-      "tags": [
-        "幼兒行為",
-        "幼兒安全",
-        "正向教養",
-        "帶孩子出門",
-        "幼兒亂跑",
-        "親子教養"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-13",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-bolting-runs-away-in-public-zh"
-    },
-    {
-      "slug": "toddler-bolting-runs-away-in-public-en",
-      "lang": "en",
-      "title": "My Toddler Bolts: How to Keep a Runner Safe Without Turning Every Outing Into a Standoff",
-      "description": "Your toddler darts the moment you loosen your grip — not because they're being bad, but because their brain is genuinely wired for it. Here's what actually helps in the moment and what makes it worse.",
-      "tags": [
-        "toddler safety",
-        "toddler behavior",
-        "positive parenting",
-        "toddler in public",
-        "running away",
-        "toddler discipline"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-13",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-bolting-runs-away-in-public-en"
-    },
-    {
-      "slug": "toddler-preschool-separation-anxiety-prep-zh",
-      "lang": "zh-TW",
-      "title": "幼兒園開學前8週，你可以做這10件事——分離焦慮不是問題，沒準備才是",
-      "description": "孩子開學哭得撕心裂肺，你比他更需要幫助。工程師爸爸 Ethan 分享 10 步驟開學準備清單，讓寶貝和你都能優雅撐過幼兒園分離焦慮。",
-      "tags": [
-        "分離焦慮",
-        "幼兒園",
-        "開學準備",
-        "正向教養",
-        "幼兒行為",
-        "入學適應"
-      ],
-      "ageGroup": [],
-      "pubDate": "2026-06-12",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-preschool-separation-anxiety-prep-zh"
-    },
-    {
-      "slug": "toddler-preschool-separation-anxiety-prep-en",
-      "lang": "en",
-      "title": "Starting Preschool This Fall? Here's How to Prep Your Toddler for Separation Anxiety Before Day One",
-      "description": "Separation anxiety at preschool drop-off is normal — and predictable. An engineer dad's 10-step checklist for families starting preschool or daycare this fall, backed by attachment research.",
-      "tags": [
-        "separation anxiety",
-        "preschool",
-        "back to school",
-        "toddler behavior",
-        "parenting tips",
-        "school readiness"
-      ],
-      "ageGroup": [],
-      "pubDate": "2026-06-12",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-preschool-separation-anxiety-prep-en"
-    },
-    {
-      "slug": "grandma-junk-food-toddler-how-to-handle-zh",
-      "lang": "zh-TW",
-      "title": "阿嬤一直塞糖果零食給孩子，你說不行她說「偶爾嘛」：有效溝通不傷感情的方法",
-      "description": "每次帶孩子去阿公阿嬤家，回來就像進了糖果工廠。這不是阿嬤不愛你，是愛的語言不同——但飲食習慣確實會受影響。工程師爸爸整理了 5 年的跨代飲食溝通實戰，不吵架、不冷戰的做法。",
-      "tags": [
-        "隔代教養",
-        "阿公阿嬤",
-        "幼兒飲食",
-        "跨代衝突",
-        "正向教養",
-        "孩子不吃飯"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-11",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/grandma-junk-food-toddler-how-to-handle-zh"
-    },
-    {
-      "slug": "grandma-junk-food-toddler-how-to-handle-en",
-      "lang": "en",
-      "title": "Grandma Keeps Sneaking Your Toddler Cookies Before Dinner. Here's What Actually Works.",
-      "description": "When grandparents override your food rules with sugar and treats, the conflict feels impossible. Here's how to set real limits without blowing up the relationship — from a dad who fought this battle for years.",
-      "tags": [
-        "grandparents",
-        "toddler feeding",
-        "picky eater",
-        "positive parenting",
-        "family conflict",
-        "food boundaries"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-11",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/grandma-junk-food-toddler-how-to-handle-en"
-    },
-    {
-      "slug": "screen-time-guilt-quality-over-quantity-zh",
-      "lang": "zh-TW",
-      "title": "螢幕時間沒你想的那麼可怕：父母的罪惡感才是真正傷害親子關係的那件事",
-      "description": "四分之三的爸媽對孩子的螢幕時間感到內疚——但 2025 年刊登在《媒體心理學》的研究發現，真正損害親子關係的不是螢幕時間本身，而是爸媽的罪惡感。",
-      "tags": [
-        "螢幕時間",
-        "育兒內疚",
-        "數位教養",
-        "正向教養",
-        "幼兒螢幕時間"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-09",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/screen-time-guilt-quality-over-quantity-zh"
-    },
-    {
-      "slug": "screen-time-guilt-quality-over-quantity-en",
-      "lang": "en",
-      "title": "Screen Time Guilt Is Making Things Worse: What the Research Actually Says",
-      "description": "74% of parents feel guilty about kids' screen time — but a 2025 Media Psychology study found parental guilt, not the actual screen time, is what damages the parent-child relationship. Here's how to shift from guilt to intention.",
-      "tags": [
-        "screen time",
-        "parenting guilt",
-        "digital parenting",
-        "toddler screen time",
-        "quality over quantity"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-09",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/screen-time-guilt-quality-over-quantity-en"
-    },
-    {
-      "slug": "toddler-low-frustration-tolerance-zh",
-      "lang": "zh-TW",
-      "title": "孩子一點小事就崩潰、動不動就大哭：挫折耐受度是可以練的",
-      "description": "玩具倒了哭、餅乾斷了哭、積木疊不好哭。孩子不是被寵壞，是這個年齡的神經發展正常現象。Mei 解釋挫折耐受度低的真正原因，以及怎麼在日常中一點一點建立起來。",
-      "tags": [
-        "幼兒挫折耐受",
-        "孩子愛哭",
-        "情緒調節",
-        "正向教養",
-        "蒙特梭利",
-        "幼兒情緒發展"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-08",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-low-frustration-tolerance-zh"
-    },
-    {
-      "slug": "potty-training-regression-accidents-en",
-      "lang": "en",
-      "title": "My Potty-Trained Toddler Is Having Accidents Again: What's Actually Happening",
-      "description": "Your child was doing great for months. Then suddenly — accidents every day. Potty training regression is incredibly common and almost never means you failed. Here's what triggers it and how to respond without making it worse.",
-      "tags": [
-        "potty training regression",
-        "toddler accidents",
-        "potty training tips",
-        "toilet training setback",
-        "toddler development",
-        "preschool regression"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-08",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/en/blog/potty-training-regression-accidents-en"
-    },
-    {
-      "slug": "toddler-refuses-nap-zh",
-      "lang": "zh-TW",
-      "title": "幼兒不肯睡午覺？先別崩潰，這可能是正常發展",
-      "description": "幼兒抗拒午睡不代表你管教失敗。從兒科研究到台灣家庭實戰，Mei 分享幾歲可以停午睡、怎麼設計「安靜時間」、以及怎麼跟阿公阿嬤溝通。",
-      "tags": [
-        "幼兒午睡",
-        "幼兒不睡覺",
-        "安靜時間",
-        "幼兒作息",
-        "午睡戒除",
-        "幼兒睡眠",
-        "正向教養"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-06-07",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-refuses-nap-zh"
-    },
-    {
-      "slug": "toddler-hates-hair-washing-en",
-      "lang": "en",
-      "title": "She Screams Before I Even Turn On the Water",
-      "description": "Hair washing shouldn't feel like a wrestling match. Here's what developmental science says about why toddlers hate it — and the specific shifts that made bath time survivable at our house.",
-      "tags": [
-        "toddler hair washing",
-        "bath time toddler",
-        "toddler sensory",
-        "toddler bathing tips",
-        "toddler tantrums bath",
-        "toddler bath resistance",
-        "hair wash without tears"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-06-07",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-hates-hair-washing-en"
-    },
-    {
-      "slug": "toddler-whining-phase-what-helps-en",
-      "lang": "en",
-      "title": "The Toddler Whining Phase: Why It Feels Like It's Getting Worse (And What Actually Helps)",
-      "description": "Your toddler's whining feels strategic. It isn't. Here's the neuroscience behind why kids whine, the three mistakes that keep it going, and six practical strategies that actually work — from a dad who got it wrong for months first.",
-      "tags": [
-        "toddler behavior",
-        "whining",
-        "positive parenting",
-        "toddler development",
-        "communication"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-06-06",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-whining-phase-what-helps-en"
-    },
-    {
-      "slug": "toddler-refuses-medicine-sick-days-zh",
-      "lang": "zh-TW",
-      "title": "寶貝生病不肯吃藥怎麼辦？工程師爸爸三次失敗後找到的做法",
-      "description": "孩子發燒不肯吃退燒藥，把藥水吐出來，硬灌只會讓下次更難。工程師爸爸分享三次失敗後真正有效的五個策略，按年齡分類，還有和阿公阿嬤的藥物觀念分歧怎麼處理。",
-      "tags": [
-        "幼兒健康",
-        "不肯吃藥",
-        "生病照護",
-        "育兒技巧",
-        "正向教養"
-      ],
-      "ageGroup": [
-        "baby",
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-06-06",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-refuses-medicine-sick-days-zh"
-    },
-    {
-      "slug": "toddler-meltdown-grocery-store-public-zh",
-      "lang": "zh-TW",
-      "title": "孩子在好市多崩潰？我學了三年才搞懂公共場所失控的真正原因",
-      "description": "推車推了半小時、結帳還有七個人、孩子突然躺在地板上。這不是孩子壞——是我們對「幼兒油箱」的估算太樂觀了。",
-      "tags": [
-        "幼兒教養",
-        "公共崩潰",
-        "正向教養",
-        "幼兒情緒",
-        "親子外出"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-06-05",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-meltdown-grocery-store-public-zh"
-    },
-    {
-      "slug": "toddler-meltdown-grocery-store-public-en",
-      "lang": "en",
-      "title": "When Your Toddler Melts Down at Costco: What I Learned After 3 Years of Public Tantrums",
-      "description": "Your cart is full, the checkout line is long, and your toddler just discovered the floor. Here's what actually works when kids fall apart in public -- from a dad who has been asked to leave the Costco food court.",
-      "tags": [
-        "toddler behavior",
-        "public meltdown",
-        "positive parenting",
-        "tantrum tips",
-        "toddler tantrums"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-06-05",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-meltdown-grocery-store-public-en"
-    },
-    {
-      "slug": "toddler-refuses-car-seat-meltdown-zh",
-      "lang": "zh-TW",
-      "title": "孩子一看到安全座椅就哭？你不是一個人",
-      "description": "每次出門前光是解決安全座椅的戰爭就耗掉半小時體力。孩子為什麼這麼抗拒？什麼方法真的有用——台灣爸媽親身實戰筆記。",
-      "tags": [
-        "安全座椅",
-        "幼兒行為",
-        "幼兒崩潰",
-        "正向教養",
-        "親子出遊"
-      ],
-      "ageGroup": [
-        "toddler",
-        "baby"
-      ],
-      "pubDate": "2026-06-03",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-refuses-car-seat-meltdown-zh"
-    },
-    {
-      "slug": "toddler-refuses-car-seat-meltdown-en",
-      "lang": "en",
-      "title": "The Battle Begins Before We Even Pull Out of the Driveway",
-      "description": "Your toddler arches their back, screams, and goes completely rigid the moment you move toward the car seat. Here's why this happens developmentally — and 5 strategies that reduce car seat battles without turning every car trip into a standoff.",
-      "tags": [
-        "car seat",
-        "toddler behavior",
-        "toddler meltdown",
-        "car seat safety",
-        "positive parenting toddler"
-      ],
-      "ageGroup": [
-        "toddler",
-        "baby"
-      ],
-      "pubDate": "2026-06-03",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-refuses-car-seat-meltdown-en"
-    },
-    {
-      "slug": "toddler-grandma-raised-transition-zh",
-      "lang": "zh-TW",
-      "title": "阿嬤帶了三年，現在換我帶：寶貝天天哭找阿嬤，我到底哪裡不夠好？",
-      "description": "台灣最常見的教養困境之一：寶貝從小由阿嬤帶大，換成爸媽接手後，孩子每天哭鬧、不讓抱、說「我要阿嬤」。這不是你的錯，但你需要知道這些。",
-      "tags": [
-        "隔代教養",
-        "親子教養",
-        "分離焦慮",
-        "正向教養",
-        "阿公阿嬤"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-02",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-grandma-raised-transition-zh"
-    },
-    {
-      "slug": "toddler-asks-why-nonstop-parent-guide-en",
-      "lang": "en",
-      "title": "My Toddler Asks 'Why?' 500 Times a Day — Here's What's Actually Happening",
-      "description": "The 'why' loop that never ends. Every parent hits it. Here's what child development research says is going on in that tiny brain — and 5 scripts that make conversations survivable.",
-      "tags": [
-        "toddler development",
-        "toddler questions",
-        "positive parenting",
-        "language development",
-        "toddler curiosity"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-06-02",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-asks-why-nonstop-parent-guide-en"
-    },
-    {
-      "slug": "toddler-slow-eater-dinner-drags-on-zh",
-      "lang": "zh-TW",
-      "title": "孩子吃飯吃到快八點，每天都是一場消耗戰",
-      "description": "幼兒吃飯拖拖拉拉，爸媽坐在旁邊等快崩潰？這篇不教你怎麼追著喂，而是找出為什麼孩子吃那麼慢，還有真正有效的方法。",
-      "tags": [
-        "幼兒吃飯",
-        "挑食",
-        "飯桌習慣",
-        "正向教養",
-        "幼兒發展"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-06-01",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-slow-eater-dinner-drags-on-zh"
-    },
-    {
-      "slug": "toddler-screen-time-ending-meltdown-en",
-      "lang": "en",
-      "title": "My Kid Screamed for 20 Minutes Every Time I Turned Off the TV — Here's What Changed",
-      "description": "Toddlers losing it when screen time ends isn't screen addiction — it's a neurological transition your kid genuinely can't handle yet. Here's what actually works to end screen time without the meltdown spiral.",
-      "tags": [
-        "screen time",
-        "toddler behavior",
-        "toddler meltdowns",
-        "positive parenting",
-        "daily routine"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-06-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-screen-time-ending-meltdown-en"
-    },
-    {
-      "slug": "toddler-constant-whining-zh",
-      "lang": "zh-TW",
-      "title": "那個哭哭音：寶貝整天撒嬌抱怨，阿嬤說「哎呀給她嘛」，夾在中間的爸媽怎麼辦",
-      "description": "幼兒一開口就是哭哭音，不給就哭、阿嬤在旁邊幫腔——這背後的原因，以及在台灣家庭裡真的有用的方法。",
-      "tags": [
-        "幼兒行為",
-        "幼兒情緒",
-        "正向教養",
-        "親子溝通",
-        "祖父母教養"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-06-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-constant-whining-zh"
-    },
-    {
-      "slug": "toddler-constant-whining-en",
-      "lang": "en",
-      "title": "Why Is My Toddler Always Whining? A Dad's Field Notes",
-      "description": "That specific high-pitched tone when your toddler wants something. Here's what's actually driving it — and what has worked in our house after years of getting it wrong.",
-      "tags": [
-        "toddler behavior",
-        "toddler whining",
-        "positive parenting",
-        "emotional regulation",
-        "toddler communication"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-06-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-constant-whining-en"
-    },
-    {
-      "slug": "kids-wont-stop-fighting-sibling-conflict-zh",
-      "lang": "zh-TW",
-      "title": "孩子又打架了：手足衝突的現場應急法，以及為什麼強迫道歉沒有用",
-      "description": "兄弟姊妹平均每小時打架3到7次是正常的。問題不是怎麼讓他們不打架，而是你的每一次介入，到底在教他們什麼。",
-      "tags": [
-        "手足衝突",
-        "兄弟姊妹打架",
-        "正向教養",
-        "蒙特梭利",
-        "幼兒行為",
-        "情緒管理",
-        "親子教養"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool",
-        "school"
-      ],
-      "pubDate": "2026-06-01",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/kids-wont-stop-fighting-sibling-conflict-zh"
-    },
-    {
-      "slug": "kids-wont-stop-fighting-sibling-conflict-en",
-      "lang": "en",
-      "title": "When Your Kids Won't Stop Fighting Each Other: Field Notes from a Dad Who's Tried Everything",
-      "description": "Siblings between 2 and 10 average 3-7 conflicts per hour during shared play. Here's what actually reduces the fighting — and why the two most instinctive responses make it worse.",
-      "tags": [
-        "sibling fighting",
-        "sibling conflict",
-        "toddler behavior",
-        "positive parenting",
-        "dad life",
-        "sibling rivalry",
-        "conflict resolution kids"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool",
-        "school"
-      ],
-      "pubDate": "2026-06-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/kids-wont-stop-fighting-sibling-conflict-en"
-    },
-    {
-      "slug": "toddler-hits-parents-when-angry-en",
-      "lang": "en",
-      "title": "She Hit Me in the Face. She Was Two. And I Froze.",
-      "description": "When your toddler hits you — repeatedly, intentionally — it's confusing and exhausting. Here's the developmental science behind why toddlers hit parents, what backfires, and the 3-step response that actually changes the behavior over time.",
-      "tags": [
-        "toddler hitting",
-        "toddler aggression",
-        "positive parenting",
-        "toddler behavior",
-        "emotional regulation toddlers",
-        "toddler discipline",
-        "toddler biting hitting parents"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-31",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-hits-parents-when-angry-en"
-    },
-    {
-      "slug": "toddler-after-school-meltdown-zh",
-      "lang": "zh-TW",
-      "title": "幼兒園老師說今天很棒，上車五分鐘就崩潰——這才是寶貝最愛你的證明",
-      "description": "在學校乖乖的，一到爸媽身邊就大哭大鬧？這不是寶貝在作，是有名字的正常發展現象「放學情緒崩潰」。Mei 解釋原因，還有三個讓接送時間不再像地雷區的實際做法。",
-      "tags": [
-        "幼兒情緒",
-        "幼兒園放學",
-        "情緒調節",
-        "正向教養",
-        "兒童發展",
-        "托育壓力",
-        "幼兒崩潰"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-31",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-after-school-meltdown-zh"
-    },
-    {
-      "slug": "toddler-bedtime-stalling-zh",
-      "lang": "zh-TW",
-      "title": "小孩睡前一直找理由不肯睡？爸媽最崩潰的這45分鐘終於有解了",
-      "description": "睡前要水、要抱抱、太熱、聽到聲音、突然想到什麼……孩子出來第五次了你還沒崩嗎？分享讓我家睡前從50分鐘縮到15分鐘的方法。",
-      "tags": [
-        "嬰幼兒睡眠",
-        "睡前儀式",
-        "正向教養",
-        "幼兒行為",
-        "親子教養"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-05-30",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-bedtime-stalling-zh"
-    },
-    {
-      "slug": "toddler-bedtime-stalling-keeps-getting-up-en",
-      "lang": "en",
-      "title": "My Toddler Keeps Getting Out of Bed — 45 Minutes Every Night",
-      "description": "Does your toddler turn bedtime into a negotiation marathon? Here's what's actually driving the curtain calls — and the specific changes that cut our bedtime from 45 minutes to 12.",
-      "tags": [
-        "toddler sleep",
-        "bedtime routine",
-        "toddler discipline",
-        "positive parenting",
-        "toddler behavior"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-05-30",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-bedtime-stalling-keeps-getting-up-en"
-    },
-    {
-      "slug": "toddler-says-i-hate-you-zh",
-      "lang": "zh-TW",
-      "title": "寶貝說「我不要你了！你不是我爸爸！」那一刻，我愣了三秒",
-      "description": "孩子氣到大叫「我討厭你」「我不要你了」，每個台灣爸媽都在心裡抖了一下。這不是你教失敗的證明——最新兒科研究指出，這句話背後藏著你意想不到的好消息。",
-      "tags": [
-        "幼兒情緒",
-        "正向教養",
-        "親子溝通",
-        "爸爸育兒",
-        "情緒教育"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-28",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-says-i-hate-you-zh"
-    },
-    {
-      "slug": "grandparents-dont-follow-parenting-rules-en",
-      "lang": "en",
-      "title": "When Grandparents Don't Follow Your Parenting Rules (And What Actually Helps)",
-      "description": "Your parents or in-laws ignore the screen time limits, slip in extra dessert, and let bedtime slide by two hours. Here's why direct confrontation backfires — and the specific framework that actually works.",
-      "tags": [
-        "grandparent conflict",
-        "co-parenting",
-        "family boundaries",
-        "positive parenting",
-        "intergenerational parenting"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-28",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/grandparents-dont-follow-parenting-rules-en"
-    },
-    {
-      "slug": "toddler-says-i-hate-you-en",
-      "lang": "en",
-      "title": "My Toddler Said 'I Hate You' — and I Had to Sit With It",
-      "description": "When your toddler hurls 'I hate you' mid-meltdown, every parental instinct fires at once. Here's what I did instead of the obvious, what the research actually says, and why that awful moment became one of our best.",
-      "tags": [
-        "toddler behavior",
-        "emotional intelligence",
-        "positive discipline",
-        "dad life",
-        "tantrums"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-27",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-says-i-hate-you-en"
-    },
-    {
-      "slug": "grandparent-screen-time-conflict-zh",
-      "lang": "zh-TW",
-      "title": "去阿公阿嬤家，孩子的螢幕時間規定就蒸發了",
-      "description": "帶孩子去長輩家，才進門十分鐘電視就開了，辛苦建立的規定像沙堡一樣垮掉。這不只是螢幕問題，是隔代教養邊界的問題——我花了一年才想通怎麼應對。",
-      "tags": [
-        "隔代教養",
-        "阿公阿嬤",
-        "螢幕時間",
-        "家庭邊界",
-        "正向教養"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-27",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/grandparent-screen-time-conflict-zh"
-    },
-    {
-      "slug": "toddler-jealousy-new-baby-sibling-zh",
-      "lang": "zh-TW",
-      "title": "老大突然說「我不會走路，媽媽抱」：二寶回家後的情緒退化，和我們做錯的三件事",
-      "description": "二寶出生後老大開始打人、說嬰兒語、半夜哭鬧——這不是任性，是安全感破碎的求救訊號。Mei 整理台灣家庭最常踩的三個雷，以及真正有效的重建步驟。",
-      "tags": [
-        "老大嫉妒",
-        "二寶準備",
-        "手足競爭",
-        "幼兒退化",
-        "正向教養",
-        "台灣育兒",
-        "二寶家庭"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-05-26",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-jealousy-new-baby-sibling-zh"
-    },
-    {
-      "slug": "toddler-jealousy-new-baby-sibling-en",
-      "lang": "en",
-      "title": "Your Toddler Is Falling Apart Because They Think You Love the Baby More",
-      "description": "Toddler regression after a new sibling arrives isn't acting out — it's a grief response. What actually works during the firstborn adjustment, from weeks one through eight, including the specific moments that turn things around.",
-      "tags": [
-        "new baby jealousy",
-        "toddler regression",
-        "sibling adjustment",
-        "new baby arrival",
-        "toddler behavior",
-        "second child parenting",
-        "firstborn regression"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschooler"
-      ],
-      "pubDate": "2026-05-26",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-jealousy-new-baby-sibling-en"
-    },
-    {
-      "slug": "toddler-refuses-bath-time-zh",
-      "lang": "zh-TW",
-      "title": "寶貝一聽到洗澡就大哭？試過這三招，現在他自己去開水了",
-      "description": "晚上說洗澡就崩潰、阿嬤說強硬一點、爸爸說溫和處理——三個大人，一個哭鬧的寶貝，到底誰對？一個爸爸的真實記錄，還有最後真正有用的方法。",
-      "tags": [
-        "幼兒不洗澡",
-        "幼兒洗澡哭",
-        "睡前例行程序",
-        "正向教養",
-        "育兒日常"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-24",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-refuses-bath-time-zh"
-    },
-    {
-      "slug": "toddler-refuses-bath-time-en",
-      "lang": "en",
-      "title": "My Toddler Turned Bath Time Into a War Zone (What Actually Fixed It)",
-      "description": "Luna used to scream the moment she heard the word 'bath.' After three months of failed tactics, here's the simple shift that actually worked — and why end-of-day toddler meltdowns are rarely about the bath itself.",
-      "tags": [
-        "toddler bath time",
-        "toddler refuses bath",
-        "bath time routine",
-        "toddler meltdown",
-        "toddler bedtime routine"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-24",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-refuses-bath-time-en"
-    },
-    {
-      "slug": "toddler-wont-wear-shoes-zh",
-      "lang": "zh-TW",
-      "title": "出門前的穿鞋大戰：孩子為什麼就是不肯穿？（真的有效的方法）",
-      "description": "快遲到了，孩子躺在玄關地板上說什麼都不穿鞋？這不是故意氣你——弄懂背後原因，你就能讓出門從每天的崩潰變成還算順的例行事。",
-      "tags": [
-        "正向教養",
-        "親子教養",
-        "幼兒行為",
-        "出門崩潰",
-        "育兒痛點"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-23",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-wont-wear-shoes-zh"
-    },
-    {
-      "slug": "toddler-throws-food-at-every-meal-en",
-      "lang": "en",
-      "title": "When Your Toddler Throws Food: What's Actually Behind It (And What Actually Helps)",
-      "description": "Your toddler launches another piece of chicken across the kitchen. Here's the developmental reason toddlers throw food -- and 5 strategies that actually reduce it without turning dinner into a standoff.",
-      "tags": [
-        "positive parenting",
-        "toddler eating",
-        "toddler behavior",
-        "family meals",
-        "toddler discipline"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-23",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-throws-food-at-every-meal-en"
-    },
-    {
-      "slug": "toddler-night-terrors-what-to-do-zh",
-      "lang": "zh-TW",
-      "title": "孩子半夜突然大叫、眼睛睜開卻怎麼叫都沒反應——這是夜驚，不是夢魘",
-      "description": "深夜兩點，寶貝站在床上尖叫、眼神空洞，喊他名字完全沒有反應。這不是被鬼嚇，不是心理有問題——是夜驚。而你的每一個直覺反應，很可能都讓情況更糟。",
-      "tags": [
-        "幼兒睡眠",
-        "夜驚",
-        "幼兒",
-        "睡眠問題",
-        "育兒"
-      ],
-      "ageGroup": [],
-      "pubDate": "2026-05-22",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-night-terrors-what-to-do-zh"
-    },
-    {
-      "slug": "toddler-night-terrors-what-to-do-en",
-      "lang": "en",
-      "title": "Your Toddler Screams at 2 AM and Remembers Nothing: Night Terrors Explained",
-      "description": "Your child's eyes are open, they're screaming, and they can't hear you at all. Here's what night terrors actually are—and why your every instinct during one makes it worse.",
-      "tags": [
-        "toddler sleep",
-        "night terrors",
-        "sleep problems",
-        "toddler",
-        "parenting"
-      ],
-      "ageGroup": [],
-      "pubDate": "2026-05-22",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-night-terrors-what-to-do-en"
-    },
-    {
-      "slug": "toddler-preschool-drop-off-tears-en",
-      "lang": "en",
-      "title": "Why My Toddler Cries at Preschool Drop-Off Every Morning (And What Finally Stopped It)",
-      "description": "Your toddler's morning meltdown at the classroom door isn't a parenting failure — it's predictable, fixable, and there's a reason the tricks you've tried haven't worked.",
-      "tags": [
-        "separation anxiety",
-        "preschool drop-off",
-        "toddler",
-        "morning routine",
-        "parenting"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-21",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-preschool-drop-off-tears-en"
-    },
-    {
-      "slug": "taichung-montessori-schools-2026-zh",
-      "lang": "zh-TW",
-      "title": "台中蒙特梭利幼兒園完整指南 2026：學費行情、入學眉角、家長真實心得",
-      "description": "從公幼到私立蒙特梭利，台中家長最常問的問題全在這裡。2026 學費行情、入學時程、如何在現場看出真假蒙特梭利，一次說清楚。",
-      "tags": [
-        "台中",
-        "蒙特梭利",
-        "幼兒園",
-        "學費",
-        "育兒",
-        "幼兒教育"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-21",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/taichung-montessori-schools-2026-zh"
-    },
-    {
-      "slug": "toddler-refuses-to-leave-park-zh",
-      "lang": "zh-TW",
-      "title": "孩子不肯離開公園就崩潰：5個讓轉換更順的實用方法",
-      "description": "每次要帶孩子離開公園，他就原地崩潰？這不是教養失敗，而是幼兒發展的正常反應——這篇分享5個真的有用的應對策略。",
-      "tags": [
-        "幼兒行為",
-        "正向教養",
-        "幼兒情緒",
-        "轉換困難",
-        "親子公園"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-20",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-refuses-to-leave-park-zh"
-    },
-    {
-      "slug": "toddler-refuses-to-leave-park-en",
-      "lang": "en",
-      "title": "Toddler Refuses to Leave the Park: Real Strategies for the Meltdown Moment",
-      "description": "Your toddler has a complete meltdown every time you say it's time to go. Here's why transitions are so hard — and 5 strategies that actually help in the real world.",
-      "tags": [
-        "toddler behavior",
-        "positive parenting",
-        "toddler tantrums",
-        "transitions",
-        "outdoor activities"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-20",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-refuses-to-leave-park-en"
-    },
-    {
-      "slug": "montessori-tuition-worth-it-zh",
-      "lang": "zh-TW",
-      "title": "蒙特梭利學費到底值不值？工程師爸爸算給你看",
-      "description": "每個月兩萬多的蒙特梭利學費，真的比公幼好這麼多嗎？一個工程師爸爸的實際計算，加上 2026 年最新研究，給你一個誠實的答案。",
-      "tags": [
-        "蒙特梭利",
-        "幼兒園選擇",
-        "學費比較",
-        "正向教養",
-        "台灣育兒",
-        "公幼 vs 私幼"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-05-19",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/montessori-tuition-worth-it-zh"
-    },
-    {
-      "slug": "montessori-schools-taiwan-2026-expat-guide-en",
-      "lang": "en",
-      "title": "Montessori Schools in Taiwan 2026: A Complete Guide for Expat Families",
-      "description": "Moving to Taiwan with young children? Here's what no one tells you about finding a genuine Montessori school—AMI certification, real costs, language trade-offs, and what to ask on a tour.",
-      "tags": [
-        "montessori",
-        "expat parenting",
-        "taiwan schools",
-        "preschool",
-        "school selection",
-        "taipei",
-        "hsinchu"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-05-19",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/en/blog/montessori-schools-taiwan-2026-expat-guide-en"
-    },
-    {
-      "slug": "toddler-refuses-medicine-sick-days-en",
-      "lang": "en",
-      "title": "My Toddler Refuses Medicine: A Dad's Guide to Sick Days That Actually Work",
-      "description": "When my daughter spit her fever reducer across the bathroom and laughed, I realized I'd been doing this completely wrong for two years. Here's what changed.",
-      "tags": [
-        "toddler",
-        "sick day",
-        "medicine",
-        "toddler behavior",
-        "parenting tips"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-18",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-refuses-medicine-sick-days-en"
-    },
-    {
-      "slug": "toddler-hates-hair-washing-zh",
-      "lang": "zh-TW",
-      "title": "每次洗頭都是大戰：孩子怕洗頭的真正原因，和一個月內改善的方法",
-      "description": "三歲的孩子一看到蓮蓬頭就哭？不是故意鬧，是感覺統合正在發展中。Mei 告訴我，用對順序，一個月後孩子自己走進浴室。",
-      "tags": [
-        "幼兒",
-        "洗頭",
-        "感覺統合",
-        "親子",
-        "育兒技巧"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-18",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-hates-hair-washing-zh"
-    },
-    {
-      "slug": "wfh-clingy-toddler-zh",
-      "lang": "zh-TW",
-      "title": "在家工作遇到黏人寶貝怎麼辦？5 招讓爸媽不被打斷 30 次的求生指南 2026",
-      "description": "寶貝整天跟著你，一離開就哭？在家工作的爸媽都快崩潰了。這裡有我親試有效的方法，讓你工作、孩子開心，兩全其美。",
-      "tags": [
-        "在家工作育兒",
-        "幼兒黏人",
-        "居家辦公爸媽",
-        "育兒痛點",
-        "幼兒獨立遊戲"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-17",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/wfh-clingy-toddler-zh"
-    },
-    {
-      "slug": "toddler-refuses-nap-survival-guide-en",
-      "lang": "en",
-      "title": "My 3-Year-Old Stopped Napping Overnight: A Dad's Honest Survival Guide",
-      "description": "Our toddler dropped his nap cold-turkey and I had four weeks of 4 PM meltdowns to prove it. Here is what actually helped — and what made things worse.",
-      "tags": [
-        "toddler sleep",
-        "nap refusal",
-        "toddler schedule",
-        "toddler development",
-        "sleep transition"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-17",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-refuses-nap-survival-guide-en"
-    },
-    {
-      "slug": "why-toddler-lies-zh",
-      "lang": "zh-TW",
-      "title": "孩子說謊不是我弄的！3 個正確第一反應讓他以後主動說真話（正向教養技巧）",
-      "description": "孩子睜著大眼睛說謊，爸媽的心都涼了一半。但研究告訴你：孩子的第一個謊，其實是腦部發展的里程碑。問題不是說謊，是你怎麼回應。",
-      "tags": [
-        "幼兒行為",
-        "孩子說謊",
-        "正向教養",
-        "兒童發展"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-16",
-      "author": "Ethan Moore",
-      "youtubeId": "0Q7cnCOqhhw",
-      "url": "/zh/blog/why-toddler-lies-zh"
-    },
-    {
-      "slug": "why-toddler-lies-en",
-      "lang": "en",
-      "title": "Why Your Toddler Lies (And Why It's Actually a Sign of a Smart Brain)",
-      "description": "Your toddler looked you dead in the eye and lied. Before you spiral, here's what developmental research says about why kids lie at ages 2-5 — and what to do that actually works.",
-      "tags": [
-        "toddler behavior",
-        "lying",
-        "positive parenting",
-        "child development"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-16",
-      "author": "Ethan Moore",
-      "youtubeId": "S5a8xztZu78",
-      "url": "/en/blog/why-toddler-lies-en"
-    },
-    {
-      "slug": "toddler-wont-share-toys-playground-zh",
-      "lang": "zh-TW",
-      "title": "孩子在公園搶玩具、不肯分享？我從崩潰現場學到的那堂課",
-      "description": "帶孩子去公園，結果變成道歉之旅？Mei 告訴我，強迫孩子分享不只沒用，還會造成反效果——以及真正有效的做法。",
-      "tags": [
-        "幼兒",
-        "分享玩具",
-        "正向教養",
-        "公園",
-        "幼兒行為"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-16",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-wont-share-toys-playground-zh"
-    },
-    {
-      "slug": "toddler-wont-share-toys-playground-en",
-      "lang": "en",
-      "title": "My Toddler Grabs Every Toy at the Playground. Here's What Actually Helped",
-      "description": "When my daughter snatched a shovel from a stranger's kid at the sandbox and I froze, Mei taught me that forcing sharing was the exact wrong move — and what to do instead.",
-      "tags": [
-        "toddler",
-        "sharing",
-        "positive parenting",
-        "toddler behavior",
-        "playground"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-16",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-wont-share-toys-playground-en"
-    },
-    {
-      "slug": "toddler-afraid-of-dark-bedtime-fears-zh",
-      "lang": "zh-TW",
-      "title": "孩子怕黑不肯一個人睡？3 個有效方法趕走房間怪獸（兒童心理師建議）",
-      "description": "三歲寶貝睡前哭鬧『有怪獸！』阿嬤說慣壞了，媽媽說心疼。到底哪個做法才對？兒科研究和實戰心得都在這裡。",
-      "tags": [
-        "睡眠",
-        "幼兒",
-        "怕黑",
-        "正向教養",
-        "睡前儀式"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-16",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-afraid-of-dark-bedtime-fears-zh"
-    },
-    {
-      "slug": "toddler-afraid-of-dark-bedtime-fears-en",
-      "lang": "en",
-      "title": "My Kid Won't Sleep Without Me in the Room (And I've Tried Everything)",
-      "description": "Sound familiar? After months of bedtime battles and false starts, here's what a pediatric sleep researcher's findings — and one very stubborn 3-year-old — finally taught me.",
-      "tags": [
-        "sleep",
-        "bedtime fears",
-        "toddler",
-        "parenting tips",
-        "sleep training"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-16",
-      "author": "Ethan Moore",
-      "youtubeId": "JxWZuIaa0ho",
-      "url": "/en/blog/toddler-afraid-of-dark-bedtime-fears-en"
-    },
-    {
-      "slug": "morning-routine-toddler-wont-get-dressed-zh",
-      "lang": "zh-TW",
-      "title": "小孩早上不肯穿衣服？5 個讓出門不崩潰的方法（台灣爸媽親測有效）",
-      "description": "每天早上七點多，一邊趕著開會，一邊跟孩子談判牛仔褲。後來 Mei 跟我說，問題不是孩子，是我完全搞錯了方向。",
-      "tags": [
-        "正向教養",
-        "幼兒教養",
-        "早晨崩潰",
-        "幼兒自主",
-        "穿衣服"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-15",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/morning-routine-toddler-wont-get-dressed-zh"
-    },
-    {
-      "slug": "morning-routine-toddler-wont-get-dressed-en",
-      "lang": "en",
-      "title": "Toddler Won't Get Dressed? How I Survived 847 Morning Meltdowns",
-      "description": "When your toddler hits the floor because the shirt has buttons and buttons are now evil. The strategies that actually work -- backed by developmental science and a dad who was chronically late to standup.",
-      "tags": [
-        "toddler behavior",
-        "morning routine",
-        "positive parenting",
-        "toddler independence",
-        "getting dressed"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-15",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/morning-routine-toddler-wont-get-dressed-en"
-    },
-    {
-      "slug": "toddler-morning-routine-battles-zh",
-      "lang": "zh-TW",
-      "title": "出門前30分鐘大作戰：女兒死活不肯穿鞋，我用這3招解決了",
-      "description": "每天早上出門前都要上演穿鞋大戰？工程師爸爸Ethan分享讓早晨不再崩潰的3個具體方法，背後有兒童發展科學支撐，台灣家長親測有效。",
-      "tags": [
-        "正向教養",
-        "幼兒",
-        "早晨例行",
-        "權力鬥爭",
-        "獨立自主"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-13",
-      "author": "Ethan Moore",
-      "youtubeId": "6iOCmfOatKo",
-      "url": "/zh/blog/toddler-morning-routine-battles-zh"
-    },
-    {
-      "slug": "toddler-morning-routine-battles-en",
-      "lang": "en",
-      "title": "My Daughter Made Us 20 Minutes Late—Again. Here's What Finally Fixed Our Morning Battles",
-      "description": "If your toddler turns into a statue the moment you say 'shoes on,' you're not alone. An engineer dad breaks down the science behind morning meltdowns and the three-part system that finally worked.",
-      "tags": [
-        "positive parenting",
-        "toddler",
-        "morning routine",
-        "power struggles",
-        "independence"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-13",
-      "author": "Ethan Moore",
-      "youtubeId": "Qo8AEDixybI",
-      "url": "/en/blog/toddler-morning-routine-battles-en"
-    },
-    {
-      "slug": "toddler-wont-brush-teeth-zh",
-      "lang": "zh-TW",
-      "title": "每天刷牙都像在打仗？工程師爸爸親測 6 招，讓孩子從緊閉嘴巴到主動說「刷牙時間到了！」",
-      "description": "孩子死命咬緊牙關不讓刷牙？這是最普遍的睡前崩潰場景。6 個蒙特梭利思維的方法，讓刷牙從每天的親子戰場變成睡前儀式。",
-      "tags": [
-        "正向教養",
-        "幼兒口腔健康",
-        "幼兒睡前儀式",
-        "幼兒自主性",
-        "蒙特梭利日常生活"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-12",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-wont-brush-teeth-zh"
-    },
-    {
-      "slug": "toddler-wont-brush-teeth-en",
-      "lang": "en",
-      "title": "My 2-Year-Old Treats Toothbrushing Like I'm Trying to Extract a Confession",
-      "description": "Every parent knows the bedtime toothbrushing standoff. Here's why toddlers clamp their mouths shut — and 6 Montessori-backed strategies that turned our nightly battle into a routine.",
-      "tags": [
-        "positive parenting",
-        "toddler routine",
-        "toddler dental care",
-        "toddler behavior",
-        "Montessori practical life"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-12",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-wont-brush-teeth-en"
-    },
-    {
-      "slug": "aap-2026-screen-time-quality-checklist-zh",
-      "lang": "zh-TW",
-      "title": "AAP 2026 螢幕時間新指南：沒有時間限制了，但你需要這 5 個品質問題",
-      "description": "AAP 2026 年取消每天 2 小時螢幕時間上限，台灣媽媽還在說舊規則。工程師爸爸 Ethan 拆解最新指南，附 5 個問題判斷任何節目值不值得讓寶貝看。",
-      "tags": [
-        "螢幕時間",
-        "AAP 2026",
-        "兒童平板時間",
-        "育兒科技",
-        "家庭媒體計畫"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-05-12",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/aap-2026-screen-time-quality-checklist-zh"
-    },
-    {
-      "slug": "aap-2026-screen-time-new-rules-en",
-      "lang": "en",
-      "title": "AAP 2026 Screen Time Guidelines: What Changed and How to Actually Use the New Rules",
-      "description": "AAP dropped the 2-hour daily limit in 2026. Here is what replaced it - a dad-friendly breakdown of the new family media plan, quality checklist, and the finding that should actually worry you.",
-      "tags": [
-        "screen time",
-        "AAP guidelines 2026",
-        "family media plan",
-        "toddler screen time",
-        "digital parenting"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-05-12",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/aap-2026-screen-time-new-rules-en"
-    },
-    {
-      "slug": "toddler-wakes-every-2-hours-en",
-      "lang": "en",
-      "title": "Why Your Toddler Wakes Every 2 Hours (And What Actually Helps)",
-      "description": "Your toddler keeps waking at night and you are running on fumes. Here is the real reason it happens and the sleep science steps that fix it.",
-      "tags": [
-        "toddler sleep",
-        "night waking",
-        "sleep training",
-        "sleep associations",
-        "toddler development"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-11",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-wakes-every-2-hours-en"
-    },
-    {
-      "slug": "toddler-only-wants-mommy-parent-preference-zh",
-      "lang": "zh-TW",
-      "title": "孩子只要媽媽不要爸爸？別心碎！3 個讓爸爸重新被選上的方法",
-      "description": "「只要媽媽」不是你的錯，也不代表你跟孩子的關係有問題。工程師爸爸的真實記錄：發展心理學怎麼解釋這個現象，BloomPath 共同創辦人 Mei 從蒙特梭利學校觀察到了什麼，以及五個真的有效的方法。",
-      "tags": [
-        "正向教養",
-        "幼兒教養",
-        "只要媽媽",
-        "親子依附",
-        "爸爸教養",
-        "親子關係",
-        "蒙特梭利"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-11",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/toddler-only-wants-mommy-parent-preference-zh"
-    },
-    {
-      "slug": "toddler-only-wants-mommy-parent-preference-en",
-      "lang": "en",
-      "title": "My Toddler Only Wants Mom: A Dad's Survival Guide to the Parent Preference Phase",
-      "description": "Your toddler screams for the other parent every time you walk in. Here's what the attachment science actually says — and how to stop taking it personally from an engineer dad who lived through it.",
-      "tags": [
-        "toddler parenting",
-        "parent preference phase",
-        "toddler only wants mom",
-        "positive parenting",
-        "attachment theory",
-        "toddler behavior",
-        "dad parenting tips"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-11",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-only-wants-mommy-parent-preference-en"
-    },
-    {
-      "slug": "grandparent-parenting-conflict-zh",
-      "lang": "zh-TW",
-      "title": "阿公阿嬤不聽怎辦？3 個化解跨代教養衝突的共同決定技巧（台灣爸媽心得）",
-      "description": "阿公阿嬪一直餐零食、買玈毛玩具，您却還沒车輯讓他們停？這篇文章是工程師妈婆 Ethan 的自白，也是己經實證的跨代溝通步驟。",
-      "tags": [
-        "隣代教養",
-        "阿公阿嬪",
-        "跨代溝通",
-        "正向教養",
-        "台灣學健"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-05-11",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/grandparent-parenting-conflict-zh"
-    },
-    {
-      "slug": "toddler-biting-hitting-positive-discipline-zh",
-      "lang": "zh-TW",
-      "title": "孩子咬人打人怎麼辦？實戰家長解析：接下來 10 秒比咬人更重要（5 步驟正向教養）",
-      "description": "孩子咬人、打人，不是壞，是大腦還沒準備好。實戰家長 Mei（女兒就讀蒙特梭利小學）解析幼兒攻擊行為的發展原因、大多數父母做錯的第一反應，以及真正有效的正向管教步驟。",
-      "tags": [
-        "幼兒咬人",
-        "幼兒打人",
-        "正向管教",
-        "蒙特梭利幼兒",
-        "幼兒攻擊行為",
-        "情緒管理",
-        "育兒台灣"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-06",
-      "author": "Mei Chen",
-      "youtubeId": "k2esMgi0_kA",
-      "url": "/zh/blog/toddler-biting-hitting-positive-discipline-zh"
-    },
-    {
-      "slug": "toddler-biting-hitting-positive-discipline-en",
-      "lang": "en",
-      "title": "She Bit Another Kid. What Happens Next Matters More Than the Bite.",
-      "description": "Why toddlers bite and hit — the developmental science behind it, what most parents do wrong in the moment, and a step-by-step positive discipline response that actually works. Real-parent reflection synthesizing Montessori principles and emotion-coaching research.",
-      "tags": [
-        "toddler biting",
-        "toddler hitting",
-        "positive discipline",
-        "montessori toddler",
-        "toddler aggression",
-        "child development",
-        "emotional regulation toddlers"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-05-06",
-      "author": "Mei Chen",
-      "youtubeId": null,
-      "url": "/en/blog/toddler-biting-hitting-positive-discipline-en"
-    },
-    {
-      "slug": "how-to-stop-yelling-at-kids-zh",
-      "lang": "zh-TW",
-      "title": "吼完孩子後你該做的 5 件事：工程師爸爸的情緒修復指南（別再說對不起了）",
-      "description": "90%的爸媽都對孩子吼過叫，不是因為你是壞父母，是因為你沒有系統。這篇文章給你吼叫前的預防、吼叫當下的煞車、吼完之後的修復——三個階段的完整行動方案。",
-      "tags": [
-        "正向教養",
-        "停止吼叫",
-        "親子衝突",
-        "幼兒行為",
-        "親子溝通"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-05-03",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/how-to-stop-yelling-at-kids-zh"
-    },
-    {
-      "slug": "how-to-stop-yelling-at-kids-en",
-      "lang": "en",
-      "title": "How to Stop Yelling at Your Kids: A Dad's Honest Guide to Repair and Reset",
-      "description": "Engineer dad Ethan breaks down why parents yell, what happens to your kid's brain when you do, and 6 science-backed strategies to stop — plus how to repair the damage after you snap.",
-      "tags": [
-        "positive parenting",
-        "stop yelling",
-        "parent anger",
-        "toddler behavior",
-        "preschooler"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-05-03",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/how-to-stop-yelling-at-kids-en"
-    },
-    {
-      "slug": "teaching-emotions-preschoolers-zh",
-      "lang": "zh-TW",
-      "title": "教孩子認識情緒 2026：5 個在家就能做的遊戲＋DIY 感受輪（0 成本親子活動）",
-      "description": "工程師爸爸分享如何用感受輪、角色扮演和繪本，幫助 3-5 歲孩子學會表達情緒，改善親子衝突。",
-      "tags": [
-        "情緒教育",
-        "學齡前",
-        "正向教養",
-        "4歲",
-        "感受輪"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-05-02",
-      "author": "Ethan Moore",
-      "youtubeId": "h8sJOv-NAWA",
-      "url": "/zh/blog/teaching-emotions-preschoolers-zh"
-    },
-    {
-      "slug": "teaching-emotions-preschoolers-en",
-      "lang": "en",
-      "title": "Teaching Emotions to Preschoolers: 5 Activities That Actually Work (From a Dad Who Struggled)",
-      "description": "A dad's honest guide to teaching preschoolers about emotions using an emotion wheel, role-play, and picture books — backed by research, tested at home.",
-      "tags": [
-        "emotional intelligence",
-        "preschoolers",
-        "positive parenting",
-        "4 year old",
-        "emotions"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-05-02",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/teaching-emotions-preschoolers-en"
-    },
-    {
-      "slug": "picky-eater-toddler-montessori-tips-zh",
-      "lang": "zh-TW",
-      "title": "「這個不吃、那個不吃」— 工程師爸爸用蒙特梭利破解偏食寶貝",
-      "description": "女兒只吃白飯跟雞塊？你不孤單。工程師爸爸 Ethan 分享蒙特梭利廚房參與策略和責任分工原則，讓偏食孩子自己打開好奇心——不用逼、不用哄、不用藏蔬菜。",
-      "tags": [
-        "偏食",
-        "挑食",
-        "蒙特梭利",
-        "幼兒飲食",
-        "正向教養",
-        "學齡前",
-        "食物恐新症"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-02",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/picky-eater-toddler-montessori-tips-zh"
-    },
-    {
-      "slug": "picky-eater-toddler-montessori-tips-en",
-      "lang": "en",
-      "title": "My Daughter Ate Nothing But Crackers for Three Days. Here's What Actually Worked.",
-      "description": "Engineer dad Ethan Moore breaks down food neophobia science and shares 5 Montessori kitchen strategies that helped his picky preschooler try new foods — without pressure, bribes, or secret vegetable blending.",
-      "tags": [
-        "picky eater",
-        "toddler feeding",
-        "montessori",
-        "positive parenting",
-        "preschooler food",
-        "food neophobia",
-        "mealtime battles"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-05-02",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/picky-eater-toddler-montessori-tips-en"
-    },
     {
       "slug": "when-to-start-potty-training-zh",
       "lang": "zh-TW",
@@ -1842,27 +169,6 @@
       "url": "/en/blog/toddler-meltdown-in-public-en"
     },
     {
-      "slug": "siblings-fighting-what-to-do-zh",
-      "lang": "zh-TW",
-      "title": "兄弟姊妹一直吵架怎麼辦？別叫他們停！3 招教孩子自己解決衝突",
-      "description": "孩子一天到晚在吵架，爸媽快崩潰了？研究說一直介入反而是問題——5 個方法讓孩子學會自己處理衝突。",
-      "tags": [
-        "正向教養",
-        "親子教養",
-        "手足衝突",
-        "兄弟姊妹吵架",
-        "幼兒情緒"
-      ],
-      "ageGroup": [
-        "preschool",
-        "school"
-      ],
-      "pubDate": "2026-05-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/siblings-fighting-what-to-do-zh"
-    },
-    {
       "slug": "siblings-fighting-what-to-do-en",
       "lang": "en",
       "title": "Siblings Fighting: What to Actually Do (Not Just Separate Them)",
@@ -1882,208 +188,6 @@
       "author": "Ethan Moore",
       "youtubeId": null,
       "url": "/en/blog/siblings-fighting-what-to-do-en"
-    },
-    {
-      "slug": "bilingual-4-year-old-vocabulary-zh",
-      "lang": "zh-TW",
-      "title": "4歲雙語詞彙量落後別焦慮！工程師爸爸查了 2026 研究才知道白擔心了",
-      "description": "雙語4歲孩子詞彙量比較低是誤解，研究顯示概念詞彙量其實不輸同齡。台灣爸媽看這篇，解除雙語焦慮＋日常實踐技巧。",
-      "tags": [
-        "雙語教養",
-        "4歲",
-        "語言發展",
-        "詞彙量",
-        "幼兒教育"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-05-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/bilingual-4-year-old-vocabulary-zh"
-    },
-    {
-      "slug": "bilingual-4-year-old-vocabulary-en",
-      "lang": "en",
-      "title": "My Bilingual 4-Year-Old Has a 'Vocabulary Gap' — Here's Why I Stopped Worrying",
-      "description": "The bilingual vocabulary gap is mostly a measurement myth. Research-backed strategies for raising a bilingual 4-year-old without the anxiety spiral.",
-      "tags": [
-        "bilingual parenting",
-        "4 year old",
-        "language development",
-        "vocabulary",
-        "preschool"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-05-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/bilingual-4-year-old-vocabulary-en"
-    },
-    {
-      "slug": "preschool-separation-anxiety-zh",
-      "lang": "zh-TW",
-      "title": "幼兒園分離焦慮怎麼辦？5 個讓孩子不哭的方法：工程師爸爸 2026 觀察日記",
-      "description": "送孩子上幼兒園哭個不停？這不是你的錯，也不是孩子太脆弱。發展心理學告訴你為什麼，正向教養告訴你該怎麼做。",
-      "tags": [
-        "分離焦慮",
-        "幼兒園",
-        "正向教養",
-        "4歲",
-        "育兒"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-30",
-      "author": "Ethan Moore",
-      "youtubeId": "LbSCZaIl3kg",
-      "url": "/zh/blog/preschool-separation-anxiety-zh"
-    },
-    {
-      "slug": "positive-discipline-strong-willed-4-year-old-en",
-      "lang": "en",
-      "title": "Raising a Strong-Willed 4-Year-Old: A Dad's Guide to Positive Discipline (Without Losing Your Mind)",
-      "description": "Strong-willed kids aren't difficult — they're determined. Here's how Ethan Moore went from daily battles to calmer mornings using positive discipline techniques backed by research.",
-      "tags": [
-        "positive-discipline",
-        "strong-willed-child",
-        "4-year-old",
-        "parenting",
-        "toddler"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-30",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/positive-discipline-strong-willed-4-year-old-en"
-    },
-    {
-      "slug": "montessori-practical-life-home-zh",
-      "lang": "zh-TW",
-      "title": "在家打造蒙特梭利實踐生活角：4歲孩子的獨立力培養實戰指南",
-      "description": "從廚房小幫手到自己打掃，4歲是孩子精細動作的爆發期。本文手把手教你在家打造蒙特梭利實踐生活角，以及最有效的活動清單。",
-      "tags": [
-        "蒙特梭利",
-        "實踐生活",
-        "4歲",
-        "獨立性",
-        "精細動作"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-29",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/montessori-practical-life-home-zh"
-    },
-    {
-      "slug": "montessori-practical-life-home-en",
-      "lang": "en",
-      "title": "Montessori Practical Life at Home: The 4-Year-Old Setup Guide That Actually Works",
-      "description": "A hands-on guide to setting up Montessori practical life activities for your 4-year-old — from kitchen helpers to cleaning stations, with the science behind why it matters.",
-      "tags": [
-        "montessori",
-        "practical-life",
-        "4-year-old",
-        "activities",
-        "independence"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-29",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/montessori-practical-life-home-en"
-    },
-    {
-      "slug": "emotional-intelligence-4-year-olds-zh",
-      "lang": "zh-TW",
-      "title": "4歲孩子情緒管理：從爸爸視角的實作指南（附每日對話腳本）",
-      "description": "工程師爸爸的親身實驗：結合蒙特梭利和正向教養，教4歲孩子認識情緒、說出感受，附具體對話範例和每天5分鐘練習法。",
-      "tags": [
-        "情緒管理",
-        "4歲",
-        "正向教養",
-        "蒙特梭利",
-        "情緒教育"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-27",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/emotional-intelligence-4-year-olds-zh"
-    },
-    {
-      "slug": "emotional-intelligence-4-year-olds-en",
-      "lang": "en",
-      "title": "How to Teach Emotional Intelligence to 4-Year-Olds (A Dad's Field Guide)",
-      "description": "A research-backed, dad-tested guide to building emotional intelligence in 4-year-olds — using emotion naming, daily conversation scripts, and Montessori-inspired activities.",
-      "tags": [
-        "emotional intelligence",
-        "4 year old",
-        "positive parenting",
-        "emotion coaching",
-        "preschool"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-27",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/emotional-intelligence-4-year-olds-en"
-    },
-    {
-      "slug": "imaginative-play-benefits-4-year-old-en",
-      "lang": "en",
-      "title": "Imaginative Play Is Your 4-Year-Old's Secret Superpower",
-      "description": "Why pretend play isn't just cute — it's the most powerful learning tool your 4-year-old has. A dad's guide to supporting imaginative play at home.",
-      "tags": [
-        "imaginative play",
-        "4 year old",
-        "child development",
-        "pretend play",
-        "montessori"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-26",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/imaginative-play-benefits-4-year-old-en"
-    },
-    {
-      "slug": "imaginative-play-4-year-old-zh",
-      "lang": "zh-TW",
-      "title": "4歲扮演遊戲比教數字更重要！2026 研究：3 個啟動孩子想像力的蒙特梭利活動",
-      "description": "4歲孩子的扮演遊戲不只是玩樂，是大腦最重要的學習模式。工程師爸爸的科學解析 + 在家實踐指南。",
-      "tags": [
-        "想像力遊戲",
-        "4歲",
-        "兒童發展",
-        "扮演遊戲",
-        "蒙特梭利"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-26",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/imaginative-play-4-year-old-zh"
     },
     {
       "slug": "montessori-executive-function-pnas-2026-parent-guide-zh",
@@ -2108,1044 +212,1784 @@
       "url": "/zh/blog/montessori-executive-function-pnas-2026-parent-guide-zh"
     },
     {
-      "slug": "montessori-executive-function-pnas-2026-parent-guide-en",
-      "lang": "en",
-      "title": "Montessori vs Traditional Preschool: What the 2026 PNAS Study Reveals About Executive Function",
-      "description": "A 588-child randomized controlled trial found Montessori kids outperform peers in executive function at kindergarten — and the advantage grows over time. Here's what every parent needs to know before choosing a preschool.",
-      "tags": [
-        "montessori",
-        "executive function",
-        "preschool",
-        "child development",
-        "education research"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-25",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/montessori-executive-function-pnas-2026-parent-guide-en"
-    },
-    {
-      "slug": "gentle-parenting-burnout-empathy-limits-zh",
+      "slug": "zh-teen-not-wanting-school",
       "lang": "zh-TW",
-      "title": "正向教養讓你累垮了嗎？爸媽必看：3 個邊界感技巧讓教養不再耗盡你",
-      "description": "正向教養說要同理孩子，但很多爸媽照做之後只剩下累。問題不在同理心，而在邊界感。育見未來 BloomPath 帶你看懂這件事的科學。",
-      "tags": [
-        "正向教養",
-        "溫和教養",
-        "邊界感",
-        "幼兒情緒",
-        "親子教養",
-        "教養倦怠"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-04-24",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/gentle-parenting-burnout-empathy-limits-zh"
-    },
-    {
-      "slug": "gentle-parenting-burnout-empathy-limits-en",
-      "lang": "en",
-      "title": "Gentle Parenting Burned You Out? Here's the Science of Empathy + Limits",
-      "description": "Gentle parenting burnout is real. Here's how Dr. Becky Kennedy's Sturdy framework combines empathy and firm limits — without losing yourself.",
-      "tags": [
-        "gentle parenting burnout",
-        "empathy and limits parenting",
-        "positive parenting",
-        "toddler discipline",
-        "Dr Becky Kennedy",
-        "sturdy parenting"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-04-24",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/gentle-parenting-burnout-empathy-limits-en"
-    },
-    {
-      "slug": "4-year-old-power-struggles-zh",
-      "lang": "zh-TW",
-      "title": "4歲為什麼總是跟你對著幹？發展心理學這樣解釋，正向教養這樣化解",
-      "description": "4歲孩子對著幹不是故意作對，是大腦在發育。這篇文章從發展心理學角度解釋為什麼，再給你5個台灣爸媽都能用的正向教養策略。",
-      "tags": [
-        "4歲行為",
-        "親子衝突",
-        "正向教養",
-        "幼兒發展",
-        "蒙特梭利"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-23",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/4-year-old-power-struggles-zh"
-    },
-    {
-      "slug": "4-year-old-power-struggles-en",
-      "lang": "en",
-      "title": "4 Year Old Power Struggles: 5 Science-Backed Strategies That Actually Work",
-      "description": "Your 4-year-old isn't broken -- their brain is. Developmental science behind power struggles, plus 5 dad-tested strategies to stop the daily standoffs.",
-      "tags": [
-        "4 year old behavior",
-        "power struggles",
-        "positive parenting",
-        "toddler discipline",
-        "preschooler"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-23",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/4-year-old-power-struggles-en"
-    },
-    {
-      "slug": "kids-say-bored-montessori-prepared-environment-zh",
-      "lang": "zh-TW",
-      "title": "孩子一直說我無聊怎麼辦？蒙特梭利準備好的環境 5 步驟救援指南",
-      "description": "當孩子第 50 次說「我好無聊」——一位工程師爸爸用蒙特梭利「準備好的環境」概念，分享 5 個今天就能做的小改變，解放家長，不當 24 小時娛樂員。",
-      "tags": [
-        "孩子無聊",
-        "準備好的環境",
-        "蒙特梭利居家",
-        "親子陪伴",
-        "自主遊戲"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-21",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/kids-say-bored-montessori-prepared-environment-zh"
+      "url": "/en/blog/zh-teen-not-wanting-school"
     },
     {
-      "slug": "gentle-sleep-training-montessori-zh",
+      "slug": "zh-teen-communication-script",
       "lang": "zh-TW",
-      "title": "溫和睡眠訓練有用嗎？2026 蒙特梭利實踐版：5 步驟讓寶寶學會自己入睡",
-      "description": "4 種主流溫和睡眠訓練方法對照 + 蒙特梭利地板床與睡前儀式的實踐做法，一位工程師爸爸的誠實告白與 7 天調整計劃。",
-      "tags": [
-        "溫和睡眠訓練",
-        "蒙特梭利",
-        "寶寶睡眠",
-        "哄睡",
-        "幼兒睡眠"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler"
-      ],
-      "pubDate": "2026-04-21",
-      "author": "",
-      "youtubeId": "6iVHeBhUfxA",
-      "url": "/zh/blog/gentle-sleep-training-montessori-zh"
-    },
-    {
-      "slug": "aap-screen-time-2026-taiwan-parents-zh",
-      "lang": "zh-TW",
-      "title": "螢幕時間 2 小時上限取消了！AAP 2026 新規＋台灣爸媽 5C 實踐指南",
-      "description": "AAP 2026 年 2 月發布新政策，取消每天 2 小時螢幕時間上限，改用 5C 框架。台灣爸媽怎麼在地套用？附蒙特梭利對照表與研究實證。",
-      "tags": [
-        "幼兒螢幕時間",
-        "AAP 2026",
-        "蒙特梭利",
-        "螢幕時間 台灣",
-        "5C 框架"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-21",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/aap-screen-time-2026-taiwan-parents-zh"
+      "url": "/en/blog/zh-teen-communication-script"
     },
     {
-      "slug": "aap-5cs-screen-time-framework-preschoolers-en",
-      "lang": "en",
-      "title": "The AAP's New 5 Cs of Screen Time: An Engineer Dad's Practical Breakdown",
-      "description": "The AAP replaced strict screen time limits with the 5 Cs framework. Here's what Child, Content, Calm, Crowding Out, and Communication actually look like with a 4-year-old at home.",
-      "tags": [
-        "screen time",
-        "AAP guidelines",
-        "5 Cs framework",
-        "preschool",
-        "child development",
-        "parenting"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-21",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/aap-5cs-screen-time-framework-preschoolers-en"
-    },
-    {
-      "slug": "montessori-sel-casel-skills-en",
-      "lang": "en",
-      "title": "Why Montessori Kids Handle Emotions Better: The Social Skills Advantage Explained",
-      "description": "Your child's school is suddenly talking about SEL. Here's what it actually means — and why Montessori classrooms have been doing it for 100 years without the acronym.",
-      "tags": [
-        "Montessori",
-        "social emotional learning",
-        "SEL",
-        "CASEL",
-        "child development",
-        "preschool",
-        "early childhood education"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-18",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/montessori-sel-casel-skills-en"
-    },
-    {
-      "slug": "lighthouse-parenting-montessori-zh",
+      "slug": "why-toddler-lies-zh",
       "lang": "zh-TW",
-      "title": "不當虎媽也不放任：2026 燈塔教養法＋蒙特梭利 3 個管教尺度原則",
-      "description": "燈塔式育兒（Lighthouse Parenting）是什麼？Dr. Kenneth Ginsburg 的 7 個 C 如何幫台灣父母培養有韌性的孩子？一個工程師爸爸從直升機父母到燈塔父母的真實轉變。",
-      "tags": [
-        "燈塔式育兒",
-        "燈塔父母",
-        "孩子韌性培養",
-        "蒙特梭利育兒",
-        "正向教養",
-        "台灣育兒"
-      ],
-      "ageGroup": [
-        "preschool"
-      ],
-      "pubDate": "2026-04-17",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/lighthouse-parenting-montessori-zh"
+      "url": "/en/blog/why-toddler-lies-zh"
     },
     {
-      "slug": "montessori-vs-gentle-parenting-en",
+      "slug": "why-toddler-lies-en",
       "lang": "en",
-      "title": "Montessori vs Gentle Parenting: What's Actually Different (And Why It Matters in 2026)",
-      "description": "Montessori and gentle parenting are not the same thing. Here's what separates them, why it matters for your child's development, and how to build your own hybrid approach.",
-      "tags": [
-        "Montessori parenting",
-        "gentle parenting",
-        "positive parenting",
-        "parenting 2026",
-        "parenting styles",
-        "toddler development"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-04-16",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/en/blog/montessori-vs-gentle-parenting-en"
+      "url": "/en/blog/why-toddler-lies-en"
     },
     {
-      "slug": "montessori-national-study-2026-results-zh",
+      "slug": "wfh-clingy-toddler-zh",
       "lang": "zh-TW",
-      "title": "蒙特梭利小孩真的比較聰明嗎？2026 最新研究這樣說",
-      "description": "美國首次全國性隨機對照試驗結果出爐：公立蒙特梭利幼兒園的孩子在閱讀、執行功能、記憶力和社會理解力都贏過同齡，而且三年下來每個孩子還省了台幣 40 萬。研究怎麼說？爸媽可以怎麼用？",
-      "tags": [
-        "蒙特梭利",
-        "幼兒園",
-        "兒童發展",
-        "教育研究",
-        "學前教育"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-16",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/montessori-national-study-2026-results-zh"
-    },
-    {
-      "slug": "montessori-national-study-2026-results-en",
-      "lang": "en",
-      "title": "Montessori Preschool Costs Less AND Works Better — National Study Proves It (2026)",
-      "description": "The first national randomized controlled trial of public Montessori preschool is in: children scored higher in reading, executive function, memory, and social understanding — while costing $13,000 less per child. Here's what the data actually says.",
-      "tags": [
-        "montessori",
-        "preschool",
-        "child development",
-        "education research",
-        "montessori vs traditional"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-16",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/montessori-national-study-2026-results-en"
-    },
-    {
-      "slug": "bedtime-reading-empathy-creativity-zh",
-      "lang": "zh-TW",
-      "title": "睡前共讀 14 天就有效！2026 研究：每天 15 分鐘提升孩子同理心與創意",
-      "description": "2026年最新RCT研究發現，親子共讀不管停不停下來問問題，孩子的同理心和創造力都顯著提升。台灣爸媽不需要說得完美——只要說，就夠了。附台灣書單和今晚可用問題技巧。",
-      "tags": [
-        "親子共讀",
-        "睡前故事",
-        "兒童發展",
-        "同理心",
-        "蒙特梭利"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-04-15",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/bedtime-reading-empathy-creativity-zh"
-    },
-    {
-      "slug": "sunlight-child-development-outdoors-zh",
-      "lang": "zh-TW",
-      "title": "兒科醫師 2026 建議：每天帶孩子出去 15 分鐘，近視機率降 3 成（台灣爸媽必看）",
-      "description": "每天11分鐘戶外日照，讓寶寶睡眠品質提升55%。台灣兒童近視率世界第一，49%可靠戶外活動預防。這篇文章告訴你0-2歲黃金期，到底要怎麼曬才對。",
-      "tags": [
-        "嬰幼兒發育",
-        "戶外活動",
-        "兒童健康",
-        "睡眠",
-        "近視預防"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-04-14",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/sunlight-child-development-outdoors-zh"
-    },
-    {
-      "slug": "positive-parenting-boundaries-en",
-      "lang": "en",
-      "title": "How to Set Boundaries Without Punishment: The Positive Parenting Way",
-      "description": "A research-backed guide to setting firm, loving limits without punishment — using natural consequences, connection-based limit-setting, and scripts that work.",
+      "title": "",
+      "description": "",
       "tags": [],
       "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
+        "toddler"
       ],
-      "pubDate": "2026-04-14",
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
-      "url": "/en/blog/positive-parenting-boundaries-en"
+      "url": "/en/blog/wfh-clingy-toddler-zh"
     },
     {
       "slug": "unstructured-play-benefits-zh",
       "lang": "zh-TW",
-      "title": "退掉所有才藝班！工程師爸爸 2026 實驗：自由玩耍 3 個月後女兒反而學得更好",
-      "description": "台灣父母拼命送孩子去才藝班，但哈佛研究和兒福聯盟都說：好好玩耍才是讓孩子心靈強壯的超能力。本文解析非結構遊戲的5大科學益處，並提供蒙特梭利實踐指南。",
-      "tags": [
-        "非結構遊戲",
-        "蒙特梭利",
-        "幼兒發展",
-        "才藝班",
-        "自由玩耍",
-        "正向教養"
-      ],
+      "title": "",
+      "description": "",
+      "tags": [],
       "ageGroup": [
         "all"
       ],
-      "pubDate": "2026-04-12",
-      "author": "Ethan Moore",
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/unstructured-play-benefits-zh"
+      "url": "/en/blog/unstructured-play-benefits-zh"
+    },
+    {
+      "slug": "toddler-wont-wear-shoes-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wont-wear-shoes-zh"
+    },
+    {
+      "slug": "toddler-wont-share-toys-playground-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wont-share-toys-playground-zh"
+    },
+    {
+      "slug": "toddler-wont-share-toys-playground-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wont-share-toys-playground-en"
+    },
+    {
+      "slug": "toddler-wont-listen-sleep-deprivation-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wont-listen-sleep-deprivation-en"
+    },
+    {
+      "slug": "toddler-wont-brush-teeth-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wont-brush-teeth-zh"
+    },
+    {
+      "slug": "toddler-wont-brush-teeth-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wont-brush-teeth-en"
+    },
+    {
+      "slug": "toddler-whining-phase-what-helps-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-whining-phase-what-helps-en"
+    },
+    {
+      "slug": "toddler-wakes-every-2-hours-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wakes-every-2-hours-en"
+    },
+    {
+      "slug": "toddler-throws-food-at-every-meal-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-throws-food-at-every-meal-en"
+    },
+    {
+      "slug": "toddler-tantrum-positive-parenting-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-tantrum-positive-parenting-zh"
+    },
+    {
+      "slug": "toddler-summer-sleep-regression-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-summer-sleep-regression-zh"
+    },
+    {
+      "slug": "toddler-summer-sleep-regression-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-summer-sleep-regression-en"
+    },
+    {
+      "slug": "toddler-slow-eater-dinner-drags-on-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-slow-eater-dinner-drags-on-zh"
+    },
+    {
+      "slug": "toddler-sleep-regression-guide-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-sleep-regression-guide-en"
+    },
+    {
+      "slug": "toddler-screen-time-ending-meltdown-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-screen-time-ending-meltdown-en"
+    },
+    {
+      "slug": "toddler-says-i-hate-you-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-says-i-hate-you-zh"
+    },
+    {
+      "slug": "toddler-says-i-hate-you-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-says-i-hate-you-en"
+    },
+    {
+      "slug": "toddler-refuses-to-leave-park-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-to-leave-park-zh"
+    },
+    {
+      "slug": "toddler-refuses-to-leave-park-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-to-leave-park-en"
+    },
+    {
+      "slug": "toddler-refuses-nap-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-nap-zh"
+    },
+    {
+      "slug": "toddler-refuses-nap-survival-guide-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-nap-survival-guide-en"
+    },
+    {
+      "slug": "toddler-refuses-medicine-sick-days-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-medicine-sick-days-zh"
+    },
+    {
+      "slug": "toddler-refuses-medicine-sick-days-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-medicine-sick-days-en"
+    },
+    {
+      "slug": "toddler-refuses-car-seat-meltdown-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-car-seat-meltdown-zh"
+    },
+    {
+      "slug": "toddler-refuses-car-seat-meltdown-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-car-seat-meltdown-en"
+    },
+    {
+      "slug": "toddler-refuses-bath-time-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-bath-time-zh"
+    },
+    {
+      "slug": "toddler-refuses-bath-time-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-refuses-bath-time-en"
+    },
+    {
+      "slug": "toddler-preschool-separation-anxiety-prep-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-preschool-separation-anxiety-prep-zh"
+    },
+    {
+      "slug": "toddler-preschool-separation-anxiety-prep-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-preschool-separation-anxiety-prep-en"
+    },
+    {
+      "slug": "toddler-preschool-drop-off-tears-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-preschool-drop-off-tears-en"
+    },
+    {
+      "slug": "toddler-only-wants-mommy-parent-preference-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-only-wants-mommy-parent-preference-zh"
+    },
+    {
+      "slug": "toddler-only-wants-mommy-parent-preference-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-only-wants-mommy-parent-preference-en"
+    },
+    {
+      "slug": "toddler-night-terrors-what-to-do-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-night-terrors-what-to-do-zh"
+    },
+    {
+      "slug": "toddler-night-terrors-what-to-do-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-night-terrors-what-to-do-en"
+    },
+    {
+      "slug": "toddler-morning-routine-battles-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-morning-routine-battles-zh"
+    },
+    {
+      "slug": "toddler-morning-routine-battles-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-morning-routine-battles-en"
+    },
+    {
+      "slug": "toddler-meltdowns-montessori-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-meltdowns-montessori-en"
+    },
+    {
+      "slug": "toddler-meltdown-grocery-store-public-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-meltdown-grocery-store-public-zh"
+    },
+    {
+      "slug": "toddler-meltdown-grocery-store-public-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-meltdown-grocery-store-public-en"
+    },
+    {
+      "slug": "toddler-low-frustration-tolerance-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-low-frustration-tolerance-zh"
+    },
+    {
+      "slug": "toddler-jealousy-new-baby-sibling-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-jealousy-new-baby-sibling-zh"
+    },
+    {
+      "slug": "toddler-jealousy-new-baby-sibling-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-jealousy-new-baby-sibling-en"
+    },
+    {
+      "slug": "toddler-hits-parents-when-angry-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-hits-parents-when-angry-en"
+    },
+    {
+      "slug": "toddler-hates-hair-washing-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-hates-hair-washing-zh"
+    },
+    {
+      "slug": "toddler-hates-hair-washing-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-hates-hair-washing-en"
+    },
+    {
+      "slug": "toddler-grandma-raised-transition-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-grandma-raised-transition-zh"
+    },
+    {
+      "slug": "toddler-constant-whining-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-constant-whining-zh"
+    },
+    {
+      "slug": "toddler-constant-whining-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-constant-whining-en"
+    },
+    {
+      "slug": "toddler-bolting-runs-away-in-public-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-bolting-runs-away-in-public-zh"
+    },
+    {
+      "slug": "toddler-bolting-runs-away-in-public-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-bolting-runs-away-in-public-en"
+    },
+    {
+      "slug": "toddler-biting-hitting-positive-discipline-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-biting-hitting-positive-discipline-zh"
+    },
+    {
+      "slug": "toddler-biting-hitting-positive-discipline-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-biting-hitting-positive-discipline-en"
+    },
+    {
+      "slug": "toddler-bedtime-stalling-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-bedtime-stalling-zh"
+    },
+    {
+      "slug": "toddler-bedtime-stalling-keeps-getting-up-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-bedtime-stalling-keeps-getting-up-en"
+    },
+    {
+      "slug": "toddler-asks-why-nonstop-parent-guide-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-asks-why-nonstop-parent-guide-en"
+    },
+    {
+      "slug": "toddler-after-school-meltdown-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-after-school-meltdown-zh"
+    },
+    {
+      "slug": "toddler-afraid-of-dark-bedtime-fears-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-afraid-of-dark-bedtime-fears-zh"
+    },
+    {
+      "slug": "toddler-afraid-of-dark-bedtime-fears-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-afraid-of-dark-bedtime-fears-en"
+    },
+    {
+      "slug": "time-in-vs-time-out-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/time-in-vs-time-out-zh"
+    },
+    {
+      "slug": "teen-mental-health-warning-signs-2026-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/teen-mental-health-warning-signs-2026-en"
+    },
+    {
+      "slug": "teaching-emotions-preschoolers-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/teaching-emotions-preschoolers-zh"
+    },
+    {
+      "slug": "teaching-emotions-preschoolers-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/teaching-emotions-preschoolers-en"
+    },
+    {
+      "slug": "taiwan-children-wellbeing-research-2026-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/taiwan-children-wellbeing-research-2026-zh"
+    },
+    {
+      "slug": "taiwan-birth-subsidy-2026-complete-guide",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/taiwan-birth-subsidy-2026-complete-guide"
+    },
+    {
+      "slug": "taipei-montessori-schools-guide-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/taipei-montessori-schools-guide-zh"
+    },
+    {
+      "slug": "taipei-montessori-schools-2026-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/taipei-montessori-schools-2026-zh"
+    },
+    {
+      "slug": "taichung-montessori-schools-2026-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/taichung-montessori-schools-2026-zh"
+    },
+    {
+      "slug": "sunlight-child-development-outdoors-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/sunlight-child-development-outdoors-zh"
+    },
+    {
+      "slug": "summer-heat-toddler-behavior-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/summer-heat-toddler-behavior-zh"
+    },
+    {
+      "slug": "siblings-fighting-what-to-do-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool",
+        "school"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/siblings-fighting-what-to-do-zh"
+    },
+    {
+      "slug": "screen-time-rules-school-age-kids-2026-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/screen-time-rules-school-age-kids-2026-en"
+    },
+    {
+      "slug": "screen-time-guilt-quality-over-quantity-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/screen-time-guilt-quality-over-quantity-zh"
+    },
+    {
+      "slug": "screen-time-guilt-quality-over-quantity-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/screen-time-guilt-quality-over-quantity-en"
     },
     {
       "slug": "screen-time-2026-guide-en",
       "lang": "en",
-      "title": "Screen Time in 2026: What the Latest Research Actually Says",
-      "description": "AAP guidelines, quality vs. quantity debate, age-by-age recommendations, and what actually matters — a research-backed guide for parents navigating screens in 2026.",
+      "title": "",
+      "description": "",
       "tags": [],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-12",
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
       "url": "/en/blog/screen-time-2026-guide-en"
     },
     {
-      "slug": "toddler-tantrum-positive-parenting-zh",
+      "slug": "preschool-separation-anxiety-zh",
       "lang": "zh-TW",
-      "title": "孩子發脾氣、大哭大鬧？3 個正向教養步驟立刻化解情緒風暴",
-      "description": "當寶貝在超市倒地大哭、回家路上崩潰發脾氣，你到底該怎麼辦？3 步驟情緒急救法，從腦科學出發，用正向教養化解幼兒情緒風暴。",
-      "tags": [
-        "正向教養",
-        "幼兒情緒",
-        "發脾氣",
-        "情緒管理",
-        "蒙特梭利"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-04-11",
-      "author": "Ethan Moore",
-      "youtubeId": "4JgmZAzWMSQ",
-      "url": "/zh/blog/toddler-tantrum-positive-parenting-zh"
-    },
-    {
-      "slug": "toddler-sleep-regression-guide-en",
-      "lang": "en",
-      "title": "Why Your Toddler Won't Sleep (Again): The Brain Science Behind Sleep Regression",
-      "description": "Your toddler was sleeping great. Then suddenly—2am screaming, refusing naps, bedtime battles. Here's the real reason why, and 5 strategies that actually help tonight.",
-      "tags": [
-        "sleep",
-        "toddler",
-        "sleep regression",
-        "brain development",
-        "parenting tips"
-      ],
-      "ageGroup": [
-        "toddler"
-      ],
-      "pubDate": "2026-04-11",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/en/blog/toddler-sleep-regression-guide-en"
+      "url": "/en/blog/preschool-separation-anxiety-zh"
     },
     {
-      "slug": "bedtime-reading-benefits-empathy-creativity-en",
+      "slug": "potty-training-regression-accidents-en",
       "lang": "en",
-      "title": "Keep the Bedtime Story: How 14 Nights of Reading Boosts Empathy and Creativity",
-      "description": "A 2026 University of Virginia RCT found that just 2 weeks of nightly bedtime reading significantly boosted empathy and creativity in kids ages 6-8. Here's what tired parents actually need to know.",
-      "tags": [
-        "bedtime reading",
-        "empathy",
-        "creativity",
-        "child development",
-        "reading to children",
-        "Montessori"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-04-11",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/en/blog/bedtime-reading-benefits-empathy-creativity-en"
+      "url": "/en/blog/potty-training-regression-accidents-en"
     },
     {
-      "slug": "toddler-meltdowns-montessori-en",
+      "slug": "postpartum-depression-complete-guide-2026",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/postpartum-depression-complete-guide-2026"
+    },
+    {
+      "slug": "positive-parenting-guide-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/positive-parenting-guide-zh"
+    },
+    {
+      "slug": "positive-parenting-guide-en",
       "lang": "en",
-      "title": "Your Toddler's Meltdowns Are Normal: A Montessori Approach to Tantrums",
-      "description": "Why toddler meltdowns happen, what they mean developmentally, and a 5-step Montessori-aligned approach to handling them with calm and connection.",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/positive-parenting-guide-en"
+    },
+    {
+      "slug": "positive-parenting-boundaries-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/positive-parenting-boundaries-en"
+    },
+    {
+      "slug": "positive-discipline-strong-willed-4-year-old-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/positive-discipline-strong-willed-4-year-old-en"
+    },
+    {
+      "slug": "picky-eater-toddler-montessori-tips-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
       "tags": [],
       "ageGroup": [
         "toddler",
         "preschool"
       ],
-      "pubDate": "2026-04-10",
+      "pubDate": "",
       "author": "",
-      "youtubeId": "GEmcR_A8CLM",
-      "url": "/en/blog/toddler-meltdowns-montessori-en"
+      "youtubeId": null,
+      "url": "/en/blog/picky-eater-toddler-montessori-tips-zh"
+    },
+    {
+      "slug": "picky-eater-toddler-montessori-tips-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/picky-eater-toddler-montessori-tips-en"
+    },
+    {
+      "slug": "parenting-trends-2026-in-out",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/parenting-trends-2026-in-out"
     },
     {
       "slug": "parental-phubbing-child-screen-addiction-zh",
       "lang": "zh-TW",
-      "title": "孩子沉迷螢幕是你的手機害的？爸媽必看！2026 研究揭露 3 個驚人鏈結",
-      "description": "Frontiers in Psychology 最新研究：925 名家長確認，爸媽的低頭習慣透過激化親子衝突，是幼兒螢幕成癮的主要原因之一。5 個正向教養方法，今天就能打破惡性循環。",
-      "tags": [
-        "螢幕時間",
-        "低頭族",
-        "親子關係",
-        "正向教養",
-        "3C管理",
-        "蒙特梭利"
-      ],
-      "ageGroup": [
-        "all"
-      ],
-      "pubDate": "2026-04-10",
-      "author": "Ethan Moore",
-      "youtubeId": "i6EDzHRfidg",
-      "url": "/zh/blog/parental-phubbing-child-screen-addiction-zh"
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/parental-phubbing-child-screen-addiction-zh"
     },
     {
-      "slug": "lovevery-4-year-old-play-kits-review-en",
+      "slug": "parental-burnout-solutions-2026",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/parental-burnout-solutions-2026"
+    },
+    {
+      "slug": "morning-routine-toddler-wont-get-dressed-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/morning-routine-toddler-wont-get-dressed-zh"
+    },
+    {
+      "slug": "morning-routine-toddler-wont-get-dressed-en",
       "lang": "en",
-      "title": "Lovevery Play Kits for 4-Year-Olds: An Honest Review from a Dad Who Bought All Four",
-      "description": "Lovevery launched 4 new play kits for 4-year-olds in 2026, each targeting a distinct executive function skill. Here's an honest review of all four — the science, the price, and whether they're actually worth $120.",
-      "tags": [
-        "lovevery",
-        "montessori",
-        "toy review",
-        "executive function",
-        "preschool",
-        "4 year old"
-      ],
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/morning-routine-toddler-wont-get-dressed-en"
+    },
+    {
+      "slug": "montessori-worth-it-uva-study-2025-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-worth-it-uva-study-2025-en"
+    },
+    {
+      "slug": "montessori-vs-traditional-preschool-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-vs-traditional-preschool-zh"
+    },
+    {
+      "slug": "montessori-vs-traditional-preschool-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-vs-traditional-preschool-en"
+    },
+    {
+      "slug": "montessori-vs-gentle-parenting-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-vs-gentle-parenting-en"
+    },
+    {
+      "slug": "montessori-tuition-worth-it-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
       "ageGroup": [
         "preschool"
       ],
-      "pubDate": "2026-04-09",
-      "author": "Ethan Moore",
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/en/blog/lovevery-4-year-old-play-kits-review-en"
+      "url": "/en/blog/montessori-tuition-worth-it-zh"
+    },
+    {
+      "slug": "montessori-sel-casel-skills-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-sel-casel-skills-en"
+    },
+    {
+      "slug": "montessori-schools-taiwan-2026-expat-guide-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-schools-taiwan-2026-expat-guide-en"
+    },
+    {
+      "slug": "montessori-practical-life-home-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-practical-life-home-zh"
+    },
+    {
+      "slug": "montessori-practical-life-home-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-practical-life-home-en"
+    },
+    {
+      "slug": "montessori-national-study-2026-results-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-national-study-2026-results-zh"
+    },
+    {
+      "slug": "montessori-national-study-2026-results-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-national-study-2026-results-en"
+    },
+    {
+      "slug": "montessori-home-environment-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-home-environment-zh"
+    },
+    {
+      "slug": "montessori-home-environment-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-home-environment-en"
+    },
+    {
+      "slug": "montessori-executive-function-pnas-2026-parent-guide-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-executive-function-pnas-2026-parent-guide-en"
+    },
+    {
+      "slug": "montessori-at-home-guide-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-at-home-guide-zh"
+    },
+    {
+      "slug": "montessori-at-home-guide-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-at-home-guide-en"
     },
     {
       "slug": "montessori-activities-at-home-en",
       "lang": "en",
-      "title": "10 Montessori Activities You Can Do Today With Things Already in Your Home",
-      "description": "Ten Montessori-inspired activities using everyday household items — no special materials, organized by age group, with the developmental benefit of each.",
+      "title": "",
+      "description": "",
       "tags": [],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-08",
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
       "url": "/en/blog/montessori-activities-at-home-en"
     },
     {
-      "slug": "kindergarten-guide-taiwan-2026-zh",
-      "lang": "zh-TW",
-      "title": "2026 幼兒園怎麼選？公幼 vs 蒙特梭利 vs 雙語園學費＋特色完整比較",
-      "description": "台灣爸媽最糾結的問題：公幼好還是蒙特梭利好？雙語值得花錢嗎？含2026年最新補助費用試算、真蒙特梭利辨別清單，讓你做出最適合自己孩子的決定。",
-      "tags": [
-        "幼兒園",
-        "蒙特梭利",
-        "公幼",
-        "雙語幼兒園",
-        "台灣育兒",
-        "幼兒教育"
-      ],
+      "slug": "lovevery-4-year-old-play-kits-review-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
       "ageGroup": [
         "preschool"
       ],
-      "pubDate": "2026-04-08",
-      "author": "Ethan Moore",
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/kindergarten-guide-taiwan-2026-zh"
+      "url": "/en/blog/lovevery-4-year-old-play-kits-review-en"
+    },
+    {
+      "slug": "lighthouse-parenting-montessori-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/lighthouse-parenting-montessori-zh"
+    },
+    {
+      "slug": "kindergarten-readiness-complete-guide",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/kindergarten-readiness-complete-guide"
+    },
+    {
+      "slug": "kindergarten-guide-taiwan-2026-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/kindergarten-guide-taiwan-2026-zh"
+    },
+    {
+      "slug": "kids-wont-stop-fighting-sibling-conflict-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/kids-wont-stop-fighting-sibling-conflict-zh"
+    },
+    {
+      "slug": "kids-wont-stop-fighting-sibling-conflict-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/kids-wont-stop-fighting-sibling-conflict-en"
+    },
+    {
+      "slug": "kids-say-bored-montessori-prepared-environment-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/kids-say-bored-montessori-prepared-environment-zh"
+    },
+    {
+      "slug": "imaginative-play-benefits-4-year-old-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/imaginative-play-benefits-4-year-old-en"
+    },
+    {
+      "slug": "imaginative-play-4-year-old-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/imaginative-play-4-year-old-zh"
+    },
+    {
+      "slug": "hybrid-parenting-2026-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/hybrid-parenting-2026-zh"
+    },
+    {
+      "slug": "hybrid-parenting-2026-gentle-parenting-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/hybrid-parenting-2026-gentle-parenting-en"
+    },
+    {
+      "slug": "how-to-stop-yelling-at-kids-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/how-to-stop-yelling-at-kids-zh"
+    },
+    {
+      "slug": "how-to-stop-yelling-at-kids-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/how-to-stop-yelling-at-kids-en"
+    },
+    {
+      "slug": "grandparents-dont-follow-parenting-rules-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/grandparents-dont-follow-parenting-rules-en"
+    },
+    {
+      "slug": "grandparent-screen-time-conflict-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/grandparent-screen-time-conflict-zh"
+    },
+    {
+      "slug": "grandparent-parenting-conflict-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/grandparent-parenting-conflict-zh"
+    },
+    {
+      "slug": "grandma-junk-food-toddler-how-to-handle-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/grandma-junk-food-toddler-how-to-handle-zh"
+    },
+    {
+      "slug": "grandma-junk-food-toddler-how-to-handle-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/grandma-junk-food-toddler-how-to-handle-en"
+    },
+    {
+      "slug": "gentle-sleep-training-montessori-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/gentle-sleep-training-montessori-zh"
+    },
+    {
+      "slug": "gentle-parenting-burnout-empathy-limits-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/gentle-parenting-burnout-empathy-limits-zh"
+    },
+    {
+      "slug": "gentle-parenting-burnout-empathy-limits-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/gentle-parenting-burnout-empathy-limits-en"
+    },
+    {
+      "slug": "force-feeding-backfires-montessori-self-eating-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/force-feeding-backfires-montessori-self-eating-zh"
+    },
+    {
+      "slug": "en-montessori-pnas-research-2026",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/en-montessori-pnas-research-2026"
+    },
+    {
+      "slug": "en-gentle-parenting-montessori-boundaries",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/en-gentle-parenting-montessori-boundaries"
+    },
+    {
+      "slug": "emotional-intelligence-4-year-olds-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/emotional-intelligence-4-year-olds-zh"
+    },
+    {
+      "slug": "emotional-intelligence-4-year-olds-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/emotional-intelligence-4-year-olds-en"
+    },
+    {
+      "slug": "daddy-role-in-parenting-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/daddy-role-in-parenting-zh"
     },
     {
       "slug": "cycle-breaking-parenting-generational-trauma-en",
       "lang": "en",
-      "title": "I Don't Want to Parent Like My Parents Did: A Practical Guide to Breaking the Cycle",
-      "description": "37% of parents are now focused on breaking generational cycles. Here's what that actually looks like on a Tuesday when you've already yelled twice before breakfast.",
-      "tags": [
-        "cycle breaking parenting",
-        "generational trauma",
-        "positive parenting",
-        "emotional regulation",
-        "montessori",
-        "conscious parenting"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school-age"
-      ],
-      "pubDate": "2026-04-07",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
       "url": "/en/blog/cycle-breaking-parenting-generational-trauma-en"
     },
     {
       "slug": "children-internet-safety-2026-zh",
       "lang": "zh-TW",
-      "title": "2026年兒童網路安全完整指南：AI玩具、國際新法與台灣爸媽實戰設定",
-      "description": "AI玩具洩漏寶貝個資、澳洲禁止16歲以下用社群媒體、美國通過新法……2026年數位育兒進入新紀元。台灣爸媽現在該怎麼做？",
-      "tags": [
-        "數位安全",
-        "親子教養",
-        "網路安全",
-        "螢幕時間",
-        "AI玩具"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-07",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/children-internet-safety-2026-zh"
+      "url": "/en/blog/children-internet-safety-2026-zh"
     },
     {
       "slug": "children-internet-safety-2026-en",
       "lang": "en",
-      "title": "Children's Internet Safety in 2026: AI Toys, New Laws, and What Actually Works",
-      "description": "A research-backed guide for parents navigating AI toy risks, the KOSA Act, Australia's social media ban, and practical tools like Google Family Link and Apple Screen Time.",
-      "tags": [
-        "digital safety",
-        "parenting",
-        "internet safety",
-        "screen time",
-        "AI toys"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-07",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
       "url": "/en/blog/children-internet-safety-2026-en"
     },
     {
-      "slug": "analog-childhood-montessori-screen-free-en",
-      "lang": "en",
-      "title": "The Analog Childhood Movement: Why Montessori Parents Are Already Ahead of the Curve",
-      "description": "Pinterest says screen-free searches jumped 200% in 2026. Montessori parents aren't surprised. Here's why the oldest hands-on education method is suddenly the trendiest — and 5 activities to start this weekend.",
-      "tags": [
-        "montessori",
-        "screen-free",
-        "analog childhood",
-        "unstructured play",
-        "child development",
-        "screen time"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-05",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/analog-childhood-montessori-screen-free-en"
-    },
-    {
-      "slug": "taiwan-children-wellbeing-research-2026-zh",
-      "lang": "zh-TW",
-      "title": "影響孩子幸福感最多的，不是你的薪水——臺師大 2026 最新研究",
-      "description": "台灣兒童幸福感平均 8.19 分，但有 10% 孩子偏低。臺師大 10 年縱貫研究揭示：家庭收入與幸福感無關，關鍵是父母的情緒健康和親子互動品質。",
-      "tags": [
-        "台灣兒童幸福感",
-        "親子關係",
-        "父母情緒影響孩子",
-        "正向教養",
-        "螢幕時間"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-04",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/taiwan-children-wellbeing-research-2026-zh"
-    },
-    {
-      "slug": "en-montessori-pnas-research-2026",
-      "lang": "zh-TW",
-      "title": "Are Montessori Kids Really Smarter? The 2026 Study Every Parent Should Read",
-      "description": "The first national randomized controlled trial of public Montessori preschool found stronger reading, executive function, and social skills — at $13,127 less per child. Here's what every parent needs to know.",
-      "tags": [
-        "montessori",
-        "preschool",
-        "child development",
-        "executive function",
-        "research",
-        "early childhood education"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-03",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/en-montessori-pnas-research-2026"
-    },
-    {
-      "slug": "teen-mental-health-warning-signs-2026-en",
-      "lang": "en",
-      "title": "Teen Mental Health in 2026: Warning Signs Every Parent Should Know",
-      "description": "30% of high school students feel persistently hopeless, yet 60% receive no treatment. Learn to distinguish normal teen behavior from real warning signs — plus conversation scripts that actually work. Updated March 2026.",
-      "tags": [
-        "teen mental health",
-        "parenting teenagers",
-        "teen anxiety signs",
-        "teen depression warning signs",
-        "how to help a depressed teenager"
-      ],
-      "ageGroup": [
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/teen-mental-health-warning-signs-2026-en"
-    },
-    {
-      "slug": "taipei-montessori-schools-2026-zh",
-      "lang": "zh-TW",
-      "title": "2026 台北蒙特梭利學校選哪間？TMIS 長華、T.I.M.E.S、Y2MAC 學費＋特色實地比較",
-      "description": "台北有哪些蒙特梭利學校？TMIS、T.I.M.E.S、Y2MAC 特色、費用、適合年齡完整比較。2026 最新整理，幫助台灣爸媽做出最適合孩子的選校決定。",
-      "tags": [
-        "台北蒙特梭利學校",
-        "台灣蒙特梭利幼兒園",
-        "Montessori台灣",
-        "蒙特梭利費用",
-        "選校指南"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/taipei-montessori-schools-2026-zh"
-    },
-    {
-      "slug": "positive-parenting-guide-zh",
-      "lang": "zh-TW",
-      "title": "不打不罵帶大孩子！工程師爸爸的正向教養 2026 實戰筆記（附 5 個每日對話公式）",
-      "description": "有研究支持的正向教養完整攻略：情緒輔導、自然結果法、溫和設立界限、建立內在動機——適用0–8歲孩子的爸媽。",
-      "tags": [
-        "正向教養",
-        "正向教養技巧",
-        "情緒輔導兒童",
-        "正向管教",
-        "自然結果法",
-        "兒童內在動機",
-        "正向教養台灣"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "",
-      "youtubeId": null,
-      "url": "/zh/blog/positive-parenting-guide-zh"
-    },
-    {
-      "slug": "positive-parenting-guide-en",
-      "lang": "en",
-      "title": "Positive Parenting: The Complete Guide — From Theory to Daily Practice",
-      "description": "A comprehensive, research-backed guide to positive parenting: emotion coaching, natural consequences, setting limits without punishment, and building intrinsic motivation in children 0–8.",
-      "tags": [
-        "positive parenting",
-        "positive parenting techniques",
-        "emotion coaching children",
-        "positive discipline",
-        "natural consequences parenting",
-        "intrinsic motivation kids",
-        "janet lansbury positive parenting"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "",
-      "youtubeId": null,
-      "url": "/en/blog/positive-parenting-guide-en"
-    },
-    {
-      "slug": "montessori-vs-traditional-preschool-zh",
-      "lang": "zh-TW",
-      "title": "蒙特梭利幼兒園到底值不值得？我花了三個月研究，結論是...",
-      "description": "2025 年全球最大規模蒙特梭利 RCT 研究揭密：近 600 個孩子的實驗數據，告訴台灣爸媽蒙特梭利幼兒園到底值不值得。",
-      "tags": [
-        "蒙特梭利",
-        "幼兒園",
-        "教育研究",
-        "兒童發展",
-        "蒙特梭利 vs 傳統教育"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "",
-      "youtubeId": null,
-      "url": "/zh/blog/montessori-vs-traditional-preschool-zh"
-    },
-    {
-      "slug": "montessori-vs-traditional-preschool-en",
-      "lang": "en",
-      "title": "Montessori vs Traditional Preschool: What the Largest Study Ever Finally Proves",
-      "description": "A landmark 2025 PNAS study tracked 588 children across 24 public Montessori schools. The results will change how you think about preschool — and they might surprise you.",
-      "tags": [
-        "Montessori",
-        "preschool",
-        "education research",
-        "child development",
-        "Montessori vs traditional"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "",
-      "youtubeId": null,
-      "url": "/en/blog/montessori-vs-traditional-preschool-en"
-    },
-    {
-      "slug": "montessori-home-environment-zh",
-      "lang": "zh-TW",
-      "title": "用 IKEA 打造蒙特梭利房間 2026：小坪數也能做到！附改造前後對比＋費用清單",
-      "description": "從嬰兒房到廚房，從全新購置到 IKEA 改造，這份指南告訴你如何在台灣的家打造真正能運作的蒙特梭利環境——不需要大坪數，不需要全面裝修。",
-      "tags": [
-        "蒙特梭利環境",
-        "蒙特梭利房間布置",
-        "蒙特梭利嬰兒房",
-        "蒙特梭利學步兒房間",
-        "IKEA蒙特梭利",
-        "小坪數蒙特梭利",
-        "矮書架",
-        "地板床"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "",
-      "youtubeId": null,
-      "url": "/zh/blog/montessori-home-environment-zh"
-    },
-    {
-      "slug": "montessori-home-environment-en",
-      "lang": "en",
-      "title": "Montessori Home Environment: Room-by-Room Setup Guide",
-      "description": "A practical guide to creating a Montessori-inspired home environment — room by room setup, IKEA hacks, small-space solutions, and what actually matters versus what's just aesthetics.",
-      "tags": [
-        "montessori home environment",
-        "montessori room setup",
-        "montessori bedroom ideas",
-        "montessori playroom setup",
-        "montessori ikea hacks",
-        "montessori small space",
-        "montessori nursery",
-        "montessori toddler room"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "",
-      "youtubeId": null,
-      "url": "/en/blog/montessori-home-environment-en"
-    },
-    {
-      "slug": "montessori-at-home-guide-zh",
-      "lang": "zh-TW",
-      "title": "在家打造蒙特梭利教室 2026：附 0-6 歲各年齡實作清單（工程師爸爸改造實錄）",
-      "description": "從零開始打造蒙特梭利居家環境的完整攻略：各房間佈置、各年齡段活動、五大核心原則，還有台灣爸媽最常犯的錯誤。",
-      "tags": [
-        "蒙特梭利居家",
-        "蒙特梭利環境布置",
-        "蒙特梭利活動",
-        "蒙特梭利嬰兒",
-        "居家蒙特梭利",
-        "蒙特梭利玩具推薦",
-        "蒙特梭利台灣"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "",
-      "youtubeId": null,
-      "url": "/zh/blog/montessori-at-home-guide-zh"
-    },
-    {
-      "slug": "montessori-at-home-guide-en",
-      "lang": "en",
-      "title": "Montessori at Home: The Complete Guide (0–6 Years)",
-      "description": "A comprehensive, research-backed guide to implementing Montessori at home — room-by-room setup, age-by-age activities, core principles, and the mistakes most parents make.",
-      "tags": [
-        "montessori at home",
-        "montessori home setup",
-        "montessori for beginners",
-        "montessori activities by age",
-        "montessori principles",
-        "montessori bedroom setup",
-        "montessori playroom"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "",
-      "youtubeId": null,
-      "url": "/en/blog/montessori-at-home-guide-en"
-    },
-    {
-      "slug": "hybrid-parenting-2026-zh",
-      "lang": "zh-TW",
-      "title": "溫和教養不夠用？2026 台灣爸媽都在用「混合式教養」",
-      "description": "溫和教養的缺點是什麼？2026 年最夯的混合式教養，結合同理心與清晰界限，比純溫和教養更有效。工程師爸爸的真實心得。",
-      "tags": [
-        "混合式教養",
-        "溫和教養",
-        "正向教養",
-        "育兒方法 2026"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/hybrid-parenting-2026-zh"
-    },
-    {
-      "slug": "hybrid-parenting-2026-gentle-parenting-en",
-      "lang": "en",
-      "title": "Why I Stopped Being a 'Gentle Parent' (And Became a Better Dad)",
-      "description": "Hybrid parenting 2026 explained: how combining empathy with clear boundaries creates happier, more secure kids than pure gentle parenting alone — backed by research.",
-      "tags": [
-        "hybrid parenting",
-        "gentle parenting",
-        "positive parenting",
-        "parenting 2026"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/hybrid-parenting-2026-gentle-parenting-en"
-    },
-    {
-      "slug": "en-gentle-parenting-montessori-boundaries",
-      "lang": "en",
-      "title": "Is Gentle Parenting Dead? What Montessori Says About Boundaries and Warmth",
-      "description": "Gentle parenting isn't dead — but the TikTok version might be. Learn what Montessori always knew: real respectful parenting means warmth AND confident limits. Authoritative 2.0 explained.",
-      "tags": [
-        "gentle parenting",
-        "Montessori parenting",
-        "positive parenting",
-        "authoritative parenting",
-        "toddler discipline",
-        "parenting 2026"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-01",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/en/blog/en-gentle-parenting-montessori-boundaries"
-    },
-    {
       "slug": "child-development-milestones-zh",
       "lang": "zh-TW",
-      "title": "0-6歲發展里程碑完整指南 2026：女兒兩歲還不太會說話，我半夜 Google 才搞懂這件事",
-      "description": "有研究根據的0–6歲發展里程碑完整攻略：8大發展領域、各月齡里程碑、正常變異與發展疑慮的區別，以及台灣爸媽何時該找兒科醫師評估。",
-      "tags": [
-        "發展里程碑",
-        "嬰兒發展里程碑",
-        "學步兒里程碑",
-        "各月齡發展",
-        "兒童發展遲緩",
-        "語言發展里程碑",
-        "動作發展嬰兒",
-        "何時找兒科醫師"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/child-development-milestones-zh"
+      "url": "/en/blog/child-development-milestones-zh"
     },
     {
       "slug": "child-development-milestones-en",
       "lang": "en",
-      "title": "Child Development Milestones: The Complete Guide (0–6 Years)",
-      "description": "A comprehensive, evidence-based guide to child development milestones from birth to age 6 — what's typical, what's a variation, and what genuinely warrants a call to your pediatrician.",
-      "tags": [
-        "child development milestones",
-        "baby milestones",
-        "toddler milestones",
-        "developmental milestones by age",
-        "when to worry about child development",
-        "speech milestones",
-        "motor development baby"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-04-01",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
       "url": "/en/blog/child-development-milestones-en"
@@ -3153,94 +1997,127 @@
     {
       "slug": "child-abuse-prevention-april-2026-zh",
       "lang": "zh-TW",
-      "title": "保護寶貝必看 2026：3 步驟教孩子身體界限＋台灣求助資源完整整理",
-      "description": "身體界限教育、預防兒童性侵害、如何辨識警示信號，以及台灣爸媽可以直接使用的資源。不製造恐慌，給你可以做到的具體步驟。",
-      "tags": [
-        "兒童安全",
-        "身體界限",
-        "兒童保護",
-        "親子教養",
-        "性教育"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-01",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/child-abuse-prevention-april-2026-zh"
+      "url": "/en/blog/child-abuse-prevention-april-2026-zh"
     },
     {
       "slug": "child-abuse-prevention-april-2026-en",
       "lang": "en",
-      "title": "April Is Child Abuse Prevention Month: What Research Says Parents Can Actually Do",
-      "description": "Beyond awareness: evidence-based strategies parents can use to build body safety knowledge, recognize warning signs, and create the family environment that actually protects children.",
-      "tags": [
-        "child safety",
-        "child abuse prevention",
-        "body safety",
-        "parenting",
-        "April"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-04-01",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
       "url": "/en/blog/child-abuse-prevention-april-2026-en"
     },
     {
-      "slug": "baby-product-reviews-guide-zh",
-      "lang": "zh-TW",
-      "title": "爸媽別踩雷！工程師爸爸用 5 個標準評測 2026 嬰兒用品推薦清單",
-      "description": "BloomPath 如何評測嬰幼兒產品——評測標準、紅旗警訊、各類別真正值得買的推薦，以及台灣爸媽常踩的坑。",
-      "tags": [
-        "嬰幼兒產品推薦",
-        "嬰兒玩具評測",
-        "蒙特梭利玩具推薦",
-        "嬰兒用品推薦台灣",
-        "益智玩具評測",
-        "如何選嬰兒玩具",
-        "寶寶玩具推薦"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler"
-      ],
-      "pubDate": "2026-04-01",
+      "slug": "break-force-feeding-cycle-division-responsibility-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/baby-product-reviews-guide-zh"
+      "url": "/en/blog/break-force-feeding-cycle-division-responsibility-en"
+    },
+    {
+      "slug": "bilingual-4-year-old-vocabulary-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/bilingual-4-year-old-vocabulary-zh"
+    },
+    {
+      "slug": "bilingual-4-year-old-vocabulary-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/bilingual-4-year-old-vocabulary-en"
+    },
+    {
+      "slug": "best-bilingual-learning-apps-2026",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/best-bilingual-learning-apps-2026"
+    },
+    {
+      "slug": "bedtime-reading-empathy-creativity-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/bedtime-reading-empathy-creativity-zh"
+    },
+    {
+      "slug": "bedtime-reading-benefits-empathy-creativity-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/bedtime-reading-benefits-empathy-creativity-en"
+    },
+    {
+      "slug": "baby-product-reviews-guide-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/baby-product-reviews-guide-zh"
     },
     {
       "slug": "baby-product-reviews-guide-en",
       "lang": "en",
-      "title": "Baby & Kids Product Reviews: How We Test & Our Criteria",
-      "description": "How BloomPath evaluates baby and children's products — our testing criteria, what we actually look for, red flags we watch for, and category-by-category top picks for Montessori-aligned families.",
-      "tags": [
-        "baby product reviews",
-        "best baby toys",
-        "montessori toys review",
-        "baby gear reviews",
-        "toddler product reviews",
-        "how to choose baby toys",
-        "best montessori toys",
-        "baby product buying guide"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler"
-      ],
-      "pubDate": "2026-04-01",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
       "url": "/en/blog/baby-product-reviews-guide-en"
@@ -3248,380 +2125,164 @@
     {
       "slug": "baby-nutrition-health-guide-zh",
       "lang": "zh-TW",
-      "title": "副食品第一口就吐？別慌！7 個副食品添加法則讓挑食寶寶愛上吃飯",
-      "description": "有研究支持的0–3歲嬰幼兒飲食完整攻略：母乳與配方奶、副食品添加時機、BLW介紹法、各階段飲食時間表、台灣常見的營養疑問，以及何時需要找醫師。",
-      "tags": [
-        "嬰兒副食品",
-        "副食品添加",
-        "BLW台灣",
-        "嬰兒離乳食",
-        "學步兒飲食",
-        "副食品何時開始",
-        "嬰兒食物過敏",
-        "嬰幼兒營養"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler"
-      ],
-      "pubDate": "2026-04-01",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/baby-nutrition-health-guide-zh"
+      "url": "/en/blog/baby-nutrition-health-guide-zh"
     },
     {
       "slug": "baby-nutrition-health-guide-en",
       "lang": "en",
-      "title": "Baby & Toddler Nutrition: The Complete Guide (0–3 Years)",
-      "description": "A comprehensive, evidence-based guide to infant and toddler nutrition — breastfeeding, formula, starting solids, baby-led weaning, feeding timeline, common concerns, and what the research actually says.",
-      "tags": [
-        "baby nutrition",
-        "starting solids",
-        "baby led weaning",
-        "infant feeding guide",
-        "toddler nutrition",
-        "when to start solids",
-        "BLW guide",
-        "baby food introduction",
-        "first foods baby"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler"
-      ],
-      "pubDate": "2026-04-01",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
       "author": "",
       "youtubeId": null,
       "url": "/en/blog/baby-nutrition-health-guide-en"
     },
     {
-      "slug": "zh-teen-not-wanting-school",
-      "lang": "zh-TW",
-      "title": "孩子說不想上學別以為是懶！2026 爸媽必看：3 個警訊和正確應對方法",
-      "description": "當青少年開始說「不想去學校」，台灣爸媽第一個反應往往是「懶惰」。但研究顯示，這可能是憂鬱或焦慮的早期訊號。本文提供對照清單、第一句話腳本，以及台灣專屬資源。",
-      "tags": [
-        "青少年心理健康",
-        "青少年憂鬱症狀",
-        "孩子有焦慮怎麼辦",
-        "青春期",
-        "拒學",
-        "台灣育兒"
-      ],
-      "ageGroup": [
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "",
-      "youtubeId": null,
-      "url": "/zh/blog/zh-teen-not-wanting-school"
-    },
-    {
-      "slug": "zh-teen-communication-script",
-      "lang": "zh-TW",
-      "title": "青少年說不知道不是不尊重！2026 爸媽必學：5 句讓親子對話繼續的溝通腳本",
-      "description": "孩子進入青春期後，問什麼都說「不知道」？台灣爸爸用神經科學+EARS溝通法，給你5個立即可用的對話腳本，修復叛逆期親子關係。",
-      "tags": [
-        "怎麼跟青少年溝通",
-        "青春期孩子不理人怎麼辦",
-        "叛逆期親子關係",
-        "青少年溝通技巧",
-        "親子溝通腳本"
-      ],
-      "ageGroup": [
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/zh-teen-communication-script"
-    },
-    {
-      "slug": "taiwan-birth-subsidy-2026-complete-guide",
-      "lang": "zh-TW",
-      "title": "台灣 2026 生育補助完整攻略：NT$100,000 怎麼領？各縣市加碼一次看",
-      "description": "2026年1月起台灣每位新生兒可領NT$100,000生育給付，雙胞胎NT$200,000。本文整理中央補助申請步驟、各縣市加碼金額、所需文件，讓你一篇搞定！",
-      "tags": [
-        "台灣生育補助2026",
-        "生育津貼怎麼領",
-        "各縣市生育補助",
-        "100000生育給付",
-        "新手父母"
-      ],
-      "ageGroup": [
-        "infant"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/taiwan-birth-subsidy-2026-complete-guide"
-    },
-    {
-      "slug": "taipei-montessori-schools-guide-zh",
-      "lang": "zh-TW",
-      "title": "台灣蒙特梭利學校完整指南 2026：TMIS 長華、T.I.M.E.S、Y2MAC 學費比較＋選校攻略",
-      "description": "從幼兒園到高中，台灣有哪些真正的蒙特梭利學校？本文整理 TMIS 長華、T.I.M.E.S、Y2MAC 等主要學校，幫你找到適合寶貝的選擇。",
-      "tags": [
-        "蒙特梭利",
-        "台灣學校",
-        "選校",
-        "實驗教育",
-        "教育"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "",
-      "youtubeId": null,
-      "url": "/zh/blog/taipei-montessori-schools-guide-zh"
-    },
-    {
-      "slug": "screen-time-rules-school-age-kids-2026-en",
-      "lang": "en",
-      "title": "Screen Time in 2026: Why the 2-Hour Rule No Longer Applies to Your School-Age Child",
-      "description": "The AAP officially retired the 2-hour daily screen time limit in January 2026. Here's what replaced it — and what it means for parents of children ages 6–12.",
-      "tags": [
-        "screen time",
-        "AAP guidelines",
-        "school age",
-        "parenting",
-        "digital wellness"
-      ],
-      "ageGroup": [
-        "school"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "",
-      "youtubeId": null,
-      "url": "/en/blog/screen-time-rules-school-age-kids-2026-en"
-    },
-    {
-      "slug": "postpartum-depression-complete-guide-2026",
-      "lang": "zh-TW",
-      "title": "產後憂鬱症 2026 完整指南：50% 媽媽未被診斷，7 個症狀自我檢測＋台灣求助資源",
-      "description": "產後憂鬱症影響7分之1的新手媽媽，卻有高達50%未被診斷。了解症狀識別、2026年最新治療選項（zuranolone、brexanolone），及台灣心理健康求助資源。",
-      "tags": [
-        "產後憂鬱症症狀",
-        "產後情緒低落怎麼辦",
-        "postpartum depression台灣",
-        "產後心理健康",
-        "新手媽媽"
-      ],
-      "ageGroup": [
-        "infant"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/postpartum-depression-complete-guide-2026"
-    },
-    {
-      "slug": "parenting-trends-2026-in-out",
-      "lang": "zh-TW",
-      "title": "2026 育兒趨勢大公開：什麼 IN、什麼 OUT？慢養、分班育兒、同理+界限全解析",
-      "description": "2026年育兒觀念大轉變！溫柔教養式微、同理+界限崛起、慢養運動興起、分班育兒法流行。78%父母新年目標是「減少育兒罪惡感」，你跟上了嗎？",
-      "tags": [
-        "2026育兒趨勢",
-        "溫柔教養還流行嗎",
-        "新手父母育兒方式",
-        "slow parenting",
-        "同理教養"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/parenting-trends-2026-in-out"
-    },
-    {
-      "slug": "parental-burnout-solutions-2026",
-      "lang": "zh-TW",
-      "title": "爸媽必看！92% 父母精疲力竭：2026 育兒倦怠自我檢測＋5 個立刻見效的解方",
-      "description": "2026年研究顯示92%職場父母感到倦怠，65%達臨床程度。了解育兒精疲力竭的成因、症狀、及有效的恢復策略，心理教育介入可降低倦怠37%。",
-      "tags": [
-        "父母倦怠",
-        "育兒精疲力竭",
-        "親職壓力解決方法",
-        "parental burnout",
-        "育兒心理健康"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/parental-burnout-solutions-2026"
-    },
-    {
-      "slug": "kindergarten-readiness-complete-guide",
-      "lang": "zh-TW",
-      "title": "幼稚園入學準備完整指南：孩子準備好了嗎？（學術、社交、情緒一次搞定）",
-      "description": "研究顯示40%孩子上幼稚園時落後1-3年。本文完整解析幼稚園準備度的5大面向、家長可做的具體練習，及台灣入學資訊，幫助孩子自信展開校園生活。",
-      "tags": [
-        "幼稚園入學準備",
-        "孩子上小學準備",
-        "kindergarten readiness台灣",
-        "幼兒學習",
-        "入學準備清單"
-      ],
-      "ageGroup": [
-        "preschool",
-        "school"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/kindergarten-readiness-complete-guide"
-    },
-    {
-      "slug": "daddy-role-in-parenting-zh",
-      "lang": "zh-TW",
-      "title": "爸爸不是幫忙帶小孩！5 個讓老公『自動』參與育兒的具體方法（工程師爸爸親測）",
-      "description": "爸爸沒有主動參與育兒？不是他不愛，是你沒給對方法。5 個立刻能用的具體步驟，讓老公從「幫忙」變成「真正的隊友」——劍橋研究背書，台灣爸爸實測有效。",
-      "tags": [
-        "爸爸育兒",
-        "父親參與",
-        "兒童發展",
-        "正向教養",
-        "新手爸爸"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "",
-      "youtubeId": null,
-      "url": "/zh/blog/daddy-role-in-parenting-zh"
-    },
-    {
-      "slug": "best-bilingual-learning-apps-2026",
-      "lang": "zh-TW",
-      "title": "2026 最佳中英雙語學習 App 推薦（0-8歲）：Studycat、LingoDodo 深度評測",
-      "description": "台灣及海外華人家庭雙語育兒首選！深度評測 Studycat Chinese、LingoDodo 等中英雙語學習 App，依年齡分級推薦，讓寶貝輕鬆愛上中英文。",
-      "tags": [
-        "中文學習app兒童",
-        "雙語學習app推薦",
-        "Studycat評測",
-        "雙語育兒",
-        "兒童英語學習"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
-      "youtubeId": null,
-      "url": "/zh/blog/best-bilingual-learning-apps-2026"
-    },
-    {
       "slug": "australia-teen-social-media-ban-parents-guide-en",
       "lang": "en",
-      "title": "Australia Just Banned Social Media for Under-16s: What Parents Should Know",
-      "description": "Australia banned social media for under-16s in December 2025. Ten more countries are following. Here's what the research says, what actually works, and how to have the conversation with your teen.",
-      "tags": [
-        "teen digital safety",
-        "social media",
-        "parenting teens",
-        "positive parenting",
-        "digital literacy"
-      ],
-      "ageGroup": [
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
       "url": "/en/blog/australia-teen-social-media-ban-parents-guide-en"
     },
     {
       "slug": "april-spring-activities-kids-2026",
       "lang": "zh-TW",
-      "title": "四月春季親子活動大全：50 個不花錢的創意玩法（2-8歲適用）",
-      "description": "四月春暖花開，帶孩子走出家門！50個春季親子活動創意，包含自然尋寶、蝴蝶觀察、小菜園種植、戶外野餐，全部低成本或免費，適合2-8歲。",
-      "tags": [
-        "四月親子活動",
-        "春天帶小孩去哪",
-        "春季幼兒戶外活動",
-        "復活節活動兒童",
-        "親子戶外遊戲"
-      ],
-      "ageGroup": [
-        "toddler",
-        "preschool",
-        "school"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/april-spring-activities-kids-2026"
+      "url": "/en/blog/april-spring-activities-kids-2026"
+    },
+    {
+      "slug": "analog-childhood-montessori-screen-free-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/analog-childhood-montessori-screen-free-en"
     },
     {
       "slug": "aap-screen-time-guidelines-2026",
       "lang": "zh-TW",
-      "title": "AAP 2026 螢幕時間新指引：從「限時」到「重質」，家長必讀全解析",
-      "description": "AAP 2026年2月發布重大政策轉向：移除每日螢幕時間硬性上限，改以內容品質、家長陪伴、數位生態系統為核心框架。台灣爸媽應如何調整？",
-      "tags": [
-        "AAP螢幕時間2026",
-        "兒童手機平板時間",
-        "幼兒看電視幾小時",
-        "兒童數位健康",
-        "育兒科技"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler",
-        "preschool",
-        "school",
-        "teen"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/aap-screen-time-guidelines-2026"
+      "url": "/en/blog/aap-screen-time-guidelines-2026"
+    },
+    {
+      "slug": "aap-screen-time-2026-taiwan-parents-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/aap-screen-time-2026-taiwan-parents-zh"
+    },
+    {
+      "slug": "aap-5cs-screen-time-framework-preschoolers-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/aap-5cs-screen-time-framework-preschoolers-en"
+    },
+    {
+      "slug": "aap-2026-screen-time-quality-checklist-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/aap-2026-screen-time-quality-checklist-zh"
+    },
+    {
+      "slug": "aap-2026-screen-time-new-rules-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/aap-2026-screen-time-new-rules-en"
+    },
+    {
+      "slug": "4-year-old-power-struggles-zh",
+      "lang": "zh-TW",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/4-year-old-power-struggles-zh"
+    },
+    {
+      "slug": "4-year-old-power-struggles-en",
+      "lang": "en",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "",
+      "author": "",
+      "youtubeId": null,
+      "url": "/en/blog/4-year-old-power-struggles-en"
     },
     {
       "slug": "2026-baby-formula-recall-guide",
       "lang": "zh-TW",
-      "title": "2026 嬰兒配方奶粉召回緊急指南：ByHeart、Enfamil、歐洲品牌全面解析",
-      "description": "2026年Q1發生多起重大嬰兒奶粉召回事件，包括ByHeart肉毒桿菌爆發、歐洲Nestlé SMA及Danone Aptamil毒素召回、Enfamil Nutramigen自願召回。台灣爸媽必讀完整安全指南。",
-      "tags": [
-        "嬰兒奶粉召回2026",
-        "ByHeart奶粉安全",
-        "嬰兒配方奶粉安全指南",
-        "配方奶",
-        "嬰兒安全"
-      ],
-      "ageGroup": [
-        "infant",
-        "toddler"
-      ],
-      "pubDate": "2026-03-31",
-      "author": "Ethan Moore",
+      "title": "",
+      "description": "",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "",
+      "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/2026-baby-formula-recall-guide"
+      "url": "/en/blog/2026-baby-formula-recall-guide"
     }
   ]
 }
