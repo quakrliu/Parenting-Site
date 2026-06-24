@@ -7,7 +7,7 @@ lang: "en"
 author: "Ethan Moore"
 image: "/og/toddler-4-year-old-power-struggles-en.png"
 draft: false
-ageGroup: "preschooler"
+ageGroup: ["preschool"]
 ---
 
 Last Tuesday evening, I spent eleven minutes arguing with my daughter about socks.

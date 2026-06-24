@@ -7,7 +7,7 @@ lang: "zh-TW"
 author: "Ethan Moore"
 image: "/og/toddler-4-year-old-power-struggles-zh.png"
 draft: false
-ageGroup: "preschooler"
+ageGroup: ["preschool"]
 ---
 
 上週五早上七點四十分，我跟女兒為了一雙襪子吵了大概十二分鐘。
