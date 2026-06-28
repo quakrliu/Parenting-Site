@@ -1,13 +1,369 @@
 {
-  "generated": "2026-06-19T02:22:08.975Z",
+  "generated": "2026-06-28T02:22:56.507Z",
   "counts": {
-    "total": 180,
-    "en": 85,
-    "zh": 95,
+    "total": 198,
+    "en": 94,
+    "zh": 104,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "montessori-toys-by-age-2026-zh",
+      "lang": "zh-TW",
+      "title": "蒙特梭利玩具怎麼選？2026 各年齡完整指南（附我家實用清單）",
+      "description": "不是買越多越好。這份指南整理了 0 到 6 歲各階段真正有用的蒙特梭利玩具，根據最新兒科研究 + 11 年育兒實戰選品，附 Amazon 推薦清單。",
+      "tags": [
+        "蒙特梭利",
+        "蒙特梭利玩具",
+        "幼兒玩具",
+        "兒童發展",
+        "實踐生活",
+        "正向教養"
+      ],
+      "ageGroup": [
+        "baby",
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-28",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/montessori-toys-by-age-2026-zh"
+    },
+    {
+      "slug": "montessori-toys-by-age-2026-en",
+      "lang": "en",
+      "title": "Montessori Toys by Age 2026: What Actually Works (And What Collects Dust)",
+      "description": "A research-backed guide to the best Montessori toys for babies, toddlers, and preschoolers in 2026 — with real picks that survived our 11-year parenting journey and the latest UVA study findings.",
+      "tags": [
+        "montessori",
+        "montessori toys",
+        "toddler toys",
+        "preschool",
+        "child development",
+        "practical life"
+      ],
+      "ageGroup": [
+        "baby",
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-28",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-toys-by-age-2026-en"
+    },
+    {
+      "slug": "kindergarten-separation-anxiety-routines-research-en",
+      "lang": "en",
+      "title": "How Daily Routines Ease Kindergarten Separation Anxiety: What the Research Actually Says",
+      "description": "A Penn State study found that predictable family routines—not better drop-off scripts—are what determine how quickly toddlers adjust to preschool. Here's what that means in practice.",
+      "tags": [
+        "separation anxiety",
+        "kindergarten",
+        "routine",
+        "preschool",
+        "toddler"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-06-27",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/kindergarten-separation-anxiety-routines-research-en"
+    },
+    {
+      "slug": "kindergarten-separation-anxiety-daily-routine-zh",
+      "lang": "zh-TW",
+      "title": "入園哭不停？研究發現「日常作息」比安撫技巧更有效",
+      "description": "為什麼有些孩子第一週就開心入園，有些孩子哭了整個學期？最新研究的答案不是安撫技巧，而是家裡的日常作息。Mei 分享實際執行方法。",
+      "tags": [
+        "分離焦慮",
+        "幼兒園",
+        "日常作息",
+        "入園準備",
+        "正向教養"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-06-27",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kindergarten-separation-anxiety-daily-routine-zh"
+    },
+    {
+      "slug": "boredom-creativity-kids-zh",
+      "lang": "zh-TW",
+      "title": "孩子說「我好無聊」是壞事嗎？工程師爸爸的30天無聊實驗",
+      "description": "台灣爸媽最怕孩子說無聊，馬上開始排行程、找活動。但最新兒科研究指出：無聊是創意的前驅。一個工程師爸爸做了30天「刻意無聊」實驗，結果出乎意料。",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-06-26",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/boredom-creativity-kids-zh"
+    },
+    {
+      "slug": "boredom-breeds-creativity-parenting-strategy-en",
+      "lang": "en",
+      "title": "Boredom Breeds Creativity: Why Your Kid's 'I'm Bored' Is Actually Good News",
+      "description": "Every parent's instinct is to fix boredom instantly. A software engineer dad explains why that's wrong — and how 20 minutes of intentional boredom per day wired his daughter's brain for better creative thinking.",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-06-26",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/boredom-breeds-creativity-parenting-strategy-en"
+    },
+    {
+      "slug": "child-emotional-regulation-montessori-zh",
+      "lang": "zh-TW",
+      "title": "孩子情緒爆炸怎麼辦？蒙特梭利情緒調節 5 招冷靜法",
+      "description": "孩子一點就爆、說不聽？蒙特梭利媽媽分享 5 個實際有效的情緒調節策略，從冷靜角到感官重置，讓寶貝慢慢學會自己找回平靜。",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-25",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/child-emotional-regulation-montessori-zh"
+    },
+    {
+      "slug": "child-emotional-regulation-5-calming-strategies-en",
+      "lang": "en",
+      "title": "Child Emotional Regulation: 5 Calming Strategies That Actually Work",
+      "description": "Practical, science-backed calming strategies for toddlers and preschoolers who melt down. A software engineer dad shares what finally clicked after years of trial, error, and a lot of deep breathing.",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-25",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/child-emotional-regulation-5-calming-strategies-en"
+    },
+    {
+      "slug": "toddler-not-talking-bilingual-speech-myths-zh",
+      "lang": "zh-TW",
+      "title": "2歲還不說話正常嗎？雙語寶寶發展迷思全破解",
+      "description": "孩子快2歲說話不多，是正常還是要擔心？這篇整理最新兒科語言發展研究，告訴你雙語家庭的正常時間表、混語是不是問題，以及真正需要評估的訊號。",
+      "tags": [
+        "雙語寶寶",
+        "語言發展",
+        "說話晚",
+        "語言遲緩",
+        "幼兒語言",
+        "雙語教育",
+        "2歲發展"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-06-24",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-not-talking-bilingual-speech-myths-zh"
+    },
+    {
+      "slug": "screen-free-summer-activities-kids-en",
+      "lang": "en",
+      "title": "30 Screen-Free Summer Activities for Kids (No Special Equipment Required)",
+      "description": "A working dad's honest catalog of 30 screen-free summer activities that actually work with toddlers and preschoolers — sorted by setup time, energy level, and how involved you need to be.",
+      "tags": [
+        "screen-free activities",
+        "summer activities for kids",
+        "toddler activities",
+        "preschool activities",
+        "screen-free summer",
+        "indoor activities kids",
+        "bored kids summer"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-06-24",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/screen-free-summer-activities-kids-en"
+    },
+    {
+      "slug": "summer-toddler-home-routine-zh",
+      "lang": "zh-TW",
+      "title": "幼稚園放暑假第一週，我才發現自己根本不了解我的孩子",
+      "description": "孩子不上學、爸媽要上班，暑假第一週常常比想像中還難撐。這篇從真實崩潰經驗出發，分享如何幫幼兒建立有彈性的暑假節奏，讓親子都不被夏天逼瘋。",
+      "tags": [
+        "暑假育兒",
+        "幼兒暑假作息",
+        "幼稚園暑假",
+        "暑假帶娃",
+        "幼兒居家活動",
+        "正向教養",
+        "育兒痛點"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-23",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/summer-toddler-home-routine-zh"
+    },
+    {
+      "slug": "flying-with-toddler-long-haul-en",
+      "lang": "en",
+      "title": "Flying with a Toddler: What Actually Helped (And What We'll Never Do Again)",
+      "description": "A dad's honest breakdown of surviving a 13-hour flight with a toddler — the seat selection mistake that cost us dearly, what we packed that actually got used, and how we handled the meltdown at hour six.",
+      "tags": [
+        "flying with toddler",
+        "travel with toddler",
+        "long haul flight toddler",
+        "toddler airplane tips",
+        "family travel tips",
+        "toddler travel"
+      ],
+      "ageGroup": [
+        "toddler",
+        "baby"
+      ],
+      "pubDate": "2026-06-23",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/flying-with-toddler-long-haul-en"
+    },
+    {
+      "slug": "toddler-reward-chart-does-it-work-zh",
+      "lang": "zh-TW",
+      "title": "貼紙獎勵表到底有沒有用？當爸 11 年後我改變的想法",
+      "description": "貼紙表剛開始很有效，然後突然失靈了。最新兒科研究怎麼說？用了 11 年才搞清楚哪些方法真的有效、哪些是在浪費力氣。",
+      "tags": [
+        "正向教養",
+        "貼紙獎勵表",
+        "幼兒行為",
+        "幼兒管教",
+        "內在動機",
+        "親子教養"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-22",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-reward-chart-does-it-work-zh"
+    },
+    {
+      "slug": "toddler-reward-chart-does-it-work-en",
+      "lang": "en",
+      "title": "Do Reward Charts Actually Work? What 11 Years of Parenting Taught Me",
+      "description": "Sticker charts feel like a great idea — until they stop working. Here's what the research says about reward charts for toddlers, why they backfire, and what actually builds lasting behavior.",
+      "tags": [
+        "positive parenting",
+        "reward chart",
+        "toddler discipline",
+        "toddler behavior",
+        "sticker chart",
+        "intrinsic motivation"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-22",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-reward-chart-does-it-work-en"
+    },
+    {
+      "slug": "dad-wont-help-childcare-communication-zh",
+      "lang": "zh-TW",
+      "title": "爸爸不幫忙帶小孩怎麼溝通：3 個不吵架的真實對話法（台灣媽媽親測）",
+      "description": "65% 台灣媽媽不信任爸爸的育兒能力，但搶著做只會讓他永遠退出。這篇給你真正可以用的溝通腳本，讓爸爸從旁觀者變成隊友——不靠吵架，不靠眼淚。",
+      "tags": [
+        "爸爸育兒",
+        "夫妻溝通",
+        "台灣媽媽",
+        "育兒分工",
+        "正向教養"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-06-21",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/dad-wont-help-childcare-communication-zh"
+    },
+    {
+      "slug": "bilingual-children-language-delay-myth-debunked-en",
+      "lang": "en",
+      "title": "Bilingual Children Aren't Behind: New Research Finally Debunks the Language Delay Myth",
+      "description": "Worried your bilingual toddler is speaking late? New Cambridge research confirms bilingual children aren't delayed — they're actually developing stronger language skills. Here's what the science says and when to actually worry.",
+      "tags": [
+        "bilingual parenting",
+        "language development",
+        "toddler speech",
+        "speech delay",
+        "bilingual toddler"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-06-21",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/bilingual-children-language-delay-myth-debunked-en"
+    },
+    {
+      "slug": "toddler-picky-eater-or-feeding-disorder-when-to-seek-help-en",
+      "lang": "en",
+      "title": "Is My Toddler Just Picky — or Is Something Else Going On? How to Know When to Seek Help",
+      "description": "Every toddler goes through phases of refusing food. But there's a real difference between typical picky eating and a pediatric feeding disorder. Here's how to tell — and when to call in a professional.",
+      "tags": [
+        "toddler eating",
+        "picky eater",
+        "feeding disorder",
+        "ARFID",
+        "pediatric feeding",
+        "positive parenting",
+        "toddler development"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-06-20",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-picky-eater-or-feeding-disorder-when-to-seek-help-en"
+    },
+    {
+      "slug": "going-analog-montessori-screen-free-zh",
+      "lang": "zh-TW",
+      "title": "Going Analog：無螢幕童年怎麼做到？蒙特梭利環境設計 + 全齡活動清單（0-6 歲）",
+      "description": "全球父母正在重新擁抱「類比童年」：關掉平板，給孩子無聊的空間、真實的材料、用雙手探索的機會。這篇文章說的不是禁止螢幕，而是設計一個孩子根本不想要螢幕的環境。",
+      "tags": [
+        "無螢幕",
+        "蒙特梭利",
+        "going analog",
+        "親子活動",
+        "居家育兒",
+        "螢幕時間",
+        "幼兒發展"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-06-20",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/going-analog-montessori-screen-free-zh"
+    },
     {
       "slug": "authoritative-parenting-2026-warm-firm-guide-en",
       "lang": "en",
@@ -66,7 +422,9 @@
         "親子教養",
         "權力鬥爭"
       ],
-      "ageGroup": [],
+      "ageGroup": [
+        "preschool"
+      ],
       "pubDate": "2026-06-17",
       "author": "Ethan Moore",
       "youtubeId": null,
@@ -84,7 +442,9 @@
         "preschooler behavior",
         "toddler defiance"
       ],
-      "ageGroup": [],
+      "ageGroup": [
+        "preschool"
+      ],
       "pubDate": "2026-06-17",
       "author": "Ethan Moore",
       "youtubeId": null,
