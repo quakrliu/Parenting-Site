@@ -1,13 +1,161 @@
 {
-  "generated": "2026-06-28T02:22:56.507Z",
+  "generated": "2026-07-01T02:26:46.072Z",
   "counts": {
-    "total": 198,
-    "en": 94,
-    "zh": 104,
+    "total": 206,
+    "en": 98,
+    "zh": 108,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-first-dentist-visit-montessori-zh",
+      "lang": "zh-TW",
+      "title": "孩子第一次看牙醫就大哭？蒙特梭利「陌生情境練習法」讓她自己走進診間",
+      "description": "台灣 3-4 歲兒童平均蛀牙 2.73 顆，但很多家長第一次帶孩子看牙醫，光是踏進診所大門就崩潰。育見未來 BloomPath 分享一個從蒙特梭利「陌生情境練習」延伸出來的做法，讓孩子在家先演練，看牙醫那天反而是最平靜的一次。",
+      "tags": [
+        "蒙特梭利",
+        "看牙醫",
+        "兒童牙科",
+        "陌生情境",
+        "正向教養",
+        "台灣育兒"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-01",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-first-dentist-visit-montessori-zh"
+    },
+    {
+      "slug": "no-phone-summer-family-rule-en",
+      "lang": "en",
+      "title": "No Phone Summer: The Family Rule That Actually Changed Our July",
+      "description": "\\\"No phone summer\\\" is up 340% on Pinterest this year. Here's what the trend actually asks families to do, the research behind it, and the one rule that worked for us — from an engineer dad who used to be the worst offender at the dinner table.",
+      "tags": [
+        "screen time",
+        "no phone summer",
+        "family rules",
+        "digital wellness",
+        "positive parenting"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-07-01",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/no-phone-summer-family-rule-en"
+    },
+    {
+      "slug": "toddler-wont-listen-empathy-boundaries-zh",
+      "lang": "zh-TW",
+      "title": "小孩說什麼都不聽？三個設邊界不內疚的實用句型（工程師爸爸親測）",
+      "description": "孩子不聽話不是壞孩子，是前額葉還沒發育完成。Ethan 分享 11 年實戰整理的「同理心邊界三步驟」，附可以直接套用的中文句型，讓你設邊界不崩潰、不內疚。",
+      "tags": [
+        "正向教養",
+        "幼兒行為",
+        "設邊界",
+        "不聽話",
+        "情緒管理",
+        "教養技巧"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-06-30",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-wont-listen-empathy-boundaries-zh"
+    },
+    {
+      "slug": "toddler-wont-listen-empathy-boundaries-scripts-en",
+      "lang": "en",
+      "title": "Small Kids Won't Listen? The Boundaries with Empathy Framework That Actually Works",
+      "description": "When your toddler says 'no' to everything, the problem isn't defiance — it's an underdeveloped prefrontal cortex. Dr. Becky Kennedy's Boundaries with Empathy framework gives you real scripts to hold the line without yelling, guilt, or a 20-minute meltdown.",
+      "tags": [],
+      "ageGroup": [],
+      "pubDate": "2026-06-30",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wont-listen-empathy-boundaries-scripts-en"
+    },
+    {
+      "slug": "toddler-night-waking-5-causes-zh",
+      "lang": "zh-TW",
+      "title": "孩子半夜頻繁夜醒怎麼辦？5個真正原因（不是你帶錯了）",
+      "description": "孩子一個晚上醒來三四次，每次都要抱、要喝奶、要找媽媽。不是你帶壞了孩子，是你還不知道背後真正的原因。工程師爸爸 Ethan 拆解 5 種最常見夜醒類型，每種對應不同的解法。",
+      "tags": [
+        "寶寶睡眠",
+        "夜醒",
+        "睡眠訓練",
+        "幼兒睡眠",
+        "育兒痛點",
+        "睡眠問題"
+      ],
+      "ageGroup": [
+        "toddler",
+        "baby"
+      ],
+      "pubDate": "2026-06-30",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-night-waking-5-causes-zh"
+    },
+    {
+      "slug": "toddler-low-frustration-tolerance-meltdowns-en",
+      "lang": "en",
+      "title": "Toddler Low Frustration Tolerance: Why Small Things Cause Big Meltdowns",
+      "description": "Your toddler loses it when a cracker breaks, a sock feels wrong, or a toy won't work on the first try. Low frustration tolerance in toddlers is developmentally normal — here's the brain science behind it and 6 strategies that actually reduce the frequency of meltdowns.",
+      "tags": [
+        "toddler behavior",
+        "meltdowns",
+        "frustration tolerance",
+        "emotional regulation",
+        "positive parenting",
+        "toddler development"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-06-30",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-low-frustration-tolerance-meltdowns-en"
+    },
+    {
+      "slug": "toddler-screen-time-ending-meltdown-zh",
+      "lang": "zh-TW",
+      "title": "關掉螢幕孩子就崩潰？不是你管太嚴，是他需要這 4 個幫助",
+      "description": "每次到了關 iPad 時間，孩子就大哭大鬧？這不是你管太嚴，也不是孩子上癮，是他的大腦還沒準備好切換。Mei 解釋螢幕時間結束崩潰的腦科學，還有 4 個讓關機變輕鬆的具體方法。",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-29",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-screen-time-ending-meltdown-zh"
+    },
+    {
+      "slug": "after-school-meltdown-restraint-collapse-en",
+      "lang": "en",
+      "title": "Why Your Kid Is Perfect at School and Falls Apart at Home (And Why That's a Good Sign)",
+      "description": "Every teacher says your child was wonderful today. Ten minutes after pickup, they're sobbing on the kitchen floor over the wrong color cup. A software engineer dad explains the science behind after-school restraint collapse — and three things that actually help.",
+      "tags": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-06-29",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/after-school-meltdown-restraint-collapse-en"
+    },
     {
       "slug": "montessori-toys-by-age-2026-zh",
       "lang": "zh-TW",
@@ -66,7 +214,10 @@
         "preschool",
         "toddler"
       ],
-      "ageGroup": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
       "pubDate": "2026-06-27",
       "author": "Ethan Moore",
       "youtubeId": null,
@@ -84,7 +235,10 @@
         "入園準備",
         "正向教養"
       ],
-      "ageGroup": [],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
       "pubDate": "2026-06-27",
       "author": "Mei Chen",
       "youtubeId": null,

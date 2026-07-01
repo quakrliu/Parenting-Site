@@ -6,7 +6,7 @@ tags: ["分離焦慮", "幼兒園", "日常作息", "入園準備", "正向教�
 lang: "zh-TW"
 author: "Mei Chen"
 image: "/og/kindergarten-separation-anxiety-daily-routine-zh.png"
-ageGroup: "2-4"
+ageGroup: ["toddler", "preschool"]
 draft: false
 ---
 

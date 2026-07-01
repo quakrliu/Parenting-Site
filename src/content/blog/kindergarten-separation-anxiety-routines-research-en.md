@@ -6,7 +6,7 @@ tags: ["separation anxiety", "kindergarten", "routine", "preschool", "toddler"]
 lang: "en"
 author: "Ethan Moore"
 image: "/og/kindergarten-separation-anxiety-routines-research-en.png"
-ageGroup: "2-4"
+ageGroup: ["toddler", "preschool"]
 draft: false
 ---
 

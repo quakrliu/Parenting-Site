@@ -397,5 +397,6 @@ A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。�
 - [2026 台北蒙特梭利學校完整指南](/zh/blog/taipei-montessori-schools-2026-zh)
 - [台灣蒙特梭利學校完整指南 2026](/zh/blog/taipei-montessori-schools-guide-zh)
 - [幼兒園怎麼選？公幼、蒙特梭利、雙語完整比較](/zh/blog/kindergarten-guide-taiwan-2026-zh)
+- [孩子第一次看牙醫就大哭？蒙特梭利陌生情境練習法](/zh/blog/toddler-first-dentist-visit-montessori-zh)
 - [孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援](/zh/blog/kids-say-bored-montessori-prepared-environment-zh)
 - [燈塔式育兒：讓孩子有根、也有翅膀](/zh/blog/lighthouse-parenting-montessori-zh)
