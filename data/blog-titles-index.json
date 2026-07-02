@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-01T02:26:46.072Z",
+  "generated": "2026-07-02T02:23:54.480Z",
   "counts": {
-    "total": 206,
-    "en": 98,
-    "zh": 108,
+    "total": 208,
+    "en": 99,
+    "zh": 109,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-constipation-taiwan-guide-zh",
+      "lang": "zh-TW",
+      "title": "孩子便祕怎麼辦？幼兒腸胃健康完全指南（附憋便循環破解法）",
+      "description": "孩子好幾天不上大號，一坐馬桶就哭喊肚子痛？育見未來 BloomPath 整理幼兒便祕的真正原因、憋便循環，以及兒科實際建議的處理方式，不是「多吃香蕉」這麼簡單。",
+      "tags": [
+        "幼兒便祕",
+        "腸胃健康",
+        "如廁訓練",
+        "幼兒發展",
+        "台灣育兒"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-02",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-constipation-taiwan-guide-zh"
+    },
+    {
+      "slug": "toddler-constipation-complete-guide-en",
+      "lang": "en",
+      "title": "Toddler Constipation: Why It Happens and What Actually Helps",
+      "description": "Your toddler hasn't pooped in days and screams at the sight of the toilet. Here's the real cause behind toddler constipation, the withholding cycle, and what pediatric research says actually works.",
+      "tags": [
+        "toddler health",
+        "constipation",
+        "digestive health",
+        "potty training",
+        "toddler development"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-02",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-constipation-complete-guide-en"
+    },
     {
       "slug": "toddler-first-dentist-visit-montessori-zh",
       "lang": "zh-TW",
