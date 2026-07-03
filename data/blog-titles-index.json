@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-02T02:23:54.480Z",
+  "generated": "2026-07-03T02:23:19.730Z",
   "counts": {
-    "total": 208,
-    "en": 99,
-    "zh": 109,
+    "total": 210,
+    "en": 100,
+    "zh": 110,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "bilingual-summer-immersion-taiwan-zh",
+      "lang": "zh-TW",
+      "title": "暑假回阿嬤家住三週，女兒的英文忘了一半：雙語家庭在家沉浸計畫",
+      "description": "暑假一結束，孩子的英文好像退步了？其實不是真的忘記，是「提取」變慢了。育見未來 BloomPath 整理語言流失研究，教你不用出國、不用夏令營，在家就能做的雙語沉浸計畫。",
+      "tags": [
+        "雙語教養",
+        "暑假活動",
+        "語言發展",
+        "蒙特梭利",
+        "台灣育兒"
+      ],
+      "ageGroup": [
+        "3-6",
+        "6+"
+      ],
+      "pubDate": "2026-07-03",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/bilingual-summer-immersion-taiwan-zh"
+    },
+    {
+      "slug": "bilingual-summer-immersion-en",
+      "lang": "en",
+      "title": "The Summer Slide Is Real for Bilingual Kids Too — Here's the No-Camp Fix",
+      "description": "Worried your bilingual kid's second language is slipping away over summer break? BloomPath breaks down what language attrition research actually says, and a no-camp, no-flight-required plan to keep it alive at home.",
+      "tags": [
+        "bilingual parenting",
+        "summer activities",
+        "language development",
+        "montessori",
+        "second language"
+      ],
+      "ageGroup": [
+        "3-6",
+        "6+"
+      ],
+      "pubDate": "2026-07-03",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/bilingual-summer-immersion-en"
+    },
     {
       "slug": "toddler-constipation-taiwan-guide-zh",
       "lang": "zh-TW",
