@@ -1,13 +1,57 @@
 {
-  "generated": "2026-07-03T02:23:19.730Z",
+  "generated": "2026-07-04T02:40:04.436Z",
   "counts": {
-    "total": 210,
-    "en": 100,
-    "zh": 110,
+    "total": 212,
+    "en": 101,
+    "zh": 111,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "summer-activity-planning-burnout-balance-zh",
+      "lang": "zh-TW",
+      "title": "暑假活動規劃：無聊 vs. 過度安排的完美平衡（0-5歲年齡分層清單）",
+      "description": "夏令營要不要每個梯次都報？孩子放空發呆算不算浪費時間？育見未來 BloomPath 整理國際兒科研究，教你怎麼在「無聊」和「過度安排」之間找到 0-5 歲的平衡點，順便保護爸媽自己不要先倦怠。",
+      "tags": [
+        "暑假活動",
+        "幼兒發展",
+        "父母倦怠",
+        "蒙特梭利",
+        "台灣育兒"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-04",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/summer-activity-planning-burnout-balance-zh"
+    },
+    {
+      "slug": "summer-activity-planning-burnout-balance-en",
+      "lang": "en",
+      "title": "Summer Activity Planning Without Burnout: The Boredom vs. Overscheduling Balance (Ages 0-5)",
+      "description": "Torn between filling every summer hour with camps and just letting your kid be bored? Here's what the research actually says about boredom, overscheduling, and parent burnout — plus an age-by-age plan for ages 0-5.",
+      "tags": [
+        "summer activities",
+        "toddler development",
+        "parental burnout",
+        "montessori",
+        "boredom"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-04",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/summer-activity-planning-burnout-balance-en"
+    },
     {
       "slug": "bilingual-summer-immersion-taiwan-zh",
       "lang": "zh-TW",
