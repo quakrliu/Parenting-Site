@@ -1,13 +1,56 @@
 {
-  "generated": "2026-07-04T02:40:04.436Z",
+  "generated": "2026-07-05T02:23:20.817Z",
   "counts": {
-    "total": 212,
-    "en": 101,
-    "zh": 111,
+    "total": 214,
+    "en": 102,
+    "zh": 112,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "summer-sibling-conflict-sleep-loop-en",
+      "lang": "en",
+      "title": "Why Are Your Kids Fighting Nonstop This Summer? The Sleep-Conflict Loop Nobody Mentions",
+      "description": "Your kids aren't just bored — disrupted summer sleep and sibling fighting feed each other in a documented loop. Here's the actual research and what breaks the cycle.",
+      "tags": [
+        "sibling conflict",
+        "sleep",
+        "summer",
+        "emotional regulation",
+        "toddler development"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-05",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/summer-sibling-conflict-sleep-loop-en"
+    },
+    {
+      "slug": "dad-parental-leave-2026-policy-zh",
+      "lang": "zh-TW",
+      "title": "上禮拜跟主管請一天育嬰假，他脫口而出：「你太太不是在家嗎？」",
+      "description": "2026 年育嬰留職停薪新增「以日申請」彈性，修法草案更打算放寬到 6 歲——但制度變了，職場的眼光真的變了嗎？育見未來 BloomPath 拆解新制內容，和真正能用的請假溝通法。",
+      "tags": [
+        "育嬰留職停薪",
+        "爸爸育兒",
+        "台灣政策",
+        "育兒分工",
+        "喪偶式育兒"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-07-05",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/dad-parental-leave-2026-policy-zh"
+    },
     {
       "slug": "summer-activity-planning-burnout-balance-zh",
       "lang": "zh-TW",
