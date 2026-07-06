@@ -307,6 +307,7 @@ A: Consistency helps, but it isn't everything. A child who has one consistently 
 
 Explore more in our Positive Parenting series:
 
+- [Why 'I'm Going to Count to 3' Doesn't Actually Work (And What Does)](/en/blog/counting-to-3-doesnt-work-positive-discipline-en)
 - [How to Set Boundaries Without Punishment: The Positive Parenting Way](/en/blog/positive-parenting-boundaries-en)
 - [Your Toddler's Meltdowns Are Normal: A Montessori Approach](/en/blog/toddler-meltdowns-montessori-en)
 - [Why I Stopped Being a 'Gentle Parent' (And Became a Better Dad)](/en/blog/hybrid-parenting-2026-gentle-parenting-en)

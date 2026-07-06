@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-05T02:23:20.817Z",
+  "generated": "2026-07-06T02:24:18.799Z",
   "counts": {
-    "total": 214,
-    "en": 102,
-    "zh": 112,
+    "total": 216,
+    "en": 103,
+    "zh": 113,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "emotion-coaching-name-it-tame-it-zh",
+      "lang": "zh-TW",
+      "title": "孩子一生氣就尖叫踢人？情緒教練 5 句話，比「不要哭」有效 10 倍",
+      "description": "Gottman 情緒教練法的 5 個步驟，翻成台灣爸媽能直接用的句型。不是道理，是當下能講出口的話。",
+      "tags": [
+        "情緒教練",
+        "正向教養",
+        "情緒調節",
+        "Gottman",
+        "幼兒行為"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-06",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/emotion-coaching-name-it-tame-it-zh"
+    },
+    {
+      "slug": "counting-to-3-doesnt-work-positive-discipline-en",
+      "lang": "en",
+      "title": "Why 'I'm Going to Count to 3' Doesn't Actually Work (And What Does)",
+      "description": "The 1-2-3 counting method feels like it works because kids comply out of fear of the number, not because they learned anything. Here's the research-backed script that actually builds self-regulation.",
+      "tags": [
+        "positive discipline",
+        "toddler discipline",
+        "1-2-3 magic",
+        "parenting scripts",
+        "emotional regulation"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-06",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/counting-to-3-doesnt-work-positive-discipline-en"
+    },
     {
       "slug": "summer-sibling-conflict-sleep-loop-en",
       "lang": "en",
