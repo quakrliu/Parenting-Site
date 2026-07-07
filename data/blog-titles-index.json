@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-06T02:24:18.799Z",
+  "generated": "2026-07-07T02:23:29.376Z",
   "counts": {
-    "total": 216,
-    "en": 103,
-    "zh": 113,
+    "total": 218,
+    "en": 104,
+    "zh": 114,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "why-child-refuses-mandarin-bilingual-family-zh",
+      "lang": "zh-TW",
+      "title": "孩子不肯說中文，只肯回英文？台灣雙語家庭的真實解法",
+      "description": "育見未來 BloomPath 這幾年看過太多爸媽私訊問同一件事：孩子聽得懂中文，卻堅持只用英文回答。這不是叛逆，是語言環境的數學問題。這篇整理研究怎麼說，還有我們家實際做過有效的方法。",
+      "tags": [
+        "雙語教養",
+        "親子溝通",
+        "語言發展",
+        "台灣雙語家庭",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-07-07",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/why-child-refuses-mandarin-bilingual-family-zh"
+    },
+    {
+      "slug": "time-in-vs-time-out-en",
+      "lang": "en",
+      "title": "Time-In vs. Time-Out: What Actually Works When Your Toddler Melts Down",
+      "description": "I used time-out for years because it was what I knew. Then I watched it stop working. Here's what changed when I switched to time-in, and the exact phrases I use now.",
+      "tags": [
+        "positive parenting",
+        "toddler tantrums",
+        "emotional regulation",
+        "time-in",
+        "discipline"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-07",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/time-in-vs-time-out-en"
+    },
     {
       "slug": "emotion-coaching-name-it-tame-it-zh",
       "lang": "zh-TW",
