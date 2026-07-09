@@ -315,3 +315,4 @@ Explore more in our Positive Parenting series:
 - [Gentle Parenting Burned You Out? Here's the Science of Empathy + Limits](/en/blog/gentle-parenting-burnout-empathy-limits-en)
 - [Cycle-Breaking Parenting: The Gen Z Guide to Healing Generational Trauma](/en/blog/cycle-breaking-parenting-generational-trauma-en)
 - [4 Year Old Power Struggles: 5 Science-Backed Strategies That Actually Work](/en/blog/4-year-old-power-struggles-en)
+- [My Daughter Screamed Through Every Doctor's Visit for Two Years — Here's What Actually Stopped It](/en/blog/toddler-doctor-visit-shot-fear-en)

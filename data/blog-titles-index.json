@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-08T02:25:53.391Z",
+  "generated": "2026-07-09T02:28:56.065Z",
   "counts": {
-    "total": 220,
-    "en": 105,
-    "zh": 115,
+    "total": 222,
+    "en": 106,
+    "zh": 116,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-high-speed-rail-travel-meltdown-zh",
+      "lang": "zh-TW",
+      "title": "高鐵上，女兒整個人躺在走道尖叫不起來：長途移動崩潰，我們家花三年才學會的事",
+      "description": "育見未來 BloomPath 這幾年收到很多爸媽私訊：帶孩子搭高鐵或長途開車回阿公阿嬤家，中途整個人崩潰，全車廂的人都在看。這篇整理我們家實際走過的路，還有背後的感官超載科學。",
+      "tags": [
+        "長途旅行",
+        "高鐵",
+        "幼兒崩潰",
+        "正向教養",
+        "感官超載"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-09",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-high-speed-rail-travel-meltdown-zh"
+    },
+    {
+      "slug": "toddler-doctor-visit-shot-fear-en",
+      "lang": "en",
+      "title": "My Daughter Screamed Through Every Doctor's Visit for Two Years — Here's What Actually Stopped It",
+      "description": "She'd start crying in the elevator, before we'd even checked in. Here's the research-backed system (not bribery, not restraint) that turned our pediatrician visits from a nightmare into something she can actually get through.",
+      "tags": [
+        "toddler behavior",
+        "doctor visit anxiety",
+        "shot fear",
+        "positive parenting",
+        "medical anxiety kids"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-07-09",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-doctor-visit-shot-fear-en"
+    },
     {
       "slug": "taiwan-flexible-work-vs-childcare-subsidy-zh",
       "lang": "zh-TW",
