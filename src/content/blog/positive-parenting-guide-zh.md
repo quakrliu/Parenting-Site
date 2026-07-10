@@ -322,3 +322,4 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [爸爸的角色有多重要？父親參與育兒的科學實證](/zh/blog/daddy-role-in-parenting-zh)
 - [家長職業倦怠：92% 父母精疲力竭，你也中了嗎？](/zh/blog/parental-burnout-solutions-2026)
 - [高鐵上，女兒整個人躺在走道尖叫不起來：長途移動崩潰，我們家花三年才學會的事](/zh/blog/toddler-high-speed-rail-travel-meltdown-zh)
+- [寶寶自己趴在地上玩，是不是我沒在陪？RIE 尊重式教養教我閉嘴的那堂課](/zh/blog/rie-respectful-parenting-baby-independent-play-zh)

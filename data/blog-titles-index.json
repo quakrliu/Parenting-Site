@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-09T02:28:56.065Z",
+  "generated": "2026-07-10T02:24:58.933Z",
   "counts": {
-    "total": 222,
-    "en": 106,
-    "zh": 116,
+    "total": 224,
+    "en": 107,
+    "zh": 117,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "rie-respectful-parenting-baby-independent-play-zh",
+      "lang": "zh-TW",
+      "title": "寶寶自己趴在地上玩，是不是我沒在陪？RIE 尊重式教養教我閉嘴的那堂課",
+      "description": "育見未來 BloomPath 這幾年常被問：讓寶寶自己玩、爸媽在旁邊不出聲，到底是放任還是尊重？工程師爸爸親身實驗 RIE（尊重式教養）之後，發現閉嘴比一直陪玩還難。",
+      "tags": [
+        "RIE教養",
+        "尊重式教養",
+        "獨立遊戲",
+        "Janet Lansbury",
+        "嬰兒發展"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-07-10",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/rie-respectful-parenting-baby-independent-play-zh"
+    },
+    {
+      "slug": "rie-respectful-parenting-baby-independent-play-en",
+      "lang": "en",
+      "title": "RIE Parenting: Why I Stopped Narrating Every Second of My Baby's Playtime",
+      "description": "I used to think a good dad talks, points, and plays through every minute of tummy time. Then I found RIE (Resources for Infant Educarers) and learned that sitting back is the harder, better skill.",
+      "tags": [
+        "RIE parenting",
+        "Janet Lansbury",
+        "independent play",
+        "respectful parenting",
+        "baby development"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-07-10",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/rie-respectful-parenting-baby-independent-play-en"
+    },
     {
       "slug": "toddler-high-speed-rail-travel-meltdown-zh",
       "lang": "zh-TW",

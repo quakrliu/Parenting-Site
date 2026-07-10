@@ -316,3 +316,4 @@ Explore more in our Positive Parenting series:
 - [Cycle-Breaking Parenting: The Gen Z Guide to Healing Generational Trauma](/en/blog/cycle-breaking-parenting-generational-trauma-en)
 - [4 Year Old Power Struggles: 5 Science-Backed Strategies That Actually Work](/en/blog/4-year-old-power-struggles-en)
 - [My Daughter Screamed Through Every Doctor's Visit for Two Years — Here's What Actually Stopped It](/en/blog/toddler-doctor-visit-shot-fear-en)
+- [RIE Parenting: Why I Stopped Narrating Every Second of My Baby's Playtime](/en/blog/rie-respectful-parenting-baby-independent-play-en)
