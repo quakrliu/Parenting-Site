@@ -26,3 +26,6 @@ Thumbs.db
 # jetbrains setting folder
 .idea/
 __pycache__/
+
+# Claude Code agent worktrees (tooling scaffolding, not project content)
+.claude/worktrees/
