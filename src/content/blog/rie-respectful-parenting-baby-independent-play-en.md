@@ -45,6 +45,7 @@ Lansbury's practical guidance, based on 20+ years of RIE classes, breaks down in
 3. **Let struggle happen before you help.** A baby grunting at a stuck ring is doing cognitive work. Step in only if they signal real distress, not mild effort.
 4. **Start small and build the muscle — yours, not just theirs.** Five quiet minutes is a realistic starting point for a parent who's used to narrating everything. It was for me.
 5. **Treat caregiving moments (diaper changes, feeding) as the connection time**, so independent play doesn't have to double as bonding time too.
+6. **The earlier you start, the easier it sticks.** This isn't a magic cutoff — it's the same habit-formation logic as point 4. A baby under about two hasn't yet built a strong expectation that play always comes with your narration, so there's less to unlearn. Wait until a toddler is fully used to constant adult input and entertainment, and you're not just teaching independent play — you're also undoing a well-practiced habit, which is a slower, harder process for both of you.
 
 ## How Is RIE Different From Montessori?
 
@@ -56,7 +57,15 @@ In practice, a lot of families — us included — end up doing RIE-style indepe
 
 This is the part nobody tells you: it's often worse before it's better, especially if your baby is used to constant adult input. If you've been narrating and redirecting for months, your baby has learned that play means you're involved. Pulling back cold turkey can trigger protest — not because independent play is wrong for them, but because you're changing a pattern they've come to expect.
 
-Lansbury's advice here (and what actually worked for us) is to shrink the ask. Instead of aiming for 30 minutes of solo play, aim for three quiet minutes while you sit nearby doing something else — folding laundry, answering a text, anything that visibly signals you're present but not performing. Build from there. If your baby is genuinely distressed, not just testing the new quiet, that's a cue to pick them up — RIE isn't about ignoring real needs, it's about not treating every small struggle as one.
+Lansbury's advice here (and what actually worked for us) is to shrink the ask. Instead of aiming for 30 minutes of solo play, aim for three quiet minutes while you sit nearby doing something else — folding laundry, answering a text, anything that visibly signals you're present but not performing. Build from there.
+
+What you do next depends on what you're actually seeing, not on following one fixed script:
+
+- **If she fusses within the first few seconds of you going quiet** — she's probably not distressed yet, she's testing whether the pattern really changed. Stay nearby, stay quiet, and give it another sixty seconds before deciding it isn't working.
+- **If she plays for a minute or two, then stops and looks around for you** — that's a check-in, not a crisis. A small nod or a quiet "I'm right here" is usually enough; you don't have to pick her up or restart the narration.
+- **If she escalates into real, sustained crying** — pick her up. That's not the method failing, that's the method working as designed: real distress gets a real response, and you try again tomorrow with a shorter window.
+
+If your baby is genuinely distressed, not just testing the new quiet, that's always the cue to pick them up — RIE isn't about ignoring real needs, it's about not treating every small struggle as one.
 
 ## Does Research Actually Support This?
 
