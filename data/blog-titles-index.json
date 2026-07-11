@@ -1,13 +1,53 @@
 {
-  "generated": "2026-07-10T02:27:19.035Z",
+  "generated": "2026-07-11T02:22:02.291Z",
   "counts": {
-    "total": 224,
-    "en": 107,
-    "zh": 117,
+    "total": 226,
+    "en": 108,
+    "zh": 118,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-pacifier-weaning-3-attempts-zh",
+      "lang": "zh-TW",
+      "title": "戒奶嘴失敗兩次，第三次終於成功：我們家真實的戒奶嘴時間表",
+      "description": "育見未來 BloomPath 這篇不是童話故事版的戒奶嘴文。女兒三歲半，我們失敗兩次才成功，這是牙醫怎麼說的、我們做錯了什麼，還有真正有效的那一次。",
+      "tags": [
+        "戒奶嘴",
+        "幼兒睡眠",
+        "正向教養",
+        "牙齒咬合",
+        "幼兒轉換期"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-07-11",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-pacifier-weaning-3-attempts-zh"
+    },
+    {
+      "slug": "toddler-pacifier-weaning-3-attempts-en",
+      "lang": "en",
+      "title": "We Failed to Wean the Pacifier Twice. Here's What Worked the Third Time",
+      "description": "My daughter was three and a half and still asking for her pacifier at nap time. Two attempts to quit failed. Here's the dental research, the timeline, and the method that actually stuck — from a BloomPath dad who tracked every attempt.",
+      "tags": [
+        "pacifier weaning",
+        "toddler sleep",
+        "toddler transitions",
+        "dental health",
+        "positive parenting"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-07-11",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-pacifier-weaning-3-attempts-en"
+    },
     {
       "slug": "rie-respectful-parenting-baby-independent-play-zh",
       "lang": "zh-TW",
