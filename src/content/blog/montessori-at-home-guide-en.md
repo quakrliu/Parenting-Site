@@ -369,3 +369,4 @@ Explore more in our Montessori at Home series:
 - [Lovevery 4-Year-Old Play Kits: An Honest Review](/en/blog/lovevery-4-year-old-play-kits-review-en)
 - [The Analog Childhood Movement: Why Montessori Parents Are Already Ahead](/en/blog/analog-childhood-montessori-screen-free-en)
 - [Is Gentle Parenting Dead? What Montessori Says About Boundaries](/en/blog/en-gentle-parenting-montessori-boundaries)
+- [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)

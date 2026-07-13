@@ -1,13 +1,54 @@
 {
-  "generated": "2026-07-12T02:27:20.622Z",
+  "generated": "2026-07-13T02:29:03.718Z",
   "counts": {
-    "total": 228,
-    "en": 109,
-    "zh": 119,
+    "total": 230,
+    "en": 110,
+    "zh": 120,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "should-kids-be-paid-for-chores-montessori-en",
+      "lang": "en",
+      "title": "Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash",
+      "description": "Your kid just asked for an allowance for loading the dishwasher. BloomPath co-founder Mei Chen breaks down the overjustification research and what Montessori actually teaches about chores, money, and motivation.",
+      "tags": [
+        "chores",
+        "allowance",
+        "montessori",
+        "positive parenting",
+        "school-age kids",
+        "intrinsic motivation"
+      ],
+      "ageGroup": [
+        "school"
+      ],
+      "pubDate": "2026-07-13",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/should-kids-be-paid-for-chores-montessori-en"
+    },
+    {
+      "slug": "kids-homework-procrastination-zh",
+      "lang": "zh-TW",
+      "title": "六點半才肯打開作業本：孩子功課拖到快抓狂，工程師爸爸的除錯筆記",
+      "description": "晚餐後催八次還不寫功課？育見未來 BloomPath 工程師爸爸 Ethan 用軟體除錯的思維拆解「作業拖延」，找出孩子卡住的真正原因，附心理師實證的具體做法。",
+      "tags": [
+        "作業拖延",
+        "正向教養",
+        "國小生",
+        "自主學習",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "school"
+      ],
+      "pubDate": "2026-07-13",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/kids-homework-procrastination-zh"
+    },
     {
       "slug": "sharenting-child-privacy-family-line-group-zh",
       "lang": "zh-TW",
