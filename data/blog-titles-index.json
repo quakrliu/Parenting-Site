@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-13T02:29:03.718Z",
+  "generated": "2026-07-14T02:28:09.829Z",
   "counts": {
-    "total": 230,
-    "en": 110,
-    "zh": 120,
+    "total": 232,
+    "en": 111,
+    "zh": 121,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-scared-of-haircuts-en",
+      "lang": "en",
+      "title": "Why Your Toddler Screams at the Hair Salon (And What Actually Helped)",
+      "description": "A dad's honest breakdown of why toddler haircut meltdowns happen — the sensory science behind it — and the exact steps that turned our worst haircut into our easiest one.",
+      "tags": [
+        "toddler behavior",
+        "sensory processing",
+        "RIE parenting",
+        "toddler meltdowns",
+        "positive parenting"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-07-14",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-scared-of-haircuts-en"
+    },
+    {
+      "slug": "toddler-haircut-meltdown-zh",
+      "lang": "zh-TW",
+      "title": "巷口理髮店，女兒一坐上椅子就尖叫大哭：剪頭髮大崩潰，我們試過的方法都寫在這裡",
+      "description": "育見未來 BloomPath 工程師爸爸親身經歷：孩子剪頭髮就崩潰不是任性，是感覺統合在超載。這篇整理了真正有用的準備方法和現場應對步驟。",
+      "tags": [
+        "幼兒行為",
+        "感覺統合",
+        "RIE 尊重式教養",
+        "情緒崩潰",
+        "正向教養"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-07-14",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-haircut-meltdown-zh"
+    },
     {
       "slug": "should-kids-be-paid-for-chores-montessori-en",
       "lang": "en",
