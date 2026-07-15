@@ -10,9 +10,9 @@ image: "/og/toddler-talking-back-positive-discipline-en.png"
 draft: false
 ---
 
-Last Tuesday, at the playground two blocks from our house, I told my daughter it was time to go. She put her hands on her hips and said, "You never let me do anything fun. You're the worst." Loud enough that the two other moms nearby definitely heard it. My friend Amy, who was standing next to me with her own son, just raised her eyebrows at me like *good luck with that one*.
+Last Tuesday, at the playground two blocks from our house, I told my daughter it was time to go. She put her hands on her hips and said, "You never let me do anything fun. You're the worst." Loud enough that the two other moms nearby definitely heard it. My friend Amy, who was standing next to me with her own son, just raised her eyebrows at me like *good luck with that one*. I co-founded BloomPath, a parenting app built around exactly this kind of moment, and this is still one of the questions we hear the most from parents — right up there with tantrums and bedtime battles.
 
-At BloomPath, this is one of the questions we hear the most from parents — right up there with tantrums and bedtime battles. Is my kid being disrespectful? Am I raising a brat? Should I be cracking down harder? I've spent years working through this exact question at home, plus reading everything Dr. Becky Kennedy, Jane Nelsen, and Janet Lansbury have written about it. The short answer surprised me the first time I read it, and it's changed how I respond every single time it happens now.
+Is my kid being disrespectful? Am I raising a brat? Should I be cracking down harder? I've spent years working through this exact question at home, plus reading everything Dr. Becky Kennedy, Jane Nelsen, and Janet Lansbury have written about it. The short answer surprised me the first time I read it, and it's changed how I respond every single time it happens now.
 
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en) series.*
 
