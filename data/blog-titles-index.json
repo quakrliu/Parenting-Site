@@ -1,13 +1,57 @@
 {
-  "generated": "2026-07-14T02:28:09.829Z",
+  "generated": "2026-07-15T02:26:31.925Z",
   "counts": {
-    "total": 232,
-    "en": 111,
-    "zh": 121,
+    "total": 234,
+    "en": 112,
+    "zh": 122,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-talking-back-positive-discipline-zh",
+      "lang": "zh-TW",
+      "title": "孩子開始頂嘴，是不尊重還是在求救？正向教養心理師的真實應對法",
+      "description": "育見未來 BloomPath 實戰媽媽親身經歷：女兒在公園當眾嗆聲「你最爛了」，我才發現頂嘴幾乎從來不是不尊重。這篇整理了 Dr. Becky Kennedy 和 Jane Nelsen 的研究，以及真正有用的現場應對句型。",
+      "tags": [
+        "正向教養",
+        "幼兒行為",
+        "孩子頂嘴",
+        "情緒教練",
+        "兒童發展"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler",
+        "school-age"
+      ],
+      "pubDate": "2026-07-15",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-talking-back-positive-discipline-zh"
+    },
+    {
+      "slug": "toddler-talking-back-positive-discipline-en",
+      "lang": "en",
+      "title": "Why Your Kid Talks Back to You (And What Positive Discipline Says to Do About It)",
+      "description": "A parent's honest breakdown of why kids talk back, what the research from Dr. Becky Kennedy and Jane Nelsen actually says, and the scripts that stopped the power struggles at our dinner table.",
+      "tags": [
+        "positive parenting",
+        "toddler behavior",
+        "talking back",
+        "positive discipline",
+        "child development"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler",
+        "school-age"
+      ],
+      "pubDate": "2026-07-15",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-talking-back-positive-discipline-en"
+    },
     {
       "slug": "toddler-scared-of-haircuts-en",
       "lang": "en",

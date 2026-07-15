@@ -319,3 +319,4 @@ Explore more in our Positive Parenting series:
 - [RIE Parenting: Why I Stopped Narrating Every Second of My Baby's Playtime](/en/blog/rie-respectful-parenting-baby-independent-play-en)
 - [We Failed to Wean the Pacifier Twice. Here's What Worked the Third Time](/en/blog/toddler-pacifier-weaning-3-attempts-en)
 - [Why Your Toddler Screams at the Hair Salon (And What Actually Helped)](/en/blog/toddler-scared-of-haircuts-en)
+- [Why Your Kid Talks Back to You (And What Positive Discipline Says to Do About It)](/en/blog/toddler-talking-back-positive-discipline-en)
