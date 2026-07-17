@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-16T02:23:47.116Z",
+  "generated": "2026-07-17T02:23:40.167Z",
   "counts": {
-    "total": 236,
-    "en": 113,
-    "zh": 123,
+    "total": 238,
+    "en": 114,
+    "zh": 124,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "cdc-milestones-crawling-not-required-en",
+      "lang": "en",
+      "title": "CDC Says Crawling Isn't Required Anymore — Here's What Actually Changed",
+      "description": "CDC quietly removed crawling from its official milestone checklist in 2022. BloomPath breaks down what really changed, why, and when a baby who skips crawling actually needs a pediatrician visit.",
+      "tags": [
+        "developmental milestones",
+        "baby not crawling",
+        "CDC milestones",
+        "gross motor development",
+        "when to worry about baby development"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-07-17",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/cdc-milestones-crawling-not-required-en"
+    },
+    {
+      "slug": "baby-not-crawling-cdc-milestone-update-zh",
+      "lang": "zh-TW",
+      "title": "美國CDC悄悄拿掉「爬行」這項里程碑，我們卻還在為寶寶不會爬而焦慮",
+      "description": "育見未來 BloomPath 查證：美國CDC在2022年修訂官方發展里程碑檢核表，把「爬行」整個拿掉。這篇整理真正改了什麼、為什麼改，以及寶寶不爬到底該不該擔心。",
+      "tags": [
+        "發展里程碑",
+        "寶寶不會爬",
+        "CDC里程碑更新",
+        "粗大動作發展",
+        "何時該找兒科醫師"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-07-17",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/baby-not-crawling-cdc-milestone-update-zh"
+    },
     {
       "slug": "child-height-growth-sleep-connection-zh",
       "lang": "zh-TW",
