@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-17T02:23:40.167Z",
+  "generated": "2026-07-18T02:24:59.654Z",
   "counts": {
-    "total": 238,
-    "en": 114,
-    "zh": 124,
+    "total": 240,
+    "en": 115,
+    "zh": 125,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "magnetic-tiles-screen-alternative-zh",
+      "lang": "zh-TW",
+      "title": "磁力片玩具推薦 2026：不讓孩子滑平板的 STEAM 替代方案",
+      "description": "工程師爸爸實測三個磁力片品牌，從摔測到磁力強度全部自己動手驗。到底能不能真的取代平板時間？",
+      "tags": [
+        "磁力片玩具",
+        "螢幕替代方案",
+        "STEAM玩具",
+        "空間推理",
+        "幼兒活動"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-18",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/magnetic-tiles-screen-alternative-zh"
+    },
+    {
+      "slug": "magnetic-tiles-screen-alternative-en",
+      "lang": "en",
+      "title": "Magnetic Tiles vs. Screen Time: I Tested 3 Brands So You Don't Have To",
+      "description": "I tried Magna-Tiles, Connetix, and PicassoTiles as a screen-time swap for my daughter. Here's what an engineer dad found after three weekends of stress-testing magnets and patience.",
+      "tags": [
+        "magnetic tiles",
+        "screen time alternative",
+        "STEAM toys",
+        "spatial reasoning",
+        "toddler activities"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-18",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/magnetic-tiles-screen-alternative-en"
+    },
     {
       "slug": "cdc-milestones-crawling-not-required-en",
       "lang": "en",
