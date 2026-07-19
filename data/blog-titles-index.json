@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-18T02:24:59.654Z",
+  "generated": "2026-07-19T02:24:20.065Z",
   "counts": {
-    "total": 240,
-    "en": 115,
-    "zh": 125,
+    "total": 242,
+    "en": 116,
+    "zh": 126,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "gentle-sleep-training-extinction-burst-zh",
+      "lang": "zh-TW",
+      "title": "溫和睡眠訓練第四晚哭得比第一晚還慘：「消退爆發」是什麼，為什麼這時候撐住比放棄更重要",
+      "description": "溫和睡眠訓練前三晚都在進步，第四晚卻突然哭到破表。這篇拆解「消退爆發」的行為科學原理、長期追蹤研究怎麼說，以及我們那晚到底做了什麼決定。",
+      "tags": [
+        "溫和睡眠訓練",
+        "消退爆發",
+        "幼兒睡眠",
+        "嬰兒睡眠",
+        "睡眠倒退"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-07-19",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/gentle-sleep-training-extinction-burst-zh"
+    },
+    {
+      "slug": "gentle-sleep-training-extinction-burst-en",
+      "lang": "en",
+      "title": "We Almost Quit Gentle Sleep Training on the Worst Night — Here's the Extinction Burst Science That Changed Our Minds",
+      "description": "Night four of gentle sleep training was worse than night one. Here's the behavioral science behind the 'extinction burst,' what the five-year research actually shows, and how we decided to keep going instead of caving.",
+      "tags": [
+        "gentle sleep training",
+        "extinction burst",
+        "toddler sleep",
+        "infant sleep",
+        "sleep regression"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-07-19",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/gentle-sleep-training-extinction-burst-en"
+    },
     {
       "slug": "magnetic-tiles-screen-alternative-zh",
       "lang": "zh-TW",
