@@ -343,3 +343,4 @@ Explore more in our Screen Time series:
 - [Children's Internet Safety in 2026: AI Toys, New Laws, and What Actually Works](/en/blog/children-internet-safety-2026-en)
 - [Australia Just Banned Social Media for Under-16s: What Parents Should Know](/en/blog/australia-teen-social-media-ban-parents-guide-en)
 - [No Phone Summer: The Family Rule That Actually Changed Our July](/en/blog/no-phone-summer-family-rule-en)
+- [Is AI Doing My Kid's Thinking For Her? What "Cognitive Debt" Research Actually Says](/en/blog/ai-cognitive-debt-kids-en)

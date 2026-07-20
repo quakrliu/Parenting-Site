@@ -358,3 +358,4 @@ AAP最大的轉變是移除「2歲以下零螢幕、2-5歲每天1小時」的硬
 - [2026年兒童網路安全完整指南：AI玩具、國際新法與台灣爸媽實戰設定](/zh/blog/children-internet-safety-2026-zh)
 - [孩子沉迷螢幕，可能是你的手機造成的？](/zh/blog/parental-phubbing-child-screen-addiction-zh)
 - [磁力片玩具推薦 2026：不讓孩子滑平板的 STEAM 替代方案](/zh/blog/magnetic-tiles-screen-alternative-zh)
+- [AI 幫女兒想答案，那她自己在想什麼？工程師爸爸的「大腦外包」焦慮自救指南](/zh/blog/ai-cognitive-debt-kids-zh)
