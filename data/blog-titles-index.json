@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-19T02:24:20.065Z",
+  "generated": "2026-07-20T02:25:33.384Z",
   "counts": {
-    "total": 242,
-    "en": 116,
-    "zh": 126,
+    "total": 244,
+    "en": 117,
+    "zh": 127,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "ai-cognitive-debt-kids-zh",
+      "lang": "zh-TW",
+      "title": "AI 幫女兒想答案，那她自己在想什麼？工程師爸爸的「大腦外包」焦慮自救指南",
+      "description": "台灣 80% 家長擔心孩子的大腦被 AI「外包」。育見未來 BloomPath 工程師爸爸拆解 MIT 最新「認知負債」研究，分享我們家實際在用、不是禁用而是設界限的 AI 使用規則。",
+      "tags": [
+        "AI 時代教養",
+        "批判性思考",
+        "螢幕時間",
+        "數位教養",
+        "認知負債"
+      ],
+      "ageGroup": [
+        "school",
+        "teen"
+      ],
+      "pubDate": "2026-07-20",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/ai-cognitive-debt-kids-zh"
+    },
+    {
+      "slug": "ai-cognitive-debt-kids-en",
+      "lang": "en",
+      "title": "Is AI Doing My Kid's Thinking For Her? What 'Cognitive Debt' Research Actually Says",
+      "description": "A software engineer dad breaks down the MIT Media Lab 'cognitive debt' study, what it does (and doesn't) mean for kids using AI chatbots, and the framework we use at home instead of an outright ban.",
+      "tags": [
+        "AI and kids",
+        "critical thinking",
+        "screen time",
+        "digital parenting",
+        "cognitive debt"
+      ],
+      "ageGroup": [
+        "school",
+        "teen"
+      ],
+      "pubDate": "2026-07-20",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/ai-cognitive-debt-kids-en"
+    },
     {
       "slug": "gentle-sleep-training-extinction-burst-zh",
       "lang": "zh-TW",
