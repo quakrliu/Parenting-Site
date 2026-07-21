@@ -26,8 +26,6 @@ That's the moment BloomPath started digging into whether magnetic tiles actually
 
 Magnetic tiles work as a screen-time alternative because they're open-ended (no "right" way to build), give instant physical feedback (the wall either stands or it doesn't), and research links construction-toy play to measurable spatial reasoning gains that predict later math performance. Magna-Tiles are the sturdiest and most tested brand; Connetix has marginally stronger magnets and beveled edges; PicassoTiles is the budget option that's genuinely fine for kids under 5. Start with a 60-100 piece starter set, not a mega-kit — kids under 4 rarely need more than 100 pieces to stay engaged.
 
----
-
 ## Why Do Magnetic Tiles Actually Work as a Screen Time Alternative?
 
 They work because they hijack the same "just one more" impulse that makes an iPad hard to put down — except the impulse is pointed at something she built with her own hands instead of something an algorithm fed her.
