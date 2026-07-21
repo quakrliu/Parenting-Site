@@ -370,3 +370,4 @@ Explore more in our Montessori at Home series:
 - [The Analog Childhood Movement: Why Montessori Parents Are Already Ahead](/en/blog/analog-childhood-montessori-screen-free-en)
 - [Is Gentle Parenting Dead? What Montessori Says About Boundaries](/en/blog/en-gentle-parenting-montessori-boundaries)
 - [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)
+- [When Should a Toddler Move to Their Own Room? What Actually Worked for Us](/en/blog/toddler-own-room-transition-en)
