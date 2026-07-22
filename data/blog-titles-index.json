@@ -1,13 +1,91 @@
 {
-  "generated": "2026-07-20T02:25:33.384Z",
+  "generated": "2026-07-22T02:23:44.603Z",
   "counts": {
-    "total": 244,
-    "en": 117,
-    "zh": 127,
+    "total": 248,
+    "en": 119,
+    "zh": 129,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "repair-after-conflict-rebuild-trust-zh",
+      "lang": "zh-TW",
+      "title": "衝突後如何修復親子連結：Hybrid Parenting 的最後一哩路",
+      "description": "設好界限只是一半的功課。這篇文章教你衝突後怎麼修復連結，同時不退讓已經設好的規矩——附三步驟修復對話腳本。",
+      "tags": [
+        "正向教養",
+        "修復連結",
+        "界限",
+        "信任",
+        "混合式教養"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-07-22",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/repair-after-conflict-rebuild-trust-zh"
+    },
+    {
+      "slug": "repair-after-conflict-rebuild-trust-en",
+      "lang": "en",
+      "title": "Repair After Conflict: How to Rebuild Trust with Your Child",
+      "description": "Setting a boundary is only half the job. Here's the research-backed way to reconnect with your child after a blowup — without caving on the limit you set.",
+      "tags": [
+        "positive parenting",
+        "repair",
+        "boundaries",
+        "trust",
+        "hybrid parenting"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-07-22",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/repair-after-conflict-rebuild-trust-en"
+    },
+    {
+      "slug": "toddler-own-room-transition-zh",
+      "lang": "zh-TW",
+      "title": "孩子到底幾歲該自己睡？跟阿嬤拉鋸半年後，我們家這樣分房睡成功了",
+      "description": "同房同睡了快三年，阿嬤說太早分房沒安全感，我們卻覺得再不分房大人快撐不住。這是我們家花三週分房成功的實際做法，不是一次到位，也沒有讓孩子哭到累。",
+      "tags": [
+        "幼兒睡眠",
+        "分房睡",
+        "蒙特梭利",
+        "正向教養",
+        "隔代教養溝通"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-07-21",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-own-room-transition-zh"
+    },
+    {
+      "slug": "toddler-own-room-transition-en",
+      "lang": "en",
+      "title": "When Should a Toddler Move to Their Own Room? What Actually Worked for Us",
+      "description": "We room-shared way past the 'normal' window, then spent three weeks getting our daughter into her own bed. Here's the science on timing, plus the exact steps that worked without cry-it-out.",
+      "tags": [
+        "toddler sleep",
+        "own room transition",
+        "montessori floor bed",
+        "positive parenting",
+        "toddler independence"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-07-21",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-own-room-transition-en"
+    },
     {
       "slug": "ai-cognitive-debt-kids-zh",
       "lang": "zh-TW",
