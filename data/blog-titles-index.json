@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-22T02:23:44.603Z",
+  "generated": "2026-07-23T02:26:27.459Z",
   "counts": {
-    "total": 248,
-    "en": 119,
-    "zh": 129,
+    "total": 250,
+    "en": 120,
+    "zh": 130,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "baby-teething-signs-myths-remedies-zh",
+      "lang": "zh-TW",
+      "title": "寶寶長牙夜夜哭到兩點：阿嬤說的偏方，兒科其實不建議",
+      "description": "長牙不會引起發燒、也不會拉肚子——但有兩樣「長牙神器」台灣藥妝店還在賣，卻是國際兒科單位明確警告過的危險品。育見未來 BloomPath 整理真正的長牙症狀、安全舒緩法，以及該丟掉的偏方。",
+      "tags": [
+        "寶寶長牙",
+        "嬰兒健康",
+        "長牙迷思",
+        "副食品",
+        "育兒偏方"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-07-23",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/baby-teething-signs-myths-remedies-zh"
+    },
+    {
+      "slug": "baby-teething-signs-myths-remedies-en",
+      "lang": "en",
+      "title": "Baby Teething: The Signs That Are Real, the Myths That Aren't, and What Actually Helps",
+      "description": "Teething doesn't cause fever or diarrhea — but two 'remedies' still sold in stores can genuinely hurt your baby. Here's what BloomPath researched about real teething signs, safe soothing methods, and what to skip.",
+      "tags": [
+        "baby teething",
+        "infant health",
+        "teething remedies",
+        "baby development",
+        "pediatric myths"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-07-23",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/baby-teething-signs-myths-remedies-en"
+    },
     {
       "slug": "repair-after-conflict-rebuild-trust-zh",
       "lang": "zh-TW",
