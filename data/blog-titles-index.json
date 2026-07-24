@@ -1,13 +1,53 @@
 {
-  "generated": "2026-07-23T02:26:27.459Z",
+  "generated": "2026-07-24T02:25:34.919Z",
   "counts": {
-    "total": 250,
-    "en": 120,
-    "zh": 130,
+    "total": 252,
+    "en": 121,
+    "zh": 131,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "mental-load-parenting-dad-wake-up-call-en",
+      "lang": "en",
+      "title": "I Did Three Chores Last Night. My Wife Ran the Whole Household. Here's the Difference.",
+      "description": "Doing tasks isn't the same as carrying the mental load. An engineer dad breaks down the research on invisible parenting labor — and what actually fixed it in his marriage.",
+      "tags": [
+        "mental load parenting",
+        "division of labor marriage",
+        "parenting confession",
+        "marriage after kids",
+        "invisible labor"
+      ],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "2026-07-24",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/mental-load-parenting-dad-wake-up-call-en"
+    },
+    {
+      "slug": "invisible-mental-load-parenting-dad-zh",
+      "lang": "zh-TW",
+      "title": "「我都有幫忙啊」——為什麼太太還是覺得喪偶式育兒？工程師爸爸的覺醒時刻",
+      "description": "分擔家務不等於分擔隱形負荷。育見未來 BloomPath 工程師爸爸用一份美國社會學研究，拆解為什麼「我都有幫忙」還是讓太太覺得像一個人在帶小孩。",
+      "tags": [
+        "喪偶式育兒",
+        "隱形負荷",
+        "婚姻經營",
+        "工程師爸爸",
+        "育兒分工"
+      ],
+      "ageGroup": [
+        "all"
+      ],
+      "pubDate": "2026-07-24",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/invisible-mental-load-parenting-dad-zh"
+    },
     {
       "slug": "baby-teething-signs-myths-remedies-zh",
       "lang": "zh-TW",
