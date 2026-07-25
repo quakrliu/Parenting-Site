@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-24T02:25:34.919Z",
+  "generated": "2026-07-25T02:24:17.378Z",
   "counts": {
-    "total": 252,
-    "en": 121,
-    "zh": 131,
+    "total": 254,
+    "en": 122,
+    "zh": 132,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-restaurant-meltdown-zh",
+      "lang": "zh-TW",
+      "title": "帶孩子外食變噩夢：那晚在義大利麵店大崩潰之後，我們真正改變的三件事",
+      "description": "育見未來 BloomPath 工程師爸爸親身經歷：孩子在餐廳大哭大鬧躺地板，不是不乖，是餓+等太久+沒事做疊在一起爆炸。這篇整理真正有用的事前準備和現場應對方法。",
+      "tags": [
+        "幼兒行為",
+        "外食崩潰",
+        "餐廳崩潰",
+        "正向教養",
+        "幼兒外出用餐"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-07-25",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-restaurant-meltdown-zh"
+    },
+    {
+      "slug": "toddler-restaurant-meltdown-en",
+      "lang": "en",
+      "title": "My Toddler Melted Down in the Middle of a Restaurant — Here's What Actually Changed",
+      "description": "A dad's honest breakdown of why toddler restaurant meltdowns happen, the prep that actually prevents them, and what to do when your kid is already screaming at the table.",
+      "tags": [
+        "toddler behavior",
+        "toddler meltdowns",
+        "eating out with toddlers",
+        "positive parenting",
+        "restaurant tips for parents"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-07-25",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-restaurant-meltdown-en"
+    },
     {
       "slug": "mental-load-parenting-dad-wake-up-call-en",
       "lang": "en",
