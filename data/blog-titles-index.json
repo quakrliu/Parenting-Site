@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-25T02:24:17.378Z",
+  "generated": "2026-07-26T02:27:37.325Z",
   "counts": {
-    "total": 254,
-    "en": 122,
-    "zh": 132,
+    "total": 256,
+    "en": 123,
+    "zh": 133,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "summer-camp-separation-anxiety-zh",
+      "lang": "zh-TW",
+      "title": "夏令營分離焦慮：孩子在門口大哭不放手，我們做對跟做錯的事",
+      "description": "第一次送孩子去夏令營，門口哭到崩潰怎麼辦？工程師爸爸整理實際有效的道別方法，破解「偷溜」「答應中午來接」這兩個最常見的錯誤。",
+      "tags": [
+        "分離焦慮",
+        "夏令營",
+        "正向教養",
+        "幼兒行為",
+        "學齡兒童"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-07-26",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/summer-camp-separation-anxiety-zh"
+    },
+    {
+      "slug": "summer-camp-separation-anxiety-en",
+      "lang": "en",
+      "title": "First Time at Summer Camp: A Field Guide to Separation Anxiety (Ages 4-10)",
+      "description": "Your kid is sobbing at camp drop-off and you're questioning everything. Here's what's actually normal, what makes it worse, and the exact goodbye routine that worked for us.",
+      "tags": [
+        "separation anxiety",
+        "summer camp",
+        "positive parenting",
+        "toddler behavior",
+        "school-age"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-07-26",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/summer-camp-separation-anxiety-en"
+    },
     {
       "slug": "toddler-restaurant-meltdown-zh",
       "lang": "zh-TW",

@@ -329,3 +329,4 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [巷口理髮店，女兒一坐上椅子就尖叫大哭：剪頭髮大崩潰，我們試過的方法都寫在這裡](/zh/blog/toddler-haircut-meltdown-zh)
 - [孩子開始頂嘴，是不尊重還是在求救？正向教養心理師的真實應對法](/zh/blog/toddler-talking-back-positive-discipline-zh)
 - [帶孩子外食變噩夢：那晚在義大利麵店大崩潰之後，我們真正改變的三件事](/zh/blog/toddler-restaurant-meltdown-zh)
+- [夏令營分離焦慮：孩子在門口大哭不放手，我們做對跟做錯的事](/zh/blog/summer-camp-separation-anxiety-zh)
