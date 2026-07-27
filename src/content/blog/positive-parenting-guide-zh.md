@@ -322,6 +322,7 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [4歲為什麼總是跟你對著幹？發展心理學這樣解釋](/zh/blog/4-year-old-power-struggles-zh)
 - [爸爸的角色有多重要？父親參與育兒的科學實證](/zh/blog/daddy-role-in-parenting-zh)
 - [家長職業倦怠：92% 父母精疲力竭，你也中了嗎？](/zh/blog/parental-burnout-solutions-2026)
+- [孩子說「下課都沒人跟我玩」：國小人際排擠，家長該怎麼陪，不是急著逼他去交朋友](/zh/blog/kid-no-one-plays-with-me-zh)
 - [高鐵上，女兒整個人躺在走道尖叫不起來：長途移動崩潰，我們家花三年才學會的事](/zh/blog/toddler-high-speed-rail-travel-meltdown-zh)
 - [寶寶自己趴在地上玩，是不是我沒在陪？RIE 尊重式教養教我閉嘴的那堂課](/zh/blog/rie-respectful-parenting-baby-independent-play-zh)
 - [戒奶嘴失敗兩次，第三次終於成功：我們家真實的戒奶嘴時間表](/zh/blog/toddler-pacifier-weaning-3-attempts-zh)

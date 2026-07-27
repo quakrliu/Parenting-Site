@@ -1,13 +1,55 @@
 {
-  "generated": "2026-07-26T02:27:37.325Z",
+  "generated": "2026-07-27T02:26:42.343Z",
   "counts": {
-    "total": 256,
-    "en": 123,
-    "zh": 133,
+    "total": 258,
+    "en": 124,
+    "zh": 134,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-nobody-wants-to-play-with-me-en",
+      "lang": "en",
+      "title": "My Kid Said 'Nobody Wants to Play With Me': What Actually Helps",
+      "description": "When your elementary-age child comes home saying no one will play with them, here's how to respond — and what Montessori's grace and courtesy tradition gets right about teaching kids to navigate friendship.",
+      "tags": [
+        "friendship",
+        "social skills",
+        "positive parenting",
+        "montessori",
+        "school-age"
+      ],
+      "ageGroup": [
+        "school-age",
+        "school"
+      ],
+      "pubDate": "2026-07-27",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kid-nobody-wants-to-play-with-me-en"
+    },
+    {
+      "slug": "kid-no-one-plays-with-me-zh",
+      "lang": "zh-TW",
+      "title": "孩子說「下課都沒人跟我玩」：國小人際排擠，家長該怎麼陪，不是急著逼他去交朋友",
+      "description": "當上小學的孩子回家說沒人要跟他玩，家長第一句話說什麼很關鍵。育見未來 BloomPath 從蒙特梭利的 Grace & Courtesy 課程跟正向教養角度，分享實際可以說的話。",
+      "tags": [
+        "人際關係",
+        "正向教養",
+        "蒙特梭利",
+        "學齡兒童",
+        "社交技巧"
+      ],
+      "ageGroup": [
+        "school-age",
+        "school"
+      ],
+      "pubDate": "2026-07-27",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-no-one-plays-with-me-zh"
+    },
     {
       "slug": "summer-camp-separation-anxiety-zh",
       "lang": "zh-TW",
