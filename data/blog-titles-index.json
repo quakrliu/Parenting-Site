@@ -1,13 +1,57 @@
 {
-  "generated": "2026-07-27T02:26:42.343Z",
+  "generated": "2026-07-28T02:27:10.737Z",
   "counts": {
-    "total": 258,
-    "en": 124,
-    "zh": 134,
+    "total": 260,
+    "en": 125,
+    "zh": 135,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "shy-toddler-wont-say-hi-zh",
+      "lang": "zh-TW",
+      "title": "女兒每次見人就躲，阿嬤說沒禮貌——後來我才懂，越逼她叫人，她越躲",
+      "description": "為什麼硬逼孩子打招呼常常適得其反？氣質研究和蒙特梭利的「禮儀與優雅」教學到底怎麼說？這篇整理了我們家實際做了一年多才慢慢改變的方法。",
+      "tags": [
+        "害羞",
+        "社交發展",
+        "正向教養",
+        "蒙特梭利",
+        "氣質",
+        "幼兒行為"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-28",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/shy-toddler-wont-say-hi-zh"
+    },
+    {
+      "slug": "shy-toddler-wont-say-hi-en",
+      "lang": "en",
+      "title": "My Kid Hides Behind My Leg Every Time Someone Says Hi — Here's What Actually Helps",
+      "description": "Why forcing a shy child to greet relatives backfires, what temperament research and Montessori's grace and courtesy tradition actually say, and the scripts that worked for us instead.",
+      "tags": [
+        "shyness",
+        "social skills",
+        "positive parenting",
+        "montessori",
+        "temperament",
+        "toddler"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-07-28",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/shy-toddler-wont-say-hi-en"
+    },
     {
       "slug": "kid-nobody-wants-to-play-with-me-en",
       "lang": "en",

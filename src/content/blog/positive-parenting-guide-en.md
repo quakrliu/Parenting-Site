@@ -312,6 +312,7 @@ Explore more in our Positive Parenting series:
 - [How to Set Boundaries Without Punishment: The Positive Parenting Way](/en/blog/positive-parenting-boundaries-en)
 - [My Kid Said 'Nobody Wants to Play With Me': What Actually Helps](/en/blog/kid-nobody-wants-to-play-with-me-en)
 - [Repair After Conflict: How to Rebuild Trust with Your Child](/en/blog/repair-after-conflict-rebuild-trust-en)
+- [My Kid Hides Behind My Leg Every Time Someone Says Hi — Here's What Actually Helps](/en/blog/shy-toddler-wont-say-hi-en)
 - [Your Toddler's Meltdowns Are Normal: A Montessori Approach](/en/blog/toddler-meltdowns-montessori-en)
 - [Why I Stopped Being a 'Gentle Parent' (And Became a Better Dad)](/en/blog/hybrid-parenting-2026-gentle-parenting-en)
 - [Gentle Parenting Burned You Out? Here's the Science of Empathy + Limits](/en/blog/gentle-parenting-burnout-empathy-limits-en)

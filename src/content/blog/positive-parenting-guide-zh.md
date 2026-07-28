@@ -319,6 +319,7 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [正向教養讓你累垮了嗎？邊界感才是真正的關鍵](/zh/blog/gentle-parenting-burnout-empathy-limits-zh)
 - [溫和教養不夠用？2026 台灣爸媽都在用「混合式教養」](/zh/blog/hybrid-parenting-2026-zh)
 - [衝突後如何修復親子連結：Hybrid Parenting 的最後一哩路](/zh/blog/repair-after-conflict-rebuild-trust-zh)
+- [女兒每次見人就躲，阿嬤說沒禮貌——後來我才懂，越逼她叫人，她越躲](/zh/blog/shy-toddler-wont-say-hi-zh)
 - [4歲為什麼總是跟你對著幹？發展心理學這樣解釋](/zh/blog/4-year-old-power-struggles-zh)
 - [爸爸的角色有多重要？父親參與育兒的科學實證](/zh/blog/daddy-role-in-parenting-zh)
 - [家長職業倦怠：92% 父母精疲力竭，你也中了嗎？](/zh/blog/parental-burnout-solutions-2026)
