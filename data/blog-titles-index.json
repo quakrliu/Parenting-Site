@@ -1,13 +1,57 @@
 {
-  "generated": "2026-07-28T02:27:10.737Z",
+  "generated": "2026-07-29T02:26:30.446Z",
   "counts": {
-    "total": 260,
-    "en": 125,
-    "zh": 135,
+    "total": 262,
+    "en": 126,
+    "zh": 136,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kids-ai-companion-chatbot-safety-zh",
+      "lang": "zh-TW",
+      "title": "孩子的AI「麻吉」在陪她聊心事？2026年家長不能不知道的AI陪伴機器人風險",
+      "description": "育見未來 BloomPath 工程師爸爸實測分析：越來越多台灣中小學生把心事說給AI角色聽，而不是爸媽。這篇整理 2026 年最新台灣調查數據、國際研究，和具體可以跟孩子聊的方法。",
+      "tags": [
+        "AI陪伴機器人",
+        "兒童網路安全",
+        "螢幕時間",
+        "正向教養",
+        "數位安全",
+        "青少年心理健康"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-07-29",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/kids-ai-companion-chatbot-safety-zh"
+    },
+    {
+      "slug": "kids-ai-companion-chatbot-safety-en",
+      "lang": "en",
+      "title": "Is Your Kid Talking to an AI 'Best Friend'? What Parents Need to Know in 2026",
+      "description": "AI companion chatbots are quietly becoming kids' go-to for comfort and advice. A software engineer dad breaks down why these apps are built to feel like a friend, what the 2026 research says, and how to actually talk to your kid about it.",
+      "tags": [
+        "AI companion apps",
+        "kids and AI chatbots",
+        "digital safety",
+        "screen time",
+        "positive parenting",
+        "AI safety kids"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-07-29",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/kids-ai-companion-chatbot-safety-en"
+    },
     {
       "slug": "shy-toddler-wont-say-hi-zh",
       "lang": "zh-TW",
