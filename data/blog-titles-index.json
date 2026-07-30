@@ -1,13 +1,49 @@
 {
-  "generated": "2026-07-29T02:26:30.446Z",
+  "generated": "2026-07-30T02:29:05.965Z",
   "counts": {
-    "total": 262,
-    "en": 126,
-    "zh": 136,
+    "total": 264,
+    "en": 127,
+    "zh": 137,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-cant-handle-losing-games-zh",
+      "lang": "zh-TW",
+      "title": "桌遊一輸就翻牌大哭：孩子輸不起，我們家花了快一年才練出來的方法",
+      "description": "UNO 玩到一半，孩子突然把牌一甩、大哭說「不公平」——這是每個家庭都會遇到的場景。育見未來 BloomPath 整理了兒童發展研究和實際做法，告訴你孩子輸不起是不是正常，以及怎麼陪他練出耐挫力。",
+      "tags": [
+        "輸不起",
+        "情緒調節",
+        "正向教養",
+        "桌遊",
+        "兒童發展"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-07-30",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-cant-handle-losing-games-zh"
+    },
+    {
+      "slug": "kid-cant-handle-losing-games-en",
+      "lang": "en",
+      "title": "My Kid Flips the Board Every Time She Loses — Here's What Actually Helped",
+      "description": "Your kid rage-quits Uno, flips the Monopoly board, or accuses everyone of cheating the second they're losing. Here's the research on why, plus the steps that actually work — from a dad who lived through years of ruined game nights.",
+      "tags": [
+        "sore loser",
+        "toddler behavior",
+        "positive parenting",
+        "board games",
+        "emotional regulation"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-07-30",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/kid-cant-handle-losing-games-en"
+    },
     {
       "slug": "kids-ai-companion-chatbot-safety-zh",
       "lang": "zh-TW",
