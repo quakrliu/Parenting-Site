@@ -1,13 +1,51 @@
 {
-  "generated": "2026-07-30T02:29:05.965Z",
+  "generated": "2026-07-31T02:24:19.360Z",
   "counts": {
-    "total": 264,
-    "en": 127,
-    "zh": 137,
+    "total": 266,
+    "en": 128,
+    "zh": 138,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "overparenting-effects-zh",
+      "lang": "zh-TW",
+      "title": "我差點把她忘記帶的作業送去學校——後來我想起蒙特梭利老師說過的一句話",
+      "description": "什麼都幫孩子做好，孩子真的會比較好嗎？育見未來 BloomPath 整理國際研究和蒙特梭利的觀點，聊聊「過度幫忙」怎麼悄悄養出責任感失能的孩子，以及我們家怎麼慢慢放手。",
+      "tags": [
+        "過度教養",
+        "獨立力",
+        "正向教養",
+        "蒙特梭利",
+        "兒童發展",
+        "責任感"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-07-31",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/overparenting-effects-zh"
+    },
+    {
+      "slug": "overparenting-effects-en",
+      "lang": "en",
+      "title": "I Almost Drove Her Forgotten Homework to School. Here's What Overparenting Research Taught Me",
+      "description": "What happens when parents rescue kids from every mistake? A look at the real research on overparenting, executive function, and what Montessori says about letting kids struggle.",
+      "tags": [
+        "overparenting",
+        "helicopter parenting",
+        "independence",
+        "positive parenting",
+        "child development",
+        "montessori"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-07-31",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/overparenting-effects-en"
+    },
     {
       "slug": "kid-cant-handle-losing-games-zh",
       "lang": "zh-TW",
