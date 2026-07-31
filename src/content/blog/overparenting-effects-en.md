@@ -9,6 +9,8 @@ image: "/og/overparenting-effects-en.png"
 draft: false
 ---
 
+**TL;DR:** Overparenting — taking over tasks your child is capable of doing — is linked in research to weaker self-regulation, lower self-efficacy, and worse academic adjustment. Montessori's answer isn't "let kids fail," it's building an environment safe enough that mistakes are just information. Below: what the research actually shows, what Montessori says about independence, and the age-by-age handoff we use at home.
+
 Last month, at 8:10 on a Tuesday morning, my daughter realized she'd left her science project on the kitchen counter. I was already grabbing my keys. School starts at 8:30, the project was due first period, and I do this thing — most parents do this thing — where the fastest fix wins over the better one.
 
 I got about three steps toward the garage before I stopped.
