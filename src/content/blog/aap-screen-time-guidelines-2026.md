@@ -359,3 +359,4 @@ AAP最大的轉變是移除「2歲以下零螢幕、2-5歲每天1小時」的硬
 - [孩子沉迷螢幕，可能是你的手機造成的？](/zh/blog/parental-phubbing-child-screen-addiction-zh)
 - [磁力片玩具推薦 2026：不讓孩子滑平板的 STEAM 替代方案](/zh/blog/magnetic-tiles-screen-alternative-zh)
 - [AI 幫女兒想答案，那她自己在想什麼？工程師爸爸的「大腦外包」焦慮自救指南](/zh/blog/ai-cognitive-debt-kids-zh)
+- [睡前滑 iPad 半小時，她十一點還醒著：螢幕與睡眠的真相](/zh/blog/screen-time-sleep-bedtime-zh)

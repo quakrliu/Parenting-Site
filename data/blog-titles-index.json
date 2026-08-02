@@ -1,13 +1,57 @@
 {
-  "generated": "2026-07-31T02:25:56.516Z",
+  "generated": "2026-08-02T02:22:57.443Z",
   "counts": {
-    "total": 266,
-    "en": 128,
-    "zh": 138,
+    "total": 268,
+    "en": 129,
+    "zh": 139,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "screen-time-sleep-bedtime-zh",
+      "lang": "zh-TW",
+      "title": "睡前滑 iPad 半小時，她十一點還醒著：螢幕與睡眠的真相",
+      "description": "育見未來 BloomPath 工程師爸爸實測：睡前螢幕時間怎麼安排才不會犧牲睡眠？不是完全禁用，是抓對那 45 分鐘的宵禁時機。",
+      "tags": [
+        "睡前螢幕時間",
+        "幼兒睡眠",
+        "睡前儀式",
+        "數位育兒",
+        "睡眠科學"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler",
+        "school"
+      ],
+      "pubDate": "2026-08-02",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/screen-time-sleep-bedtime-zh"
+    },
+    {
+      "slug": "screen-time-sleep-bedtime-en",
+      "lang": "en",
+      "title": "iPad Before Bed: The Screen Time Rule That Actually Fixed Our Nightly Meltdowns",
+      "description": "A software engineer dad breaks down what the research says about screens and sleep, and the exact bedtime curfew that stopped our 9pm meltdowns without banning the iPad entirely.",
+      "tags": [
+        "screen time",
+        "toddler sleep",
+        "bedtime routine",
+        "digital parenting",
+        "sleep science"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler",
+        "school"
+      ],
+      "pubDate": "2026-08-02",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/screen-time-sleep-bedtime-en"
+    },
     {
       "slug": "overparenting-effects-zh",
       "lang": "zh-TW",
