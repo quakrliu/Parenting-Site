@@ -1,13 +1,57 @@
 {
-  "generated": "2026-08-02T02:22:57.443Z",
+  "generated": "2026-08-03T02:27:10.077Z",
   "counts": {
-    "total": 268,
-    "en": 129,
-    "zh": 139,
+    "total": 270,
+    "en": 130,
+    "zh": 140,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kids-melatonin-safety-zh",
+      "lang": "zh-TW",
+      "title": "褪黑激素軟糖能不能給孩子吃？數據比你想的還嚇人",
+      "description": "美國疾管署數據顯示，兒童誤食褪黑激素的中毒通報十年內暴增 530%。育見未來 BloomPath 整理國際兒科研究，告訴你劑量怎麼抓、什麼情況該先試別的方法。",
+      "tags": [
+        "兒童睡眠",
+        "褪黑激素",
+        "幼兒睡眠",
+        "睡眠安全",
+        "睡眠科學"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler",
+        "school"
+      ],
+      "pubDate": "2026-08-03",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kids-melatonin-safety-zh"
+    },
+    {
+      "slug": "kids-melatonin-safety-en",
+      "lang": "en",
+      "title": "Is Melatonin Safe for Kids? What the Data Actually Says Before You Try It",
+      "description": "CDC data shows a 530% jump in poison control calls for kids and melatonin. A BloomPath breakdown of what's actually safe, what dose matters, and what to try first.",
+      "tags": [
+        "kids sleep",
+        "melatonin",
+        "toddler sleep",
+        "pediatric sleep safety",
+        "sleep science"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler",
+        "school"
+      ],
+      "pubDate": "2026-08-03",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kids-melatonin-safety-en"
+    },
     {
       "slug": "screen-time-sleep-bedtime-zh",
       "lang": "zh-TW",
