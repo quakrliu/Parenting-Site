@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-03T02:27:10.077Z",
+  "generated": "2026-08-04T02:27:26.416Z",
   "counts": {
-    "total": 270,
-    "en": 130,
-    "zh": 140,
+    "total": 272,
+    "en": 131,
+    "zh": 141,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-scared-of-thunderstorms-zh",
+      "lang": "zh-TW",
+      "title": "女兒一聽到雷聲就鑽到桌子底下：台灣午後雷陣雨季，我們家真正有用的方法",
+      "description": "育見未來 BloomPath 工程師爸爸實測：孩子怕打雷不是矯情，是神經系統還沒發育完全。這篇整理出真正讓她從崩潰縮到願意數雷聲秒數的具體做法。",
+      "tags": [
+        "幼兒恐懼",
+        "怕打雷",
+        "正向教養",
+        "幼兒行為",
+        "情緒調節"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-04",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-scared-of-thunderstorms-zh"
+    },
+    {
+      "slug": "toddler-scared-of-thunderstorms-en",
+      "lang": "en",
+      "title": "My Toddler Screams at the First Rumble of Thunder — Here's What Actually Helped",
+      "description": "BloomPath's field-tested guide to toddler thunderstorm fear: why it happens, what makes it worse, and the science-backed steps that actually calm a storm-scared kid.",
+      "tags": [
+        "toddler fears",
+        "thunderstorm anxiety",
+        "positive parenting",
+        "toddler behavior",
+        "emotional regulation"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-04",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-scared-of-thunderstorms-en"
+    },
     {
       "slug": "kids-melatonin-safety-zh",
       "lang": "zh-TW",
