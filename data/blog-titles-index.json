@@ -1,13 +1,57 @@
 {
-  "generated": "2026-08-04T02:27:26.416Z",
+  "generated": "2026-08-05T02:25:32.420Z",
   "counts": {
-    "total": 272,
-    "en": 131,
-    "zh": 141,
+    "total": 274,
+    "en": 132,
+    "zh": 142,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "parenting-disagreement-good-cop-bad-cop-zh",
+      "lang": "zh-TW",
+      "title": "我說不行，她轉頭問媽媽：夫妻教養不同調，孩子怎麼學會鑽漏洞的",
+      "description": "育見未來 BloomPath 工程師爸爸實戰筆記：孩子不是在耍心機，是在測試家裡有沒有兩套答案。夫妻教養不一致怎麼收斂，這篇給你具體做法。",
+      "tags": [
+        "夫妻教養",
+        "教養不同調",
+        "正向教養",
+        "親子溝通",
+        "教養一致性"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-08-05",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/parenting-disagreement-good-cop-bad-cop-zh"
+    },
+    {
+      "slug": "parenting-disagreement-good-cop-bad-cop-en",
+      "lang": "en",
+      "title": "My Wife Says Yes, I Say No — My Daughter Found the Gap Before We Did",
+      "description": "BloomPath's guide to parenting disagreements between partners: why kids learn to play parents against each other, and the scripts that actually stop it.",
+      "tags": [
+        "parenting disagreement",
+        "co-parenting",
+        "positive parenting",
+        "family dynamics",
+        "toddler discipline"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-08-05",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/parenting-disagreement-good-cop-bad-cop-en"
+    },
     {
       "slug": "toddler-scared-of-thunderstorms-zh",
       "lang": "zh-TW",
