@@ -1,13 +1,56 @@
 {
-  "generated": "2026-08-05T02:25:32.420Z",
+  "generated": "2026-08-06T02:25:21.946Z",
   "counts": {
-    "total": 274,
-    "en": 132,
-    "zh": 142,
+    "total": 276,
+    "en": 133,
+    "zh": 143,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-swim-lesson-fear-of-water-zh",
+      "lang": "zh-TW",
+      "title": "上禮拜六的游泳課，女兒尖叫著抱住我的腿不放：孩子怕水，我們後來這樣做",
+      "description": "育見未來 BloomPath 工程師爸爸實測：孩子怕水不是矯情，是正常發展階段。這篇整理出讓女兒從抱腿尖叫到願意自己踢水的具體做法，附國際兒科水域安全建議。",
+      "tags": [
+        "幼兒怕水",
+        "游泳課",
+        "正向教養",
+        "夏季育兒",
+        "兒童安全"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-06",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-swim-lesson-fear-of-water-zh"
+    },
+    {
+      "slug": "bilingual-child-code-switching-en",
+      "lang": "en",
+      "title": "My Kid Mixes English and Mandarin Mid-Sentence — Here's What the Research Actually Says",
+      "description": "BloomPath's guide to bilingual code-switching: why kids blending two languages in one sentence is a sign of cognitive strength, not confusion, and what to actually do about it.",
+      "tags": [
+        "bilingual parenting",
+        "code-switching",
+        "child development",
+        "raising bilingual kids",
+        "language development"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-08-06",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/bilingual-child-code-switching-en"
+    },
     {
       "slug": "parenting-disagreement-good-cop-bad-cop-zh",
       "lang": "zh-TW",
