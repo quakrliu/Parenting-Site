@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-06T02:25:21.946Z",
+  "generated": "2026-08-07T02:25:12.327Z",
   "counts": {
-    "total": 276,
-    "en": 133,
-    "zh": 143,
+    "total": 278,
+    "en": 134,
+    "zh": 144,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-wont-eat-sleep-deprivation-zh",
+      "lang": "zh-TW",
+      "title": "小孩不吃飯不是挑食：上禮拜三晚餐桌大戰後，我才發現原來是睡眠不夠",
+      "description": "育見未來 BloomPath 工程師爸爸實戰筆記：以為女兒突然變挑食，追根究柢才發現是睡眠不夠。從飢餓素、瘦體素到分工餵食法，這篇把「不吃飯」背後真正的原因講清楚。",
+      "tags": [
+        "幼兒睡眠",
+        "挑食",
+        "不吃飯",
+        "餐桌崩潰",
+        "正向教養"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-07",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-wont-eat-sleep-deprivation-zh"
+    },
+    {
+      "slug": "toddler-wont-eat-sleep-deprivation-en",
+      "lang": "en",
+      "title": "My Toddler Stopped Eating Dinner. It Wasn't Picky Eating — It Was Sleep.",
+      "description": "We spent two weeks assuming our daughter had turned into a picky eater. The real cause was sleep debt, and the research on ghrelin, leptin, and toddler appetite explains why.",
+      "tags": [
+        "toddler sleep",
+        "picky eating",
+        "toddler behavior",
+        "mealtime battles",
+        "positive parenting"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-07",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-wont-eat-sleep-deprivation-en"
+    },
     {
       "slug": "toddler-swim-lesson-fear-of-water-zh",
       "lang": "zh-TW",
