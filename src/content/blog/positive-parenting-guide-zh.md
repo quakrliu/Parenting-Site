@@ -336,3 +336,4 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [夏令營分離焦慮：孩子在門口大哭不放手，我們做對跟做錯的事](/zh/blog/summer-camp-separation-anxiety-zh)
 - [桌遊一輸就翻牌大哭：孩子輸不起，我們家花了快一年才練出來的方法](/zh/blog/kid-cant-handle-losing-games-zh)
 - [女兒一聽到雷聲就鑽到桌子底下：台灣午後雷陣雨季，我們家真正有用的方法](/zh/blog/toddler-scared-of-thunderstorms-zh)
+- [生日派對變成大哭現場：女兒在同學生日會上突然崩潰，我才發現問題出在哪](/zh/blog/toddler-birthday-party-meltdown-zh)

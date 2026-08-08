@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-07T02:25:12.327Z",
+  "generated": "2026-08-08T02:23:42.529Z",
   "counts": {
-    "total": 278,
-    "en": 134,
-    "zh": 144,
+    "total": 280,
+    "en": 135,
+    "zh": 145,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-birthday-party-meltdown-zh",
+      "lang": "zh-TW",
+      "title": "生日派對變成大哭現場：女兒在同學生日會上突然崩潰，我才發現問題出在哪",
+      "description": "育見未來 BloomPath 工程師爸爸實戰筆記：女兒連續三場生日派對都在同一個時間點崩潰，追根究柢才發現不是「不乖」，是感官超載。附派對前準備清單與現場應對句型。",
+      "tags": [
+        "幼兒崩潰",
+        "感官超載",
+        "生日派對",
+        "正向教養",
+        "情緒調節"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-08-08",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-birthday-party-meltdown-zh"
+    },
+    {
+      "slug": "toddler-birthday-party-meltdown-en",
+      "lang": "en",
+      "title": "My Toddler Melted Down at Every Birthday Party This Year. Here's What Finally Helped.",
+      "description": "BloomPath engineer dad Ethan Moore breaks down why birthday parties trigger toddler meltdowns, what sensory overload actually looks like, and the prep-and-response system that stopped the crying at the door.",
+      "tags": [
+        "toddler meltdown",
+        "sensory overload",
+        "birthday party",
+        "positive parenting",
+        "toddler behavior"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschooler"
+      ],
+      "pubDate": "2026-08-08",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-birthday-party-meltdown-en"
+    },
     {
       "slug": "toddler-wont-eat-sleep-deprivation-zh",
       "lang": "zh-TW",
