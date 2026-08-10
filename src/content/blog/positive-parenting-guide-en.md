@@ -330,3 +330,4 @@ Explore more in our Positive Parenting series:
 - [My Kid Flips the Board Every Time She Loses — Here's What Actually Helped](/en/blog/kid-cant-handle-losing-games-en)
 - [My Toddler Melted Down at Every Birthday Party This Year. Here's What Finally Helped.](/en/blog/toddler-birthday-party-meltdown-en)
 - [My Toddler Screams at the First Rumble of Thunder — Here's What Actually Helped](/en/blog/toddler-scared-of-thunderstorms-en)
+- [My Daughter Ripped Up Her Math Worksheet Over One Wrong Answer — Here's What Actually Helped](/en/blog/kid-cries-over-mistakes-perfectionism-en)

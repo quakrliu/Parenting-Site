@@ -1,13 +1,53 @@
 {
-  "generated": "2026-08-08T02:23:42.529Z",
+  "generated": "2026-08-10T02:26:06.470Z",
   "counts": {
-    "total": 280,
-    "en": 135,
-    "zh": 145,
+    "total": 282,
+    "en": 136,
+    "zh": 146,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-cries-over-mistakes-perfectionism-zh",
+      "lang": "zh-TW",
+      "title": "數學習作寫錯一題就把整本闔上：孩子的完美主義，其實是求救訊號",
+      "description": "育見未來 BloomPath 共同創辦人 Mei Chen 分享：女兒因為一題錯誤就崩潰闔上習作本，追根究柢才發現是完美主義的早期訊號。附蒙特梭利「錯誤控制」概念解析與實用應對句型。",
+      "tags": [
+        "兒童完美主義",
+        "成長型思維",
+        "蒙特梭利",
+        "正向教養",
+        "國小情緒"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-08-10",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-cries-over-mistakes-perfectionism-zh"
+    },
+    {
+      "slug": "kid-cries-over-mistakes-perfectionism-en",
+      "lang": "en",
+      "title": "My Daughter Ripped Up Her Math Worksheet Over One Wrong Answer — Here's What Actually Helped",
+      "description": "BloomPath co-founder Mei Chen breaks down why elementary-age kids melt down over small mistakes, what Montessori's 'control of error' teaches about it, and the exact scripts that changed how our house handles wrong answers.",
+      "tags": [
+        "perfectionism in kids",
+        "growth mindset",
+        "montessori",
+        "positive parenting",
+        "elementary school"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-08-10",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kid-cries-over-mistakes-perfectionism-en"
+    },
     {
       "slug": "toddler-birthday-party-meltdown-zh",
       "lang": "zh-TW",
