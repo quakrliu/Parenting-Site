@@ -339,3 +339,4 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [生日派對變成大哭現場：女兒在同學生日會上突然崩潰，我才發現問題出在哪](/zh/blog/toddler-birthday-party-meltdown-zh)
 - [數學習作寫錯一題就把整本闔上：孩子的完美主義，其實是求救訊號](/zh/blog/kid-cries-over-mistakes-perfectionism-zh)
 - [白天都不尿褲子了，晚上還是尿床：我們家半夜換床單三個月才搞懂的事](/zh/blog/bedwetting-nighttime-potty-training-zh)
+- [在阿嬤家超乖、在學校被誇獎，一看到我就整個崩潰：原來這不是我的問題](/zh/blog/toddler-meltdown-safest-parent-zh)

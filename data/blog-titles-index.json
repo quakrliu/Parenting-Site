@@ -1,13 +1,57 @@
 {
-  "generated": "2026-08-11T02:25:25.198Z",
+  "generated": "2026-08-12T02:26:23.444Z",
   "counts": {
-    "total": 284,
-    "en": 137,
-    "zh": 147,
+    "total": 286,
+    "en": 138,
+    "zh": 148,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-meltdown-safest-parent-zh",
+      "lang": "zh-TW",
+      "title": "在阿嬤家超乖、在學校被誇獎，一看到我就整個崩潰：原來這不是我的問題",
+      "description": "老師說她今天超棒，五分鐘後在你面前大哭大鬧。育見未來 BloomPath 用依附理論告訴你，為什麼孩子總把最崩潰的一面留給你——這其實是好事。",
+      "tags": [
+        "幼兒行為",
+        "依附理論",
+        "孩子崩潰",
+        "安全依附",
+        "正向教養",
+        "情緒調節"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-12",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-meltdown-safest-parent-zh"
+    },
+    {
+      "slug": "toddler-meltdown-safest-parent-en",
+      "lang": "en",
+      "title": "My Toddler Is an Angel for Everyone Else. The Second I Walk In, She Falls Apart.",
+      "description": "Your kid behaves perfectly for the teacher, the sitter, even your spouse — then loses it the moment they see you. BloomPath breaks down why, using real attachment research, not guilt.",
+      "tags": [
+        "toddler behavior",
+        "attachment theory parenting",
+        "toddler meltdowns",
+        "secure attachment",
+        "positive parenting",
+        "toddler emotional regulation"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-12",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-meltdown-safest-parent-en"
+    },
     {
       "slug": "bedwetting-nighttime-potty-training-zh",
       "lang": "zh-TW",
