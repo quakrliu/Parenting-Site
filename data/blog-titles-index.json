@@ -1,13 +1,54 @@
 {
-  "generated": "2026-08-13T02:26:34.634Z",
+  "generated": "2026-08-14T02:29:06.490Z",
   "counts": {
-    "total": 288,
-    "en": 139,
-    "zh": 149,
+    "total": 290,
+    "en": 140,
+    "zh": 150,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "first-phone-decision-framework-en",
+      "lang": "en",
+      "title": "When Should My Kid Get a Phone? The Framework We Actually Used",
+      "description": "BloomPath co-founder Ethan Moore breaks down the readiness framework our family used to decide on a first phone, plus what the newest smartphone research actually says about waiting.",
+      "tags": [
+        "first phone for kids",
+        "screen time",
+        "digital safety",
+        "kids and smartphones",
+        "parenting tech decisions"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-08-14",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/first-phone-decision-framework-en"
+    },
+    {
+      "slug": "child-fear-injections-doctor-visit-zh",
+      "lang": "zh-TW",
+      "title": "看醫生打針前，我們家這樣準備：從尖叫僵住到願意伸手",
+      "description": "育見未來 BloomPath 工程師爸爸實測整理：孩子怕打針不只是怕痛，是預期焦慮在作祟。這篇整理出打針前、打針中、打針後真正有用的做法，還有我自己說謊哄騙後付出的代價。",
+      "tags": [
+        "幼兒怕打針",
+        "看醫生焦慮",
+        "兒童疫苗接種",
+        "分散注意力技巧",
+        "正向教養"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-14",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/child-fear-injections-doctor-visit-zh"
+    },
     {
       "slug": "taiwan-parenting-subsidy-2026-guide-zh",
       "lang": "zh-TW",

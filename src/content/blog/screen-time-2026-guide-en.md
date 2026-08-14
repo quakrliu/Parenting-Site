@@ -345,3 +345,4 @@ Explore more in our Screen Time series:
 - [No Phone Summer: The Family Rule That Actually Changed Our July](/en/blog/no-phone-summer-family-rule-en)
 - [Is AI Doing My Kid's Thinking For Her? What "Cognitive Debt" Research Actually Says](/en/blog/ai-cognitive-debt-kids-en)
 - [iPad Before Bed: The Screen Time Rule That Actually Fixed Our Nightly Meltdowns](/en/blog/screen-time-sleep-bedtime-en)
+- [When Should My Kid Get a Phone? The Framework We Actually Used](/en/blog/first-phone-decision-framework-en)
