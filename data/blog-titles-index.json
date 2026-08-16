@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-15T02:25:54.927Z",
+  "generated": "2026-08-16T02:26:54.742Z",
   "counts": {
-    "total": 292,
-    "en": 141,
-    "zh": 151,
+    "total": 294,
+    "en": 142,
+    "zh": 152,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "taiwan-future-account-childcare-benefits-2026-zh",
+      "lang": "zh-TW",
+      "title": "兒少未來帳戶 114 萬元、租屋補助加碼 50%、育嬰不減薪減少工時：2026 台灣育兒新制加碼懶人包",
+      "description": "立法院三讀通過兒少未來帳戶後，育見未來 BloomPath 的工程師爸爸把 114 萬元怎麼算、租屋補助加碼 50%、育嬰減少工時不減薪三件新制，攤開試算表講給你聽。",
+      "tags": [
+        "兒少未來帳戶",
+        "育兒津貼2026",
+        "婚育租屋補助",
+        "育嬰減少工時",
+        "台灣育兒新制"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-08-16",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/taiwan-future-account-childcare-benefits-2026-zh"
+    },
+    {
+      "slug": "highly-sensitive-child-traits-research-en",
+      "lang": "en",
+      "title": "Is My Kid Just Sensitive, or Highly Sensitive? What Elaine Aron's Research Actually Says",
+      "description": "BloomPath co-founder Mei Chen breaks down Dr. Elaine Aron's Sensory Processing Sensitivity research after a birthday party meltdown made her rethink what 'sensitive' actually means.",
+      "tags": [
+        "highly sensitive child",
+        "child temperament",
+        "sensory processing sensitivity",
+        "Montessori",
+        "positive parenting"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-16",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/highly-sensitive-child-traits-research-en"
+    },
     {
       "slug": "bullying-vs-peer-conflict-signs-zh",
       "lang": "zh-TW",
