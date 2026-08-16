@@ -328,6 +328,7 @@ Explore more in our Positive Parenting series:
 - [Why Your Kid Talks Back to You (And What Positive Discipline Says to Do About It)](/en/blog/toddler-talking-back-positive-discipline-en)
 - [My Toddler Melted Down in the Middle of a Restaurant — Here's What Actually Changed](/en/blog/toddler-restaurant-meltdown-en)
 - [First Time at Summer Camp: A Field Guide to Separation Anxiety (Ages 4-10)](/en/blog/summer-camp-separation-anxiety-en)
+- [Is My Kid Just Sensitive, or Highly Sensitive? What Elaine Aron's Research Actually Says](/en/blog/highly-sensitive-child-traits-research-en)
 - [My Kid Flips the Board Every Time She Loses — Here's What Actually Helped](/en/blog/kid-cant-handle-losing-games-en)
 - [My Toddler Melted Down at Every Birthday Party This Year. Here's What Finally Helped.](/en/blog/toddler-birthday-party-meltdown-en)
 - [My Toddler Screams at the First Rumble of Thunder — Here's What Actually Helped](/en/blog/toddler-scared-of-thunderstorms-en)
