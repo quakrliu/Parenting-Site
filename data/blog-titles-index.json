@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-16T02:26:54.742Z",
+  "generated": "2026-08-17T02:22:29.856Z",
   "counts": {
-    "total": 294,
-    "en": 142,
-    "zh": 152,
+    "total": 296,
+    "en": 143,
+    "zh": 153,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-interrupts-adult-conversations-zh",
+      "lang": "zh-TW",
+      "title": "為什麼孩子總在你講話時插嘴？蒙特梭利「等待的手」教我們的事",
+      "description": "朋友來家裡聊天，孩子十分鐘內插嘴六次——不是沒禮貌，是大腦還沒學會『先存起來晚點說』。育見未來 BloomPath 分享一個蒙特梭利小學家長自己實測有效的做法。",
+      "tags": [
+        "蒙特梭利",
+        "正向教養",
+        "幼兒行為",
+        "禮貌",
+        "兒童發展"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-17",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-interrupts-adult-conversations-zh"
+    },
+    {
+      "slug": "toddler-interrupts-adult-conversations-en",
+      "lang": "en",
+      "title": "Why Your Kid Interrupts Every Adult Conversation (And What Actually Fixed It)",
+      "description": "Your kid interrupts constantly when adults talk — not out of rudeness, but because they haven't learned to hold a thought. A Montessori grace and courtesy approach that actually worked, from a mom of a Montessori elementary schooler.",
+      "tags": [
+        "montessori",
+        "positive parenting",
+        "toddler behavior",
+        "grace and courtesy",
+        "child development"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-17",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-interrupts-adult-conversations-en"
+    },
     {
       "slug": "taiwan-future-account-childcare-benefits-2026-zh",
       "lang": "zh-TW",

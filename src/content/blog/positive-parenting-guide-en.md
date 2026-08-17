@@ -333,4 +333,5 @@ Explore more in our Positive Parenting series:
 - [My Toddler Melted Down at Every Birthday Party This Year. Here's What Finally Helped.](/en/blog/toddler-birthday-party-meltdown-en)
 - [My Toddler Screams at the First Rumble of Thunder — Here's What Actually Helped](/en/blog/toddler-scared-of-thunderstorms-en)
 - [My Daughter Ripped Up Her Math Worksheet Over One Wrong Answer — Here's What Actually Helped](/en/blog/kid-cries-over-mistakes-perfectionism-en)
+- [Why Your Kid Interrupts Every Adult Conversation (And What Actually Fixed It)](/en/blog/toddler-interrupts-adult-conversations-en)
 - [My 5-Year-Old Is Potty Trained All Day and Still Wets the Bed Every Night](/en/blog/bedwetting-nighttime-potty-training-en)
