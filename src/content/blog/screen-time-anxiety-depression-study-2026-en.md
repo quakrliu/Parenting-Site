@@ -24,7 +24,7 @@ A structural equation model of 50,231 U.S. children ages 6–17 found that 4+ ho
 
 ## What did the 50,000-kid study actually measure?
 
-Researchers used a statistical method called structural equation modeling to test not just whether screen time correlates with anxiety and depression, but *why*. They looked at four outcomes — anxiety, depression, behavior/conduct problems, and ADHD symptoms — and tested three possible pathways: physical activity, bedtime regularity, and total sleep duration.
+Researchers used a statistical method called structural equation modeling to dig into *why* screen time correlates with anxiety and depression, rather than just confirming that it does. They looked at four outcomes — anxiety, depression, behavior/conduct problems, and ADHD symptoms — and tested three possible pathways: physical activity, bedtime regularity, and total sleep duration.
 
 The headline numbers, for kids logging 4 or more hours of screen time daily versus low-use peers:
 
