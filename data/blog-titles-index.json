@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-17T02:22:29.856Z",
+  "generated": "2026-08-18T02:26:44.963Z",
   "counts": {
-    "total": 296,
-    "en": 143,
-    "zh": 153,
+    "total": 298,
+    "en": 144,
+    "zh": 154,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "screen-time-anxiety-depression-study-2026-zh",
+      "lang": "zh-TW",
+      "title": "螢幕時間跟焦慮症有關？2026 年 5 萬名兒童研究揭露的真相",
+      "description": "2026 年一份追蹤超過 5 萬名兒童的研究發現，每天螢幕時間 4 小時以上，焦慮風險增加 45%、憂鬱風險增加 61%。育見未來 BloomPath 帶你看懂數字背後真正的機制，不是螢幕本身，是螢幕偷走的東西。",
+      "tags": [
+        "螢幕時間",
+        "兒童焦慮",
+        "兒童心理健康",
+        "數位教養",
+        "睡眠與螢幕"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-08-18",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/screen-time-anxiety-depression-study-2026-zh"
+    },
+    {
+      "slug": "screen-time-anxiety-depression-study-2026-en",
+      "lang": "en",
+      "title": "Screen Time and Child Anxiety: What a 50,000-Kid Study Actually Found",
+      "description": "A 2026 study of over 50,000 kids found 4+ hours of daily screen time linked to a 45% higher anxiety risk and 61% higher depression risk. Here's what the data really shows — and what to do with it.",
+      "tags": [
+        "screen time",
+        "child anxiety",
+        "child mental health",
+        "digital parenting",
+        "sleep and screens"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-08-18",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/screen-time-anxiety-depression-study-2026-en"
+    },
     {
       "slug": "toddler-interrupts-adult-conversations-zh",
       "lang": "zh-TW",

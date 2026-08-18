@@ -346,3 +346,4 @@ Explore more in our Screen Time series:
 - [Is AI Doing My Kid's Thinking For Her? What "Cognitive Debt" Research Actually Says](/en/blog/ai-cognitive-debt-kids-en)
 - [iPad Before Bed: The Screen Time Rule That Actually Fixed Our Nightly Meltdowns](/en/blog/screen-time-sleep-bedtime-en)
 - [When Should My Kid Get a Phone? The Framework We Actually Used](/en/blog/first-phone-decision-framework-en)
+- [Screen Time and Child Anxiety: What a 50,000-Kid Study Actually Found](/en/blog/screen-time-anxiety-depression-study-2026-en)
