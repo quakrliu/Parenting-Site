@@ -1,13 +1,57 @@
 {
-  "generated": "2026-08-18T02:26:44.963Z",
+  "generated": "2026-08-19T02:23:45.423Z",
   "counts": {
-    "total": 298,
-    "en": 144,
-    "zh": 154,
+    "total": 300,
+    "en": 145,
+    "zh": 155,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "sustainable-montessori-toys-guide-zh",
+      "lang": "zh-TW",
+      "title": "木製玩具真的比較安全？FSC 認證、無毒漆料，工程師爸爸拆解蒙特梭利教具怎麼挑",
+      "description": "在好市多站在玩具區猶豫十分鐘後，我決定回家把玩具安全標章和塑化劑檢驗規定研究清楚。育見未來 BloomPath 整理：FSC 認證、GREENGUARD Gold、台灣商品安全標章分別代表什麼，什麼時候該花錢買木製教具，什麼時候便宜塑膠就夠了。",
+      "tags": [
+        "蒙特梭利玩具",
+        "玩具安全",
+        "無毒玩具",
+        "永續育兒",
+        "FSC認證"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-19",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/sustainable-montessori-toys-guide-zh"
+    },
+    {
+      "slug": "sustainable-montessori-toys-guide-en",
+      "lang": "en",
+      "title": "Are Wooden Toys Actually Safer? What FSC and GREENGUARD Certifications Really Mean",
+      "description": "I spent a weekend reading toy safety labels after a Costco run turned into a phthalate research rabbit hole. Here's what FSC, GREENGUARD Gold, and 'non-toxic' actually mean — and when the expensive wooden toy is worth it.",
+      "tags": [
+        "montessori toys",
+        "toy safety",
+        "non-toxic toys",
+        "sustainable parenting",
+        "FSC certification"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-19",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/sustainable-montessori-toys-guide-en"
+    },
     {
       "slug": "screen-time-anxiety-depression-study-2026-zh",
       "lang": "zh-TW",

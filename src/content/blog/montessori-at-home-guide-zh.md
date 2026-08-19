@@ -399,3 +399,4 @@ A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。�
 - [孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援](/zh/blog/kids-say-bored-montessori-prepared-environment-zh)
 - [燈塔式育兒：讓孩子有根、也有翅膀](/zh/blog/lighthouse-parenting-montessori-zh)
 - [孩子到底幾歲該自己睡？跟阿嬤拉鋸半年後，我們家這樣分房睡成功了](/zh/blog/toddler-own-room-transition-zh)
+- [木製玩具真的比較安全？FSC 認證、無毒漆料，工程師爸爸拆解蒙特梭利教具怎麼挑](/zh/blog/sustainable-montessori-toys-guide-zh)

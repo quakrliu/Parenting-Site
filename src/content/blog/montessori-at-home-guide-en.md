@@ -371,3 +371,4 @@ Explore more in our Montessori at Home series:
 - [Is Gentle Parenting Dead? What Montessori Says About Boundaries](/en/blog/en-gentle-parenting-montessori-boundaries)
 - [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)
 - [When Should a Toddler Move to Their Own Room? What Actually Worked for Us](/en/blog/toddler-own-room-transition-en)
+- [Are Wooden Toys Actually Safer? What FSC and GREENGUARD Certifications Really Mean](/en/blog/sustainable-montessori-toys-guide-en)
