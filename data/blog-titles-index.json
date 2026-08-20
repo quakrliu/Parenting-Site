@@ -1,13 +1,47 @@
 {
-  "generated": "2026-08-19T02:23:45.423Z",
+  "generated": "2026-08-20T02:22:22.894Z",
   "counts": {
-    "total": 300,
-    "en": 145,
-    "zh": 155,
+    "total": 302,
+    "en": 146,
+    "zh": 156,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "parent-anxiety-child-emotional-regulation-zh",
+      "lang": "zh-TW",
+      "title": "你越急，孩子哭得越兇：家長的焦慮真的會傳給孩子嗎？",
+      "description": "上學快遲到、孩子找不到鞋子開始崩潰，你的火氣也跟著上來——這篇用共同調節（co-regulation）的研究告訴你，家長的情緒為什麼會直接影響孩子，以及該怎麼先穩住自己。",
+      "tags": [
+        "情緒調節",
+        "正向教養",
+        "共同調節",
+        "親子崩潰"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-08-20",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/parent-anxiety-child-emotional-regulation-zh"
+    },
+    {
+      "slug": "parent-anxiety-child-emotional-regulation-en",
+      "lang": "en",
+      "title": "Why Your Kid's Meltdown Gets Worse the Angrier You Get (What Co-Regulation Research Says)",
+      "description": "Your toddler's tantrum keeps escalating and so does your own frustration. Here's what the co-regulation research actually says about parental stress and child emotional regulation — and what to do instead.",
+      "tags": [
+        "emotional regulation",
+        "positive parenting",
+        "co-regulation",
+        "toddler meltdown"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-08-20",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/parent-anxiety-child-emotional-regulation-en"
+    },
     {
       "slug": "sustainable-montessori-toys-guide-zh",
       "lang": "zh-TW",

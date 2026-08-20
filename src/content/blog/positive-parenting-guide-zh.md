@@ -332,6 +332,7 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [六點半才肯打開作業本：孩子功課拖到快抓狂，工程師爸爸的除錯筆記](/zh/blog/kids-homework-procrastination-zh)
 - [巷口理髮店，女兒一坐上椅子就尖叫大哭：剪頭髮大崩潰，我們試過的方法都寫在這裡](/zh/blog/toddler-haircut-meltdown-zh)
 - [孩子開始頂嘴，是不尊重還是在求救？正向教養心理師的真實應對法](/zh/blog/toddler-talking-back-positive-discipline-zh)
+- [你越急，孩子哭得越兇：家長的焦慮真的會傳給孩子嗎？](/zh/blog/parent-anxiety-child-emotional-regulation-zh)
 - [帶孩子外食變噩夢：那晚在義大利麵店大崩潰之後，我們真正改變的三件事](/zh/blog/toddler-restaurant-meltdown-zh)
 - [夏令營分離焦慮：孩子在門口大哭不放手，我們做對跟做錯的事](/zh/blog/summer-camp-separation-anxiety-zh)
 - [桌遊一輸就翻牌大哭：孩子輸不起，我們家花了快一年才練出來的方法](/zh/blog/kid-cant-handle-losing-games-zh)
