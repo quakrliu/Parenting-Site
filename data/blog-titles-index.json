@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-20T02:22:22.894Z",
+  "generated": "2026-08-21T02:28:32.580Z",
   "counts": {
-    "total": 302,
-    "en": 146,
-    "zh": 156,
+    "total": 304,
+    "en": 147,
+    "zh": 157,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "you-dont-need-perfect-english-bilingual-kid-en",
+      "lang": "en",
+      "title": "You Don't Need Perfect English to Raise a Bilingual Kid",
+      "description": "Worried your grammar mistakes or accent will hold your child back? Here's what language acquisition research actually says about non-native parents raising bilingual kids.",
+      "tags": [
+        "bilingual parenting",
+        "language development",
+        "family language plan",
+        "non-native parent",
+        "child development"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-21",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/you-dont-need-perfect-english-bilingual-kid-en"
+    },
+    {
+      "slug": "taiwan-non-native-english-bilingual-family-zh",
+      "lang": "zh-TW",
+      "title": "英文不輪轉也能教出雙語寶貝：台灣爸媽的雙語家庭實戰計畫",
+      "description": "雙語 2030 政策讓一堆爸媽開始焦慮：我英文都講不好了，要怎麼教孩子雙語？最新語言發展研究告訴你，重點從來不是你的口音。",
+      "tags": [
+        "雙語教育",
+        "雙語家庭",
+        "英文不好",
+        "家庭語言計畫",
+        "台灣雙語政策"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-21",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/taiwan-non-native-english-bilingual-family-zh"
+    },
     {
       "slug": "parent-anxiety-child-emotional-regulation-zh",
       "lang": "zh-TW",
