@@ -1,13 +1,57 @@
 {
-  "generated": "2026-08-21T02:28:32.580Z",
+  "generated": "2026-08-22T02:25:31.626Z",
   "counts": {
-    "total": 304,
-    "en": 147,
-    "zh": 157,
+    "total": 306,
+    "en": 148,
+    "zh": 158,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-adhd-signs-vs-high-energy-zh",
+      "lang": "zh-TW",
+      "title": "老師問「要不要帶去評估」：孩子坐不住是過動還是正常活潑？完整對照指南",
+      "description": "育見未來 BloomPath 整理台灣兒童發展聯合評估制度 + 國際兒科研究，教你分辨幼兒正常活潑跟過動症風險徵兆的真正差異，以及聽到老師這句話之後該怎麼做。",
+      "tags": [
+        "過動症",
+        "幼兒行為",
+        "兒童發展",
+        "專注力",
+        "早療評估",
+        "正向教養"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-22",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-adhd-signs-vs-high-energy-zh"
+    },
+    {
+      "slug": "toddler-adhd-signs-vs-high-energy-en",
+      "lang": "en",
+      "title": "Is My Preschooler's High Energy Normal, or Could It Be ADHD? Here's How to Tell",
+      "description": "A preschool teacher once asked us if we'd 'looked into an evaluation.' Here's what the research actually says about ADHD signs in toddlers and preschoolers, and how to tell the difference from normal high energy.",
+      "tags": [
+        "ADHD in toddlers",
+        "preschooler behavior",
+        "child development",
+        "attention span",
+        "early intervention",
+        "parenting research"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-22",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-adhd-signs-vs-high-energy-en"
+    },
     {
       "slug": "you-dont-need-perfect-english-bilingual-kid-en",
       "lang": "en",
