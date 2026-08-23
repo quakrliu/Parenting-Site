@@ -1,13 +1,57 @@
 {
-  "generated": "2026-08-22T02:25:31.626Z",
+  "generated": "2026-08-23T02:22:04.449Z",
   "counts": {
-    "total": 306,
-    "en": 148,
-    "zh": 158,
+    "total": 308,
+    "en": 149,
+    "zh": 159,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "back-to-school-sleep-screen-reset-zh",
+      "lang": "zh-TW",
+      "title": "開學倒數十天，我用「15 分鐘法則」把女兒的暑假作息拉回來",
+      "description": "暑假在台南阿嬤家養成十一點半才睡的作息，開學前十天育見未來 BloomPath 的 Ethan 用漸進式調整法，不靠硬碰硬，順利把女兒的作息跟螢幕時間調回開學步調。",
+      "tags": [
+        "開學收心",
+        "作息調整",
+        "螢幕時間",
+        "幼兒睡眠",
+        "開學準備"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-08-23",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/back-to-school-sleep-screen-reset-zh"
+    },
+    {
+      "slug": "back-to-school-sleep-screen-reset-en",
+      "lang": "en",
+      "title": "The 15-Minute Trick That Fixed My Kid's Summer-Wrecked Bedtime Before School Started",
+      "description": "Ten days before the first day of school, my daughter's bedtime had drifted to 10:40 PM and screen time had no real end point. Here's the gradual reset method that actually worked, without a single 9 PM meltdown.",
+      "tags": [
+        "back to school",
+        "sleep schedule reset",
+        "screen time",
+        "toddler routine",
+        "school transition"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-08-23",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/back-to-school-sleep-screen-reset-en"
+    },
     {
       "slug": "toddler-adhd-signs-vs-high-energy-zh",
       "lang": "zh-TW",

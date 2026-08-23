@@ -347,3 +347,4 @@ Explore more in our Screen Time series:
 - [iPad Before Bed: The Screen Time Rule That Actually Fixed Our Nightly Meltdowns](/en/blog/screen-time-sleep-bedtime-en)
 - [When Should My Kid Get a Phone? The Framework We Actually Used](/en/blog/first-phone-decision-framework-en)
 - [Screen Time and Child Anxiety: What a 50,000-Kid Study Actually Found](/en/blog/screen-time-anxiety-depression-study-2026-en)
+- [The 15-Minute Trick That Fixed My Kid's Summer-Wrecked Bedtime Before School Started](/en/blog/back-to-school-sleep-screen-reset-en)
