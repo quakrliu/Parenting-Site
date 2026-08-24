@@ -314,6 +314,7 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 
 探索更多正向教養系列文章：
 
+- [女兒看到狗就整個人黏在我腿上不放：我們家真正有用的方法](/zh/blog/toddler-afraid-of-dogs-zh)
 - [我差點把她忘記帶的作業送去學校——後來我想起蒙特梭利老師說過的一句話](/zh/blog/overparenting-effects-zh)
 - [孩子一生氣就尖叫踢人？情緒教練 5 句話，比「不要哭」有效 10 倍](/zh/blog/emotion-coaching-name-it-tame-it-zh)
 - [孩子發脾氣、大哭大鬧？3 個正向教養步驟立刻化解](/zh/blog/toddler-tantrum-positive-parenting-zh)

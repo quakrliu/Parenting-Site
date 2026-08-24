@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-23T02:22:04.449Z",
+  "generated": "2026-08-24T02:26:11.494Z",
   "counts": {
-    "total": 308,
-    "en": 149,
-    "zh": 159,
+    "total": 310,
+    "en": 150,
+    "zh": 160,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-afraid-of-dogs-zh",
+      "lang": "zh-TW",
+      "title": "女兒看到狗就整個人黏在我腿上不放：我們家真正有用的方法",
+      "description": "育見未來 BloomPath 實戰媽媽 Mei Chen 分享:女兒某天突然開始怕狗,連原本認識的鄰居狗狗都不敢靠近。這篇整理了背後的發展心理學研究、為什麼逼她摸狗反而沒用,以及我們家真正有效的循序漸進法。",
+      "tags": [
+        "幼兒恐懼",
+        "兒童發展",
+        "正向教養",
+        "蒙特梭利",
+        "兒童焦慮"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-24",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-afraid-of-dogs-zh"
+    },
+    {
+      "slug": "toddler-afraid-of-dogs-en",
+      "lang": "en",
+      "title": "My Kid Freezes and Grabs My Leg Every Time She Sees a Dog. Here's What Actually Helped.",
+      "description": "BloomPath co-founder Mei Chen on why toddlers develop a sudden fear of dogs, what the research on social referencing actually says, and the graded-exposure approach that worked without forcing anything.",
+      "tags": [
+        "toddler fears",
+        "child development",
+        "positive parenting",
+        "Montessori",
+        "child anxiety"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-08-24",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-afraid-of-dogs-en"
+    },
     {
       "slug": "back-to-school-sleep-screen-reset-zh",
       "lang": "zh-TW",

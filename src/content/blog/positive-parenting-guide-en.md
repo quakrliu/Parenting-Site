@@ -307,6 +307,7 @@ A: Consistency helps, but it isn't everything. A child who has one consistently 
 
 Explore more in our Positive Parenting series:
 
+- [My Kid Freezes and Grabs My Leg Every Time She Sees a Dog. Here's What Actually Helped.](/en/blog/toddler-afraid-of-dogs-en)
 - [My Toddler Is an Angel for Everyone Else. The Second I Walk In, She Falls Apart.](/en/blog/toddler-meltdown-safest-parent-en)
 - [I Almost Drove Her Forgotten Homework to School. Here's What Overparenting Research Taught Me](/en/blog/overparenting-effects-en)
 - [Time-In vs. Time-Out: What Actually Works When Your Toddler Melts Down](/en/blog/time-in-vs-time-out-en)
