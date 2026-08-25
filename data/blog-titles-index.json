@@ -1,13 +1,49 @@
 {
-  "generated": "2026-08-24T02:26:11.494Z",
+  "generated": "2026-08-25T02:24:16.078Z",
   "counts": {
-    "total": 310,
-    "en": 150,
-    "zh": 160,
+    "total": 312,
+    "en": 151,
+    "zh": 161,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "night-weaning-baby-guide-zh",
+      "lang": "zh-TW",
+      "title": "半夜三點的泡奶接力賽：我們家怎麼溫和戒掉夜奶的",
+      "description": "育見未來 BloomPath 工程師爸爸 Ethan 分享：幾個月大可以開始戒夜奶、我們家真正有效的溫和戒法，以及實際花了多久時間。",
+      "tags": [
+        "戒夜奶",
+        "嬰兒睡眠",
+        "睡眠訓練",
+        "寶寶餵養",
+        "育兒痛點"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-08-25",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/night-weaning-baby-guide-zh"
+    },
+    {
+      "slug": "night-weaning-baby-guide-en",
+      "lang": "en",
+      "title": "The 2 AM Bottle Marathon: How We Finally Night-Weaned Our Daughter",
+      "description": "A software engineer dad breaks down when to start night weaning, the gentle method that actually worked for BloomPath's family, and how long it really takes.",
+      "tags": [
+        "night weaning",
+        "infant sleep",
+        "sleep training",
+        "baby feeding",
+        "parenting tips"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-08-25",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/night-weaning-baby-guide-en"
+    },
     {
       "slug": "toddler-afraid-of-dogs-zh",
       "lang": "zh-TW",
