@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-25T02:24:16.078Z",
+  "generated": "2026-08-26T02:26:42.829Z",
   "counts": {
-    "total": 312,
-    "en": 151,
-    "zh": 161,
+    "total": 314,
+    "en": 152,
+    "zh": 162,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "taipei-free-school-lunch-picky-eater-zh",
+      "lang": "zh-TW",
+      "title": "台北營養午餐9月起全免費，女兒回家還是喊餓：政策懶人包＋偏食應對實戰",
+      "description": "育見未來 BloomPath 整理台北市115學年營養午餐免費新制的補助金額、受惠人數，加上工程師爸爸親身試過、讓孩子在學校也願意吃的3個實際做法。",
+      "tags": [
+        "台北營養午餐免費",
+        "2026育兒新制",
+        "孩子偏食",
+        "開學準備",
+        "蒙特梭利飲食"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-08-26",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/taipei-free-school-lunch-picky-eater-zh"
+    },
+    {
+      "slug": "parent-group-chat-overload-en",
+      "lang": "en",
+      "title": "The Class Group Chat Hit 340 Messages by Day Three. Here's How I Stopped Checking It Every 10 Minutes",
+      "description": "A software engineer dad breaks down why school parent group chats spike your anxiety more than any other notification, and the triage system that actually got his phone quiet again.",
+      "tags": [
+        "back to school",
+        "parent mental load",
+        "digital boundaries",
+        "notification overload",
+        "family communication"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-08-26",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/parent-group-chat-overload-en"
+    },
     {
       "slug": "night-weaning-baby-guide-zh",
       "lang": "zh-TW",
