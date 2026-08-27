@@ -337,3 +337,4 @@ Explore more in our Positive Parenting series:
 - [My Daughter Ripped Up Her Math Worksheet Over One Wrong Answer — Here's What Actually Helped](/en/blog/kid-cries-over-mistakes-perfectionism-en)
 - [Why Your Kid Interrupts Every Adult Conversation (And What Actually Fixed It)](/en/blog/toddler-interrupts-adult-conversations-en)
 - [My 5-Year-Old Is Potty Trained All Day and Still Wets the Bed Every Night](/en/blog/bedwetting-nighttime-potty-training-en)
+- [My Daughter Bit a Kid at Daycare Twice in One Week. The Fix Wasn't Discipline — It Was Bedtime.](/en/blog/toddler-biting-sleep-deprivation-en)

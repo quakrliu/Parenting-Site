@@ -1,13 +1,74 @@
 {
-  "generated": "2026-08-26T02:26:42.829Z",
+  "generated": "2026-08-27T02:28:31.115Z",
   "counts": {
-    "total": 314,
-    "en": 152,
-    "zh": 162,
+    "total": 317,
+    "en": 153,
+    "zh": 164,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-biting-sleep-deprivation-zh",
+      "lang": "zh-TW",
+      "title": "女兒一週在托嬰中心咬人兩次，我們後來調整的不是教養方式，是晚上八點半的作息",
+      "description": "育見未來 BloomPath 工程師爸爸實戰筆記：女兒短時間內咬人兩次，追根究柢不是教養問題，是連續好幾晚睡眠不夠。附睡眠時數對照表跟咬人當下的應對步驟。",
+      "tags": [
+        "幼兒咬人",
+        "幼兒睡眠",
+        "幼兒行為",
+        "托嬰中心",
+        "正向教養"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-08-27",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-biting-sleep-deprivation-zh"
+    },
+    {
+      "slug": "toddler-biting-sleep-deprivation-en",
+      "lang": "en",
+      "title": "My Daughter Bit a Kid at Daycare Twice in One Week. The Fix Wasn't Discipline — It Was Bedtime.",
+      "description": "BloomPath engineer dad breaks down the research on toddler sleep debt and aggression, and the exact bedtime math that stopped the biting in four nights.",
+      "tags": [
+        "toddler biting",
+        "toddler sleep",
+        "toddler behavior",
+        "daycare biting",
+        "positive parenting"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-08-27",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-biting-sleep-deprivation-en"
+    },
+    {
+      "slug": "taiwan-childcare-subsidy-missed-claims-zh",
+      "lang": "zh-TW",
+      "title": "台灣育兒補助不是自動入帳：上禮拜六算完家庭帳本，我們才發現漏了兩筆",
+      "description": "育見未來 BloomPath 整理 2026 年台灣育兒補助最容易漏領的 5 個地方：15 天申請期限、育兒津貼與托育補助互斥、兒少未來帳戶資格限制，附自我檢查清單。",
+      "tags": [
+        "台灣育兒補助2026",
+        "托育補助申請",
+        "育兒津貼",
+        "兒少未來帳戶",
+        "婚育租屋補助"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler"
+      ],
+      "pubDate": "2026-08-27",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/taiwan-childcare-subsidy-missed-claims-zh"
+    },
     {
       "slug": "taipei-free-school-lunch-picky-eater-zh",
       "lang": "zh-TW",
