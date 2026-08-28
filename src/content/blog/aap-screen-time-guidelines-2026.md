@@ -362,3 +362,4 @@ AAP最大的轉變是移除「2歲以下零螢幕、2-5歲每天1小時」的硬
 - [睡前滑 iPad 半小時，她十一點還醒著：螢幕與睡眠的真相](/zh/blog/screen-time-sleep-bedtime-zh)
 - [螢幕時間跟焦慮症有關？2026 年 5 萬名兒童研究揭露的真相](/zh/blog/screen-time-anxiety-depression-study-2026-zh)
 - [開學倒數十天，我用「15 分鐘法則」把女兒的暑假作息拉回來](/zh/blog/back-to-school-sleep-screen-reset-zh)
+- [女兒參加完同學生日趴回家吵著要下載 Roblox，我先做完這 5 件事才點頭](/zh/blog/kid-wants-roblox-parental-controls-zh)

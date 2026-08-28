@@ -348,3 +348,4 @@ Explore more in our Screen Time series:
 - [When Should My Kid Get a Phone? The Framework We Actually Used](/en/blog/first-phone-decision-framework-en)
 - [Screen Time and Child Anxiety: What a 50,000-Kid Study Actually Found](/en/blog/screen-time-anxiety-depression-study-2026-en)
 - [The 15-Minute Trick That Fixed My Kid's Summer-Wrecked Bedtime Before School Started](/en/blog/back-to-school-sleep-screen-reset-en)
+- [My Daughter Came Home From a Birthday Party Begging for Roblox. Here's What I Set Up Before I Said Yes](/en/blog/kid-wants-roblox-parental-controls-en)

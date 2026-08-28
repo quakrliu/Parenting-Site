@@ -1,13 +1,57 @@
 {
-  "generated": "2026-08-27T02:28:31.115Z",
+  "generated": "2026-08-28T02:24:56.136Z",
   "counts": {
-    "total": 317,
-    "en": 153,
-    "zh": 164,
+    "total": 319,
+    "en": 154,
+    "zh": 165,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-wants-roblox-parental-controls-zh",
+      "lang": "zh-TW",
+      "title": "女兒參加完同學生日趴回家吵著要下載 Roblox，我先做完這 5 件事才點頭",
+      "description": "育見未來 BloomPath 工程師爸爸實測 Roblox、Minecraft 2026 年最新家長控制設定，拆解國衛院手遊成癮數據，分享說「好」之前一定要做的 5 個步驟。",
+      "tags": [
+        "螢幕時間",
+        "Roblox安全設定",
+        "兒童電玩",
+        "數位教養",
+        "家長控制"
+      ],
+      "ageGroup": [
+        "school",
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-08-28",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-wants-roblox-parental-controls-zh"
+    },
+    {
+      "slug": "kid-wants-roblox-parental-controls-en",
+      "lang": "en",
+      "title": "My Daughter Came Home From a Birthday Party Begging for Roblox. Here's What I Set Up Before I Said Yes",
+      "description": "An engineer dad breaks down Roblox and Minecraft's 2026 parental controls, what actually keeps kids safe, and the 5-step setup he ran before letting his daughter play.",
+      "tags": [
+        "screen time",
+        "Roblox safety",
+        "video games kids",
+        "digital parenting",
+        "parental controls"
+      ],
+      "ageGroup": [
+        "school",
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-08-28",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/kid-wants-roblox-parental-controls-en"
+    },
     {
       "slug": "toddler-biting-sleep-deprivation-zh",
       "lang": "zh-TW",
