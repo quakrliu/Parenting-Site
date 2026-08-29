@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-28T02:24:56.136Z",
+  "generated": "2026-08-29T02:28:43.792Z",
   "counts": {
-    "total": 319,
-    "en": 154,
-    "zh": 165,
+    "total": 321,
+    "en": 155,
+    "zh": 166,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "talking-to-daughter-about-puberty-en",
+      "lang": "en",
+      "title": "My Daughter Hid a Library Book From Me. That's When I Knew I Was Behind on the Puberty Talk.",
+      "description": "A BloomPath parent's honest guide to starting the puberty conversation with a tween daughter — what we said, what we got wrong, and the scripts that actually worked.",
+      "tags": [
+        "puberty",
+        "tween parenting",
+        "positive parenting",
+        "body changes",
+        "mother-daughter communication"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-08-29",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/talking-to-daughter-about-puberty-en"
+    },
+    {
+      "slug": "daughter-puberty-body-talk-zh",
+      "lang": "zh-TW",
+      "title": "女兒把圖書館借的書反過來藏在聯絡簿下面：我才驚覺，青春期這件事我們已經聊得太晚了",
+      "description": "育見未來 BloomPath 實戰媽媽的真實分享：女兒開始出現身體變化前，我們家怎麼開口聊青春期，用的對話句型和踩過的雷全部寫在這篇。",
+      "tags": [
+        "青春期",
+        "身體變化",
+        "正向教養",
+        "母女溝通",
+        "初經"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-08-29",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/daughter-puberty-body-talk-zh"
+    },
     {
       "slug": "kid-wants-roblox-parental-controls-zh",
       "lang": "zh-TW",
