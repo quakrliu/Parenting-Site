@@ -10,7 +10,7 @@ image: "/og/talking-to-daughter-about-puberty-en.png"
 draft: false
 ---
 
-Last Tuesday, my daughter came home from her Montessori school's library day and slid a book under her math folder, cover facing down. I only noticed because the corner was sticking out from her backpack when I went to grab her water bottle for the dishwasher. I pulled it out enough to read the spine: a body-changes book for girls, the kind with a cartoon illustration of a girl mid-growth-spurt on the cover.
+Last Tuesday, my daughter came home from her Montessori school's library day and slid a book under her math folder, cover facing down. I only noticed because the corner was sticking out from her backpack when I went to grab her water bottle for the dishwasher. I pulled it out enough to read the spine: a body-changes book for girls, the kind with a cartoon illustration of a girl mid-growth-spurt on the cover. This is the kind of moment BloomPath exists for — the small, unglamorous parenting turns nobody prepares you for.
 
 She hadn't told me she picked it up. She hadn't asked me anything. She'd just quietly checked it out, read it in her room, and hidden it from the one person whose job is literally to help her through this.
 
