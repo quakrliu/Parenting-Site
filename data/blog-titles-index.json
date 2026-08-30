@@ -1,13 +1,53 @@
 {
-  "generated": "2026-08-29T02:30:30.178Z",
+  "generated": "2026-08-30T02:24:52.402Z",
   "counts": {
-    "total": 321,
-    "en": 155,
-    "zh": 166,
+    "total": 323,
+    "en": 156,
+    "zh": 167,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "after-school-care-pickup-meltdown-zh",
+      "lang": "zh-TW",
+      "title": "接回家秒暴走：安親班放學崩潰，是壓力荷爾蒙在作怪，不是不乖",
+      "description": "育見未來 BloomPath 工程師爸爸拆解安親班接送崩潰背後的壓力研究，分享真正有效的「五分鐘緩衝時間」接送法。",
+      "tags": [
+        "安親班",
+        "課後照顧",
+        "情緒崩潰",
+        "開學季",
+        "國小生活"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-08-30",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/after-school-care-pickup-meltdown-zh"
+    },
+    {
+      "slug": "after-school-care-pickup-meltdown-en",
+      "lang": "en",
+      "title": "Why Your Kid Falls Apart the Second You Pick Them Up From Aftercare",
+      "description": "An engineer dad digs into the cortisol research behind after-school program meltdowns, plus the five-minute pickup routine that actually helped his family.",
+      "tags": [
+        "after-school care",
+        "school-age behavior",
+        "meltdowns",
+        "child stress",
+        "back to school"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-08-30",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/after-school-care-pickup-meltdown-en"
+    },
     {
       "slug": "talking-to-daughter-about-puberty-en",
       "lang": "en",
