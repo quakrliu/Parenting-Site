@@ -1,13 +1,53 @@
 {
-  "generated": "2026-08-30T02:24:52.402Z",
+  "generated": "2026-08-31T02:23:44.564Z",
   "counts": {
-    "total": 323,
-    "en": 156,
-    "zh": 167,
+    "total": 325,
+    "en": 157,
+    "zh": 168,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "nail-biting-kids-anxiety-signal-zh",
+      "lang": "zh-TW",
+      "title": "女兒指甲被咬到見紅，我才發現那不是壞習慣，是壓力訊號",
+      "description": "育見未來 BloomPath 的 Mei Chen 拆解國小孩子咬指甲咬到流血背後的壓力機制，分享我們家真正有效、不用罵不用羞辱的戒除方法。",
+      "tags": [
+        "咬指甲",
+        "兒童焦慮徵兆",
+        "正向教養",
+        "國小生行為",
+        "習慣戒除"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-08-31",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/nail-biting-kids-anxiety-signal-zh"
+    },
+    {
+      "slug": "nail-biting-kids-anxiety-signal-en",
+      "lang": "en",
+      "title": "Her Nails Were Bitten to the Skin. It Wasn't a Bad Habit — It Was a Stress Signal.",
+      "description": "BloomPath co-founder Mei Chen breaks down why school-age kids bite their nails until they bleed, what habit-reversal research actually says, and the non-shaming steps that worked at home.",
+      "tags": [
+        "nail biting kids",
+        "child anxiety signs",
+        "positive parenting",
+        "school-age behavior",
+        "habit reversal training"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-08-31",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/nail-biting-kids-anxiety-signal-en"
+    },
     {
       "slug": "after-school-care-pickup-meltdown-zh",
       "lang": "zh-TW",
