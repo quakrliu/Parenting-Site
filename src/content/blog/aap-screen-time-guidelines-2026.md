@@ -354,6 +354,7 @@ AAP最大的轉變是移除「2歲以下零螢幕、2-5歲每天1小時」的硬
 
 探索更多螢幕時間系列文章：
 
+- [女兒看電視突然瞇眼睛，我才知道她近視了：關掉螢幕沒用，戶外時間才是關鍵](/zh/blog/child-myopia-screen-time-outdoor-zh)
 - [台灣爸媽的 5C 實踐指南：AAP 2026 取消 2 小時上限](/zh/blog/aap-screen-time-2026-taiwan-parents-zh)
 - [2026年兒童網路安全完整指南：AI玩具、國際新法與台灣爸媽實戰設定](/zh/blog/children-internet-safety-2026-zh)
 - [孩子沉迷螢幕，可能是你的手機造成的？](/zh/blog/parental-phubbing-child-screen-addiction-zh)

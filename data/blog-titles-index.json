@@ -1,13 +1,55 @@
 {
-  "generated": "2026-08-31T02:23:44.564Z",
+  "generated": "2026-09-01T02:26:51.639Z",
   "counts": {
-    "total": 325,
-    "en": 157,
-    "zh": 168,
+    "total": 327,
+    "en": 158,
+    "zh": 169,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "emotion-coaching-gottman-5-steps-en",
+      "lang": "en",
+      "title": "She Screamed 'I Hate You' Over a Broken Cracker. Gottman's Research Changed What I Said Next.",
+      "description": "BloomPath co-founder Mei Chen breaks down Gottman's 5-step emotion coaching framework — the research, the actual scripts, and what happened when we tried it at our own kitchen table.",
+      "tags": [
+        "emotion coaching",
+        "gottman parenting",
+        "positive parenting",
+        "toddler tantrums",
+        "emotional intelligence"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-09-01",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/emotion-coaching-gottman-5-steps-en"
+    },
+    {
+      "slug": "child-myopia-screen-time-outdoor-zh",
+      "lang": "zh-TW",
+      "title": "女兒看電視突然瞇眼睛，我才知道她近視了：關掉螢幕沒用，戶外時間才是關鍵",
+      "description": "育見未來 BloomPath 工程師爸爸拆解 2026 台灣兒童近視篩檢數據，用實測數字說明為什麼只減少螢幕時間沒用，戶外時數才是真正有效的預防方法。",
+      "tags": [
+        "兒童近視",
+        "螢幕時間",
+        "視力保健",
+        "戶外活動",
+        "學齡前兒童"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-09-01",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/child-myopia-screen-time-outdoor-zh"
+    },
     {
       "slug": "nail-biting-kids-anxiety-signal-zh",
       "lang": "zh-TW",
