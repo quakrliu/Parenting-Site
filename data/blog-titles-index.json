@@ -1,13 +1,55 @@
 {
-  "generated": "2026-09-01T02:26:51.639Z",
+  "generated": "2026-09-02T02:23:34.015Z",
   "counts": {
-    "total": 327,
-    "en": 158,
-    "zh": 169,
+    "total": 329,
+    "en": 159,
+    "zh": 170,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "back-to-school-anxiety-sleep-problems-zh",
+      "lang": "zh-TW",
+      "title": "開學第二週，女兒半夜兩點準時醒過來：原來不是作息亂，是焦慮在作祟",
+      "description": "育見未來 BloomPath 工程師爸爸拆解開學後孩子半夜頻繁夜醒的真正原因，分享實際有效的「睡前煩惱時間」，兩週內把夜醒次數降回接近零。",
+      "tags": [
+        "開學焦慮",
+        "睡眠問題",
+        "夜醒",
+        "分離焦慮",
+        "國小生活"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-09-02",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/back-to-school-anxiety-sleep-problems-zh"
+    },
+    {
+      "slug": "back-to-school-anxiety-sleep-problems-en",
+      "lang": "en",
+      "title": "My Kid Started Waking Up at 2 AM the Second Week of School — Here's What Was Actually Going On",
+      "description": "An engineer dad digs into the research on why kids' sleep falls apart right when the school year starts, and what actually helped bring the 2 a.m. wake-ups back down to zero.",
+      "tags": [
+        "back to school",
+        "sleep problems",
+        "child anxiety",
+        "night waking",
+        "school-age behavior"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-09-02",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/back-to-school-anxiety-sleep-problems-en"
+    },
     {
       "slug": "emotion-coaching-gottman-5-steps-en",
       "lang": "en",
