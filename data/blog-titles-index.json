@@ -1,13 +1,55 @@
 {
-  "generated": "2026-09-03T02:26:32.216Z",
+  "generated": "2026-09-04T02:26:33.303Z",
   "counts": {
-    "total": 331,
-    "en": 160,
-    "zh": 171,
+    "total": 333,
+    "en": 161,
+    "zh": 172,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "montessori-literacy-sound-first-3-year-old-zh",
+      "lang": "zh-TW",
+      "title": "3 歲還不識字正常嗎？蒙特梭利「先教音、後教名」的識字邏輯",
+      "description": "育見未來 BloomPath 整理蒙特梭利識字教學法：為什麼沙紙字母先教發音不教字母名稱、幾歲開始認字才是正常、以及什麼情況才真的需要帶去評估。",
+      "tags": [
+        "蒙特梭利識字",
+        "學前閱讀準備",
+        "幼兒發展",
+        "蒙特梭利居家",
+        "注音符號啟蒙"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-09-04",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/montessori-literacy-sound-first-3-year-old-zh"
+    },
+    {
+      "slug": "montessori-literacy-sound-first-3-year-old-en",
+      "lang": "en",
+      "title": "Is It Normal My 3-Year-Old Can't Read Yet? What Montessori's Sound-First Method Says",
+      "description": "A Montessori parent's honest look at reading readiness: why letter-name flashcards backfire, what sandpaper letters actually do, and when 'not reading yet' is truly nothing to worry about.",
+      "tags": [
+        "montessori literacy",
+        "reading readiness",
+        "toddler development",
+        "montessori at home",
+        "emergent literacy"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-09-04",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/montessori-literacy-sound-first-3-year-old-en"
+    },
     {
       "slug": "toddler-sleep-regression-18-months-2-3-years-zh",
       "lang": "zh-TW",

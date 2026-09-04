@@ -372,3 +372,4 @@ Explore more in our Montessori at Home series:
 - [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)
 - [When Should a Toddler Move to Their Own Room? What Actually Worked for Us](/en/blog/toddler-own-room-transition-en)
 - [Are Wooden Toys Actually Safer? What FSC and GREENGUARD Certifications Really Mean](/en/blog/sustainable-montessori-toys-guide-en)
+- [Is It Normal My 3-Year-Old Can't Read Yet? What Montessori's Sound-First Method Says](/en/blog/montessori-literacy-sound-first-3-year-old-en)
