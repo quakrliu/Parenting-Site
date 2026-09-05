@@ -1,13 +1,57 @@
 {
-  "generated": "2026-09-04T02:26:33.303Z",
+  "generated": "2026-09-05T02:34:14.563Z",
   "counts": {
-    "total": 333,
-    "en": 161,
-    "zh": 172,
+    "total": 335,
+    "en": 162,
+    "zh": 173,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "sibling-comparison-harm-favoritism-zh",
+      "lang": "zh-TW",
+      "title": "「你看你哥哥都不會這樣」：手足比較這句話，比你想的還傷孩子",
+      "description": "育見未來 BloomPath 的 Mei Chen 整理手足比較的心理學研究：為什麼一句無心的比較會傷孩子的自尊心，以及怎麼在日常對話中真正做到不比較。",
+      "tags": [
+        "手足比較",
+        "手足競爭",
+        "正向教養",
+        "兒童自尊心",
+        "台灣育兒",
+        "跨代教養"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-09-05",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/sibling-comparison-harm-favoritism-zh"
+    },
+    {
+      "slug": "bilingual-montessori-home-language-balance-en",
+      "lang": "en",
+      "title": "Bilingual Montessori at Home: How to Balance Two Languages Without the Overwhelm",
+      "description": "BloomPath's Mei Chen breaks down how to set up a Montessori-inspired home for bilingual families — OPOL, language zones, and how much exposure actually matters, backed by AMI and language acquisition research.",
+      "tags": [
+        "montessori bilingual",
+        "bilingual home environment",
+        "raising bilingual kids",
+        "montessori at home",
+        "OPOL"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-09-05",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/bilingual-montessori-home-language-balance-en"
+    },
     {
       "slug": "montessori-literacy-sound-first-3-year-old-zh",
       "lang": "zh-TW",

@@ -346,3 +346,4 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [白天都不尿褲子了，晚上還是尿床：我們家半夜換床單三個月才搞懂的事](/zh/blog/bedwetting-nighttime-potty-training-zh)
 - [在阿嬤家超乖、在學校被誇獎，一看到我就整個崩潰：原來這不是我的問題](/zh/blog/toddler-meltdown-safest-parent-zh)
 - [女兒一週在托嬰中心咬人兩次，我們後來調整的不是教養方式，是晚上八點半的作息](/zh/blog/toddler-biting-sleep-deprivation-zh)
+- [「你看你哥哥都不會這樣」：手足比較這句話，比你想的還傷孩子](/zh/blog/sibling-comparison-harm-favoritism-zh)

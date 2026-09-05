@@ -373,3 +373,4 @@ Explore more in our Montessori at Home series:
 - [When Should a Toddler Move to Their Own Room? What Actually Worked for Us](/en/blog/toddler-own-room-transition-en)
 - [Are Wooden Toys Actually Safer? What FSC and GREENGUARD Certifications Really Mean](/en/blog/sustainable-montessori-toys-guide-en)
 - [Is It Normal My 3-Year-Old Can't Read Yet? What Montessori's Sound-First Method Says](/en/blog/montessori-literacy-sound-first-3-year-old-en)
+- [Bilingual Montessori at Home: How to Balance Two Languages Without the Overwhelm](/en/blog/bilingual-montessori-home-language-balance-en)
