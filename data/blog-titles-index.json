@@ -1,13 +1,53 @@
 {
-  "generated": "2026-09-05T02:34:14.563Z",
+  "generated": "2026-09-06T02:25:19.106Z",
   "counts": {
-    "total": 335,
-    "en": 162,
-    "zh": 173,
+    "total": 337,
+    "en": 163,
+    "zh": 174,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "talking-to-your-kids-teacher-back-to-school-en",
+      "lang": "en",
+      "title": "I Rewrote the Email to My Daughter's Teacher Four Times. Here's What I Learned About Actually Saying It.",
+      "description": "BloomPath co-founder Mei Chen breaks down what actually belongs in that first back-to-school email to your kid's teacher, when to ask for a call instead, and how to raise a real concern without becoming 'that parent.'",
+      "tags": [
+        "parent-teacher communication",
+        "back to school",
+        "positive parenting",
+        "family-school partnership",
+        "school-age parenting"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-06",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/talking-to-your-kids-teacher-back-to-school-en"
+    },
+    {
+      "slug": "parent-teacher-communication-back-to-school-zh",
+      "lang": "zh-TW",
+      "title": "聯絡簿那句話我寫了又刪五次：開學親師溝通，怎麼講才不會被貼「難搞家長」標籤",
+      "description": "育見未來 BloomPath 共同創辦人 Mei Chen 分享：開學第一週，聯絡簿上一句話寫了又刪五次，後來才想通問題出在哪。附具體的聯絡簿寫法、什麼時候該直接約老師談，還有真實案例。",
+      "tags": [
+        "親師溝通",
+        "開學適應",
+        "正向教養",
+        "聯絡簿寫法",
+        "家校合作"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-06",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/parent-teacher-communication-back-to-school-zh"
+    },
     {
       "slug": "sibling-comparison-harm-favoritism-zh",
       "lang": "zh-TW",
