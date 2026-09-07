@@ -333,6 +333,7 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [寶寶自己趴在地上玩，是不是我沒在陪？RIE 尊重式教養教我閉嘴的那堂課](/zh/blog/rie-respectful-parenting-baby-independent-play-zh)
 - [戒奶嘴失敗兩次，第三次終於成功：我們家真實的戒奶嘴時間表](/zh/blog/toddler-pacifier-weaning-3-attempts-zh)
 - [六點半才肯打開作業本：孩子功課拖到快抓狂，工程師爸爸的除錯筆記](/zh/blog/kids-homework-procrastination-zh)
+- [全美語幼兒園開學六週，兒子一句英文都沒說：老師以為有問題，其實是雙語沉默期](/zh/blog/bilingual-silent-period-immersion-school-zh)
 - [巷口理髮店，女兒一坐上椅子就尖叫大哭：剪頭髮大崩潰，我們試過的方法都寫在這裡](/zh/blog/toddler-haircut-meltdown-zh)
 - [孩子開始頂嘴，是不尊重還是在求救？正向教養心理師的真實應對法](/zh/blog/toddler-talking-back-positive-discipline-zh)
 - [你越急，孩子哭得越兇：家長的焦慮真的會傳給孩子嗎？](/zh/blog/parent-anxiety-child-emotional-regulation-zh)

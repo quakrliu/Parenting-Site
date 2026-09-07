@@ -1,13 +1,55 @@
 {
-  "generated": "2026-09-06T02:25:19.106Z",
+  "generated": "2026-09-07T02:26:52.785Z",
   "counts": {
-    "total": 337,
-    "en": 163,
-    "zh": 174,
+    "total": 339,
+    "en": 164,
+    "zh": 175,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "child-silent-period-immersion-school-en",
+      "lang": "en",
+      "title": "Why Your Child Goes Silent at a New Immersion School (It's Called the Silent Period)",
+      "description": "BloomPath explains the Silent Period: why bilingual and multilingual kids stop talking for weeks at a new language immersion school, and what the research says parents should actually do about it.",
+      "tags": [
+        "bilingual parenting",
+        "silent period",
+        "immersion school",
+        "language development",
+        "back to school"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school"
+      ],
+      "pubDate": "2026-09-07",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/child-silent-period-immersion-school-en"
+    },
+    {
+      "slug": "bilingual-silent-period-immersion-school-zh",
+      "lang": "zh-TW",
+      "title": "全美語幼兒園開學六週，兒子一句英文都沒說：老師以為有問題，其實是雙語沉默期",
+      "description": "育見未來 BloomPath 解析「雙語沉默期」：孩子送全美語幼兒園後突然不開口，不是內向也不是發展遲緩，而是語言學界早有研究的正常階段。附家長實用應對方式。",
+      "tags": [
+        "雙語教養",
+        "全美語幼兒園",
+        "語言發展",
+        "開學適應",
+        "台灣育兒"
+      ],
+      "ageGroup": [
+        "3-6",
+        "6+"
+      ],
+      "pubDate": "2026-09-07",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/bilingual-silent-period-immersion-school-zh"
+    },
     {
       "slug": "talking-to-your-kids-teacher-back-to-school-en",
       "lang": "en",

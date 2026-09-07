@@ -328,6 +328,7 @@ Explore more in our Positive Parenting series:
 - [My Daughter Screamed Through Every Doctor's Visit for Two Years — Here's What Actually Stopped It](/en/blog/toddler-doctor-visit-shot-fear-en)
 - [RIE Parenting: Why I Stopped Narrating Every Second of My Baby's Playtime](/en/blog/rie-respectful-parenting-baby-independent-play-en)
 - [We Failed to Wean the Pacifier Twice. Here's What Worked the Third Time](/en/blog/toddler-pacifier-weaning-3-attempts-en)
+- [Why Your Child Goes Silent at a New Immersion School (It's Called the Silent Period)](/en/blog/child-silent-period-immersion-school-en)
 - [Why Your Toddler Screams at the Hair Salon (And What Actually Helped)](/en/blog/toddler-scared-of-haircuts-en)
 - [Why Your Kid Talks Back to You (And What Positive Discipline Says to Do About It)](/en/blog/toddler-talking-back-positive-discipline-en)
 - [My Toddler Melted Down in the Middle of a Restaurant — Here's What Actually Changed](/en/blog/toddler-restaurant-meltdown-en)
