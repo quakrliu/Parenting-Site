@@ -1,13 +1,57 @@
 {
-  "generated": "2026-09-07T02:26:52.785Z",
+  "generated": "2026-09-08T02:26:50.596Z",
   "counts": {
-    "total": 339,
-    "en": 164,
-    "zh": 175,
+    "total": 341,
+    "en": 165,
+    "zh": 176,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "short-video-addiction-tweens-montessori-zh",
+      "lang": "zh-TW",
+      "title": "女兒滑短影音停不下來：我們家怎麼用「蒙特梭利式專注力訓練」把手機還給她",
+      "description": "短影音的設計就是要讓孩子停不下來。這篇整理國際兒科研究怎麼說注意力受損，還有我們家實際用蒙特梭利概念，讓孩子自己願意放下手機的做法。",
+      "tags": [
+        "短影音成癮",
+        "螢幕時間",
+        "兒童注意力",
+        "抖音YouTube Shorts",
+        "數位健康",
+        "蒙特梭利專注力"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-09-08",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/short-video-addiction-tweens-montessori-zh"
+    },
+    {
+      "slug": "short-video-addiction-tweens-montessori-en",
+      "lang": "en",
+      "title": "Why Your Tween Can't Stop Watching Short Videos (And What Actually Helps)",
+      "description": "Short-form video is engineered to be unstoppable. Here's what the research says about kids' attention spans, and a Montessori-informed way to help a tween cut back without a nightly fight.",
+      "tags": [
+        "short form video",
+        "screen time",
+        "tween attention span",
+        "TikTok kids",
+        "digital wellness",
+        "montessori concentration"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-09-08",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/short-video-addiction-tweens-montessori-en"
+    },
     {
       "slug": "child-silent-period-immersion-school-en",
       "lang": "en",
