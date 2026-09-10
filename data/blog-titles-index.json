@@ -1,13 +1,55 @@
 {
-  "generated": "2026-09-08T02:26:50.596Z",
+  "generated": "2026-09-10T02:24:32.497Z",
   "counts": {
-    "total": 341,
-    "en": 165,
-    "zh": 176,
+    "total": 343,
+    "en": 166,
+    "zh": 177,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "teen-social-media-likes-self-worth-zh",
+      "lang": "zh-TW",
+      "title": "朋友的女兒因為限動只有 3 個愛心把 IG 刪了：我們家提早在做的三件事",
+      "description": "當孩子的心情跟著愛心數起伏，罵她愛慕虛榮沒有用。這篇整理青少年社群認同的研究，還有我們家用蒙特梭利「內在動機」概念，怎麼提早幫孩子建立不靠螢幕的自我價值感。",
+      "tags": [
+        "青少年自信心",
+        "社群媒體認同",
+        "螢幕時間",
+        "正向教養",
+        "蒙特梭利內在動機",
+        "青少年心理健康"
+      ],
+      "ageGroup": [
+        "teen"
+      ],
+      "pubDate": "2026-09-10",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/teen-social-media-likes-self-worth-zh"
+    },
+    {
+      "slug": "teen-social-media-likes-self-worth-en",
+      "lang": "en",
+      "title": "My Friend's Teenage Daughter Deleted Instagram Over 3 Likes. Here's What Actually Helped.",
+      "description": "When self-worth starts riding on a like count, the fix isn't a lecture about vanity. Here's the research on teens, social validation, and a Montessori-informed way to rebuild worth that doesn't come from a screen.",
+      "tags": [
+        "teen self-esteem",
+        "social media validation",
+        "screen time",
+        "positive parenting",
+        "montessori intrinsic motivation",
+        "teen mental health"
+      ],
+      "ageGroup": [
+        "teen"
+      ],
+      "pubDate": "2026-09-10",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/teen-social-media-likes-self-worth-en"
+    },
     {
       "slug": "short-video-addiction-tweens-montessori-zh",
       "lang": "zh-TW",

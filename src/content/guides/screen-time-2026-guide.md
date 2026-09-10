@@ -307,6 +307,7 @@ You already care about getting this right. That caring is the most important var
 - [Magnetic Tiles vs. Screen Time: I Tested 3 Brands So You Don't Have To](/en/blog/magnetic-tiles-screen-alternative-en)
 - [My Kid Screamed for 20 Minutes Every Time I Turned Off the TV](/en/blog/toddler-screen-time-ending-meltdown-en)
 - [Screen Time Guilt Is Making Things Worse: What the Research Actually Says](/en/blog/screen-time-guilt-quality-over-quantity-en)
+- [My Friend's Teenage Daughter Deleted Instagram Over 3 Likes. Here's What Actually Helped.](/en/blog/teen-social-media-likes-self-worth-en)
 
 ---
 
