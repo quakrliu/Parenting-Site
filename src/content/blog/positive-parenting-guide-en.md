@@ -318,6 +318,7 @@ Explore more in our Positive Parenting series:
 - [How to Set Boundaries Without Punishment: The Positive Parenting Way](/en/blog/positive-parenting-boundaries-en)
 - [My Kid Said 'Nobody Wants to Play With Me': What Actually Helps](/en/blog/kid-nobody-wants-to-play-with-me-en)
 - [Repair After Conflict: How to Rebuild Trust with Your Child](/en/blog/repair-after-conflict-rebuild-trust-en)
+- [The Boundary + Empathy Script That Actually Stopped Our After-School Homework Meltdowns](/en/blog/homework-meltdown-boundary-empathy-script-en)
 - [My Kid Hides Behind My Leg Every Time Someone Says Hi — Here's What Actually Helps](/en/blog/shy-toddler-wont-say-hi-en)
 - [My Wife Says Yes, I Say No — My Daughter Found the Gap Before We Did](/en/blog/parenting-disagreement-good-cop-bad-cop-en)
 - [Your Toddler's Meltdowns Are Normal: A Montessori Approach](/en/blog/toddler-meltdowns-montessori-en)

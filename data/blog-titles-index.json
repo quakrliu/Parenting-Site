@@ -1,13 +1,57 @@
 {
-  "generated": "2026-09-10T02:24:32.497Z",
+  "generated": "2026-09-12T02:25:13.202Z",
   "counts": {
-    "total": 343,
-    "en": 166,
-    "zh": 177,
+    "total": 345,
+    "en": 167,
+    "zh": 178,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "taiwan-parenting-tax-education-fund-planning-2026-zh",
+      "lang": "zh-TW",
+      "title": "領完補助才是開始：0–18 歲教育基金 + 報稅節稅地圖，我們家攤開試算表整理的懶人包",
+      "description": "生育給付、育兒津貼、未來帳戶都申請完之後呢？這篇整理容易漏報的兩個育兒稅務扣除額，還有 0–18 歲教育基金怎麼用定期定額規劃，附試算範例。",
+      "tags": [
+        "台灣育兒補助2026",
+        "教育基金規劃",
+        "育兒節稅",
+        "幼兒學前扣除額",
+        "定期定額投資"
+      ],
+      "ageGroup": [
+        "infant",
+        "toddler",
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-09-12",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/taiwan-parenting-tax-education-fund-planning-2026-zh"
+    },
+    {
+      "slug": "homework-meltdown-boundary-empathy-script-en",
+      "lang": "en",
+      "title": "The Boundary + Empathy Script That Actually Stopped Our After-School Homework Meltdowns",
+      "description": "When 'homework still needs to get done' collides with 'I'm too tired,' most scripts pick a side. Here's the boundary + empathy approach that actually reduced the fighting — with word-for-word lines.",
+      "tags": [
+        "positive parenting",
+        "homework battles",
+        "school-age behavior",
+        "sturdy parenting",
+        "montessori boundaries",
+        "after school meltdowns"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-12",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/homework-meltdown-boundary-empathy-script-en"
+    },
     {
       "slug": "teen-social-media-likes-self-worth-zh",
       "lang": "zh-TW",
