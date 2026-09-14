@@ -351,3 +351,4 @@ Explore more in our Screen Time series:
 - [The 15-Minute Trick That Fixed My Kid's Summer-Wrecked Bedtime Before School Started](/en/blog/back-to-school-sleep-screen-reset-en)
 - [My Daughter Came Home From a Birthday Party Begging for Roblox. Here's What I Set Up Before I Said Yes](/en/blog/kid-wants-roblox-parental-controls-en)
 - [Why Your Tween Can't Stop Watching Short Videos (And What Actually Helps)](/en/blog/short-video-addiction-tweens-montessori-en)
+- [The Screen-Time Reward Trap: Why "Finish Your Homework, Then iPad Time" Backfires](/en/blog/screen-time-reward-trap-en)

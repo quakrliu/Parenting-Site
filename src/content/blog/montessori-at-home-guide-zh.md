@@ -402,3 +402,4 @@ A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。�
 - [木製玩具真的比較安全？FSC 認證、無毒漆料，工程師爸爸拆解蒙特梭利教具怎麼挑](/zh/blog/sustainable-montessori-toys-guide-zh)
 - [台北營養午餐9月起全免費，女兒回家還是喊餓：政策懶人包＋偏食應對實戰](/zh/blog/taipei-free-school-lunch-picky-eater-zh)
 - [3 歲還不識字正常嗎？蒙特梭利「先教音、後教名」的識字邏輯](/zh/blog/montessori-literacy-sound-first-3-year-old-zh)
+- [洗澡前尖叫十分鐘：我們用蒙特梭利視覺時間表 + 獨立工作區，把每天的崩潰時刻拆解掉](/zh/blog/montessori-anxiety-visual-schedule-workspace-zh)

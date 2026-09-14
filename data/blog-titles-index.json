@@ -1,13 +1,57 @@
 {
-  "generated": "2026-09-12T02:25:13.202Z",
+  "generated": "2026-09-14T02:25:53.706Z",
   "counts": {
-    "total": 345,
-    "en": 167,
-    "zh": 178,
+    "total": 347,
+    "en": 168,
+    "zh": 179,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "screen-time-reward-trap-en",
+      "lang": "en",
+      "title": "The Screen-Time Reward Trap: Why 'Finish Your Homework, Then iPad Time' Backfires",
+      "description": "Rewarding kids with screen time for finishing chores or homework feels harmless — until the screen becomes the only thing they'll work for. Here's what the research says and what we changed instead.",
+      "tags": [
+        "screen time",
+        "positive parenting",
+        "intrinsic motivation",
+        "montessori",
+        "reward systems",
+        "tween behavior"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-09-14",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/screen-time-reward-trap-en"
+    },
+    {
+      "slug": "montessori-anxiety-visual-schedule-workspace-zh",
+      "lang": "zh-TW",
+      "title": "洗澡前尖叫十分鐘：我們用蒙特梭利視覺時間表 + 獨立工作區，把每天的崩潰時刻拆解掉",
+      "description": "孩子不是難搞，是不知道接下來會發生什麼事。這篇整理視覺時間表跟獨立工作區怎麼在家 DIY，附我們家從量錯層架高度到找到節奏的實際過程。",
+      "tags": [
+        "蒙特梭利居家環境",
+        "視覺時間表",
+        "兒童焦慮",
+        "獨立工作區",
+        "正向教養",
+        "學齡前教養"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-09-14",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/montessori-anxiety-visual-schedule-workspace-zh"
+    },
     {
       "slug": "taiwan-parenting-tax-education-fund-planning-2026-zh",
       "lang": "zh-TW",
