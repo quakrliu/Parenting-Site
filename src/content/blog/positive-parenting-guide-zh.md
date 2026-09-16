@@ -348,3 +348,4 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [在阿嬤家超乖、在學校被誇獎，一看到我就整個崩潰：原來這不是我的問題](/zh/blog/toddler-meltdown-safest-parent-zh)
 - [女兒一週在托嬰中心咬人兩次，我們後來調整的不是教養方式，是晚上八點半的作息](/zh/blog/toddler-biting-sleep-deprivation-zh)
 - [「你看你哥哥都不會這樣」：手足比較這句話，比你想的還傷孩子](/zh/blog/sibling-comparison-harm-favoritism-zh)
+- [躲避球隊選拔沒上，女兒說「我再也不要打了」：我們說錯的第一句話，跟後來改口的那句](/zh/blog/tryout-rejection-growth-mindset-zh)

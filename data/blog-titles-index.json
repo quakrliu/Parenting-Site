@@ -1,13 +1,55 @@
 {
-  "generated": "2026-09-14T02:25:53.706Z",
+  "generated": "2026-09-16T02:24:53.643Z",
   "counts": {
-    "total": 347,
-    "en": 168,
-    "zh": 179,
+    "total": 349,
+    "en": 169,
+    "zh": 180,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "tryout-rejection-growth-mindset-zh",
+      "lang": "zh-TW",
+      "title": "躲避球隊選拔沒上，女兒說「我再也不要打了」：我們說錯的第一句話，跟後來改口的那句",
+      "description": "校隊選拔沒上、才藝甄選落選，孩子常常說出「我就是很爛」這種一句話定生死的結論。這篇整理 Carol Dweck 的成長型思維研究，跟蒙特梭利「錯誤控制」的概念，怎麼用在安慰孩子的實際對話裡。",
+      "tags": [
+        "成長型思維",
+        "抗挫力",
+        "蒙特梭利",
+        "正向教養",
+        "前青春期教養",
+        "國小高年級"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-16",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/tryout-rejection-growth-mindset-zh"
+    },
+    {
+      "slug": "tryout-rejection-growth-mindset-en",
+      "lang": "en",
+      "title": "My Daughter Didn't Make the Travel Soccer Team. She Said She'd Never Play Again.",
+      "description": "When a tween gets cut from a team or misses a callback, the meltdown isn't really about soccer. Here's what Carol Dweck's research and Montessori's approach to error taught us about the exact words that helped — and the ones that made it worse.",
+      "tags": [
+        "growth mindset",
+        "resilience",
+        "montessori",
+        "positive parenting",
+        "tween confidence",
+        "school-age"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-16",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/tryout-rejection-growth-mindset-en"
+    },
     {
       "slug": "screen-time-reward-trap-en",
       "lang": "en",
