@@ -1,13 +1,51 @@
 {
-  "generated": "2026-09-16T02:24:53.643Z",
+  "generated": "2026-09-18T02:23:25.117Z",
   "counts": {
-    "total": 349,
-    "en": 169,
-    "zh": 180,
+    "total": 351,
+    "en": 170,
+    "zh": 181,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "autumn-daylight-parent-patience-zh",
+      "lang": "zh-TW",
+      "title": "十月早餐前我對女兒吼了四次：原來不是她的問題，是光線在搞鬼",
+      "description": "秋天日照變短，家長真的會更暴躁，這不是你教養失敗。育見未來 BloomPath 整理光照與情緒調節的研究，以及我們家用蒙特梭利式晨間動線實際改善的做法。",
+      "tags": [
+        "正向教養",
+        "蒙特梭利",
+        "情緒調節",
+        "季節性情緒",
+        "學齡前",
+        "家長自我照顧"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-09-18",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/autumn-daylight-parent-patience-zh"
+    },
+    {
+      "slug": "autumn-daylight-parent-patience-en",
+      "lang": "en",
+      "title": "I Yelled at My Daughter Four Times Before 8 AM in October. It Wasn't About Her.",
+      "description": "Shorter fall daylight makes parents more irritable even when nothing at home has changed. Here's the light-exposure and co-regulation research behind it, and the Montessori-based morning routine that actually helped.",
+      "tags": [
+        "positive parenting",
+        "co-regulation",
+        "montessori",
+        "seasonal mood",
+        "preschool",
+        "parent self-regulation"
+      ],
+      "ageGroup": [],
+      "pubDate": "2026-09-18",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/autumn-daylight-parent-patience-en"
+    },
     {
       "slug": "tryout-rejection-growth-mindset-zh",
       "lang": "zh-TW",
