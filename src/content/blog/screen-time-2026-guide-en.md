@@ -352,3 +352,4 @@ Explore more in our Screen Time series:
 - [My Daughter Came Home From a Birthday Party Begging for Roblox. Here's What I Set Up Before I Said Yes](/en/blog/kid-wants-roblox-parental-controls-en)
 - [Why Your Tween Can't Stop Watching Short Videos (And What Actually Helps)](/en/blog/short-video-addiction-tweens-montessori-en)
 - [The Screen-Time Reward Trap: Why "Finish Your Homework, Then iPad Time" Backfires](/en/blog/screen-time-reward-trap-en)
+- [My Friend's 13-Year-Old Checks His Follower Count Before He's Out of Bed](/en/blog/teen-social-media-follower-count-anxiety-en)

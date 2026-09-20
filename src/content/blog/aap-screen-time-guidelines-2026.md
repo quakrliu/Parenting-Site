@@ -366,3 +366,4 @@ AAP最大的轉變是移除「2歲以下零螢幕、2-5歲每天1小時」的硬
 - [女兒參加完同學生日趴回家吵著要下載 Roblox，我先做完這 5 件事才點頭](/zh/blog/kid-wants-roblox-parental-controls-zh)
 - [女兒滑短影音停不下來：我們家怎麼用「蒙特梭利式專注力訓練」把手機還給她](/zh/blog/short-video-addiction-tweens-montessori-zh)
 - [朋友的女兒因為限動只有 3 個愛心把 IG 刪了：我們家提早在做的三件事](/zh/blog/teen-social-media-likes-self-worth-zh)
+- [朋友的兒子國一，每天起床第一件事是看 IG 追蹤數：工程師爸爸拆解演算法陷阱](/zh/blog/teen-social-media-follower-count-anxiety-zh)

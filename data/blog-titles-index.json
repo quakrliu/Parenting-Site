@@ -1,13 +1,53 @@
 {
-  "generated": "2026-09-18T02:23:25.117Z",
+  "generated": "2026-09-20T02:23:26.237Z",
   "counts": {
-    "total": 351,
-    "en": 170,
-    "zh": 181,
+    "total": 353,
+    "en": 171,
+    "zh": 182,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "teen-social-media-follower-count-anxiety-zh",
+      "lang": "zh-TW",
+      "title": "朋友的兒子國一，每天起床第一件事是看 IG 追蹤數：工程師爸爸拆解演算法陷阱，我們家用的「螢幕協約」",
+      "description": "追蹤數焦慮不是意志力問題，是被設計出來的成癮迴路。工程師爸爸從機制拆解，分享真正有用的家庭螢幕協約。",
+      "tags": [
+        "螢幕時間",
+        "青少年",
+        "社群媒體",
+        "數位安全",
+        "正向教養"
+      ],
+      "ageGroup": [
+        "teen"
+      ],
+      "pubDate": "2026-09-20",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/teen-social-media-follower-count-anxiety-zh"
+    },
+    {
+      "slug": "teen-social-media-follower-count-anxiety-en",
+      "lang": "en",
+      "title": "My Friend's 13-Year-Old Checks His Follower Count Before He's Out of Bed. Here's the Family Screen Agreement That Helped.",
+      "description": "A software engineer dad breaks down why teen follower-count anxiety isn't a willpower problem — it's a designed variable-reward loop — and the family screen agreement that actually reduced it.",
+      "tags": [
+        "screen-time",
+        "tween-teen",
+        "social-media",
+        "digital-safety",
+        "positive-parenting"
+      ],
+      "ageGroup": [
+        "teen"
+      ],
+      "pubDate": "2026-09-20",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/teen-social-media-follower-count-anxiety-en"
+    },
     {
       "slug": "autumn-daylight-parent-patience-zh",
       "lang": "zh-TW",
