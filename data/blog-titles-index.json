@@ -1,13 +1,53 @@
 {
-  "generated": "2026-09-20T02:23:26.237Z",
+  "generated": "2026-09-22T02:24:55.973Z",
   "counts": {
-    "total": 353,
-    "en": 171,
-    "zh": 182,
+    "total": 355,
+    "en": 172,
+    "zh": 183,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "after-school-restraint-collapse-first-grade-zh",
+      "lang": "zh-TW",
+      "title": "女兒在學校乖到不行，一放學上車就大哭崩潰：原來這是「壓抑後反彈」不是耍脾氣",
+      "description": "小一生在學校被老師稱讚「好乖好合作」，一上車卻為了安全帶扣太大聲而崩潰大哭。這不是雙面人，是孩子撐了一整天後的正常反彈。育見未來 BloomPath 用蒙特梭利和正向教養拆解這個現象，附上接送後 10 分鐘實戰步驟。",
+      "tags": [
+        "正向教養",
+        "蒙特梭利",
+        "國小低年級",
+        "情緒崩潰",
+        "親子信任"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-22",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/after-school-restraint-collapse-first-grade-zh"
+    },
+    {
+      "slug": "after-school-restraint-collapse-first-grade-en",
+      "lang": "en",
+      "title": "My First-Grader Was an Angel at School and a Wreck by the Time We Got to the Car",
+      "description": "Why a calm, well-behaved first-grader can fall apart the second school ends — and what after-school restraint collapse has to do with perfectionism, connection, and a Montessori-informed reset routine.",
+      "tags": [
+        "positive parenting",
+        "montessori",
+        "school-age",
+        "meltdowns",
+        "trust"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-22",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/after-school-restraint-collapse-first-grade-en"
+    },
     {
       "slug": "teen-social-media-follower-count-anxiety-zh",
       "lang": "zh-TW",
