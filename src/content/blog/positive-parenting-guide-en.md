@@ -308,6 +308,7 @@ A: Consistency helps, but it isn't everything. A child who has one consistently 
 Explore more in our Positive Parenting series:
 
 - [My First-Grader Was an Angel at School and a Wreck by the Time We Got to the Car](/en/blog/after-school-restraint-collapse-first-grade-en)
+- [Why Your Child Hides Mistakes From You (And the 6-Step Conversation That Rebuilds Trust)](/en/blog/child-hiding-mistakes-trust-repair-conversation-en)
 - [I Yelled at My Daughter Four Times Before 8 AM in October. It Wasn't About Her.](/en/blog/autumn-daylight-parent-patience-en)
 - [She Screamed 'I Hate You' Over a Broken Cracker. Gottman's Research Changed What I Said Next.](/en/blog/emotion-coaching-gottman-5-steps-en)
 - [Her Nails Were Bitten to the Skin. It Wasn't a Bad Habit — It Was a Stress Signal.](/en/blog/nail-biting-kids-anxiety-signal-en)

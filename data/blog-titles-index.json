@@ -1,13 +1,53 @@
 {
-  "generated": "2026-09-22T02:24:55.973Z",
+  "generated": "2026-09-24T02:29:46.651Z",
   "counts": {
-    "total": 355,
-    "en": 172,
-    "zh": 183,
+    "total": 357,
+    "en": 173,
+    "zh": 184,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "child-hiding-mistakes-trust-repair-conversation-zh",
+      "lang": "zh-TW",
+      "title": "孩子開始瞞著你？從隱瞞小考到假裝一切都好：6 步對話修復信任",
+      "description": "當小一生把考差的考卷藏起來，每天堅持說「學校都很好」，這不是說謊成癮，是害怕。育見未來 BloomPath 拆解隱瞞背後的心理，用蒙特梭利＋正向教養整理出 6 步修復對話。",
+      "tags": [
+        "親子信任",
+        "正向教養",
+        "國小低年級",
+        "隱瞞說謊",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-24",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/child-hiding-mistakes-trust-repair-conversation-zh"
+    },
+    {
+      "slug": "child-hiding-mistakes-trust-repair-conversation-en",
+      "lang": "en",
+      "title": "Why Your Child Hides Mistakes From You (And the 6-Step Conversation That Rebuilds Trust)",
+      "description": "When a 7-year-old hides a failed quiz and insists everything is fine, it's not defiance — it's fear. Here's the psychology behind hidden mistakes and a 6-step conversation that rebuilds trust without punishment.",
+      "tags": [
+        "trust repair",
+        "positive parenting",
+        "school-age",
+        "lying",
+        "montessori"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-24",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/child-hiding-mistakes-trust-repair-conversation-en"
+    },
     {
       "slug": "after-school-restraint-collapse-first-grade-zh",
       "lang": "zh-TW",
