@@ -10,13 +10,13 @@ draft: false
 ageGroup: ["toddler", "preschool"]
 ---
 
-The tuition sheet at the third Montessori open house I visited had a "primary program" line item that cost more than my first year of university.
+If you've been to a Montessori open house, you may know the moment: the tuition sheet has a "primary program" line item that costs more than a year of university.
 
-I sat in a child-sized chair — knees somewhere near my ears — and did the math in my head. Three years, multiplied by that number. The result landed somewhere between a decent car and a serious regret.
+You sit in a child-sized chair — knees somewhere near your ears — and do the math in your head. Three years, multiplied by that number. The result lands somewhere between a decent car and a serious regret.
 
-The director was explaining "sensitive periods" and I was genuinely listening, but roughly 40% of my attention was running a silent ROI analysis. What does this actually produce? Not in philosophy — in measurable outcomes. Is there data?
+The director is explaining "sensitive periods," and you're genuinely listening, but part of your attention is running a silent ROI analysis. What does this actually produce? Not in philosophy — in measurable outcomes. Is there data?
 
-Eighteen months later, I found the study I'd been waiting for. And the results were not what I expected.
+There is now. And the results are not what you might expect.
 
 ## The Study Nobody Was Talking About Enough
 

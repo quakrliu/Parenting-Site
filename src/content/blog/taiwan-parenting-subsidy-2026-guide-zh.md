@@ -122,7 +122,7 @@ ageGroup: ["infant", "toddler"]
 - [台灣 2026 生育補助完整攻略：NT$100,000 怎麼領？各縣市加碼一次看](/zh/blog/taiwan-birth-subsidy-2026-complete-guide)
 - [加碼津貼 vs. 準時下班：兒盟最新調查揭密，台灣媽媽真正想要的不是錢](/zh/blog/taiwan-flexible-work-vs-childcare-subsidy-zh)
 - [2026 幼兒園怎麼選？公幼 vs 蒙特梭利 vs 雙語園學費＋特色完整比較](/zh/blog/kindergarten-guide-taiwan-2026-zh)
-- [2026 台北蒙特梭利學校選哪間？TMIS 長華、T.I.M.E.S、Y2MAC 學費＋特色實地比較](/zh/blog/taipei-montessori-schools-2026-zh)
+- [2026 台北蒙特梭利學校選哪間？TMIS 長華、T.I.M.E.S、Y2MAC 學費＋特色完整比較](/zh/blog/taipei-montessori-schools-2026-zh)
 - [台中蒙特梭利幼兒園完整指南 2026：學費行情、入學眉角、家長真實心得](/zh/blog/taichung-montessori-schools-2026-zh)
 
 ---

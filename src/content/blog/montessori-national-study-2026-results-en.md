@@ -10,11 +10,11 @@ ageGroup: ["toddler", "preschool"]
 image: "/og/montessori-national-study-2026-results-en.png"
 ---
 
-I remember the day we toured our first Montessori school. My daughter was two and a half. The classroom was quieter than I expected — no rows of tiny desks, no alphabet posters in primary colors. Instead, a four-year-old was pouring water between glass pitchers with the focus of a barista, and a three-year-old was tracing sandpaper letters with her fingertips, whispering the sounds to herself.
+Walk into a Montessori classroom for the first time and it's quieter than you expect — no rows of tiny desks, no alphabet posters in primary colors. Instead, a four-year-old is pouring water between glass pitchers with the focus of a barista, and a three-year-old is tracing sandpaper letters with her fingertips, whispering the sounds to herself.
 
-My wife leaned over and said, "This is either brilliant or a cult."
+Plenty of parents have the same first thought: "This is either brilliant or a cult."
 
-We enrolled. And for the next two years, I quietly wondered whether we'd made the right call — especially when friends' kids were coming home with worksheets full of gold stars and mine was coming home with stories about polishing a wooden tray.
+We chose Montessori for our daughter. And for a long time, I quietly wondered whether we'd made the right call — especially when friends' kids were coming home with worksheets full of gold stars and mine was coming home with stories about polishing a wooden tray.
 
 Turns out, the data is now in. And it's not even close.
 

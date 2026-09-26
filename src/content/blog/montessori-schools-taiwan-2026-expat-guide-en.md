@@ -10,9 +10,9 @@ draft: false
 ageGroup: ["preschool"]
 ---
 
-The night after we landed in Taipei—jet-lagged, three boxes unpacked, my daughter asking for the cat still in quarantine—I found myself Googling "Montessori school Taipei English" at 2am. By the time my husband found me on the couch, I had fourteen browser tabs open and no clearer answer than when I'd started. Half the school websites were in Mandarin only. One had photos of children sitting in rows doing worksheets under a banner that said MONTESSORI METHOD.
+If you've just moved to Taiwan with young kids, the search usually starts the same way: jet-lagged, boxes half unpacked, Googling "Montessori school Taipei English" at 2am with fourteen browser tabs open and no clearer answer than when you started. Half the school websites are in Mandarin only. Some show children sitting in rows doing worksheets under a banner that says MONTESSORI METHOD.
 
-That was two years ago. I've since toured nine schools, joined every English-speaking parent Facebook group in northern Taiwan, and had more conversations about AMI certification over bubble tea than I expected from anyone's life. Here's what I wish someone had handed me on that first night.
+This guide is what every family should have on that first night: how to tell a genuine Montessori program from a label, what it costs, and what to ask on a tour.
 
 ## The Problem: "Montessori" Means Everything and Nothing
 
@@ -40,7 +40,7 @@ The practical implication: if you find a school with certified teachers and auth
 
 ## Questions That Cut Through the Sales Pitch
 
-I've sat through tours where I was charmed by beautiful classrooms and learned nothing useful. These questions work:
+A beautiful classroom can charm you through an entire tour without telling you anything useful. These questions cut through it:
 
 **On training:**
 - Where did your lead teachers complete Montessori training, and what credential did they receive?
@@ -67,9 +67,9 @@ This is where the real decision-making happens. You want genuine Montessori meth
 
 Most genuinely Montessori schools in Taiwan operate in Mandarin. The minority with robust English programs are usually "bilingual" tracks within larger schools, where the Montessori fidelity varies. A few are primarily English-medium—these tend to be small and have waiting lists measured in years, not months.
 
-My honest take after touring both sides: if your child is under five and you're staying in Taiwan for two or more years, Mandarin immersion in a genuine Montessori environment is a reasonable choice. Language acquisition at that age is fast, and the methodology supports it. If you're staying under a year, or your child is five or six with established English literacy, prioritize language continuity first.
+A reasonable rule of thumb: if your child is under five and you're staying in Taiwan for two or more years, Mandarin immersion in a genuine Montessori environment is a reasonable choice. Language acquisition at that age is fast, and the methodology supports it. If you're staying under a year, or your child is five or six with established English literacy, prioritize language continuity first.
 
-One thing that surprised me: children adapt to the language of the environment faster than parents do. My daughter was using classroom Mandarin with her teachers within six weeks. She still dreamed in English, still needed English books at bedtime, but the functional adaptation was fast.
+Children often adapt to the language of the environment faster than their parents do. Many young children pick up enough classroom Mandarin to get by surprisingly quickly, even while English stays their home language.
 
 ## By Area: Where to Look
 
@@ -81,15 +81,15 @@ One thing that surprised me: children adapt to the language of the environment f
 
 **Tainan and Kaohsiung:** Options exist but are limited. Quality varies more, and most expat families in southern Taiwan navigate toward international schools.
 
-## Red Flags That Made Me Walk Back Out
+## Red Flags Worth Walking Out Over
 
-I left three school tours early. The reasons:
+Any one of these is a good reason to end a tour early:
 
 - Staff couldn't name their training credential or institution
 - The classroom had individual desks in rows, regardless of what the brochure said
 - "We don't allow parent observation during the school day" (Montessori schools should welcome observation)
 - The "Montessori materials" were in a separate room, used for special activities, not daily work
-- During the 20-minute tour, I counted four instances of teachers interrupting children's chosen work to redirect them
+- Teachers repeatedly interrupt children's chosen work to redirect them while you're watching
 
 ## How to Verify a Credential
 

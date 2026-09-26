@@ -95,9 +95,9 @@ The PNAS study also found that three years of public Montessori costs **$13,127 
 
 Private Montessori schools are a different story — they can run $15,000–$30,000/year in major US cities, which makes them inaccessible for most families. The exciting part of this study is that it focused specifically on **public** Montessori, which is free. Look up whether your district has a Montessori magnet or charter program.
 
-## Three Questions I Now Ask at Every School Tour
+## Three Questions to Ask at Every School Tour
 
-Last fall in Seattle, I toured four preschools for my daughter. Before this research, my checklist was basically "is it clean?" and "do the kids look happy?" Now I ask:
+Most parents' school-tour checklist is basically "is it clean?" and "do the kids look happy?" After this research, better questions are:
 
 1. "Can you walk me through a typical three-hour morning and how children choose their work?"
 2. "What specific training do your teachers have, and how long was it?"
@@ -107,7 +107,7 @@ You'll know a lot from how a director answers question one.
 
 ## The Bottom Line
 
-Before kids, I thought I was patient. Then I sat through a school information night where the director spent 20 minutes on the parking lot situation and five minutes on their educational philosophy. I asked about teacher credentials and got a brochure.
+School information nights can be revealing: some directors spend 20 minutes on the parking lot and five on their educational philosophy. Ask about teacher credentials — and notice whether you get a real answer or a brochure.
 
 The research is getting clearer. Executive function is a better predictor of a child's future than almost any single metric we have. And a well-implemented Montessori program — delivered by trained teachers with fidelity to the method — appears to meaningfully develop those skills in a way that doesn't fade.
 
