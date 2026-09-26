@@ -37,6 +37,8 @@ const OUT_FILE = path.join(OUT_DIR, 'blog-titles-index.json');
  *   - booleans:              draft: false
  */
 function parseFrontmatter(content) {
+  // Windows checkouts use CRLF; JS `.` stops at \r, which would skip every line
+  content = content.replace(/\r\n?/g, '\n');
   const match = content.match(/^---\s*\n([\s\S]*?)\n---\s*\n/);
   if (!match) return null;
 
@@ -104,7 +106,6 @@ async function main() {
   let drafts = 0;
 
   for (const file of mdFiles) {
-    const slug = file.replace(/\.md$/, '');
     const fullPath = path.join(BLOG_DIR, file);
     let content;
     try {
@@ -127,9 +128,14 @@ async function main() {
       continue;
     }
 
+    // Match Astro's content loader: a `slug` in frontmatter replaces the
+    // filename in the URL, and a missing `lang` defaults to 'en'
+    const slug = fm.slug || file.replace(/\.md$/, '');
+    const lang = fm.lang || 'en';
+
     posts.push({
       slug,
-      lang: fm.lang || (slug.endsWith('-en') ? 'en' : 'zh-TW'),
+      lang,
       title: fm.title || '',
       description: fm.description || '',
       tags: Array.isArray(fm.tags) ? fm.tags : [],
@@ -137,7 +143,7 @@ async function main() {
       pubDate: fm.pubDate || '',
       author: fm.author || '',
       youtubeId: fm.youtubeId || null,
-      url: buildUrl(slug, fm.lang),
+      url: buildUrl(slug, lang),
     });
   }
 

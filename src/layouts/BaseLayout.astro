@@ -7,6 +7,12 @@ interface Props {
   lang?: string;
   ogImage?: string;
   jsonLd?: Record<string, any> | Record<string, any>[];
+  /**
+   * Path of this page in the other language. Omit it to swap /en/ <-> /zh/
+   * (pages that exist in both languages); pass null when there is no
+   * other-language version, which leaves out the hreflang links.
+   */
+  alternatePath?: string | null;
 }
 
 const currentLang = getLangFromUrl(Astro.url);
@@ -18,6 +24,7 @@ const {
   lang = currentLang,
   ogImage,
   jsonLd,
+  alternatePath,
 } = Astro.props;
 
 const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
@@ -28,9 +35,11 @@ const ga4Id = import.meta.env.PUBLIC_GA4_ID;
 const htmlLang = lang === 'zh' ? 'zh-TW' : 'en';
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-// Build alternate URL: swap /en/ <-> /zh/ in pathname
-const altPathname = Astro.url.pathname.replace(`/${currentLang}/`, `/${altLang}/`);
-const alternateURL = new URL(altPathname, Astro.site);
+// Build alternate URL: swap /en/ <-> /zh/ in pathname, unless the page supplies its own
+const altPathname = alternatePath === undefined
+  ? Astro.url.pathname.replace(`/${currentLang}/`, `/${altLang}/`)
+  : alternatePath;
+const alternateURL = altPathname ? new URL(altPathname, Astro.site) : null;
 const altHreflang = altLang === 'zh' ? 'zh-TW' : 'en';
 ---
 
@@ -43,9 +52,9 @@ const altHreflang = altLang === 'zh' ? 'zh-TW' : 'en';
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon.png" />
     <link rel="canonical" href={canonicalURL} />
-    <link rel="alternate" hreflang={htmlLang} href={canonicalURL} />
-    <link rel="alternate" hreflang={altHreflang} href={alternateURL} />
-    <link rel="alternate" hreflang="x-default" href={new URL('/en/', Astro.site)} />
+    {alternateURL && <link rel="alternate" hreflang={htmlLang} href={canonicalURL} />}
+    {alternateURL && <link rel="alternate" hreflang={altHreflang} href={alternateURL} />}
+    {alternateURL && <link rel="alternate" hreflang="x-default" href={new URL('/en/', Astro.site)} />}
     <meta name="generator" content={Astro.generator} />
 
     <title>{title}</title>

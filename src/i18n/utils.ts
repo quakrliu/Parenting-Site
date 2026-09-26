@@ -23,3 +23,18 @@ export function getAlternateLang(lang: Lang): Lang {
 export function mapLangToContentLang(lang: Lang): string {
   return lang === 'zh' ? 'zh-TW' : 'en';
 }
+
+/**
+ * Find the other-language version of a post or guide, if one exists.
+ * Pairs share an id once the language suffix is dropped: `X-en` / `X` ↔ `X-zh`.
+ * Returns the sister's id, or null when the item exists in one language only.
+ */
+export function findSisterId(
+  id: string,
+  isZh: boolean,
+  entries: { id: string; isZh: boolean }[],
+): string | null {
+  const base = (s: string) => s.replace(/-(en|zh)$/, '');
+  const sister = entries.find((e) => e.isZh !== isZh && base(e.id) === base(id));
+  return sister ? sister.id : null;
+}

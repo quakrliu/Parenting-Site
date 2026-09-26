@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-26T02:26:48.275Z",
+  "generated": "2026-09-26T06:11:16.880Z",
   "counts": {
     "total": 359,
-    "en": 174,
-    "zh": 185,
+    "en": 175,
+    "zh": 184,
     "drafts": 0,
     "skipped": 0
   },
@@ -6358,7 +6358,7 @@
       "url": "/zh/blog/sunlight-child-development-outdoors-zh"
     },
     {
-      "slug": "positive-parenting-boundaries-en",
+      "slug": "positive-parenting-boundaries",
       "lang": "en",
       "title": "How to Set Boundaries Without Punishment: The Positive Parenting Way",
       "description": "A research-backed guide to setting firm, loving limits without punishment — using natural consequences, connection-based limit-setting, and scripts that work.",
@@ -6373,7 +6373,7 @@
       "pubDate": "2026-04-14",
       "author": "",
       "youtubeId": null,
-      "url": "/en/blog/positive-parenting-boundaries-en"
+      "url": "/en/blog/positive-parenting-boundaries"
     },
     {
       "slug": "unstructured-play-benefits-zh",
@@ -6397,7 +6397,7 @@
       "url": "/zh/blog/unstructured-play-benefits-zh"
     },
     {
-      "slug": "screen-time-2026-guide-en",
+      "slug": "screen-time-2026-guide",
       "lang": "en",
       "title": "Screen Time in 2026: What the Latest Research Actually Says",
       "description": "AAP guidelines, quality vs. quantity debate, age-by-age recommendations, and what actually matters — a research-backed guide for parents navigating screens in 2026.",
@@ -6412,7 +6412,7 @@
       "pubDate": "2026-04-12",
       "author": "",
       "youtubeId": null,
-      "url": "/en/blog/screen-time-2026-guide-en"
+      "url": "/en/blog/screen-time-2026-guide"
     },
     {
       "slug": "toddler-tantrum-positive-parenting-zh",
@@ -6476,7 +6476,7 @@
       "url": "/en/blog/bedtime-reading-benefits-empathy-creativity-en"
     },
     {
-      "slug": "toddler-meltdowns-montessori-en",
+      "slug": "toddler-meltdowns-montessori",
       "lang": "en",
       "title": "Your Toddler's Meltdowns Are Normal: A Montessori Approach to Tantrums",
       "description": "Why toddler meltdowns happen, what they mean developmentally, and a 5-step Montessori-aligned approach to handling them with calm and connection.",
@@ -6488,7 +6488,7 @@
       "pubDate": "2026-04-10",
       "author": "",
       "youtubeId": "GEmcR_A8CLM",
-      "url": "/en/blog/toddler-meltdowns-montessori-en"
+      "url": "/en/blog/toddler-meltdowns-montessori"
     },
     {
       "slug": "parental-phubbing-child-screen-addiction-zh",
@@ -6533,7 +6533,7 @@
       "url": "/en/blog/lovevery-4-year-old-play-kits-review-en"
     },
     {
-      "slug": "montessori-activities-at-home-en",
+      "slug": "montessori-activities-at-home",
       "lang": "en",
       "title": "10 Montessori Activities You Can Do Today With Things Already in Your Home",
       "description": "Ten Montessori-inspired activities using everyday household items — no special materials, organized by age group, with the developmental benefit of each.",
@@ -6546,7 +6546,7 @@
       "pubDate": "2026-04-08",
       "author": "",
       "youtubeId": null,
-      "url": "/en/blog/montessori-activities-at-home-en"
+      "url": "/en/blog/montessori-activities-at-home"
     },
     {
       "slug": "kindergarten-guide-taiwan-2026-zh",
@@ -6689,8 +6689,8 @@
       "url": "/zh/blog/taiwan-children-wellbeing-research-2026-zh"
     },
     {
-      "slug": "en-montessori-pnas-research-2026",
-      "lang": "zh-TW",
+      "slug": "montessori-preschool-evidence-pnas-study-2026",
+      "lang": "en",
       "title": "Are Montessori Kids Really Smarter? The 2026 Study Every Parent Should Read",
       "description": "The first national randomized controlled trial of public Montessori preschool found stronger reading, executive function, and social skills — at $13,127 less per child. Here's what every parent needs to know.",
       "tags": [
@@ -6709,10 +6709,10 @@
       "pubDate": "2026-04-03",
       "author": "Ethan Moore",
       "youtubeId": null,
-      "url": "/en/blog/en-montessori-pnas-research-2026"
+      "url": "/en/blog/montessori-preschool-evidence-pnas-study-2026"
     },
     {
-      "slug": "teen-mental-health-warning-signs-2026-en",
+      "slug": "teen-mental-health-warning-signs-2026",
       "lang": "en",
       "title": "Teen Mental Health in 2026: Warning Signs Every Parent Should Know",
       "description": "30% of high school students feel persistently hopeless, yet 60% receive no treatment. Learn to distinguish normal teen behavior from real warning signs — plus conversation scripts that actually work. Updated March 2026.",
@@ -6730,7 +6730,7 @@
       "pubDate": "2026-04-01",
       "author": "Ethan Moore",
       "youtubeId": null,
-      "url": "/en/blog/teen-mental-health-warning-signs-2026-en"
+      "url": "/en/blog/teen-mental-health-warning-signs-2026"
     },
     {
       "slug": "taipei-montessori-schools-2026-zh",
@@ -6949,7 +6949,7 @@
       "url": "/en/blog/montessori-at-home-guide-en"
     },
     {
-      "slug": "hybrid-parenting-2026-zh",
+      "slug": "hybrid-parenting-2026-gentle-parenting-zh",
       "lang": "zh-TW",
       "title": "溫和教養不夠用？2026 台灣爸媽都在用「混合式教養」",
       "description": "溫和教養的缺點是什麼？2026 年最夯的混合式教養，結合同理心與清晰界限，比純溫和教養更有效。工程師爸爸的真實心得。",
@@ -6969,10 +6969,10 @@
       "pubDate": "2026-04-01",
       "author": "Ethan Moore",
       "youtubeId": null,
-      "url": "/zh/blog/hybrid-parenting-2026-zh"
+      "url": "/zh/blog/hybrid-parenting-2026-gentle-parenting-zh"
     },
     {
-      "slug": "hybrid-parenting-2026-gentle-parenting-en",
+      "slug": "hybrid-parenting-2026-gentle-parenting-backlash",
       "lang": "en",
       "title": "Why I Stopped Being a 'Gentle Parent' (And Became a Better Dad)",
       "description": "Hybrid parenting 2026 explained: how combining empathy with clear boundaries creates happier, more secure kids than pure gentle parenting alone — backed by research.",
@@ -6992,10 +6992,10 @@
       "pubDate": "2026-04-01",
       "author": "Ethan Moore",
       "youtubeId": null,
-      "url": "/en/blog/hybrid-parenting-2026-gentle-parenting-en"
+      "url": "/en/blog/hybrid-parenting-2026-gentle-parenting-backlash"
     },
     {
-      "slug": "en-gentle-parenting-montessori-boundaries",
+      "slug": "gentle-parenting-montessori-boundaries",
       "lang": "en",
       "title": "Is Gentle Parenting Dead? What Montessori Says About Boundaries and Warmth",
       "description": "Gentle parenting isn't dead — but the TikTok version might be. Learn what Montessori always knew: real respectful parenting means warmth AND confident limits. Authoritative 2.0 explained.",
@@ -7017,7 +7017,7 @@
       "pubDate": "2026-04-01",
       "author": "Ethan Moore",
       "youtubeId": null,
-      "url": "/en/blog/en-gentle-parenting-montessori-boundaries"
+      "url": "/en/blog/gentle-parenting-montessori-boundaries"
     },
     {
       "slug": "child-development-milestones-zh",
@@ -7276,7 +7276,7 @@
       "url": "/zh/blog/taiwan-birth-subsidy-2026-complete-guide"
     },
     {
-      "slug": "taipei-montessori-schools-guide-zh",
+      "slug": "taipei-montessori-schools-guide",
       "lang": "zh-TW",
       "title": "台灣蒙特梭利學校完整指南 2026：TMIS 長華、T.I.M.E.S、Y2MAC 學費比較＋選校攻略",
       "description": "從幼兒園到高中，台灣有哪些真正的蒙特梭利學校？本文整理 TMIS 長華、T.I.M.E.S、Y2MAC 等主要學校，幫你找到適合寶貝的選擇。",
@@ -7295,10 +7295,10 @@
       "pubDate": "2026-03-31",
       "author": "",
       "youtubeId": null,
-      "url": "/zh/blog/taipei-montessori-schools-guide-zh"
+      "url": "/zh/blog/taipei-montessori-schools-guide"
     },
     {
-      "slug": "screen-time-rules-school-age-kids-2026-en",
+      "slug": "screen-time-rules-school-age-kids-2026",
       "lang": "en",
       "title": "Screen Time in 2026: Why the 2-Hour Rule No Longer Applies to Your School-Age Child",
       "description": "The AAP officially retired the 2-hour daily screen time limit in January 2026. Here's what replaced it — and what it means for parents of children ages 6–12.",
@@ -7315,7 +7315,7 @@
       "pubDate": "2026-03-31",
       "author": "",
       "youtubeId": null,
-      "url": "/en/blog/screen-time-rules-school-age-kids-2026-en"
+      "url": "/en/blog/screen-time-rules-school-age-kids-2026"
     },
     {
       "slug": "postpartum-depression-complete-guide-2026",
@@ -7454,7 +7454,7 @@
       "url": "/zh/blog/best-bilingual-learning-apps-2026"
     },
     {
-      "slug": "australia-teen-social-media-ban-parents-guide-en",
+      "slug": "australia-teen-social-media-ban-parents-guide",
       "lang": "en",
       "title": "Australia Just Banned Social Media for Under-16s: What Parents Should Know",
       "description": "Australia banned social media for under-16s in December 2025. Ten more countries are following. Here's what the research says, what actually works, and how to have the conversation with your teen.",
@@ -7472,7 +7472,7 @@
       "pubDate": "2026-03-31",
       "author": "Ethan Moore",
       "youtubeId": null,
-      "url": "/en/blog/australia-teen-social-media-ban-parents-guide-en"
+      "url": "/en/blog/australia-teen-social-media-ban-parents-guide"
     },
     {
       "slug": "april-spring-activities-kids-2026",

@@ -5,7 +5,8 @@ import { getCollection } from 'astro:content';
 const lang = 'zh';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  // Only Chinese posts live under /zh/ — English posts are built under /en/ only
+  const posts = (await getCollection('blog')).filter((post) => post.data.lang === 'zh-TW');
   return posts.map((post) => ({
     params: { slug: post.id },
     props: { post },

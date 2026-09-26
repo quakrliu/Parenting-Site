@@ -4,8 +4,10 @@ import { languages, type Lang } from '../i18n/ui';
 
 interface Props {
   lang?: Lang;
+  /** Language-switch link. Omit it to swap /en/ <-> /zh/ in the current path. */
+  altHref?: string;
 }
-const { lang = 'en' } = Astro.props;
+const { lang = 'en', altHref } = Astro.props;
 const t = useTranslations(lang);
 const altLang = getAlternateLang(lang);
 
@@ -15,7 +17,7 @@ const appStoreUrl = lang === 'zh'
 
 // Build alternate URL by swapping locale prefix
 const currentPath = Astro.url.pathname;
-const altPath = currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}/`;
+const altPath = altHref ?? (currentPath.replace(`/${lang}/`, `/${altLang}/`) || `/${altLang}/`);
 ---
 
 <div class="app-banner">

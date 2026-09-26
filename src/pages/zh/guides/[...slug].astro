@@ -3,13 +3,14 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
-import { useTranslations } from '../../../i18n/utils';
+import { useTranslations, findSisterId } from '../../../i18n/utils';
 
 const lang = 'zh';
 const t = useTranslations(lang);
 
 export async function getStaticPaths() {
-  const guides = await getCollection('guides');
+  // Only Chinese guides live under /zh/ — English guides are built under /en/ only
+  const guides = (await getCollection('guides')).filter((guide) => guide.data.lang === 'zh');
   return guides.map((guide) => ({
     params: { slug: guide.id },
     props: { guide },
@@ -19,14 +20,24 @@ export async function getStaticPaths() {
 const { guide } = Astro.props;
 const { Content } = await render(guide);
 const guideLang = guide.data.lang === 'zh' ? 'zh' : 'en';
+
+// The other-language version of this guide (X ↔ X-zh), if one exists
+const altLang = guideLang === 'zh' ? 'en' : 'zh';
+const sisterId = findSisterId(
+  guide.id,
+  guideLang === 'zh',
+  (await getCollection('guides')).map((g) => ({ id: g.id, isZh: g.data.lang === 'zh' })),
+);
+const sisterPath = sisterId ? `/${altLang}/guides/${sisterId}/` : null;
 ---
 
 <BaseLayout
   title={`${guide.data.title} | ${t('site.title')}`}
   description={guide.data.description}
   lang={guideLang}
+  alternatePath={sisterPath}
 >
-  <Header lang={lang} />
+  <Header lang={lang} altHref={sisterPath ?? `/${altLang}/blog/`} />
 
   <main class="guide-page">
     <div class="container">
