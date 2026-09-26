@@ -412,8 +412,8 @@
 /en/guides/montessori-home-environment-zh/ /zh/guides/montessori-home-environment-zh/ 301
 /en/guides/positive-parenting-pillar-zh /zh/guides/positive-parenting-pillar-zh/ 301
 /en/guides/positive-parenting-pillar-zh/ /zh/guides/positive-parenting-pillar-zh/ 301
-/en/guides/taipei-montessori-schools-guide /zh/guides/taipei-montessori-schools-guide/ 301
-/en/guides/taipei-montessori-schools-guide/ /zh/guides/taipei-montessori-schools-guide/ 301
+/en/guides/taipei-montessori-schools-guide /zh/blog/taipei-montessori-schools-guide/ 301
+/en/guides/taipei-montessori-schools-guide/ /zh/blog/taipei-montessori-schools-guide/ 301
 /zh/blog/4-year-old-power-struggles-en /en/blog/4-year-old-power-struggles-en/ 301
 /zh/blog/4-year-old-power-struggles-en/ /en/blog/4-year-old-power-struggles-en/ 301
 /zh/blog/aap-5cs-screen-time-framework-preschoolers-en /en/blog/aap-5cs-screen-time-framework-preschoolers-en/ 301
@@ -833,3 +833,8 @@
 /zh/blog/toddler-meltdowns-montessori-en /en/blog/toddler-meltdowns-montessori/ 301
 /zh/blog/toddler-meltdowns-montessori-en/ /en/blog/toddler-meltdowns-montessori/ 301
 # <<< language-routing fix
+
+# The guide copy of the Taiwan Montessori schools guide duplicated the blog
+# post; merged into the blog post (2026-09-26)
+/zh/guides/taipei-montessori-schools-guide /zh/blog/taipei-montessori-schools-guide/ 301
+/zh/guides/taipei-montessori-schools-guide/ /zh/blog/taipei-montessori-schools-guide/ 301
