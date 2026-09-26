@@ -314,6 +314,7 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 
 探索更多正向教養系列文章：
 
+- [女兒從什麼都跟我說到只回『還好』：三週後才發現，她不是不理我，是在自我保護](/zh/blog/child-withdrawal-reconnection-conversation-zh)
 - [女兒在學校乖到不行，一放學上車就大哭崩潰：原來這是「壓抑後反彈」不是耍脾氣](/zh/blog/after-school-restraint-collapse-first-grade-zh)
 - [孩子開始瞞著你？從隱瞞小考到假裝一切都好：6 步對話修復信任](/zh/blog/child-hiding-mistakes-trust-repair-conversation-zh)
 - [十月早餐前我對女兒吼了四次：原來不是她的問題，是光線在搞鬼](/zh/blog/autumn-daylight-parent-patience-zh)

@@ -1,13 +1,53 @@
 {
-  "generated": "2026-09-24T02:29:46.651Z",
+  "generated": "2026-09-26T02:26:48.275Z",
   "counts": {
-    "total": 357,
-    "en": 173,
-    "zh": 184,
+    "total": 359,
+    "en": 174,
+    "zh": 185,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "child-withdrawal-reconnection-conversation-zh",
+      "lang": "zh-TW",
+      "title": "女兒從什麼都跟我說到只回『還好』：三週後才發現，她不是不理我，是在自我保護",
+      "description": "原本吃飯會講一整晚學校八卦的女兒，突然變成三個字回答、吃完就走。這不是青春期提早，是育見未來 BloomPath 想幫爸媽拆解的一種撤退訊號，背後有真正的心理學根據跟具體做法。",
+      "tags": [
+        "親子連結",
+        "正向教養",
+        "國小低年級",
+        "孩子沉默",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-26",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/child-withdrawal-reconnection-conversation-zh"
+    },
+    {
+      "slug": "child-withdrawal-reconnection-conversation-en",
+      "lang": "en",
+      "title": "My Daughter Went From Telling Me Everything to 'Fine.' Here's What Was Actually Happening.",
+      "description": "When a chatty 7-year-old turns into one-word answers for weeks, it's not attitude — it's a signal. Here's the psychology behind sudden withdrawal and the reconnection habit that actually worked for us.",
+      "tags": [
+        "child withdrawal",
+        "positive parenting",
+        "school-age",
+        "parent-child connection",
+        "montessori"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-09-26",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/child-withdrawal-reconnection-conversation-en"
+    },
     {
       "slug": "child-hiding-mistakes-trust-repair-conversation-zh",
       "lang": "zh-TW",
