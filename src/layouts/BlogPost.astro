@@ -29,6 +29,10 @@ const sisterId = findSisterId(
 );
 const sisterPath = sisterId ? `/${altLang}/blog/${sisterId}/` : null;
 
+// Posts about choosing a preschool/school offer the free school-visit checklist
+const isSchoolChoicePost = postLang === 'zh' && /蒙特梭利(學校|幼兒園)|選校|幼兒園怎麼選/.test(post.data.title);
+const schoolChecklistUrl = '/zh/free/montessori-school-checklist/';
+
 const appStoreUrl = postLang === 'zh'
   ? 'https://apps.apple.com/tw/app/id6759791532'
   : 'https://apps.apple.com/us/app/id6759791532';
@@ -134,6 +138,17 @@ const { Content } = await (async () => {
             {post.data.author && <p class="post-author">By {post.data.author}</p>}
           </header>
 
+          {isSchoolChoicePost && (
+            <a href={schoolChecklistUrl} class="school-checklist-cta">
+              <span class="school-checklist-cta__icon" aria-hidden="true">📋</span>
+              <span class="school-checklist-cta__text">
+                <strong>要去參觀學校？先拿這份免費清單</strong>
+                <span>蒙特梭利選校比較表＋參觀必問 20 題（可列印）</span>
+              </span>
+              <span class="school-checklist-cta__arrow" aria-hidden="true">→</span>
+            </a>
+          )}
+
           {post.data.youtubeId && (
             <YouTubeEmbed videoId={post.data.youtubeId} title={post.data.title} />
           )}
@@ -151,15 +166,26 @@ const { Content } = await (async () => {
           )}
         </article>
 
-        <NewsletterForm
-          lang={lang}
-          variant="card"
-          source={`blog-${postLang}-footer`}
-          heading={postLang === 'zh' ? '想收到每週新內容？' : 'Want fresh weekly research?'}
-          subtext={postLang === 'zh'
-            ? '每週一封 email：研究新知、實戰腳本、Ethan + Mei 親身經驗。'
-            : 'One email a week: research insights, real-life scripts, and notes from Ethan + Mei.'}
-        />
+        {isSchoolChoicePost ? (
+          <NewsletterForm
+            lang={lang}
+            variant="card"
+            source="blog-zh-school-checklist"
+            heading="要去參觀學校？先拿這份免費清單"
+            subtext="蒙特梭利選校比較表＋參觀必問 20 題。留下 email 立刻打開，附贈每週一封育兒筆記。"
+            successLink={{ href: `${schoolChecklistUrl}read/`, text: '打開選校清單 →' }}
+          />
+        ) : (
+          <NewsletterForm
+            lang={lang}
+            variant="card"
+            source={`blog-${postLang}-footer`}
+            heading={postLang === 'zh' ? '想收到每週新內容？' : 'Want fresh weekly research?'}
+            subtext={postLang === 'zh'
+              ? '每週一封 email：研究新知、實戰腳本、Ethan + Mei 親身經驗。'
+              : 'One email a week: research insights, real-life scripts, and notes from Ethan + Mei.'}
+          />
+        )}
 
         <nav class="post-nav">
           <a href={`/${lang}/blog`} class="back-link">
@@ -247,6 +273,28 @@ const { Content } = await (async () => {
     color: var(--color-text);
   }
   .post-author { font-size: 0.9375rem; color: var(--color-text-light); margin-top: 0.75rem; }
+
+  /* ── School checklist CTA (school-choice posts only) ── */
+  .school-checklist-cta {
+    display: flex;
+    align-items: center;
+    gap: 0.875rem;
+    max-width: 70ch;
+    margin: 0 auto 2rem;
+    padding: 1rem 1.25rem;
+    background: var(--color-cream);
+    border-left: 4px solid var(--color-forest);
+    border-radius: 4px 8px 8px 4px;
+    color: var(--color-text);
+    text-decoration: none;
+    transition: background 0.2s ease;
+  }
+  .school-checklist-cta:hover { background: var(--color-cream-dark); }
+  .school-checklist-cta__icon { font-size: 1.5rem; flex-shrink: 0; }
+  .school-checklist-cta__text { display: flex; flex-direction: column; gap: 0.2rem; flex: 1; min-width: 0; }
+  .school-checklist-cta__text strong { font-size: 1rem; font-weight: 700; }
+  .school-checklist-cta__text span { font-size: 0.875rem; color: var(--color-text-light); }
+  .school-checklist-cta__arrow { font-size: 1.25rem; font-weight: 700; color: var(--color-forest); flex-shrink: 0; }
 
   /* ── Post content ── */
   .post-content {

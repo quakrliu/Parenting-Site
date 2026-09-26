@@ -1,0 +1,377 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import NewsletterForm from '../../../components/NewsletterForm.astro';
+import '../../../styles/landing.css';
+
+const lang = 'zh';
+const readUrl = '/zh/free/montessori-school-checklist/read/';
+---
+
+<BaseLayout
+  title="免費下載：蒙特梭利選校比較表＋參觀必問 20 題（2026）| BloomPath"
+  description="參觀蒙特梭利幼兒園前先看這份：20 個必問問題（每題附好回答與警訊）、5 個掛名蒙特梭利警訊、可列印選校比較表、教育部官方收費與裁罰紀錄查詢教學。完全免費。"
+  lang={lang}
+  alternatePath={null}
+>
+  <Header lang={lang} altHref="/en/" />
+
+  <main class="landing-root">
+
+    <!-- HERO -->
+    <section class="lp-hero">
+      <div class="lp-container">
+        <div class="lp-hero__grid">
+          <div>
+            <div class="lp-hero__badge lp-fade-up">
+              <span class="lp-hero__badge-dot"></span>
+              <span class="lp-hero__badge-text">免費 · 可列印 · 2026 年 9 月更新</span>
+            </div>
+
+            <h1 class="lp-hero__title lp-fade-up lp-delay-100">蒙特梭利選校<br />參觀必問 20 題</h1>
+
+            <p class="lp-hero__lead lp-fade-up lp-delay-200">
+              每間都說自己是蒙特梭利。<br />
+              參觀那 30 分鐘，問對問題才看得出差別。
+            </p>
+            <p class="lp-hero__sublead lp-fade-up lp-delay-300">
+              20 個問題，每題附「好的回答」和「要小心的回答」，再加一張能並排比較 3 間學校的比較表。
+            </p>
+
+            <div class="lp-hero__cta-row lp-fade-up lp-delay-500" style="flex-direction: column; align-items: stretch; max-width: 480px;">
+              <NewsletterForm
+                lang={lang}
+                variant="card"
+                source="free-school-checklist-zh"
+                heading="留下 email，立刻打開清單"
+                subtext="送出後，這裡會直接出現清單連結。附贈每週一封育兒筆記，隨時可取消。"
+                successLink={{ href: readUrl, text: '打開選校清單 →' }}
+              />
+            </div>
+          </div>
+
+          <div class="lp-hero__visual">
+            <div class="lp-hero__visual-bg"></div>
+            <!-- Checklist mockup using CSS -->
+            <div class="checklist-mock" aria-hidden="true">
+              <div class="checklist-mock__corner">免費</div>
+              <div class="checklist-mock__brand">BloomPath</div>
+              <p class="checklist-mock__title">蒙特梭利選校<br />參觀必問 20 題</p>
+              <ul class="checklist-mock__list">
+                <li>老師受過哪一種蒙特梭利訓練？</li>
+                <li>每天有多長不被打斷的工作時間？</li>
+                <li>學費以外，還會收哪些費用？</li>
+                <li>可以入班觀察 30 分鐘嗎？</li>
+              </ul>
+              <p class="checklist-mock__meta">20 題 · 比較表 · 官方查詢教學</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHAT'S INSIDE -->
+    <section class="lp-section lp-section--mint">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--peach">清單裡有什麼</span>
+          <h2 class="lp-h2">參觀前、參觀時、參觀後，一份全包</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1.25rem;">
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">第 1 部分</span>
+            <h3 class="lp-age-card__label">參觀前 10 分鐘：官方查詢</h3>
+            <p class="lp-age-card__desc">用教育部「全國教保資訊網」查 3 件事：有沒有立案、官方收費明細、裁罰紀錄。附步驟。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">第 2 部分</span>
+            <h3 class="lp-age-card__label">參觀必問 20 題</h3>
+            <p class="lp-age-card__desc">分成教學、老師、環境、費用、溝通 5 類。每題附「為什麼要問」、好的回答、要小心的回答。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">第 3 部分</span>
+            <h3 class="lp-age-card__label">5 個「掛名蒙特梭利」警訊</h3>
+            <p class="lp-age-card__desc">走進教室 5 分鐘就能對照，不用懂教育理論。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">第 4 部分</span>
+            <h3 class="lp-age-card__label">選校比較表（可列印）</h3>
+            <p class="lp-age-card__desc">3 間學校並排，從通勤、師資、費用到孩子的反應，逐項比較。</p>
+          </div>
+
+          <div class="lp-age-card">
+            <span class="lp-age-card__range">第 5 部分</span>
+            <h3 class="lp-age-card__label">參觀後怎麼決定</h3>
+            <p class="lp-age-card__desc">3 個問自己的問題，幫你在「很喜歡」和「負擔得起」之間做決定。</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- PREVIEW: 3 OF THE 20 QUESTIONS -->
+    <section class="lp-section">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <span class="lp-eyebrow lp-eyebrow--rose">先看 3 題</span>
+          <h2 class="lp-h2">這些問題，學校不會主動告訴你</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; max-width: 720px;">
+          <div class="preview-q">
+            <p class="preview-q__q"><span class="preview-q__num">3</span>「每天有多長、不被打斷的工作時間？」</p>
+            <p class="preview-q__a">AMI（國際蒙特梭利協會）的教室標準是每週 5 個上午、每次 3 小時不被打斷的工作時段。如果課表切成一堂 30 分鐘，比較像傳統幼兒園加上蒙特梭利教具。</p>
+          </div>
+          <div class="preview-q">
+            <p class="preview-q__q"><span class="preview-q__num">9</span>「可以預約入班觀察至少 30 分鐘嗎？」</p>
+            <p class="preview-q__a">看孩子「正在工作」的樣子，比看空教室和宣傳影片準得多。只給看影片的學校，要多問一句為什麼。</p>
+          </div>
+          <div class="preview-q">
+            <p class="preview-q__q"><span class="preview-q__num">13</span>「學費包含哪些？另外還會收什麼？」</p>
+            <p class="preview-q__a">註冊費、材料費、餐點、交通車、課後延托、寒暑假營隊……請學校一次給你書面的完整收費表，不要只聽「月費」。</p>
+          </div>
+        </div>
+
+        <p style="margin-top: 1.5rem; color: var(--text-secondary);">
+          另外 17 題、5 個警訊和比較表，都在清單裡。<a href="#get" style="color: var(--primary-dark); text-decoration: underline;">免費拿清單 ↓</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- WHO MADE THIS -->
+    <section class="lp-section lp-family">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-family__intro">
+          <span class="lp-eyebrow lp-eyebrow--lavender">誰整理的</span>
+          <h2 class="lp-h2">Mei &amp; Ethan · 真實的父母</h2>
+          <p class="lp-lead">
+            我們的女兒 11 歲。這份清單把蒙特梭利的教室標準、台灣的幼兒園法規，<br />
+            和家長參觀時最容易忽略的細節，整理成可以帶著走的問題。
+          </p>
+          <p class="lp-body" style="font-size: 0.9375rem; color: var(--text-muted); margin-top: 1rem;">
+            為了保護孩子隱私，我們用 AI 角色 Mei 和 Ethan 呈現。<a href="/zh/about/" style="color: var(--primary-dark); text-decoration: underline;">了解更多 →</a>
+          </p>
+        </div>
+
+        <div class="lp-family__portrait">
+          <img src="/images/ethan-mei-fullbody.png" alt="Ethan 與 Mei — BloomPath 共同創辦人" loading="lazy" />
+        </div>
+
+        <div style="background: var(--white); border-radius: var(--radius-xl); padding: 2rem; border: 1px solid var(--border); max-width: 720px; margin: 0 auto;">
+          <p style="font-size: 1rem; line-height: 1.75; color: var(--text-secondary); margin: 0;">
+            <strong style="color: var(--text-strong);">坦白說：</strong>我們不是蒙特梭利老師。清單裡提到的每一條規定都附上官方來源——教育部全國教保資訊網、《幼兒教育及照顧法》、縣市收退費辦法、AMI 公開的教室標準——你可以自己查證。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="lp-section lp-section--cream-warm">
+      <div class="lp-container lp-container--narrow">
+        <div class="lp-section__head">
+          <h2 class="lp-h2">常見問題</h2>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; max-width: 720px;">
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">真的完全免費嗎？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">是。不收費、不會自動扣款，也不會把你的 email 賣給別人或提供給任何學校。</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">清單裡有列出各校的學費嗎？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">沒有。學費每年調整，我們寧可教你查官方資料，也不要給你過期的數字。第 1 部分教你用教育部「全國教保資訊網」查任何一間立案幼兒園的收費明細；第 13–16 題幫你問出學費以外的費用。</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">我的孩子幾歲適用？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">主要為 2–6 歲的幼兒園參觀設計。如果是蒙特梭利小學（實驗教育），教學、老師、環境、溝通這幾類問題大多也適用；費用與退費則以學校的書面合約為準。</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">不是蒙特梭利的幼兒園也能用嗎？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">可以。20 題裡一大半（老師、環境、費用、溝通）任何幼兒園都適用，官方查詢教學也一樣。</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">留了 email 之後，怎麼拿到清單？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">送出後，表單下方會直接出現「打開選校清單」按鈕。打開後建議加入書籤，或按頁面上的「列印／存成 PDF」存到手機。</p>
+          </details>
+
+          <details style="background: var(--white); border-radius: var(--radius-lg); padding: 1.25rem 1.5rem; border: 1px solid var(--border);">
+            <summary style="font-weight: 700; color: var(--text-strong); cursor: pointer; list-style: none;">會不會收到很多信？</summary>
+            <p style="margin: 1rem 0 0 0; color: var(--text-secondary); line-height: 1.7;">不會。每週一封育兒筆記，不轉賣資料。任何一封讓你覺得不值得，按信末的取消訂閱就好。</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- FINAL CTA -->
+    <section class="lp-section lp-final" id="get">
+      <div class="lp-container">
+        <div class="lp-final__card">
+          <div class="lp-final__logo">
+            <img src="/logo-nav.png" alt="BloomPath" width="72" height="72" />
+          </div>
+          <h2 class="lp-final__title">參觀前一晚，花 10 分鐘看完</h2>
+          <p class="lp-final__desc">挑出你最在意的 8–10 題，帶著去問。</p>
+
+          <div style="max-width: 480px; margin: 1.5rem auto 0;">
+            <NewsletterForm
+              lang={lang}
+              variant="card"
+              source="free-school-checklist-zh-final"
+              heading="留下 email，立刻打開清單"
+              subtext="附贈每週一封育兒筆記。"
+              successLink={{ href: readUrl, text: '打開選校清單 →' }}
+            />
+          </div>
+
+          <p class="lp-final__footnote">無垃圾信，隨時可取消訂閱。</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  /* Checklist mockup (hero visual) */
+  .checklist-mock {
+    position: relative;
+    z-index: 1;
+    width: 320px;
+    background: linear-gradient(135deg, #FBF8F4 0%, #F0E9DD 60%, #E8E2DB 100%);
+    border-radius: 18px;
+    padding: 2.25rem 1.75rem 1.75rem;
+    box-shadow:
+      0 30px 60px -20px rgba(45, 42, 38, 0.35),
+      0 8px 20px -8px rgba(45, 42, 38, 0.2);
+    border-top: 8px solid #5E9A7E;
+    transform: rotate(-2deg);
+    transition: transform 0.3s ease;
+  }
+
+  .checklist-mock:hover {
+    transform: rotate(0deg);
+  }
+
+  .checklist-mock__corner {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #E8A87C;
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+  }
+
+  .checklist-mock__brand {
+    font-size: 0.8125rem;
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #5E9A7E;
+    margin-bottom: 1rem;
+  }
+
+  .checklist-mock__title {
+    font-size: 1.375rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.25;
+    color: #2D2A26;
+    margin: 0 0 1.25rem 0;
+  }
+
+  .checklist-mock__list {
+    list-style: none;
+    margin: 0 0 1.25rem 0;
+    padding: 0;
+  }
+
+  .checklist-mock__list li {
+    position: relative;
+    padding: 0.55rem 0 0.55rem 1.75rem;
+    border-bottom: 1px dashed #D9D1C5;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    color: #5C5751;
+  }
+
+  .checklist-mock__list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.65rem;
+    width: 1rem;
+    height: 1rem;
+    border: 2px solid #5E9A7E;
+    border-radius: 4px;
+  }
+
+  .checklist-mock__meta {
+    font-size: 0.7rem;
+    color: #8E8780;
+    letter-spacing: 0.05em;
+    margin: 0;
+    text-align: center;
+  }
+
+  /* Preview questions */
+  .preview-q {
+    background: var(--white);
+    border-radius: var(--radius-lg);
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+  }
+
+  .preview-q__q {
+    margin: 0 0 0.5rem 0;
+    font-weight: 700;
+    color: var(--text-strong);
+    line-height: 1.5;
+  }
+
+  .preview-q__num {
+    display: inline-block;
+    min-width: 1.75rem;
+    margin-right: 0.5rem;
+    padding: 0.1rem 0.45rem;
+    border-radius: 999px;
+    background: #5E9A7E;
+    color: white;
+    font-size: 0.8125rem;
+    text-align: center;
+  }
+
+  .preview-q__a {
+    margin: 0;
+    color: var(--text-secondary);
+    line-height: 1.7;
+  }
+
+  details summary::-webkit-details-marker { display: none; }
+  details summary::before {
+    content: "+";
+    display: inline-block;
+    margin-right: 0.5rem;
+    color: var(--primary-dark);
+    font-weight: 700;
+    transition: transform 0.2s ease;
+  }
+  details[open] summary::before {
+    content: "−";
+  }
+</style>

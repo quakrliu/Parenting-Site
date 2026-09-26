@@ -5,6 +5,8 @@ interface Props {
   source?: string;
   heading?: string;
   subtext?: string;
+  /** Shown after a successful signup, e.g. the lead magnet the form promised */
+  successLink?: { href: string; text: string };
 }
 
 const {
@@ -13,6 +15,7 @@ const {
   source = 'unknown',
   heading,
   subtext,
+  successLink,
 } = Astro.props;
 
 const isZh = lang === 'zh';
@@ -54,6 +57,7 @@ const labels = {
     role="status"
     aria-live="polite"
   ></p>
+  {successLink && <a href={successLink.href} class="nl-form__success-link" hidden>{successLink.text}</a>}
 </form>
 
 <style>
@@ -126,6 +130,17 @@ const labels = {
   .nl-form__message[data-state="hidden"] { display: none; }
   .nl-form__message[data-state="success"] { color: #2D5A27; }
   .nl-form__message[data-state="error"] { color: #B3261E; }
+  .nl-form__success-link {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    background: var(--color-forest-dark, #707D72);
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .nl-form__success-link[hidden] { display: none; }
 
   /* Dark variant (on forest background) */
   .nl-form--dark .nl-form__heading,
@@ -205,6 +220,8 @@ const labels = {
         if (res.ok) {
           msg.textContent = msg.dataset.successText || 'Success!';
           msg.dataset.state = 'success';
+          const successLink = form.querySelector<HTMLAnchorElement>('.nl-form__success-link');
+          if (successLink) successLink.hidden = false;
           form.reset();
           document.dispatchEvent(new Event('newsletter-subscribed'));
           if (typeof (window as any).gtag === 'function') {

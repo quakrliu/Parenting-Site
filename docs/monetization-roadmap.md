@@ -194,6 +194,8 @@ Blog SEO + YouTube + Podcast  ←───────────────�
 - ✅ **Script audit**：110 個 YouTube script 掃完，14 個有問題；其中 13 個已上架（leave alone per user），1 個 bp-43-zh 尚未上架
 - ✅ **C 完成**：建好 `/zh/free/toddler-meltdown-playbook/` + `/en/free/...` Landing page，含 email opt-in + ebook cover mockup + FAQ
 - ✅ **B 草稿完成**：`docs/email-sequences/welcome-ebook-meltdown-zh.md` + `-en.md`（7 封 email × 2 語言，14 天 sequence，Mei 真實 voice，含 D0-D14 全部內容 + Beehiiv 設定步驟 + checklist）
+- ✅ **2026-09-26 重複網址修正**：文章／指南只在自己的語言路徑建置（移除 376 個重複頁、補 140 個壞掉的內部連結，舊網址全部 301）
+- ✅ **2026-09-26 Lead magnet #2 上線**：蒙特梭利選校比較表＋參觀必問 20 題，自動掛在 6 篇選校文章（見 `docs/lead-magnets/montessori-school-checklist.md`）
 
 ### 下次 session 該做（按優先序）
 1. 🎯 **使用者親自做**：上 Beehiiv 後台貼 7 封 email + 設 automation trigger（用 `welcome-ebook-meltdown-zh/en.md`）
@@ -232,3 +234,4 @@ Blog SEO + YouTube + Podcast  ←───────────────�
 | 日期 | 修改內容 |
 |---|---|
 | 2026-05-23 | 初版建立。當前 M1 W1，下一步 ASO sprint + Ebook #1。|
+| 2026-09-26 | 修正重複網址；上線選校清單 lead magnet（依 GSC：選校文章佔 26% 點擊）。|

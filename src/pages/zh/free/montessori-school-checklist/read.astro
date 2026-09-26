@@ -1,0 +1,894 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import NewsletterForm from '../../../../components/NewsletterForm.astro';
+import '../../../../styles/landing.css';
+
+const lang = 'zh';
+const appStoreUrl = 'https://apps.apple.com/tw/app/%E8%82%B2%E8%A6%8B%E6%9C%AA%E4%BE%86-bloompath/id6759791532';
+
+const questionGroups = [
+  {
+    title: 'A. 教學：是不是真的蒙特梭利',
+    questions: [
+      {
+        q: '主教老師受過哪一種蒙特梭利師資訓練？在哪裡受訓、訓練多久？',
+        why: '招生文宣寫「蒙特梭利」，不代表經過任何蒙特梭利組織認證。',
+        good: '能說出訓練體系（例如 AMI、AMS）、年齡層（0–3／3–6／6–12 歲）和訓練長度。以 AMI 3–6 歲師資課程為例，全職上課約需一個學年。',
+        warn: '「我們有內部培訓」「老師上過研習」，但說不出課程名稱和時數。',
+      },
+      {
+        q: '班上是混齡嗎？幾歲到幾歲？',
+        why: '蒙特梭利以三個年齡為一班（例如 3–6 歲），大孩子帶小孩子是教學的一部分。',
+        good: '3–6 歲同一班，各年齡都有。（依法規，2 歲幼兒要獨立成班，這是正常的。）',
+        warn: '分成小班、中班、大班，全班同一個進度上課。',
+      },
+      {
+        q: '每天有多長、不被打斷的工作時間？',
+        why: 'AMI 的教室標準是每週 5 個上午、每次 3 小時不被打斷的工作時段——孩子的專注力就是在這段時間養成的。',
+        good: '上午有連續 2.5–3 小時，孩子自己選工作。',
+        warn: '課表切成一堂 30–40 分鐘，中間穿插才藝課或全班活動。',
+      },
+      {
+        q: '孩子怎麼決定要做什麼？老師怎麼決定下一步教他什麼？',
+        why: '蒙特梭利的核心是「跟隨孩子」：老師根據觀察，一對一或小組示範教具。',
+        good: '老師能說明怎麼從觀察紀錄決定下一個示範，還能舉實際例子。',
+        warn: '全班同一時間做同一件事、寫同一本練習本。',
+      },
+    ],
+  },
+  {
+    title: 'B. 老師與班級',
+    questions: [
+      {
+        q: '一班幾個孩子、幾位老師？其中幾位受過完整的蒙特梭利訓練？',
+        why: '《幼兒教育及照顧法》規定：3 歲以上的班最多 30 人，16 人以上要有 2 位教保服務人員；2 歲班最多 16 人，9 人以上要 2 位。這是最低標準。',
+        good: '清楚說出人數與配置，而且主教老師受過完整蒙特梭利訓練。',
+        warn: '說不清楚，或受過訓練的老師要「輪流」支援好幾班。',
+      },
+      {
+        q: '主教老師在這裡教幾年了？去年有幾位老師離職？',
+        why: '老師穩定，孩子才有安全感。',
+        good: '主要老師待了好幾年，願意說明老師流動的情況。',
+        warn: '迴避問題，或主教老師每學年都換。',
+      },
+      {
+        q: '孩子起衝突時，老師怎麼處理？可以講一個最近的例子嗎？',
+        why: '具體例子最能看出學校真正的教養方式。',
+        good: '描述怎麼陪孩子說出感受、自己想辦法和好。',
+        warn: '罰站、隔離，或只說「我們很重視品格」這類口號。',
+      },
+      {
+        q: '你們怎麼記錄孩子的進度？家長看得到什麼？',
+        why: '蒙特梭利老師靠觀察紀錄教學，好的學校會讓你看到孩子的學習歷程。',
+        good: '觀察紀錄、作品、定期親師會談。',
+        warn: '只有成果發表會、才藝表演，或只談「會寫幾個字」。',
+      },
+    ],
+  },
+  {
+    title: 'C. 環境與日常',
+    questions: [
+      {
+        q: '可以預約入班觀察至少 30 分鐘嗎？',
+        why: '看孩子「正在工作」的樣子，比看空教室和宣傳影片準得多。',
+        good: '可以預約觀課（通常會請你安靜坐在旁邊看）。',
+        warn: '只能看空教室、只給看影片，或完全不能觀課。',
+      },
+      {
+        q: '教具孩子可以自己拿嗎？壞了或少了零件怎麼處理？',
+        why: '蒙特梭利教室的教具是給孩子獨立使用的，完整才能用。',
+        good: '教具放在孩子高度的開放式櫃子，完整、乾淨、有固定位置。',
+        warn: '教具鎖在櫃子裡、擺著好看，或缺件破損。',
+      },
+      {
+        q: '一天在戶外多久？孩子會做哪些「生活工作」？',
+        why: '備餐、倒水、照顧植物、整理環境，是蒙特梭利「日常生活練習」的核心。',
+        good: '每天有固定的戶外時間，孩子參與真實的生活工作。',
+        warn: '戶外時間「有空才去」，生活大小事都由大人代勞。',
+      },
+      {
+        q: '午餐、午睡、如廁怎麼安排？可以看一下這個月的菜單嗎？',
+        why: '孩子一天有一半時間在吃、睡、上廁所，這些細節決定他過得好不好。',
+        good: '能具體說明，也願意給你看菜單。',
+        warn: '含糊帶過，或說「到時候就知道了」。',
+      },
+    ],
+  },
+  {
+    title: 'D. 費用與合約',
+    questions: [
+      {
+        q: '學費包含哪些？另外還會收什麼費用？',
+        why: '常見的另收項目：註冊費、材料費、餐點費、交通車、課後延托、才藝課、寒暑假營隊、校外教學。',
+        good: '一次給你書面的完整收費表。',
+        warn: '只報「月費」，其他「到時候再說」。',
+      },
+      {
+        q: '如果中途離開，怎麼退費？可以給我書面的退費規定嗎？',
+        why: '立案幼兒園的退費有縣市法規規範。以《臺北市教保服務機構收退費辦法》為例，私立幼兒園學期開始後未超過 1/3 就離開，學費與雜費退 2/3；超過 1/3、未超過 2/3，退 1/3。',
+        good: '馬上拿得出書面規定，而且至少符合所在縣市的法規。',
+        warn: '「繳了就不退」，或只有口頭說明。不是幼兒園的機構（例如實驗教育機構）規則不同，一定要看書面合約。',
+      },
+      {
+        q: '過去三年學費調過幾次？明年預計調整嗎？',
+        why: '你要算的不是一個月，而是讀到畢業的總花費。',
+        good: '老實說明調整紀錄和原因。',
+        warn: '不願意回答。',
+      },
+      {
+        q: '這裡是準公共幼兒園嗎？有哪些政府補助可以用？學校會協助申請嗎？',
+        why: '身分不同，能用的補助和收費規範也不同。',
+        good: '清楚說明學校身分和補助申請方式。',
+        warn: '說不清楚，或要你「自己去問」。',
+      },
+    ],
+  },
+  {
+    title: 'E. 溝通與銜接',
+    questions: [
+      {
+        q: '家長多久可以跟老師正式談一次？平常怎麼聯絡？',
+        why: '你需要知道孩子在學校的樣子，而不只是活動照片。',
+        good: '有固定的親師會談（例如每學期一次），加上清楚的日常聯絡方式。',
+        warn: '只有群組公告，沒有一對一的時間。',
+      },
+      {
+        q: '新生怎麼適應？可以漸進式入園嗎？',
+        why: '第一個月的經驗，會影響孩子對學校的感覺。',
+        good: '有漸進入園的安排，前幾天可以縮短時間。',
+        warn: '「第一天就全天，哭幾天就好了」。',
+      },
+      {
+        q: '畢業後孩子通常去哪裡？學校怎麼幫忙銜接？',
+        why: '從蒙特梭利轉到一般國小，孩子需要適應「老師主導」的節奏。',
+        good: '能說出畢業生的去向，以及具體的銜接做法。',
+        warn: '只說「我們的孩子都很優秀」。',
+      },
+      {
+        q: '如果我的孩子在這裡適應得不好，你們通常怎麼處理？',
+        why: '這題看的是學校怎麼面對「不順利」。',
+        good: '說明觀察、親師討論、調整的具體流程。',
+        warn: '「不會啦，每個孩子都很喜歡這裡」。',
+      },
+    ],
+  },
+];
+
+let questionNumber = 0;
+const numberedGroups = questionGroups.map((group) => ({
+  ...group,
+  questions: group.questions.map((item) => ({ ...item, n: ++questionNumber })),
+}));
+
+const redFlags = [
+  '課表切成一堂一堂，沒有連續、由孩子自己選的工作時間',
+  '分齡上課（小班、中班、大班），全班同一個進度',
+  '用貼紙、集點、排名來激勵孩子',
+  '說不出老師受過哪一種蒙特梭利師資訓練',
+  '不讓家長入班觀察，只給看空教室或影片',
+];
+
+const compareRows = [
+  '學校名稱',
+  '單程通勤時間',
+  '全國教保資訊網查得到？',
+  '官方收費明細（已查）',
+  '裁罰紀錄',
+  '主教老師的蒙特梭利訓練',
+  '混齡（幾歲到幾歲）',
+  '每天連續工作時間',
+  '一班人數／老師人數',
+  '每月費用（含餐點等）',
+  '一次性費用（註冊、材料…）',
+  '書面退費規定？',
+  '可以入班觀察？',
+  '戶外時間',
+  '我的直覺（1–5）',
+  '孩子的反應（1–5）',
+  '另一半的看法（1–5）',
+];
+---
+
+<BaseLayout
+  title="閱讀：蒙特梭利選校比較表＋參觀必問 20 題（2026）| BloomPath"
+  description="參觀蒙特梭利幼兒園前的完整清單：教育部官方查詢步驟、20 個必問問題（附好回答與警訊）、5 個掛名蒙特梭利警訊、可列印選校比較表。"
+  lang={lang}
+  alternatePath={null}
+>
+  <Header lang={lang} altHref="/en/" />
+
+  <main class="ebook-root">
+
+    <!-- HEADER BAR -->
+    <div class="ebook-bar">
+      <div class="ebook-bar__inner">
+        <a href="/zh/free/montessori-school-checklist/" class="ebook-bar__back">← 回到說明頁</a>
+        <button class="ebook-bar__pdf" onclick="window.print()">🖨 列印 / 存成 PDF</button>
+      </div>
+    </div>
+
+    <article class="ebook-article">
+
+      <!-- COVER -->
+      <header class="ebook-cover-section">
+        <p class="ebook-eyebrow">BloomPath · 育見未來</p>
+        <h1 class="ebook-title">蒙特梭利選校比較表<br />＋參觀必問 20 題</h1>
+        <p class="ebook-subtitle">參觀前 10 分鐘 · 參觀時 30 分鐘 · 參觀後一個晚上</p>
+        <div class="ebook-divider"></div>
+        <p class="ebook-byline">整理：<strong>Mei</strong> &amp; <strong>Ethan</strong>（BloomPath）</p>
+        <p class="ebook-meta">2026 年 9 月版 · 20 題 · 5 個警訊 · 可列印比較表</p>
+      </header>
+
+      <!-- HOW TO USE -->
+      <section class="ebook-section">
+        <h2>怎麼用這份清單</h2>
+        <ol class="howto-list">
+          <li><strong>參觀前：</strong>花 10 分鐘在教育部網站查 3 件事（<a href="#part-1">第 1 部分</a>）。</li>
+          <li><strong>參觀時：</strong>20 題不用全問，挑你最在意的 8–10 題（<a href="#part-2">第 2 部分</a>），再對照 5 個警訊（<a href="#part-3">第 3 部分</a>）。</li>
+          <li><strong>參觀後：</strong>當天晚上填比較表（<a href="#part-4">第 4 部分</a>），隔天再做決定（<a href="#part-5">第 5 部分</a>）。</li>
+        </ol>
+        <div class="ebook-callout">
+          <strong>小提醒：</strong>好的學校不怕被問問題。對方怎麼回答，跟回答了什麼一樣重要——願意說「這個我不確定，查完再回覆你」的學校，通常比什麼都說「沒問題」的學校更可靠。
+        </div>
+      </section>
+
+      <!-- PART 1 -->
+      <section class="ebook-section" id="part-1">
+        <p class="part-label">第 1 部分</p>
+        <h2>參觀前 10 分鐘：官方查詢</h2>
+        <p>教育部的「全國教保資訊網」可以查全台灣每一間立案幼兒園。參觀前先查，參觀時就能拿官方資料跟學校的說法對照。</p>
+
+        <div class="lookup-step">
+          <h3>查 1：它是立案幼兒園嗎？</h3>
+          <p>到 <a href="https://ap.ece.moe.edu.tw/webecems/pubSearch.aspx" target="_blank" rel="noopener">全國教保資訊網・幼兒園查詢</a>，輸入園名或地址。查得到，就是主管機關立案的幼兒園，要符合《幼兒教育及照顧法》的師資、班級人數與收退費規定。查不到的話，參觀時直接問清楚：「你們是什麼類型的機構？」</p>
+        </div>
+
+        <div class="lookup-step">
+          <h3>查 2：官方收費明細</h3>
+          <p>在同一個查詢結果點進該園的詳細資料，找「收費明細」（學費、雜費、代辦費等）。參觀時拿學校的報價跟這份資料對照。</p>
+        </div>
+
+        <div class="lookup-step">
+          <h3>查 3：裁罰紀錄</h3>
+          <p>到 <a href="https://ap.ece.moe.edu.tw/webecems/punishSearch.aspx" target="_blank" rel="noopener">全國教保資訊網・裁罰紀錄查詢</a> 搜尋園名。有紀錄不代表現在一定不好，但參觀時可以直接問：「後來怎麼改善？」</p>
+        </div>
+
+        <div class="lookup-step">
+          <h3>加分：是不是準公共幼兒園</h3>
+          <p>幼兒園查詢可以篩選「準公共」類別。準公共幼兒園是跟政府合作的私立幼兒園，收費有政府規範。</p>
+        </div>
+
+        <p class="small-note">網站介面可能改版。找不到按鈕時，直接搜尋「全國教保資訊網 幼兒園查詢」。</p>
+      </section>
+
+      <!-- PART 2 -->
+      <section class="ebook-section" id="part-2">
+        <p class="part-label">第 2 部分</p>
+        <h2>參觀必問 20 題</h2>
+        <p>每題都附上<strong>為什麼要問</strong>、<span class="good-text">✓ 好的回答</span>、<span class="warn-text">⚠ 要小心的回答</span>。先圈出你最在意的 8–10 題。</p>
+
+        {numberedGroups.map((group) => (
+          <div class="q-group">
+            <h3 class="q-group__title">{group.title}</h3>
+            {group.questions.map((item) => (
+              <div class="q-card">
+                <p class="q-card__q">
+                  <span class="q-card__box" aria-hidden="true"></span>
+                  <span class="q-card__num">{item.n}</span>
+                  <span>{item.q}</span>
+                </p>
+                <p class="q-card__why">{item.why}</p>
+                <p class="q-card__good">✓ {item.good}</p>
+                <p class="q-card__warn">⚠ {item.warn}</p>
+              </div>
+            ))}
+          </div>
+        ))}
+      </section>
+
+      <!-- PART 3 -->
+      <section class="ebook-section" id="part-3">
+        <p class="part-label">第 3 部分</p>
+        <h2>5 個「掛名蒙特梭利」警訊</h2>
+        <p>「蒙特梭利」寫在招生文宣上，不需要任何蒙特梭利組織認證。走進教室 5 分鐘，對照這 5 點：</p>
+        <ul class="flag-list">
+          {redFlags.map((flag) => <li>{flag}</li>)}
+        </ul>
+        <p>中了 1 個，多問幾句；中了 3 個以上，它可能只是「有蒙特梭利教具的傳統幼兒園」——這不一定不好，只是不值得多付「蒙特梭利」的價錢。</p>
+      </section>
+
+      <!-- PART 4 -->
+      <section class="ebook-section compare-section" id="part-4">
+        <p class="part-label">第 4 部分</p>
+        <h2>選校比較表</h2>
+        <p class="no-print">建議按上方「列印 / 存成 PDF」印出這一頁，參觀完當天晚上填。</p>
+        <div class="compare-wrap">
+          <table class="compare-table">
+            <thead>
+              <tr>
+                <th scope="col">項目</th>
+                <th scope="col">學校 1</th>
+                <th scope="col">學校 2</th>
+                <th scope="col">學校 3</th>
+              </tr>
+            </thead>
+            <tbody>
+              {compareRows.map((row) => (
+                <tr>
+                  <th scope="row">{row}</th>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              ))}
+              <tr class="compare-table__total">
+                <th scope="row">最後三項總分</th>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- PART 5 -->
+      <section class="ebook-section" id="part-5">
+        <p class="part-label">第 5 部分</p>
+        <h2>參觀後：怎麼做決定</h2>
+        <p>填完表，睡一晚，再問自己 3 個問題：</p>
+        <ol class="decide-list">
+          <li><strong>想像孩子在那間教室裡一整天，他會是什麼樣子？</strong>觀課時看到的那些孩子，就是這間學校「養出來」的樣子。</li>
+          <li><strong>這個費用，我們能不能穩定負擔到畢業？</strong>把一次性費用和可能的調漲一起算，不要只看第一個月。</li>
+          <li><strong>每天接送的時間，孩子和我們撐得住嗎？</strong>再好的學校，每天單程 50 分鐘也會磨掉一家人的耐心。</li>
+        </ol>
+        <p>沒有完美的學校。「老師怎麼看待孩子」通常比「設備多新」更重要。</p>
+      </section>
+
+      <!-- SOURCES -->
+      <section class="ebook-section sources-section">
+        <h2>資料來源</h2>
+        <ul class="sources-list">
+          <li>教育部 全國教保資訊網：<a href="https://ap.ece.moe.edu.tw/webecems/pubSearch.aspx" target="_blank" rel="noopener">幼兒園查詢</a>、<a href="https://ap.ece.moe.edu.tw/webecems/punishSearch.aspx" target="_blank" rel="noopener">裁罰紀錄查詢</a></li>
+          <li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=H0070031&flno=16" target="_blank" rel="noopener">《幼兒教育及照顧法》第 16 條</a>（班級人數與教保服務人員配置）</li>
+          <li><a href="https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL068659" target="_blank" rel="noopener">《臺北市教保服務機構收退費辦法》</a>（113 年 8 月 1 日施行）</li>
+          <li>AMI/USA：<a href="https://www.amiusa.org/ami-standards" target="_blank" rel="noopener">AMI 教室標準</a>（工作時段、混齡）</li>
+          <li>Maria Montessori Institute：<a href="https://www.mariamontessori.org/courses/teacher-training-3-6-years/" target="_blank" rel="noopener">AMI 3–6 歲師資課程</a></li>
+        </ul>
+        <p class="small-note">整理日期：2026 年 9 月。法規、補助與網站介面可能變動，請以教育部與各縣市政府最新公告為準。</p>
+      </section>
+
+      <!-- NEXT STEPS -->
+      <section class="ebook-section ebook-cta-section">
+        <h2>下一步</h2>
+
+        <p>還在比較學校？這兩篇整理了台北和台中的蒙特梭利選擇：</p>
+        <ul>
+          <li><a href="/zh/blog/taipei-montessori-schools-guide/">台灣蒙特梭利學校完整指南 2026</a></li>
+          <li><a href="/zh/blog/taichung-montessori-schools-2026-zh/">台中蒙特梭利幼兒園完整指南 2026</a></li>
+        </ul>
+
+        <div class="ebook-cta-grid">
+          <div class="ebook-cta-card">
+            <h3>📘 幼兒情緒崩潰 90 秒應對劇本</h3>
+            <p>孩子在賣場、餐廳倒地哭鬧時，前 90 秒怎麼做。5 個情境腳本，免費。</p>
+            <a href="/zh/free/toddler-meltdown-playbook/" class="lp-btn lp-btn--primary">免費領取</a>
+          </div>
+
+          <div class="ebook-cta-card ebook-cta-card--featured">
+            <h3>📱 BloomPath App</h3>
+            <p>追蹤孩子的成長里程碑，每天給你在家就能做的蒙特梭利活動建議。</p>
+            <a href={appStoreUrl} target="_blank" rel="noopener" class="lp-btn lp-btn--primary">前往 App Store</a>
+          </div>
+        </div>
+
+        <div class="ebook-newsletter-card">
+          <h3>還沒訂閱 newsletter？</h3>
+          <p>每週一封育兒筆記：研究新知、實戰腳本，幾分鐘讀完。</p>
+          <NewsletterForm
+            lang={lang}
+            variant="card"
+            source="free-school-checklist-zh-read"
+            heading=""
+            subtext="不會發垃圾信，隨時可取消訂閱。"
+          />
+        </div>
+
+        <hr style="margin: 3rem 0; border: none; border-top: 1px solid #E8E2DB;" />
+
+        <p style="font-size: 0.875rem; color: #8E8780; text-align: center;">
+          <strong>BloomPath</strong> · bloom-path.app · hello@bloom-path.app<br />
+          © 2026 BloomPath · 本清單可自由分享給其他家長 · 禁止商業重製或修改
+        </p>
+      </section>
+
+    </article>
+
+  </main>
+
+  <Footer lang={lang} />
+</BaseLayout>
+
+<style>
+  /* ============================================================
+     Checklist reading view — same look as the meltdown playbook
+     ============================================================ */
+
+  .ebook-root {
+    background-color: #FBF8F4;
+    color: #2D2A26;
+    min-height: 100vh;
+    color-scheme: light;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  :global(html:has(.ebook-root) body) {
+    color-scheme: light;
+    background-color: #FBF8F4 !important;
+    color: #2D2A26 !important;
+  }
+
+  /* HEADER BAR (top sticky) */
+  .ebook-bar {
+    position: sticky;
+    top: 0;
+    background: rgba(251, 248, 244, 0.92);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid #E8E2DB;
+    z-index: 50;
+  }
+
+  .ebook-bar__inner {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .ebook-bar__back {
+    font-size: 0.875rem;
+    color: #5C5751;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .ebook-bar__back:hover { color: #5E9A7E; }
+
+  .ebook-bar__pdf {
+    background: #5E9A7E;
+    color: white;
+    border: none;
+    padding: 0.55rem 1.25rem;
+    border-radius: 999px;
+    font-size: 0.875rem;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: inherit;
+  }
+
+  .ebook-bar__pdf:hover { background: #4A8268; }
+
+  /* ARTICLE CONTAINER */
+  .ebook-article {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 5rem;
+  }
+
+  /* COVER */
+  .ebook-cover-section {
+    text-align: center;
+    padding: 3rem 0 4rem;
+    border-bottom: 1px solid #E8E2DB;
+    margin-bottom: 3rem;
+  }
+
+  .ebook-eyebrow {
+    font-size: 0.8125rem;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    color: #5E9A7E;
+    text-transform: uppercase;
+    margin: 0 0 2rem 0;
+  }
+
+  .ebook-title {
+    font-size: clamp(2rem, 5vw, 3.25rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.15;
+    color: #1A1714;
+    margin: 0 0 1.5rem 0;
+  }
+
+  .ebook-subtitle {
+    font-size: 1.125rem;
+    color: #5C5751;
+    line-height: 1.5;
+    margin: 0 0 2rem 0;
+  }
+
+  .ebook-divider {
+    width: 60px;
+    height: 3px;
+    background: #5E9A7E;
+    margin: 2rem auto;
+    border-radius: 2px;
+  }
+
+  .ebook-byline {
+    font-size: 1rem;
+    color: #2D2A26;
+    line-height: 1.65;
+    margin: 0 0 1rem 0;
+  }
+
+  .ebook-meta {
+    font-size: 0.875rem;
+    color: #8E8780;
+    margin: 0;
+    letter-spacing: 0.04em;
+  }
+
+  /* SECTIONS */
+  .ebook-section {
+    margin-bottom: 4rem;
+    scroll-margin-top: 5rem;
+  }
+
+  .ebook-section h2 {
+    font-size: 1.875rem;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    color: #1A1714;
+    margin: 0 0 1.5rem 0;
+    line-height: 1.2;
+  }
+
+  .ebook-section h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #1A1714;
+    margin: 2rem 0 0.75rem 0;
+    line-height: 1.3;
+  }
+
+  .ebook-section p {
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    color: #2D2A26;
+    margin: 0 0 1.25rem 0;
+  }
+
+  .ebook-section ul,
+  .ebook-section ol {
+    padding-left: 1.5rem;
+    margin: 0 0 1.5rem 0;
+  }
+
+  .ebook-section li {
+    font-size: 1.0625rem;
+    line-height: 1.75;
+    color: #2D2A26;
+    margin-bottom: 0.5rem;
+  }
+
+  .ebook-section a {
+    color: #5E9A7E;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .part-label {
+    font-size: 0.8125rem !important;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    color: #5E9A7E !important;
+    margin: 0 0 0.5rem 0 !important;
+  }
+
+  .small-note {
+    font-size: 0.875rem !important;
+    color: #8E8780 !important;
+  }
+
+  /* CALLOUT BOX */
+  .ebook-callout {
+    background: linear-gradient(135deg, #EDE6F3 0%, #F5E6E3 100%);
+    border-left: 4px solid #C5B4D6;
+    border-radius: 0 12px 12px 0;
+    padding: 1.5rem 1.75rem;
+    margin: 2rem 0;
+    font-size: 0.9375rem;
+    line-height: 1.7;
+    color: #2D2A26;
+  }
+
+  /* PART 1 — lookup steps */
+  .lookup-step {
+    background: white;
+    border: 1px solid #E8E2DB;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .lookup-step h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.0625rem;
+  }
+
+  .lookup-step p {
+    font-size: 0.9375rem;
+    margin: 0;
+  }
+
+  /* PART 2 — questions */
+  .good-text { color: #2F7A55; font-weight: 700; }
+  .warn-text { color: #B86F3E; font-weight: 700; }
+
+  .q-group__title {
+    font-size: 1.125rem !important;
+    margin: 2.5rem 0 1rem 0 !important;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #E8E2DB;
+  }
+
+  .q-card {
+    background: white;
+    border: 1px solid #E8E2DB;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 0.875rem;
+  }
+
+  .q-card p {
+    font-size: 0.9375rem;
+    line-height: 1.65;
+    margin: 0 0 0.5rem 0;
+  }
+
+  .q-card p:last-child { margin-bottom: 0; }
+
+  .q-card__q {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    font-size: 1.0625rem !important;
+    font-weight: 700;
+    color: #1A1714 !important;
+  }
+
+  .q-card__box {
+    flex-shrink: 0;
+    width: 1.1rem;
+    height: 1.1rem;
+    margin-top: 0.3rem;
+    border: 2px solid #5E9A7E;
+    border-radius: 4px;
+  }
+
+  .q-card__num {
+    flex-shrink: 0;
+    min-width: 1.75rem;
+    padding: 0.05rem 0.4rem;
+    border-radius: 999px;
+    background: #5E9A7E;
+    color: white;
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    text-align: center;
+    margin-top: 0.1rem;
+  }
+
+  .q-card__why { color: #5C5751 !important; }
+  .q-card__good { color: #2F7A55 !important; }
+  .q-card__warn { color: #B86F3E !important; }
+
+  /* PART 3 — red flags */
+  .flag-list {
+    list-style: none;
+    padding: 0 !important;
+  }
+
+  .flag-list li {
+    background: linear-gradient(135deg, #FDF0EA 0%, #FBF8F4 100%);
+    border-left: 4px solid #E8A87C;
+    border-radius: 0 10px 10px 0;
+    padding: 0.875rem 1.25rem;
+    margin-bottom: 0.625rem;
+  }
+
+  /* PART 4 — comparison table */
+  .compare-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .compare-table {
+    width: 100%;
+    min-width: 560px;
+    border-collapse: collapse;
+    background: white;
+    font-size: 0.875rem;
+  }
+
+  .compare-table th,
+  .compare-table td {
+    border: 1px solid #D9D1C5;
+    padding: 0.5rem 0.625rem;
+    text-align: left;
+    vertical-align: top;
+    height: 2.5rem;
+  }
+
+  .compare-table thead th {
+    background: #F0E9DD;
+    font-weight: 700;
+    color: #1A1714;
+  }
+
+  .compare-table tbody th {
+    width: 32%;
+    font-weight: 600;
+    color: #2D2A26;
+    background: #FBF8F4;
+  }
+
+  .compare-table__total th,
+  .compare-table__total td {
+    border-top: 2px solid #5E9A7E;
+  }
+
+  /* PART 5 */
+  .decide-list li {
+    margin-bottom: 1rem;
+  }
+
+  .sources-list li {
+    font-size: 0.9375rem;
+  }
+
+  /* CTA SECTION */
+  .ebook-cta-section {
+    background: linear-gradient(180deg, #FBF8F4 0%, #F0E9DD 100%);
+    border-radius: 16px;
+    padding: 3rem 2rem;
+    margin-top: 4rem;
+  }
+
+  .ebook-cta-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    margin: 2rem 0;
+  }
+
+  @media (min-width: 720px) {
+    .ebook-cta-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .ebook-cta-card {
+    background: white;
+    border: 1px solid #E8E2DB;
+    border-radius: 14px;
+    padding: 1.75rem;
+  }
+
+  .ebook-cta-card--featured {
+    border: 2px solid #8BB5A2;
+    box-shadow: 0 8px 30px -10px rgba(139, 181, 162, 0.3);
+  }
+
+  .ebook-cta-card h3 {
+    font-size: 1.125rem;
+    font-weight: 800;
+    margin: 0 0 0.75rem 0;
+    color: #1A1714;
+  }
+
+  .ebook-cta-card p {
+    font-size: 0.9375rem;
+    line-height: 1.65;
+    color: #5C5751;
+    margin: 0 0 1rem 0;
+  }
+
+  .ebook-cta-card a.lp-btn {
+    color: white;
+    text-decoration: none;
+  }
+
+  .ebook-newsletter-card {
+    background: white;
+    border-radius: 14px;
+    padding: 2rem;
+    margin: 2rem 0;
+    border: 1px solid #E8E2DB;
+  }
+
+  .ebook-newsletter-card h3 {
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin: 0 0 0.5rem 0;
+    color: #1A1714;
+  }
+
+  .ebook-newsletter-card p {
+    font-size: 0.9375rem;
+    color: #5C5751;
+    margin: 0 0 1.25rem 0;
+  }
+
+  /* ============================================================
+     PRINT — "Save as PDF"
+     ============================================================ */
+  @media print {
+    .ebook-bar,
+    .ebook-cta-section,
+    .no-print,
+    :global(.app-banner),
+    :global(.site-header),
+    :global(.site-footer),
+    :global(.nav-overlay) {
+      display: none !important;
+    }
+
+    .ebook-root {
+      background: white !important;
+    }
+
+    .ebook-article {
+      max-width: 100%;
+      padding: 0;
+    }
+
+    .ebook-cover-section {
+      padding: 0 0 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .ebook-section {
+      margin-bottom: 1.5rem;
+    }
+
+    .ebook-section h2,
+    .q-group__title {
+      break-after: avoid;
+    }
+
+    .q-card,
+    .lookup-step,
+    .flag-list li {
+      break-inside: avoid;
+    }
+
+    .ebook-section a {
+      color: #2D2A26;
+      text-decoration: none;
+    }
+
+    .compare-section {
+      break-before: page;
+    }
+
+    .compare-table {
+      min-width: 0;
+      font-size: 0.8125rem;
+    }
+
+    .compare-table th,
+    .compare-table td {
+      height: 2.1rem;
+    }
+  }
+</style>
