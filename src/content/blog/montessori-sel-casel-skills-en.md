@@ -135,7 +135,7 @@ This is disappearing from childhood. In many conventional settings, adults clean
 
 ## What the Research Actually Says {#research}
 
-**PNAS 2025 National RCT:** The first randomized controlled trial of public Montessori preschool (588 children, 24 programs) found significantly higher social understanding among Montessori kindergarteners. ([Deep-dive here](/blog/montessori-preschool-evidence-pnas-study-2026).)
+**PNAS 2025 National RCT:** The first randomized controlled trial of public Montessori preschool (588 children, 24 programs) found significantly higher social understanding among Montessori kindergarteners. ([Deep-dive here](/en/blog/montessori-preschool-evidence-pnas-study-2026/).)
 
 **CASEL Meta-Analysis:** 213 studies, 270,000 students: SEL programs reduce conduct problems by 22%, emotional distress by 24%, and improve academic achievement by 11%.
 
@@ -236,4 +236,4 @@ You're one of them.
 
 ---
 
-**Coming next:** [Montessori vs. Gentle Parenting: What's Actually Different (And Why It Matters in 2026)](/blog/montessori-vs-gentle-parenting-en)
+**Coming next:** [Montessori vs. Gentle Parenting: What's Actually Different (And Why It Matters in 2026)](/en/blog/montessori-vs-gentle-parenting-en/)

@@ -408,6 +408,6 @@ Zuranolone（Zurzuvae）於 2023 年獲 FDA 批准，截至 2026 年在台灣仍
 
 **Related Reading:**
 
-- [Parental Burnout Solutions](/blog/parental-burnout-solutions-2026)
-- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [Parental Burnout Solutions](/zh/blog/parental-burnout-solutions-2026/)
+- [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en/)
+- [Child Development Milestones (0-6 Years)](/en/blog/child-development-milestones-en/)

@@ -446,6 +446,6 @@ You're here reading this. You looked up the research. That already makes you the
 
 **Related Reading:**
 
-- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)
-- [Teen Mental Health Warning Signs](/blog/teen-mental-health-warning-signs-2026-en)
-- [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-school-age-kids-2026-en)
+- [Children's Internet Safety (2026)](/en/blog/children-internet-safety-2026-en/)
+- [Teen Mental Health Warning Signs](/en/blog/teen-mental-health-warning-signs-2026/)
+- [Screen Time Rules for School-Age Kids](/en/blog/screen-time-rules-school-age-kids-2026/)

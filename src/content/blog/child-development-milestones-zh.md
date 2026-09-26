@@ -351,6 +351,6 @@ A：發展遲緩指孩子在典型時間軸之後達到里程碑，但發展弧�
 
 **延伸閱讀：**
 
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
-- [孩子崩潰怎麼辦](/blog/toddler-tantrum-positive-parenting-zh)
+- [居家蒙特梭利實踐指南](/zh/blog/montessori-at-home-guide-zh/)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)
+- [孩子崩潰怎麼辦](/zh/blog/toddler-tantrum-positive-parenting-zh/)

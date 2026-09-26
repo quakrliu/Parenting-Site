@@ -296,6 +296,6 @@ image: "/og/child-abuse-prevention-april-2026-zh.png"
 
 **延伸閱讀：**
 
-- [兒童網路安全指南 2026](/blog/children-internet-safety-2026-zh)
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [兒童網路安全指南 2026](/zh/blog/children-internet-safety-2026-zh/)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)

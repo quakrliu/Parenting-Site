@@ -337,6 +337,6 @@ A: The evidence for health benefits of organic vs. conventional produce for infa
 
 **Related Reading:**
 
-- [Baby & Toddler Product Reviews](/blog/baby-product-reviews-guide-en)
-- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
-- [Why Your Toddler Won't Sleep: Sleep Regression](/blog/toddler-[toddler sleep regression guide](/en/blog/toddler-sleep-regression-guide-en)-regression-guide-en)
+- [Baby & Toddler Product Reviews](/en/blog/baby-product-reviews-guide-en/)
+- [Child Development Milestones (0-6 Years)](/en/blog/child-development-milestones-en/)
+- [Why Your Toddler Won't Sleep: Sleep Regression](/en/blog/toddler-sleep-regression-guide-en/)

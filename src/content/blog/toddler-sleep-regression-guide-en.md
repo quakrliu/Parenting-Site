@@ -323,6 +323,6 @@ You're raising a brilliant, curious, developmentally on-track kid. That's who's 
 
 **Related Reading:**
 
-- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
-- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)
-- [Baby & Toddler Nutrition Guide](/blog/baby-nutrition-health-guide-en)
+- [Child Development Milestones (0-6 Years)](/en/blog/child-development-milestones-en/)
+- [Your Toddler's Meltdowns Are Normal](/en/blog/toddler-meltdowns-montessori/)
+- [Baby & Toddler Nutrition Guide](/en/blog/baby-nutrition-health-guide-en/)

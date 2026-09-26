@@ -328,6 +328,6 @@ ageGroup: ["preschool"]
 
 **延伸閱讀：**
 
-- [蒙特梭利 vs. 傳統幼兒園](/blog/montessori-vs-traditional-preschool-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
-- [台北蒙特梭利學校 2026](/blog/taipei-montessori-schools-2026-zh)
+- [蒙特梭利 vs. 傳統幼兒園](/zh/blog/montessori-vs-traditional-preschool-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)
+- [台北蒙特梭利學校 2026](/zh/blog/taipei-montessori-schools-2026-zh/)

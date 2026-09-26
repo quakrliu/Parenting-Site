@@ -170,7 +170,7 @@ ageGroup: ["all"]
 
 這不是甩鍋。**孩子的自主性降低了爸媽的壓力——這是正向教養的核心洞見。**
 
-（如果你想知道哪些 Montessori 玩具最值得投資，我們評測了 [Lovevery Play Kit 四歲組](/blog/lovevery-play-kit-4-year-old-review-en) 的實際效果。）
+（如果你想知道哪些 Montessori 玩具最值得投資，我們評測了 Lovevery Play Kit 四歲組 的實際效果。）
 
 ### 4. 修復裂縫：衝突後的 3 個句型
 
@@ -356,6 +356,6 @@ WHO 建議：2 歲以下避免（視訊通話除外）；2–4 歲每日不超�
 
 **延伸閱讀：**
 
-- [兒童網路安全指南 2026](/blog/children-internet-safety-2026-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [兒童網路安全指南 2026](/zh/blog/children-internet-safety-2026-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)

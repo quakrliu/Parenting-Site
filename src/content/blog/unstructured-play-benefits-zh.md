@@ -285,7 +285,7 @@ Lovevery 的玩具設計就是以開放式為核心，適合 0-6 歲不同發展
 
 ---
 
-*明天繼續：[孩子發脾氣怎麼辦？蒙特梭利的情緒引導5步驟](/blog/toddler-tantrum-positive-parenting-zh)*
+*明天繼續：[孩子發脾氣怎麼辦？蒙特梭利的情緒引導5步驟](/zh/blog/toddler-tantrum-positive-parenting-zh/)*
 
 <!-- Schema: FAQPage -->
 <script type="application/ld+json">
@@ -354,6 +354,6 @@ Lovevery 的玩具設計就是以開放式為核心，適合 0-6 歲不同發展
 
 **延伸閱讀：**
 
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
-- [陽光與戶外活動對兒童發展的影響](/blog/sunlight-child-development-outdoors-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [居家蒙特梭利實踐指南](/zh/blog/montessori-at-home-guide-zh/)
+- [陽光與戶外活動對兒童發展的影響](/zh/blog/sunlight-child-development-outdoors-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)

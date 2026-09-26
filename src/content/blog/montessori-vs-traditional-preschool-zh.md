@@ -317,6 +317,6 @@ PNAS 研究數據顯示，男孩在蒙特梭利教育中的受益程度高於女
 
 **延伸閱讀：**
 
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
-- [台北蒙特梭利學校 2026](/blog/taipei-montessori-schools-2026-zh)
-- [台灣幼兒園選擇指南 2026](/blog/kindergarten-guide-taiwan-2026-zh)
+- [居家蒙特梭利實踐指南](/zh/blog/montessori-at-home-guide-zh/)
+- [台北蒙特梭利學校 2026](/zh/blog/taipei-montessori-schools-2026-zh/)
+- [台灣幼兒園選擇指南 2026](/zh/blog/kindergarten-guide-taiwan-2026-zh/)

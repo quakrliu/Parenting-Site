@@ -369,6 +369,6 @@ image: "/og/taiwan-birth-subsidy-2026-complete-guide.png"
 
 **延伸閱讀：**
 
-- [嬰幼兒產品評測指南](/blog/baby-product-reviews-guide-zh)
-- [嬰幼兒副食品與營養指南](/blog/baby-nutrition-health-guide-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [嬰幼兒產品評測指南](/zh/blog/baby-product-reviews-guide-zh/)
+- [嬰幼兒副食品與營養指南](/zh/blog/baby-nutrition-health-guide-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)

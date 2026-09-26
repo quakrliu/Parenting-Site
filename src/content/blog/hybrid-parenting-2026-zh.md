@@ -371,6 +371,6 @@ image: "/og/hybrid-parenting-2026-zh.png"
 
 **延伸閱讀：**
 
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
-- [孩子崩潰怎麼辦](/blog/toddler-tantrum-positive-parenting-zh)
-- [爸爸在育兒中的角色](/blog/daddy-role-in-parenting-zh)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)
+- [孩子崩潰怎麼辦](/zh/blog/toddler-tantrum-positive-parenting-zh/)
+- [爸爸在育兒中的角色](/zh/blog/daddy-role-in-parenting-zh/)

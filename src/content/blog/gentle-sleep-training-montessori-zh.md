@@ -92,7 +92,7 @@ image: "/og/gentle-sleep-training-montessori-zh.png"
 ### 環境控制
 
 - 溫度：台灣夏天冷氣 26-27°C，冬天睡袋取代厚被
-- 光線：睡前 1 小時不要螢幕（延伸閱讀 [AAP 螢幕時間 2026 台灣家長指南](/blog/aap-screen-time-2026-taiwan-parents-zh)）
+- 光線：睡前 1 小時不要螢幕（延伸閱讀 [AAP 螢幕時間 2026 台灣家長指南](/zh/blog/aap-screen-time-2026-taiwan-parents-zh/)）
 - 聲音：白噪音機很有用，遮掉阿公阿嬤在客廳看電視的聲音
 
 
@@ -220,9 +220,9 @@ image: "/og/gentle-sleep-training-montessori-zh.png"
 
 ## 相關閱讀
 
-- [AAP 螢幕時間 2026 台灣家長指南](/blog/aap-screen-time-2026-taiwan-parents-zh) — 睡前關螢幕是溫和訓練的前提
-- [蒙特梭利居家環境設定](/blog/montessori-home-environment-zh) — 寶寶房怎麼佈置
-- [燈塔式育兒：蒙特梭利的實踐](/blog/lighthouse-parenting-montessori-zh) — 設界限但不控制，跟睡眠訓練同邏輯
+- [AAP 螢幕時間 2026 台灣家長指南](/zh/blog/aap-screen-time-2026-taiwan-parents-zh/) — 睡前關螢幕是溫和訓練的前提
+- [蒙特梭利居家環境設定](/zh/blog/montessori-home-environment-zh/) — 寶寶房怎麼佈置
+- [燈塔式育兒：蒙特梭利的實踐](/zh/blog/lighthouse-parenting-montessori-zh/) — 設界限但不控制，跟睡眠訓練同邏輯
 
 
 ---

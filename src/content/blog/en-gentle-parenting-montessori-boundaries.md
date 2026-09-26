@@ -588,6 +588,6 @@ WORD COUNT: ~5,200 words (article body ~3,800 + FAQs + schema)
 
 **Related Reading:**
 
-- [How to Set Boundaries Without Punishment](/blog/positive-parenting-boundaries-en)
-- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
-- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)
+- [How to Set Boundaries Without Punishment](/en/blog/positive-parenting-boundaries/)
+- [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en/)
+- [Your Toddler's Meltdowns Are Normal](/en/blog/toddler-meltdowns-montessori/)

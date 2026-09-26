@@ -306,6 +306,6 @@ The pinwheel has been the national symbol of Child Abuse Prevention Month since 
 
 **Related Reading:**
 
-- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)
-- [Teen Mental Health Warning Signs](/blog/teen-mental-health-warning-signs-2026-en)
-- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
+- [Children's Internet Safety (2026)](/en/blog/children-internet-safety-2026-en/)
+- [Teen Mental Health Warning Signs](/en/blog/teen-mental-health-warning-signs-2026/)
+- [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en/)

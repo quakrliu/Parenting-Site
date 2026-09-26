@@ -308,6 +308,6 @@ ageGroup: ["all"]
 
 **延伸閱讀：**
 
-- [非結構性遊戲的重要性](/blog/unstructured-play-benefits-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [非結構性遊戲的重要性](/zh/blog/unstructured-play-benefits-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)
+- [居家蒙特梭利實踐指南](/zh/blog/montessori-at-home-guide-zh/)

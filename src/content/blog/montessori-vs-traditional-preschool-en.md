@@ -299,6 +299,6 @@ The [BloomPath app](https://bloompath.quakr.dev) tracks 224 developmental milest
 
 **Related Reading:**
 
-- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
-- [Setting Up a Montessori Home Environment](/blog/montessori-home-environment-en)
-- [Montessori Research 2026](/blog/en-montessori-pnas-research-2026)
+- [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en/)
+- [Setting Up a Montessori Home Environment](/en/blog/montessori-home-environment-en/)
+- [Montessori Research 2026](/en/blog/montessori-preschool-evidence-pnas-study-2026/)

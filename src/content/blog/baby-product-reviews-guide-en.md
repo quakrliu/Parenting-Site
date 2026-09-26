@@ -322,6 +322,6 @@ A: Ask: What is the child doing? (Active vs. passive engagement?) Is this age-ap
 
 **Related Reading:**
 
-- [Baby & Toddler Nutrition Guide](/blog/baby-nutrition-health-guide-en)
-- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
-- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
+- [Baby & Toddler Nutrition Guide](/en/blog/baby-nutrition-health-guide-en/)
+- [Child Development Milestones (0-6 Years)](/en/blog/child-development-milestones-en/)
+- [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en/)

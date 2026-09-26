@@ -354,6 +354,6 @@ You're already in it. That means you're already doing it.
 
 **Related Reading:**
 
-- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
-- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [How to Set Boundaries Without Punishment](/blog/positive-parenting-[setting limits without punishment](/en/blog/positive-parenting-boundaries-en)-en)
+- [10 Montessori Activities With Things Already in Your Home](/en/blog/montessori-activities-at-home/)
+- [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en/)
+- [How to Set Boundaries Without Punishment](/en/blog/positive-parenting-boundaries/)

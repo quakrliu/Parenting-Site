@@ -432,6 +432,6 @@ EARS法主要適用於青少年（12-18歲），也可以應用於小學高年�
 
 **延伸閱讀：**
 
-- [孩子不想上學怎麼辦](/blog/zh-teen-not-wanting-school)
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
-- [爸爸在育兒中的角色](/blog/daddy-role-in-parenting-zh)
+- [孩子不想上學怎麼辦](/zh/blog/zh-teen-not-wanting-school/)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)
+- [爸爸在育兒中的角色](/zh/blog/daddy-role-in-parenting-zh/)

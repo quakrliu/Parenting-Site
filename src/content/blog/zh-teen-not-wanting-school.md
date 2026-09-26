@@ -333,6 +333,6 @@ BloomPath 育見未來 App 提供 12-18 歲青少年的心理社會發展指標�
 
 **延伸閱讀：**
 
-- [青少年溝通腳本](/blog/zh-teen-communication-script)
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
-- [爸爸在育兒中的角色](/blog/daddy-role-in-parenting-zh)
+- [青少年溝通腳本](/zh/blog/zh-teen-communication-script/)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)
+- [爸爸在育兒中的角色](/zh/blog/daddy-role-in-parenting-zh/)

@@ -321,6 +321,6 @@ A：問：孩子在做什麼？（主動還是被動？）適合這個月齡嗎�
 
 **延伸閱讀：**
 
-- [嬰幼兒副食品與營養指南](/blog/baby-nutrition-health-guide-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
+- [嬰幼兒副食品與營養指南](/zh/blog/baby-nutrition-health-guide-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)
+- [居家蒙特梭利實踐指南](/zh/blog/montessori-at-home-guide-zh/)

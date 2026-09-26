@@ -386,6 +386,6 @@ BloomPath 的 AI 育兒顧問提供 24 小時個人化引導，讓你在凌晨�
 
 **Related Reading:**
 
-- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [Breaking the Cycle: Generational Trauma](/blog/cycle-breaking-parenting-generational-trauma-en)
-- [Postpartum Depression Complete Guide](/blog/postpartum-depression-complete-guide-2026)
+- [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en/)
+- [Breaking the Cycle: Generational Trauma](/en/blog/cycle-breaking-parenting-generational-trauma-en/)
+- [Postpartum Depression Complete Guide](/zh/blog/postpartum-depression-complete-guide-2026/)

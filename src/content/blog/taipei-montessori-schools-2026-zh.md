@@ -336,6 +336,6 @@ Y2MAC 由 Y2edu 運營，與**政大台灣蒙特梭利教育中心**合作，提
 
 **延伸閱讀：**
 
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
-- [台灣幼兒園選擇指南 2026](/blog/kindergarten-guide-taiwan-2026-zh)
-- [蒙特梭利 vs. 傳統幼兒園](/blog/montessori-vs-traditional-preschool-zh)
+- [居家蒙特梭利實踐指南](/zh/blog/montessori-at-home-guide-zh/)
+- [台灣幼兒園選擇指南 2026](/zh/blog/kindergarten-guide-taiwan-2026-zh/)
+- [蒙特梭利 vs. 傳統幼兒園](/zh/blog/montessori-vs-traditional-preschool-zh/)

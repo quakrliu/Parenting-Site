@@ -413,6 +413,6 @@ Tomorrow: The specific scripts that work for school-age kids (ages 6-10) — whe
 
 **Related Reading:**
 
-- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [Gentle Parenting vs. Authoritative Parenting](/blog/en-gentle-parenting-montessori-boundaries)
-- [Breaking the Cycle: Generational Trauma](/blog/cycle-breaking-parenting-generational-trauma-en)
+- [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en/)
+- [Gentle Parenting vs. Authoritative Parenting](/en/blog/gentle-parenting-montessori-boundaries/)
+- [Breaking the Cycle: Generational Trauma](/en/blog/cycle-breaking-parenting-generational-trauma-en/)

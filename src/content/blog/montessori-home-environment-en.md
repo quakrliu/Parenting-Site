@@ -332,6 +332,6 @@ A: Start with one low shelf in one room. One accessible hook. One step stool in 
 
 **Related Reading:**
 
-- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
-- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
-- [Montessori vs. Traditional Preschool](/blog/montessori-vs-traditional-preschool-en)
+- [10 Montessori Activities With Things Already in Your Home](/en/blog/montessori-activities-at-home/)
+- [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en/)
+- [Montessori vs. Traditional Preschool](/en/blog/montessori-vs-traditional-preschool-en/)

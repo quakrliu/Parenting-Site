@@ -181,7 +181,7 @@ Montessori sees the child as **inherently capable, curious, and intrinsically mo
 - Materials designed for self-correction (the puzzle piece either fits or it doesn't — no adult needed to judge)
 - Stepping back when your child is struggling, rather than jumping in to fix it
 
-A 2026 national randomized controlled trial published in *PNAS* found that public Montessori education produced measurable gains in reading, executive function, memory, and social understanding. [The science is strong](/blog/montessori-preschool-evidence-pnas-study-2026) — this isn't a parenting trend.
+A 2026 national randomized controlled trial published in *PNAS* found that public Montessori education produced measurable gains in reading, executive function, memory, and social understanding. [The science is strong](/en/blog/montessori-preschool-evidence-pnas-study-2026/) — this isn't a parenting trend.
 
 The shorthand: **Gentle parenting is about how you *respond* to your child. Montessori is about what your child *does* when you're not responding.**
 
@@ -304,7 +304,7 @@ This is gentle parenting at its best. "You're really frustrated that we have to 
 *Your turn: Think of one common flashpoint in your week. What would the validation sentence sound like before the redirection?*
 
 **4. Step back when they're struggling — start the clock.**
-Your instinct is to help the moment you see effort and frustration. Resist it for 30 extra seconds. Watch. See if they solve it. That pause — that moment of not rescuing — is Montessori in its purest form. For the research on why unstructured problem-solving matters so much, [this piece connects the science](/blog/bedtime-reading-benefits-empathy-creativity-en).
+Your instinct is to help the moment you see effort and frustration. Resist it for 30 extra seconds. Watch. See if they solve it. That pause — that moment of not rescuing — is Montessori in its purest form. For the research on why unstructured problem-solving matters so much, [this piece connects the science](/en/blog/bedtime-reading-benefits-empathy-creativity-en/).
 
 *Your turn: Next time your child is struggling with something, start a 30-second timer before you step in. Just observe.*
 

@@ -301,6 +301,6 @@ ageGroup: ["toddler"]
 
 **延伸閱讀：**
 
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)
+- [居家蒙特梭利實踐指南](/zh/blog/montessori-at-home-guide-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)

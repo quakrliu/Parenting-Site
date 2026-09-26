@@ -420,6 +420,6 @@ image: "/og/april-spring-activities-kids-2026.png"
 
 **Related Reading:**
 
-- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
-- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-screen-free-en)
-- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [10 Montessori Activities With Things Already in Your Home](/en/blog/montessori-activities-at-home/)
+- [Raising Analog Kids in a Digital World](/en/blog/analog-childhood-montessori-screen-free-en/)
+- [Child Development Milestones (0-6 Years)](/en/blog/child-development-milestones-en/)

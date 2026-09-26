@@ -300,6 +300,6 @@ image: "/og/taiwan-children-wellbeing-research-2026-zh.png"
 
 **延伸閱讀：**
 
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
-- [爸爸在育兒中的角色](/blog/daddy-role-in-parenting-zh)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)
+- [爸爸在育兒中的角色](/zh/blog/daddy-role-in-parenting-zh/)

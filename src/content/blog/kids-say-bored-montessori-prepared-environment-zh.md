@@ -18,7 +18,7 @@ image: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 
 這篇是我花了幾個月才搞懂的事。如果你家也有一個每週至少三次開口就說無聊的小孩，這篇是給你的。
 
-> 想看完整的[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)布置，請看姊妹篇 [蒙特梭利居家環境布置完整攻略](/blog/montessori-home-environment-zh/)。那篇是 room-by-room 的整體設計。**本篇是「孩子說無聊的當下」怎麼辦的救援指南**——不是整間重裝，是微調。
+> 想看完整的[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)布置，請看姊妹篇 [蒙特梭利居家環境布置完整攻略](/zh/blog/montessori-home-environment-zh/)。那篇是 room-by-room 的整體設計。**本篇是「孩子說無聊的當下」怎麼辦的救援指南**——不是整間重裝，是微調。
 
 
 ---
@@ -269,7 +269,7 @@ image: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 1. **今晚**：走一遍客廳，把玩具減到 8 樣。其他先裝紙箱收起來。
 2. **明天早上**：在客廳角落擺一個「邀請區」——一張小墊子，一個托盤，一件活動。不要解釋，看她會不會自己坐下。
 3. **下次她說無聊時**：試「5 分鐘再說」。不要想解決，當作實驗。
-4. **這個週末**：讀一下 [蒙特梭利居家環境布置完整攻略](/blog/montessori-home-environment-zh/)，做更大的房間調整。
+4. **這個週末**：讀一下 [蒙特梭利居家環境布置完整攻略](/zh/blog/montessori-home-environment-zh/)，做更大的房間調整。
 
 記得：**你不是 24 小時娛樂員，你是環境的設計者**。設計好，她會自己玩。設計錯，給再多陪玩都不夠。
 
@@ -280,11 +280,11 @@ image: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 
 ## 相關閱讀
 
-- [蒙特梭利居家環境布置完整攻略](/blog/montessori-home-environment-zh/) — 從嬰兒房到廚房的完整房間設計
-- [正向教養完整指南](/blog/positive-parenting-guide-zh/) — 情緒輔導與自然結果法
-- [溫和教養不夠用？2026 混合式教養](/blog/hybrid-parenting-2026-zh/) — 溫和＋界限的實作
-- [幼兒螢幕時間：AAP 2026 新政策台灣指南](/blog/aap-screen-time-2026-taiwan-parents-zh/) — 為什麼替代螢幕比限制螢幕更有效
-- [父母滑手機對孩子的影響（Phubbing）](/blog/parental-phubbing-child-screen-addiction-zh/) — 螢幕使用的另一面
+- [蒙特梭利居家環境布置完整攻略](/zh/blog/montessori-home-environment-zh/) — 從嬰兒房到廚房的完整房間設計
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/) — 情緒輔導與自然結果法
+- [溫和教養不夠用？2026 混合式教養](/zh/blog/hybrid-parenting-2026-gentle-parenting-zh/) — 溫和＋界限的實作
+- [幼兒螢幕時間：AAP 2026 新政策台灣指南](/zh/blog/aap-screen-time-2026-taiwan-parents-zh/) — 為什麼替代螢幕比限制螢幕更有效
+- [父母滑手機對孩子的影響（Phubbing）](/zh/blog/parental-phubbing-child-screen-addiction-zh/) — 螢幕使用的另一面
 
 
 ---

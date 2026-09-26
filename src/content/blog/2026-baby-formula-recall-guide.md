@@ -383,6 +383,6 @@ Cereulide毒素主要引起劇烈嘔吐，通常在攝入後1至6小時內發作
 
 **Related Reading:**
 
-- [Baby & Toddler Nutrition Guide](/blog/baby-nutrition-health-guide-en)
-- [Baby & Toddler Product Reviews](/blog/baby-product-reviews-guide-en)
-- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
+- [Baby & Toddler Nutrition Guide](/en/blog/baby-nutrition-health-guide-en/)
+- [Baby & Toddler Product Reviews](/en/blog/baby-product-reviews-guide-en/)
+- [Child Development Milestones (0-6 Years)](/en/blog/child-development-milestones-en/)

@@ -442,6 +442,6 @@ You're here reading a 3,000-word article about preschool research. That already 
 
 **Related Reading:**
 
-- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
-- [Montessori vs. Traditional Preschool](/blog/montessori-vs-traditional-preschool-en)
-- [Raising Analog Kids in a Digital World](/blog/analog-childhood-montessori-screen-free-en)
+- [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en/)
+- [Montessori vs. Traditional Preschool](/en/blog/montessori-vs-traditional-preschool-en/)
+- [Raising Analog Kids in a Digital World](/en/blog/analog-childhood-montessori-screen-free-en/)

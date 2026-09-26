@@ -363,6 +363,6 @@ image: "/og/kindergarten-readiness-complete-guide.png"
 
 **Related Reading:**
 
-- [Child Development Milestones (0-6 Years)](/blog/child-development-milestones-en)
-- [Montessori vs. Traditional Preschool](/blog/montessori-vs-traditional-preschool-en)
-- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
+- [Child Development Milestones (0-6 Years)](/en/blog/child-development-milestones-en/)
+- [Montessori vs. Traditional Preschool](/en/blog/montessori-vs-traditional-preschool-en/)
+- [10 Montessori Activities With Things Already in Your Home](/en/blog/montessori-activities-at-home/)

@@ -338,6 +338,6 @@ A：有機 vs. 一般蔬果對嬰兒健康效益的研究，不足以支持大�
 
 **延伸閱讀：**
 
-- [嬰幼兒產品評測指南](/blog/baby-product-reviews-guide-zh)
-- [0-6歲發展里程碑完整指南](/blog/child-development-milestones-zh)
-- [孩子崩潰怎麼辦](/blog/toddler-tantrum-positive-parenting-zh)
+- [嬰幼兒產品評測指南](/zh/blog/baby-product-reviews-guide-zh/)
+- [0-6歲發展里程碑完整指南](/zh/blog/child-development-milestones-zh/)
+- [孩子崩潰怎麼辦](/zh/blog/toddler-tantrum-positive-parenting-zh/)

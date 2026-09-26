@@ -318,6 +318,6 @@ Yes, for all children and teenagers. Private accounts limit profile visibility t
 
 **Related Reading:**
 
-- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)
-- [Teen Mental Health Warning Signs](/blog/teen-mental-health-warning-signs-2026-en)
-- [Australia's Teen Social Media Ban](/blog/australia-teen-social-media-ban-parents-guide-en)
+- [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide/)
+- [Teen Mental Health Warning Signs](/en/blog/teen-mental-health-warning-signs-2026/)
+- [Australia's Teen Social Media Ban](/en/blog/australia-teen-social-media-ban-parents-guide/)

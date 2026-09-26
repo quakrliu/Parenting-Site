@@ -346,6 +346,6 @@ A: A delay means a child is behind typical timeline but progressing along the ex
 
 **Related Reading:**
 
-- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
-- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)
-- [Why Your Toddler Won't Sleep: Sleep Regression](/blog/toddler-sleep-regression-guide-en)
+- [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en/)
+- [Your Toddler's Meltdowns Are Normal](/en/blog/toddler-meltdowns-montessori/)
+- [Why Your Toddler Won't Sleep: Sleep Regression](/en/blog/toddler-sleep-regression-guide-en/)

@@ -393,6 +393,6 @@ No. Patterns that begin to form in the early years are still actively shaping th
 
 **Related Reading:**
 
-- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [Your Toddler's Meltdowns Are Normal](/blog/toddler-meltdowns-montessori-en)
-- [Gentle Parenting vs. Authoritative Parenting](/blog/en-gentle-parenting-montessori-boundaries)
+- [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en/)
+- [Your Toddler's Meltdowns Are Normal](/en/blog/toddler-meltdowns-montessori/)
+- [Gentle Parenting vs. Authoritative Parenting](/en/blog/gentle-parenting-montessori-boundaries/)

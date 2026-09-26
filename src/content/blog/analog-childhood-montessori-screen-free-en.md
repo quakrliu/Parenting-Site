@@ -67,7 +67,7 @@ I'm an engineer. I appreciate philosophy, but I need the mechanism.
 
 A 2025 landmark study published in *PNAS* — the first-ever **national randomized controlled trial** of public Montessori preschool — tracked nearly 600 children across 24 programs through the end of kindergarten. The results: Montessori students significantly outperformed their peers in reading, executive function, short-term memory, and social understanding. Most strikingly, the benefits *grew over time*, rather than fading the way most early education gains typically do.
 
-*(We covered this study in depth in our [Montessori PNAS deep-dive here](/blog/montessori-preschool-evidence-pnas-study-2026) — worth reading if you want the full breakdown.)*
+*(We covered this study in depth in our [Montessori PNAS deep-dive here](/en/blog/montessori-preschool-evidence-pnas-study-2026/) — worth reading if you want the full breakdown.)*
 
 **The Montessori-educated children in the 2025 PNAS randomized controlled trial outperformed peers in executive function, reading, and social development through kindergarten.**
 
@@ -207,7 +207,7 @@ No. Research consistently shows that open-ended, natural materials — wooden bl
 
 ---
 
-*明天繼續：[How to Talk to Your Kids About Why We're Doing Less Screen Time](/blog/talking-to-kids-about-screen-time-en)*
+*明天繼續：How to Talk to Your Kids About Why We're Doing Less Screen Time*
 
 
 ---
@@ -224,6 +224,6 @@ No. Research consistently shows that open-ended, natural materials — wooden bl
 
 **Related Reading:**
 
-- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)
-- [10 Montessori Activities With Things Already in Your Home](/blog/montessori-activities-at-home-en)
-- [AAP Screen Time Guidelines 2026](/blog/aap-screen-time-guidelines-2026)
+- [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide/)
+- [10 Montessori Activities With Things Already in Your Home](/en/blog/montessori-activities-at-home/)
+- [AAP Screen Time Guidelines 2026](/zh/blog/aap-screen-time-guidelines-2026/)

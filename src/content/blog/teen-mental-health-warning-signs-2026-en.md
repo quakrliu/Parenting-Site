@@ -416,6 +416,6 @@ Most anxiety disorders in teens begin before age 14, and the peak onset for depr
 
 **Related Reading:**
 
-- [Children's Internet Safety (2026)](/blog/children-[internet safety for children](/en/blog/children-internet-safety-2026-en)-safety-2026-en)
-- [Australia's Teen Social Media Ban](/blog/australia-teen-social-media-ban-parents-guide-en)
-- [Screen Time Rules for School-Age Kids](/blog/screen-time-rules-school-age-kids-2026-en)
+- [Children's Internet Safety (2026)](/en/blog/children-internet-safety-2026-en/)
+- [Australia's Teen Social Media Ban](/en/blog/australia-teen-social-media-ban-parents-guide/)
+- [Screen Time Rules for School-Age Kids](/en/blog/screen-time-rules-school-age-kids-2026/)

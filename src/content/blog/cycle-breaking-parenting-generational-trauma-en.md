@@ -333,6 +333,6 @@ Gen Z parents grew up with broader access to therapy-adjacent language, trauma r
 
 **Related Reading:**
 
-- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [How to Set Boundaries Without Punishment](/blog/positive-parenting-[setting boundaries with children](/en/blog/positive-parenting-boundaries-en)-en)
-- [Parental Burnout Solutions](/blog/parental-burnout-solutions-2026)
+- [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en/)
+- [How to Set Boundaries Without Punishment](/en/blog/positive-parenting-boundaries/)
+- [Parental Burnout Solutions](/zh/blog/parental-burnout-solutions-2026/)

@@ -335,6 +335,6 @@ A：這是台灣家庭的真實日常。策略：設定一個「阿公阿嬤的�
 
 **延伸閱讀：**
 
-- [居家蒙特梭利實踐指南](/blog/montessori-at-home-guide-zh)
-- [蒙特梭利 vs. 傳統幼兒園](/blog/montessori-vs-traditional-preschool-zh)
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [居家蒙特梭利實踐指南](/zh/blog/montessori-at-home-guide-zh/)
+- [蒙特梭利 vs. 傳統幼兒園](/zh/blog/montessori-vs-traditional-preschool-zh/)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)

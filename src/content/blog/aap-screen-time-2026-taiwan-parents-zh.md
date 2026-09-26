@@ -210,10 +210,10 @@ AAP 2026 建議 18 個月以下**不接觸**數位媒體，**視訊通話是唯�
 
 ## 延伸閱讀
 
-- [AAP 2026 Screen Time Guidelines（英文原文解析）](/blog/aap-screen-time-guidelines-2026)
-- [Lighthouse Parenting 燈塔式教養與蒙特梭利](/blog/lighthouse-parenting-montessori-zh)
-- [父母滑手機 vs 小孩螢幕成癮：被忽略的 Phubbing 問題](/blog/parental-phubbing-child-screen-addiction-zh)
-- [蒙特梭利居家環境完整布置](/blog/montessori-home-environment-zh)
+- [AAP 2026 Screen Time Guidelines（英文原文解析）](/zh/blog/aap-screen-time-guidelines-2026/)
+- [Lighthouse Parenting 燈塔式教養與蒙特梭利](/zh/blog/lighthouse-parenting-montessori-zh/)
+- [父母滑手機 vs 小孩螢幕成癮：被忽略的 Phubbing 問題](/zh/blog/parental-phubbing-child-screen-addiction-zh/)
+- [蒙特梭利居家環境完整布置](/zh/blog/montessori-home-environment-zh/)
 
 
 ---

@@ -324,6 +324,6 @@ YouTube Kids 適合用到大約9-10歲。10-13歲的孩子可以改用監護人�
 
 **延伸閱讀：**
 
-- [父母滑手機對孩子的影響](/blog/parental-phubbing-child-screen-addiction-zh)
-- [兒童安全教育指南](/blog/child-abuse-prevention-april-2026-zh)
-- [正向教養完整指南](/blog/positive-parenting-guide-zh)
+- [父母滑手機對孩子的影響](/zh/blog/parental-phubbing-child-screen-addiction-zh/)
+- [兒童安全教育指南](/zh/blog/child-abuse-prevention-april-2026-zh/)
+- [正向教養完整指南](/zh/blog/positive-parenting-guide-zh/)

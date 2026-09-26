@@ -341,6 +341,6 @@ Split-shift 最適合雙薪家庭，且爸媽都有彈性工時的情況。核�
 
 **Related Reading:**
 
-- [Positive Parenting: The Complete Guide](/blog/positive-parenting-guide-en)
-- [Hybrid Parenting: Beyond Gentle Parenting](/blog/hybrid-parenting-2026-gentle-parenting-en)
-- [Montessori at Home: The Complete Guide](/blog/montessori-at-home-guide-en)
+- [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en/)
+- [Hybrid Parenting: Beyond Gentle Parenting](/en/blog/hybrid-parenting-2026-gentle-parenting-backlash/)
+- [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en/)

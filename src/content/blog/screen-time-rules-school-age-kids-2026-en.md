@@ -324,6 +324,6 @@ Pick the three platforms your child uses most. Run each through the AAP's 5 C's:
 
 **Related Reading:**
 
-- [Screen Time in 2026: The Complete Guide](/blog/screen-time-2026-guide-en)
-- [AAP Screen Time Guidelines 2026](/blog/aap-screen-time-guidelines-2026)
-- [Children's Internet Safety (2026)](/blog/children-internet-safety-2026-en)
+- [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide/)
+- [AAP Screen Time Guidelines 2026](/zh/blog/aap-screen-time-guidelines-2026/)
+- [Children's Internet Safety (2026)](/en/blog/children-internet-safety-2026-en/)
