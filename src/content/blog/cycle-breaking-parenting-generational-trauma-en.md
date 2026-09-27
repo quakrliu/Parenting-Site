@@ -17,13 +17,13 @@ image: "/og/cycle-breaking-parenting-generational-trauma-en.png"
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
 
 
-Before I became a dad, I thought I was different from my own father.
+Before becoming parents, a lot of us are sure we'll be different from the parents who raised us.
 
-He yelled. I wouldn't. He was emotionally unavailable. I'd be present. He never apologized. I would.
+They yelled. We won't. They were emotionally unavailable. We'll be present. They never apologized. We will.
 
-Then my daughter turned three, and I heard myself say — word for word — the exact sentence my dad used to say to me. The one I swore I'd never say.
+Then one day, with a small child in front of you, you hear yourself say — word for word — the exact sentence your parent used to say to you. The one you swore you'd never say.
 
-I stood there with this weird mix of shame and recognition, thinking: *oh. So this is how it works.*
+You stand there with this weird mix of shame and recognition, thinking: *oh. So this is how it works.*
 
 That moment — the one where you realize the patterns you inherited are more hardwired than you thought — is exactly where cycle-breaking parenting begins.
 
@@ -198,9 +198,9 @@ If parenting courses are more your speed, there are solid conscious parenting co
 
 I want to say something honestly before we get to the FAQ:
 
-I'm still in this work. I yell sometimes. Last Thursday I completely overreacted to something small and spent 20 minutes in the kitchen afterward talking myself down before going to find my daughter and repair it.
+I'm still in this work. I yell sometimes. I still overreact to small things, and I still have to talk myself down before going back to our daughter to repair it.
 
-But I repaired it. And I'm going to be honest with you: five years ago I wouldn't have. I would have pretended it didn't happen and expected her to absorb it.
+But I do go back and repair it. And I'm going to be honest with you: years ago I wouldn't have. I would have pretended it didn't happen and expected her to absorb it.
 
 That's the gap cycle-breaking actually closes. Not perfection. The gap between rupture and repair. The gap between awareness and action. One degree at a time.
 

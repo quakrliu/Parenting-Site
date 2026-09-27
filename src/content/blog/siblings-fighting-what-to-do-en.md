@@ -10,11 +10,9 @@ draft: false
 ageGroup: ["preschool", "school"]
 ---
 
-I only have one kid, so technically I'm not a direct expert here. But I grew up with two brothers, and my wife -- who has an early childhood education background -- has worked with enough multi-child families to fill several books.
+I only have one kid, so technically I'm not a direct expert here. What I can do is walk through what child development research actually says about siblings who fight.
 
-We've also spent time with my sister-in-law's family in Sydney, where her kids (4 and 7) seemed to exist in a state of continuous warfare from breakfast until bedtime. Watching her navigate it -- and what eventually worked -- was one of the most educational parenting experiences I've had.
-
-BloomPath's approach to sibling conflict is grounded in the same research: the goal isn't a house without fighting. The goal is kids who develop the skills to handle conflict. Those are different things.
+BloomPath's approach to sibling conflict is grounded in that research: the goal isn't a house without fighting. The goal is kids who develop the skills to handle conflict. Those are different things.
 
 *This article is part of our [Positive Parenting Complete Guide](/en/blog/positive-parenting-guide-en).*
 

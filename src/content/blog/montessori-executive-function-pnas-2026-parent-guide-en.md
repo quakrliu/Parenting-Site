@@ -10,7 +10,7 @@ heroImage: "/og/montessori-executive-function-pnas-2026-parent-guide-en.png"
 ageGroup: ["preschool"]
 ---
 
-My daughter once spent 47 minutes pouring water between two glasses. Not because I asked her to — because she *wanted* to. At the time I thought, "this is either genius or I've failed at entertaining her." Turns out, it was probably the most valuable thing she did that Tuesday.
+If you've ever watched a small child spend what feels like forever pouring water between two glasses — not because anyone asked, but because they *wanted* to — you may have wondered whether it's genius or whether you've failed at entertaining them. Turns out, it may be one of the most valuable things they do all day.
 
 That's the thing about Montessori. The "why" often only makes sense once you understand what's happening inside a child's developing brain — specifically, something called **executive function**.
 

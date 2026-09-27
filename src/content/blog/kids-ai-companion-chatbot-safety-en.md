@@ -10,9 +10,9 @@ draft: false
 ageGroup: ["school-age", "teen"]
 ---
 
-BloomPath exists because parenting keeps handing us problems the last generation never had to Google. Last month, at pickup at Luna's Montessori school, another dad — I'll call him Mike, because that's actually his name and he said it was fine — mentioned that his son had been talking to an AI character every night before bed. Not gaming with it. Talking to it. About his day, his worries, a fight with a friend.
+BloomPath exists because parenting keeps handing us problems the last generation never had to Google. Here's one: kids talking to an AI character every night before bed. Not gaming with it. Talking to it. About their day, their worries, a fight with a friend.
 
-Mike wasn't panicking. He said it almost like a funny aside: "At least he's not asking me for once." I laughed too, for about four seconds. Then I went home and looked up what his son was actually using, and I stopped laughing.
+Plenty of parents hear about this and treat it almost like a funny aside — "at least they're not asking me for once." It's easy to laugh for about four seconds. Then you look up what these apps are actually built to do, and it stops being funny.
 
 **TL;DR:** AI companion chatbots — apps designed to feel like a friend, not a search engine — are now used by a large share of kids and teens for emotional support, not homework help. Research from 2025-2026 shows real risks: emotional dependency, kids turning to AI instead of parents when something's actually wrong, and at least two lawsuits tied to teen mental health harms that led to settlements with major AI companies in January 2026. This isn't a reason to panic. It's a reason to actually understand what the app on your kid's phone is doing, and to have one specific conversation this week.
 
@@ -38,7 +38,7 @@ There's also a privacy angle most parents haven't thought about: roughly 24% of 
 
 ## What Actually Went Wrong in 2025-2026?
 
-This is the part that made me stop laughing at Mike's story. Several high-profile cases in 2024 and 2025 involved kids who became deeply emotionally dependent on AI companions, with outcomes serious enough that families filed lawsuits. By January 2026, both Character.AI and Google had agreed to settle multiple cases tied to teen mental health harms, including cases connected to suicide. Lawmakers responded — the proposed SAFE Bots Act would require AI chatbots to build in specific safety measures when they're talking to minors, and a related children's tech safety bill has already cleared committee in 2026.
+This is the part that makes it hard to laugh off. Several high-profile cases in 2024 and 2025 involved kids who became deeply emotionally dependent on AI companions, with outcomes serious enough that families filed lawsuits. By January 2026, both Character.AI and Google had agreed to settle multiple cases tied to teen mental health harms, including cases connected to suicide. Lawmakers responded — the proposed SAFE Bots Act would require AI chatbots to build in specific safety measures when they're talking to minors, and a related children's tech safety bill has already cleared committee in 2026.
 
 I'm not sharing this to scare you into taking away every screen tonight. I'm sharing it because "my kid seems fine, they're just chatting with an app" is exactly what most of those families thought too, right up until it wasn't fine.
 
@@ -54,13 +54,13 @@ An AI companion that never disagrees, never has a bad day, and never makes your 
 
 ## How Do I Actually Talk to My Kid About This?
 
-Here's what I did after the pickup-line conversation with Mike, once I'd calmed down enough to think straight instead of panic:
+Here's a way to approach it once you've calmed down enough to think straight instead of panic:
 
-1. **I asked, I didn't accuse.** "Hey, have you ever tried talking to one of those AI chat apps, like Character.AI?" Not "I heard you're addicted to a robot friend." The second version guarantees you learn nothing.
-2. **I asked what it's for.** Homework help is a very different conversation than "I talk to it when I'm sad." Both are fine to know about. Only one needs a follow-up conversation about where else those feelings could go.
-3. **I named a real alternative, out loud.** "If you're upset about something at school, I want to be one of the people you tell — even if it's harder than typing it to an app." Not as a rule. As an actual stated preference.
-4. **I checked the settings together, not behind their back.** Most of these apps have age gates and parental notification features that are opt-in, not automatic. If your kid has an account, you can usually see it — but you have to go looking.
-5. **I didn't ban it on the spot.** A hard "no" on something a kid already has an emotional attachment to tends to just push the conversation underground. The goal is an open door, not a locked one.
+1. **Ask, don't accuse.** "Hey, have you ever tried talking to one of those AI chat apps, like Character.AI?" Not "I heard you're addicted to a robot friend." The second version guarantees you learn nothing.
+2. **Ask what it's for.** Homework help is a very different conversation than "I talk to it when I'm sad." Both are fine to know about. Only one needs a follow-up conversation about where else those feelings could go.
+3. **Name a real alternative, out loud.** "If you're upset about something at school, I want to be one of the people you tell — even if it's harder than typing it to an app." Not as a rule. As an actual stated preference.
+4. **Check the settings together, not behind their back.** Most of these apps have age gates and parental notification features that are opt-in, not automatic. If your kid has an account, you can usually see it — but you have to go looking.
+5. **Don't ban it on the spot.** A hard "no" on something a kid already has an emotional attachment to tends to just push the conversation underground. The goal is an open door, not a locked one.
 
 ## What Are the Warning Signs I Should Actually Watch For?
 

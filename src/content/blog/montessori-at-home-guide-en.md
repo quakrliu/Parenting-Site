@@ -55,7 +55,7 @@ It's a philosophy of *environment design* — the idea that how you set up a chi
 
 The core insight: children between 0 and 6 are in what Montessori called the "absorbent mind" stage. Their brains are literally wired to take in the environment and construct understanding from it. They don't learn by being told; they learn by *doing*, touching, repeating, and making sense of real-world cause and effect.
 
-When parents ask me "Is this really Montessori?" the honest answer is: it doesn't matter. What matters is whether your environment supports independent exploration, gives your child agency, and respects their natural developmental timeline.
+If you're wondering "Is this really Montessori?" the honest answer is: it doesn't matter. What matters is whether your environment supports independent exploration, gives your child agency, and respects their natural developmental timeline.
 
 **Three questions to ask about any setup:**
 - Can my child access this independently?
@@ -370,7 +370,7 @@ Explore more in our Montessori at Home series:
 - [The Analog Childhood Movement: Why Montessori Parents Are Already Ahead](/en/blog/analog-childhood-montessori-screen-free-en)
 - [Is Gentle Parenting Dead? What Montessori Says About Boundaries](/en/blog/en-gentle-parenting-montessori-boundaries)
 - [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)
-- [When Should a Toddler Move to Their Own Room? What Actually Worked for Us](/en/blog/toddler-own-room-transition-en)
+- [When Should a Toddler Move to Their Own Room? A Gentle, Step-by-Step Approach](/en/blog/toddler-own-room-transition-en)
 - [Are Wooden Toys Actually Safer? What FSC and GREENGUARD Certifications Really Mean](/en/blog/sustainable-montessori-toys-guide-en)
-- [Is It Normal My 3-Year-Old Can't Read Yet? What Montessori's Sound-First Method Says](/en/blog/montessori-literacy-sound-first-3-year-old-en)
+- [Is It Normal If Your 3-Year-Old Can't Read Yet? What Montessori's Sound-First Method Says](/en/blog/montessori-literacy-sound-first-3-year-old-en)
 - [Bilingual Montessori at Home: How to Balance Two Languages Without the Overwhelm](/en/blog/bilingual-montessori-home-language-balance-en)

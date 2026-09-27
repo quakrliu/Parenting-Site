@@ -185,5 +185,5 @@ Many overlap. Montessori practical life emphasizes hands-on, self-directed work 
 **Related reading:**
 - [The Analog Childhood Movement: Why Montessori Parents Are Already Ahead](/en/blog/analog-childhood-montessori-screen-free-en)
 - [Toddler Summer Sleep Regression: What's Actually Happening](/en/blog/toddler-summer-sleep-regression-en)
-- [Flying with a Toddler: What Actually Helped (And What We'll Never Do Again)](/en/blog/flying-with-toddler-long-haul-en)
+- [Flying with a Toddler: What Actually Helps (And What to Skip)](/en/blog/flying-with-toddler-long-haul-en)
 - [AAP 2026 Screen Time: Beyond Hour Limits](/en/blog/aap-2026-screen-time-new-rules-en)

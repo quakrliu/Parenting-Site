@@ -10,9 +10,9 @@ draft: false
 ageGroup: ["toddler", "preschool"]
 ---
 
-Last June, I put my daughter to bed at 7:30 PM. She lay there perfectly still for two minutes, then sat up and pointed at the window: "Daddy. It's still daytime."
+If you've ever put a toddler to bed at 7:30 on a June evening, you may know this moment: two minutes of perfect stillness, then they sit up, point at the window, and announce, "It's still daytime."
 
-She was right. The sun hadn't even thought about setting. And I had no good answer.
+They're right. The sun hasn't even thought about setting. And you don't have a good answer.
 
 At BloomPath, Mei and I have been through enough summers to know that what looks like a parenting failure in June is almost always a physics problem. Light is the most powerful signal your kid's brain uses to decide if it's bedtime. When the sun disagrees with the clock, the brain picks a side — and it's not the clock.
 
@@ -66,27 +66,25 @@ If you're wondering about the general developmental sleep regression science, we
 
 ---
 
-## What I Actually Did (Not What Sounds Good in Theory)
+## What Actually Helps (Not What Sounds Good in Theory)
 
-When our daughter started the summer bedtime fight, my first move was to do absolutely nothing for a week and see if it resolved itself. It did not.
-
-Here's what eventually worked, in order of impact:
+When the summer bedtime fight starts, it's tempting to do nothing for a week and see if it resolves itself. If it doesn't, here's what helps, roughly in order of impact:
 
 **Step 1: Blackout curtains. Non-negotiable.**
 
-This was the biggest single change. Not "darkening" curtains — actual blackout. The kind where you tape the edges so no strip of light gets through at the side. We tried the cheap version first. It helped a little. Then we got the ones that actually block everything, and the difference was immediate.
+This is usually the biggest single change. Not "darkening" curtains — actual blackout. The kind where you tape the edges so no strip of light gets through at the side. Cheaper versions help a little; the ones that actually block everything make a much bigger difference.
 
 The science backs this: darkness is the strongest trigger your toddler's body has for melatonin production. You can't logic your way past this with bedtime routines if the room is still visually "daytime."
 
 **Step 2: Cool the room before bed, not during.**
 
-Cooling the bedroom 30–45 minutes *before* bedtime — rather than at bedtime — allows body temperature to begin dropping before the child gets into bed. We started running a fan in her room mid-afternoon on hot days to get the ambient temperature down before 7 PM.
+Cooling the bedroom 30–45 minutes *before* bedtime — rather than at bedtime — allows body temperature to begin dropping before the child gets into bed. On hot days, running a fan in the room from mid-afternoon helps bring the ambient temperature down before bedtime.
 
 Ideal temperature range for children's sleep: 68–72°F (20–22°C). This comes from pediatric sleep research. In a hot summer without air conditioning, this is hard. A portable fan and light breathable cotton sheets are cheap interventions that actually help.
 
 **Step 3: Move the routine 15 minutes earlier, not later.**
 
-My instinct was wrong here. I thought: it's summer, everyone's home, we can be flexible. Mei pointed out that we should actually start the bedtime routine earlier to compensate for the fact that it would take longer.
+The instinct is to think: it's summer, everyone's home, we can be flexible. But it actually makes sense to start the bedtime routine earlier to compensate for the fact that it will take longer.
 
 If your toddler usually falls asleep at 7:30 and it's taking 45 minutes in summer, the fix isn't to start at 7:30 and accept a 8:15 sleep. Start at 7:00 and create a longer wind-down window.
 
@@ -124,11 +122,11 @@ Most summer sleep problems resolve within 2 weeks of consistent intervention. If
 
 ## When Grandparent Visits Blow Everything Up
 
-Real scenario from two summers ago: my daughter had been sleeping well, then my parents visited for a week. Later dinners, later bedtimes, more sugar, different environment. By day three she was waking at 5 AM.
+It's a classic summer scenario: a toddler who's been sleeping well, then a week-long grandparent visit. Later dinners, later bedtimes, more sugar, a different environment. A few days in, they can be waking at 5 AM.
 
-My parents are wonderful and she loves them. But the schedule chaos is real.
+Grandparents are wonderful, and kids love them. But the schedule chaos is real.
 
-What I've learned: you can't protect every night during a visit. What you can protect is the recovery. Once guests leave, get back to the regular environment (blackout, cool, early routine) within 48 hours and hold it consistently for a week. Kids this age recover faster than you think — if you don't let the disruption drag.
+The practical takeaway: you can't protect every night during a visit. What you can protect is the recovery. Once guests leave, get back to the regular environment (blackout, cool, early routine) within 48 hours and hold it consistently for a week. Kids this age recover faster than you think — if you don't let the disruption drag.
 
 ---
 
@@ -169,7 +167,7 @@ You need the *light* level low. Sound matters less than light for circadian sign
 
 ## Products We Recommend
 
-If you're dealing with summer sleep chaos, these are the things that have actually helped us and that we recommend to other parents:
+If you're dealing with summer sleep chaos, these are the things we recommend:
 
 **Blackout curtains** — Get ones rated for complete blackout, not just light filtering. The difference in melatonin suppression between "darkening" and actual blackout is meaningful.
 
@@ -187,8 +185,8 @@ If you're dealing with summer sleep chaos, these are the things that have actual
 **Related reading:**
 
 - [Why Your Toddler Won't Sleep: The Brain Science Behind Sleep Regression](/en/blog/toddler-sleep-regression-guide-en)
-- [My 3-Year-Old Stopped Napping: A Dad's Survival Guide](/en/blog/toddler-refuses-nap-survival-guide-en)
+- [3-Year-Old Stopped Napping? A Dad's Survival Guide](/en/blog/toddler-refuses-nap-survival-guide-en)
 - [My Kid Won't Sleep Without Me in the Room](/en/blog/toddler-afraid-of-dark-bedtime-fears-en)
-- [My Toddler Keeps Getting Out of Bed — 45 Minutes Every Night](/en/blog/toddler-bedtime-stalling-keeps-getting-up-en)
+- [Toddler Keeps Getting Out of Bed Every Night?](/en/blog/toddler-bedtime-stalling-keeps-getting-up-en)
 
 You're here reading this at some point past your toddler's bedtime, trying to figure out a solution. That already makes you a present parent. The summer will end. Until then — blackout curtains.

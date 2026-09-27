@@ -10,7 +10,7 @@ draft: false
 ageGroup: ["toddler", "preschool"]
 ---
 
-Last Wednesday, 8:50 p.m., the sun still fully up outside our kitchen window, my daughter and her cousin were fighting over a single pool noodle in our backyard — the kind of fight where nobody actually wants the noodle, they just want to be the one who has it. My neighbor Dave was over grilling, and I remember him saying "they're fine, they're just tired," and I remember thinking that was too simple an explanation. It wasn't. He was right, and it took me until this month to understand why bedtime creeping later every summer was quietly wrecking how my kids treated each other by dinnertime.
+If it's 8:50 p.m., the sun is still fully up, and your kids are fighting over a single pool noodle in the backyard — the kind of fight where nobody actually wants the noodle, they just want to be the one who has it — someone nearby has probably offered the classic explanation: "They're fine, they're just tired." It sounds too simple. It isn't. Bedtime creeping later every summer can quietly wreck how siblings treat each other by dinnertime.
 
 At BloomPath, we hear some version of this from parents constantly in the summer months: siblings who got along fine in March suddenly can't be in the same room by July. The instinct is to blame boredom, too much togetherness, or just "the heat." Those aren't wrong, but they're missing the mechanism underneath — and it's a mechanism you can actually do something about.
 
@@ -26,11 +26,11 @@ A study published in *Social Development* followed sibling pairs and found that 
 
 Sleep researcher Dr. Ronald Dahl's model of sleep regulation describes a transactional relationship between sleep, emotional regulation, and physiological arousal — family stressors like sibling conflict raise a child's arousal level and tax their capacity to regulate emotion, and that combination makes sleep problems more likely. Then the reverse happens too: worse sleep further reduces emotion regulation and increases arousal the next day, making conflict more likely again ([Frontiers in Sleep, 2024](https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1420245/full)).
 
-It's a loop, not a one-way cause. That's the part that made me stop looking for "the" reason my kids were fighting and start looking at the whole system instead.
+It's a loop, not a one-way cause. That's why it's worth dropping the search for "the" reason your kids are fighting and looking at the whole system instead.
 
-A 2024 study in *Humanities and Social Sciences Communications* found something that surprised me even more: sleep quality didn't just directly predict aggression in preadolescent kids — it also worked indirectly, by changing how kids perceived conflict around them and how emotionally secure they felt in the moment ([Nature](https://www.nature.com/articles/s41599-024-04332-3)). A tired kid isn't just short-fused. She's also more likely to read a neutral moment — her brother sitting where she wanted to sit — as an actual threat.
+A 2024 study in *Humanities and Social Sciences Communications* found something that surprised me even more: sleep quality didn't just directly predict aggression in preadolescent kids — it also worked indirectly, by changing how kids perceived conflict around them and how emotionally secure they felt in the moment ([Nature](https://www.nature.com/articles/s41599-024-04332-3)). A tired kid isn't just short-fused. They're also more likely to read a neutral moment — a sibling sitting where they wanted to sit — as an actual threat.
 
-I didn't believe the "perception" part until I watched it happen. My daughter, running on maybe six hours of real sleep after a late Fourth of July with extended family, accused her cousin of "stealing" a pool noodle that was, genuinely, just lying on the ground. Rested, she wouldn't have blinked at it.
+You can see the "perception" part in action: a kid running on too little sleep after a late night accuses a sibling of "stealing" a pool noodle that was, genuinely, just lying on the ground. Rested, the same kid wouldn't blink at it.
 
 ## Why Does Summer Specifically Make This Worse?
 
@@ -50,15 +50,15 @@ Not a sibling conflict script. Not separating them faster. The highest-leverage 
 
 **Dim the house before you dim the kid.** Lower household lights and cut screens 45-60 minutes before bed regardless of how bright it still is outside. Blackout curtains do a lot of work here that willpower can't.
 
-**Protect one-on-one time separately from bedtime.** A chunk of sibling conflict in our house wasn't really about the pool noodle — it was two tired kids competing for the same limited adult attention. Ten minutes of individual time with each kid before the shared bedtime routine starts took more heat out of the room than any mediation I tried mid-fight.
+**Protect one-on-one time separately from bedtime.** A chunk of sibling conflict isn't really about the pool noodle — it's two tired kids competing for the same limited adult attention. Ten minutes of individual time with each kid before the shared bedtime routine starts can take more heat out of the room than any mid-fight mediation.
 
-**Notice the time of day the fighting clusters.** For us it was almost always the hour before dinner and the hour before bed — the two lowest points in a kid's daily regulation capacity. Once I saw the pattern, I stopped expecting calm problem-solving from either of them during those windows and started just lowering the stakes instead — snacks, quieter activity, less choice-making required of them.
+**Notice the time of day the fighting clusters.** It's often the hour before dinner and the hour before bed — the two lowest points in a kid's daily regulation capacity. Once you see the pattern, stop expecting calm problem-solving from either kid during those windows and lower the stakes instead — snacks, quieter activity, less choice-making required of them.
 
 **Let a bad night be a bad night, not a crisis.** One late night from a family gathering or a road trip isn't going to break anything. It's the six-week slow drift that does the damage, and that's the piece worth actually watching.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
-If you're trying to spot your own kids' version of this pattern, [BloomPath's development tracker](/en/app/) is built for exactly this — logging bedtime and sibling conflict side by side is how we first noticed our own six-week drift instead of just feeling generally more exhausted without knowing why.
+If you're trying to spot your own kids' version of this pattern, [BloomPath's development tracker](/en/app/) is built for exactly this — logging bedtime and sibling conflict side by side makes a six-week drift visible, instead of just leaving you feeling generally more exhausted without knowing why.
 
 ## FAQ
 
@@ -85,14 +85,14 @@ A: Protecting bedtime consistency, even loosely, tends to do more for sibling pe
 
 *BloomPath is an Amazon Associate — we may earn a small commission from purchases made through these links, at no extra cost to you.*
 
-**[Hatch Rest 2nd Gen Sound Machine & Night Light](https://www.amazon.com/Hatch-Baby-Machine-Trainer-Soother/dp/B08QVG9759/?tag=bloompath-20)** — We use ours to hold bedtime steady even when it's still light outside; the routine builder and time-to-rise feature took a lot of the "is it actually bedtime" arguing out of the room.
+**[Hatch Rest 2nd Gen Sound Machine & Night Light](https://www.amazon.com/Hatch-Baby-Machine-Trainer-Soother/dp/B08QVG9759/?tag=bloompath-20)** — Helps hold bedtime steady even when it's still light outside; the routine builder and time-to-rise feature can take a lot of the "is it actually bedtime" arguing out of the room.
 
 **[Siblings Without Rivalry by Adele Faber & Elaine Mazlish](https://www.amazon.com/Siblings-Without-Rivalry-Children-Together/dp/0393342212/?tag=bloompath-20)** — The book that reframed sibling conflict for me from "who's right" to "what does each kid actually need right now."
 
 ---
 
 **Related reading:**
-- [When Your Kids Won't Stop Fighting Each Other: Field Notes from a Dad Who's Tried Everything](/en/blog/kids-wont-stop-fighting-sibling-conflict-en)
+- [When Your Kids Won't Stop Fighting Each Other: What Actually Helps (and What Makes It Worse)](/en/blog/kids-wont-stop-fighting-sibling-conflict-en)
 - [Why Your Toddler Turns Into a Sleep Disaster Every Summer](/en/blog/toddler-summer-sleep-regression-en)
 - [Toddler Low Frustration Tolerance: Why Small Things Cause Big Meltdowns](/en/blog/toddler-low-frustration-tolerance-meltdowns-en)
 - [Why Won't Your Toddler Listen? It Might Be Sleep Deprivation](/en/blog/toddler-wont-listen-sleep-deprivation-en)

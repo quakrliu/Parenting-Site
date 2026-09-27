@@ -10,7 +10,7 @@ draft: false
 ageGroup: ["toddler", "preschool"]
 ---
 
-Last Tuesday at 6 PM, I put on *Bluey* for my daughter so I could finish a work call without getting interrupted every 45 seconds. When I came back 25 minutes later, she was glued to the TV. My first instinct wasn't "good, I got the work done." It was a low-grade buzz of guilt that stayed with me through dinner.
+Maybe it's 6 PM and you put on *Bluey* so you can finish a work call without getting interrupted every 45 seconds. When you come back 25 minutes later, your kid is glued to the TV. Your first instinct isn't "good, I got the work done." It's a low-grade buzz of guilt that follows you through dinner.
 
 If you've felt that — the creeping "I'm a bad parent" feeling every time you hand over a device or turn on a show — you're in the company of about 74% of American parents. And here at BloomPath, we've been sitting with this topic for a while, because it turns out the guilt itself might be doing more harm than the screen time.
 
@@ -54,7 +54,7 @@ Instead of counting minutes, I've found three questions more useful — both pra
 
 **1. Am I here with my kid, or is the screen babysitting while I'm mentally elsewhere?**
 
-Not "am I physically in the room" — but am I occasionally commenting on what we're watching, or asking what just happened, or connecting Bluey's problem to something my daughter experienced yesterday? Even 5 minutes of that kind of engagement during a 20-minute show changes the equation.
+Not "am I physically in the room" — but am I occasionally commenting on what we're watching, or asking what just happened, or connecting Bluey's problem to something my kid experienced yesterday? Even 5 minutes of that kind of engagement during a 20-minute show changes the equation.
 
 I don't do this every time. Sometimes I need to cook dinner. But being deliberate about *when* I'm checked in versus when I'm actually taking a break — that distinction matters more than the runtime.
 
@@ -62,7 +62,7 @@ I don't do this every time. Sometimes I need to cook dinner. But being deliberat
 
 There's a meaningful difference between programming created to support a child's development — at a pace appropriate for her age, with characters who model emotional problem-solving — and content engineered to maximize engagement through rapid cuts, unpredictable rewards, and overstimulating visuals.
 
-Eleven years of parenting and a lot of trial and error taught Mei and me that the aftermath of different content is visible. After 20 minutes of *Bluey*, our daughter was ready to play. After 20 minutes of some YouTube Kids channels, she was irritable and wanted more.
+When our daughter was younger, Mei and I noticed this too: the aftermath of different content is visible. After some shows, a kid is ready to play. After others, they're irritable and want more.
 
 **3. What's the screen replacing right now?**
 
@@ -100,7 +100,7 @@ The parents I've talked to who navigate this best tend to do a few specific thin
 
 ## The One Shift That Helps More Than Any Rule
 
-11 years in, I still get this wrong sometimes. I've handed over an iPad in a moment of exhaustion and then spent the next two hours in a low-grade stress spiral about it. Mei reminded me — she's read more on this than I have, and she's right — that the spiral is more damaging than the 45 minutes of *Bluey*.
+I still get this wrong sometimes. I've handed over an iPad in a moment of exhaustion and then spent the next two hours in a low-grade stress spiral about it. Mei reminded me — she's read more on this than I have, and she's right — that the spiral is more damaging than the 45 minutes of *Bluey*.
 
 The shift that actually helps: replacing "how much?" with "how present am I in the moments that matter?"
 

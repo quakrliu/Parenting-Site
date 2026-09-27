@@ -10,13 +10,11 @@ draft: false
 ageGroup: ["toddler", "preschool"]
 ---
 
-Two Tuesdays ago, at our kitchen table in Taipei, my daughter looked up from her homework and asked me how to say 空氣清淨機 in English. I knew the word — I write about bilingual development for BloomPath for a living — but I couldn't find it fast enough, and by the time I got to "air purifier," she'd already grabbed her tablet to look it up herself.
+If your child has ever looked up from their homework and asked how to say 空氣清淨機 in English — and you froze, even though you know the word — you know the feeling. By the time "air purifier" arrives, they've already grabbed a tablet to look it up themselves.
 
-I sat there for a second feeling like a fraud. All that reading, and I still froze on a word my kid could look up faster than I could recall it.
+It's easy to sit there for a second feeling like a fraud. Or to wonder, after one more wrong past tense, whether you're setting your child up or messing them up.
 
-My friend Amara, who's raising her son trilingual in Toronto, texted me almost the same week: "I told him the wrong past tense in French again. I don't know if I'm setting him up or messing him up."
-
-Neither of us is a native English speaker teaching our kids in a country where English isn't the dominant language, and neither of us has ever been sure we're doing it "right." So I went back to the actual research, not the Instagram version of it, to answer a question I've been quietly asking myself for years: does a parent's language need to be perfect for a kid to actually become bilingual?
+Plenty of parents raising bilingual kids aren't native speakers of the language they're passing on, and few of us are ever sure we're doing it "right." So I went back to the actual research, not the Instagram version of it, to answer a question many non-native parents quietly ask: does a parent's language need to be perfect for a kid to actually become bilingual?
 
 The short answer is no. The longer answer is more useful.
 
@@ -42,19 +40,19 @@ That's genuinely good news for a parent like me. My accent doesn't disqualify me
 
 It's a simple, written decision about which language goes where — and yes, having one on paper (even a messy one) is worth doing.
 
-Ethan and I didn't write ours down until my daughter was already talking in both languages, which in hindsight was backwards. A plan doesn't need to be complicated. Ours ended up being three lines on a sticky note on the fridge for about a year:
+It's easy to put this off until your child is already talking in both languages, but that's backwards. A plan doesn't need to be complicated. Three lines on a sticky note on the fridge can be enough. For example:
 
 - English at breakfast and in the car
 - Mandarin everywhere else at home
 - Whatever language a book is written in, we read it in that language — no translating on the fly
 
-The "One Parent One Language" approach (OPOL) is the most commonly cited framework, where each parent consistently speaks one language to the child. We didn't do a clean OPOL split, because that's not how our household actually talks. What worked for us was picking specific contexts instead of specific people — a "context plan" rather than a "person plan." Either works. What doesn't work, based on what I've read and what friends with older bilingual kids have told me, is no plan at all, where the second language only shows up randomly and gets crowded out within a year or two.
+The "One Parent One Language" approach (OPOL) is the most commonly cited framework, where each parent consistently speaks one language to the child. You don't need a clean OPOL split if that's not how your household actually talks. Picking specific contexts instead of specific people — a "context plan" rather than a "person plan" — works too. Either works. What doesn't work, based on what I've read, is no plan at all, where the second language only shows up randomly and gets crowded out within a year or two.
 
 ## Will Mixing Languages (Code-Switching) Confuse My Child?
 
 No. Code-switching is a sign of skill, not confusion.
 
-This is the one I hear most often from worried parents, including past-me. When my daughter was younger, she'd start a sentence in English and finish it in Mandarin mid-thought, and I used to wince, thinking I was doing something wrong.
+It's a worry I had too when our daughter was younger. When a child starts a sentence in English and finishes it in Mandarin mid-thought, it's easy to wince and think you're doing something wrong.
 
 Linguist François Grosjean's work on bilingualism reframed this for me: a bilingual child isn't two monolingual children sharing one brain. They're one bilingual thinker who has access to two systems and picks whichever word arrives first, or whichever word captures the idea better, or whichever word the other person will understand. Adults who speak two languages do exactly the same thing — we just call it something else when we do it at dinner parties.
 
@@ -64,9 +62,9 @@ The pattern to actually watch for isn't mixing. It's a child who stops attemptin
 
 Say so, and look it up together. That's not a failure — it's modeling exactly what you want them to do.
 
-I used to feel like I had to perform fluency, like admitting "I don't know that word either" would somehow undercut the whole project. It's the opposite. When I told my daughter, at that kitchen table, "I know what that thing is, I just can't remember the English word right now — help me," she lit up. She wasn't disappointed in me. She got to be the expert for thirty seconds, and for a kid, that's basically Christmas.
+I used to feel like I had to perform fluency, like admitting "I don't know that word either" would somehow undercut the whole project. It's the opposite. Try saying, "I know what that thing is, I just can't remember the English word right now — help me." Your child gets to be the expert for thirty seconds, and for a kid, that's basically Christmas.
 
-A script that's worked for us:
+A few scripts to try:
 - "I know this in Mandarin but I'm blanking on English — say it in whichever one comes first."
 - "Let's look that one up together."
 - "You just taught me a word. That's a good trade."
@@ -112,9 +110,9 @@ There isn't a hard cutoff. Younger children acquire native-like pronunciation mo
 
 ## Related Reading
 
-- [My Kid Mixes English and Mandarin Mid-Sentence — Here's What the Research Actually Says](/en/blog/bilingual-child-code-switching-en)
+- [Does Your Kid Mix English and Mandarin Mid-Sentence? Here's What the Research Actually Says](/en/blog/bilingual-child-code-switching-en)
 - [Bilingual Children Aren't Behind: New Research Finally Debunks the Language Delay Myth](/en/blog/bilingual-children-language-delay-myth-debunked-en)
-- [My Bilingual 4-Year-Old Has a 'Vocabulary Gap' — Here's Why I Stopped Worrying](/en/blog/bilingual-4-year-old-vocabulary-en)
+- [Does Your Bilingual 4-Year-Old Have a 'Vocabulary Gap'? Here's Why You Can Stop Worrying](/en/blog/bilingual-4-year-old-vocabulary-en)
 - [The Summer Slide Is Real for Bilingual Kids Too — Here's the No-Camp Fix](/en/blog/bilingual-summer-immersion-en)
 
-My daughter still catches me on words sometimes. Last week it was "dehumidifier" — I said "the thing that dries the air," and she just looked it up and told me. I used to think that moment meant I was failing at this. Now I think it means the plan is working exactly the way it's supposed to.
+If your child sometimes catches you on a word and looks it up for you, that moment doesn't mean you're failing at this. It means the plan is working exactly the way it's supposed to.

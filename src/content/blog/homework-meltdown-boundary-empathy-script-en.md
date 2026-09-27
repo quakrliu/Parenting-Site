@@ -20,9 +20,9 @@ ageGroup: ["school-age"]
 
 ---
 
-Last Tuesday, my kitchen table turned into a battlefield at 4:15pm. My daughter walked in from school, dropped her backpack on the floor like it had personally wronged her, and when I said "let's get your math sheet out," she burst into tears and said "I can't, I'm too tired, why do you always do this to me." I'd read enough about child development to know this wasn't defiance. It was a kid running on fumes. But knowing that in my head and staying calm in the moment when it's 4:15 and dinner still needs to happen? Different problem entirely.
+If you've ever watched your kitchen table turn into a battlefield right after school, you know the scene. Your child walks in, drops the backpack on the floor like it has personally wronged them, and when you say "let's get your math sheet out," the tears come: "I can't, I'm too tired, why do you always do this to me." You may know this isn't defiance. It's a kid running on fumes. But knowing that in your head and staying calm in the moment, when dinner still needs to happen? Different problem entirely.
 
-At BloomPath, we hear a version of this scene from parents constantly — the after-school window where a full day of holding it together at school finally cracks open at home. This piece is about what actually changed things for us: not choosing between "the homework has to get done" and "she's exhausted," but saying both at once.
+It's one of the most common scenes in family life — the after-school window where a full day of holding it together at school finally cracks open at home. This piece is about what actually changed things for us: not choosing between "the homework has to get done" and "she's exhausted," but saying both at once.
 
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -116,9 +116,9 @@ You don't need a perfect script. You just need to keep showing up at that kitche
 
 ## Further Reading
 
-- [My Daughter Ripped Up Her Math Worksheet Over One Wrong Answer](/en/blog/kid-cries-over-mistakes-perfectionism-en)
-- [I Almost Drove Her Forgotten Homework to School](/en/blog/overparenting-effects-en)
-- [My Daughter Said No One Would Sit With Her at Lunch for Three Days Straight](/en/blog/bullying-vs-peer-conflict-signs-en)
+- [Kid Cries Over Mistakes? Perfectionism and What Helps](/en/blog/kid-cries-over-mistakes-perfectionism-en)
+- [The Effects of Overparenting](/en/blog/overparenting-effects-en)
+- [Bullying vs. Peer Conflict: Signs to Watch For](/en/blog/bullying-vs-peer-conflict-signs-en)
 - [Montessori vs Gentle Parenting: What's Actually Different](/en/blog/montessori-vs-gentle-parenting-en)
 - [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en)
 

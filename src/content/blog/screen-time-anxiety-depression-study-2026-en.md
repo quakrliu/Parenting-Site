@@ -10,9 +10,9 @@ draft: false
 ageGroup: ["school-age", "teen"]
 ---
 
-Last Tuesday night, I walked past my daughter's room at 11:40 PM and saw the blue glow under her blanket. Not asleep. Not even close. She'd taken my old phone to bed "just to check one thing" two hours earlier, and now she was three YouTube rabbit holes deep, wide awake, and — when I finally got the phone away from her — weirdly irritable in a way that felt different from normal tired-kid crankiness.
+If you've ever walked past your kid's room late at night and seen the blue glow under the blanket, you know the feeling. Not asleep. Not even close. "Just checking one thing" two hours ago has turned into three YouTube rabbit holes — and when you finally get the phone away, your kid is weirdly irritable in a way that feels different from normal tired-kid crankiness.
 
-I didn't think much of it until my friend Dave, a pediatric nurse in Portland, sent me a study he'd been passing around his unit. It's a big one: over 50,000 kids, published in January 2026 in *Humanities and Social Sciences Communications* (part of the Nature journal family). It's the reason I'm writing this instead of the article I'd actually planned for this week.
+A new study puts some numbers behind that feeling. It's a big one: over 50,000 kids, published in January 2026 in *Humanities and Social Sciences Communications* (part of the Nature journal family). It's the reason I'm writing this instead of the article I'd actually planned for this week.
 
 BloomPath has covered screen time guilt, bedtime rules, and the AAP's new quality-over-quantity framework before. This study is different. It's not about habits or guilt — it's about a measurable mental health cost, and it names the exact mechanism behind it.
 
@@ -65,7 +65,7 @@ The study's age range was 6 to 17, so it skews older than toddler and preschool 
 
 ## My confession on this one
 
-I want to be honest about something: I'm the parent who built the screen time tracking feature into BloomPath's app, and I still let my daughter's evening screen time creep up this summer because it was easier than negotiating. Two weeks of "just twenty more minutes" turned into an hour without me really deciding that. Reading this study didn't make me feel like a failure — it gave me something more useful, which is a specific, non-guilt-based place to intervene: the after-dinner bike ride we'd quietly dropped in June. We put it back on the calendar last Wednesday, and bedtime got easier within about four days.
+I want to be honest about something: I'm the parent who built the screen time tracking feature into BloomPath's app, and I've still let evening screen time creep up because it was easier than negotiating. Reading this study didn't make me feel like a failure — it gave me something more useful, which is a specific, non-guilt-based place to intervene: bringing movement back, like an after-dinner walk or bike ride.
 
 Mei's read more of the child development literature than I have, and when I showed her this study, her first comment wasn't about the screens at all. It was "of course movement matters more, that's basically what a Montessori classroom is built around — kids choosing physical, hands-on work all day." That tracks with what we've seen in [our own approach to unstructured play](/en/blog/child-emotional-regulation-5-calming-strategies-en).
 
@@ -94,8 +94,8 @@ The research doesn't test screen-free activities directly, but it strongly impli
 
 - [Screen Time in 2026: What the Latest Research Actually Says](/en/blog/screen-time-2026-guide-en)
 - [AAP 2026 Screen Time Guidelines: What Changed](/en/blog/aap-2026-screen-time-new-rules-en)
-- [My Kid Screamed for 20 Minutes Every Time I Turned Off the TV](/en/blog/toddler-screen-time-ending-meltdown-en)
-- [Magnetic Tiles vs. Screen Time: I Tested 3 Brands](/en/blog/magnetic-tiles-screen-alternative-en)
+- [Toddler Meltdowns When the TV Goes Off: What Helps](/en/blog/toddler-screen-time-ending-meltdown-en)
+- [Magnetic Tiles vs. Screen Time: Comparing 3 Brands](/en/blog/magnetic-tiles-screen-alternative-en)
 - [Child Emotional Regulation: 5 Calming Strategies That Actually Work](/en/blog/child-emotional-regulation-5-calming-strategies-en)
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
@@ -106,7 +106,7 @@ Want a simpler way to track patterns like this — screen time, sleep, and mood 
 
 - [Good Inside by Dr. Becky Kennedy](https://www.amazon.com/dp/0063159481?tag=bloompath-20) — the framework Mei kept coming back to when we talked through this study; useful for the anxiety-and-connection side, not just the screen side.
 - [No Bad Kids by Janet Lansbury](https://www.amazon.com/dp/1499351119?tag=bloompath-20) — solid for the meltdown-in-the-moment scripts when you're pulling a device away and it doesn't go well.
-- [MAGNA-TILES Classic 100-Piece Set](https://www.amazon.com/dp/B000CBSNRY?tag=bloompath-20) — our go-to for the after-dinner screen swap; genuinely holds attention longer than we expected.
-- [Hatch Rest 2nd Gen Sound Machine](https://www.amazon.com/dp/B08QVG9759?tag=bloompath-20) — helped us anchor a more consistent bedtime, which the study flagged as the second-biggest lever.
+- [MAGNA-TILES Classic 100-Piece Set](https://www.amazon.com/dp/B000CBSNRY?tag=bloompath-20) — a solid option for an after-dinner screen swap.
+- [Hatch Rest 2nd Gen Sound Machine](https://www.amazon.com/dp/B08QVG9759?tag=bloompath-20) — can help anchor a more consistent bedtime, which the study flagged as the second-biggest lever.
 
 *As Amazon Associates, BloomPath earns from qualifying purchases.*

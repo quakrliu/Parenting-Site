@@ -25,13 +25,11 @@ Before I became a dad, I thought I was a patient person.
 
 I really did. I was calm under pressure at work. I never lost my temper in traffic. I considered myself reasonably evolved.
 
-Then my daughter turned two.
+Then came the toddler years — and if you've been there, you may know how it goes. You do everything "right." You watch the TikToks. You validate feelings during the grocery store meltdowns. You empathize while dinner gets thrown across the room, night after night. You get down on their level. You use your "calm voice."
 
-I was doing everything "right." I watched the TikToks. I validated her feelings during the grocery store meltdowns. I empathized while she threw her dinner across the room for the sixth consecutive night. I got down on her level. I used my "calm voice."
+And you end up exhausted. And confused. And sometimes your child seems *more* unsettled, not less.
 
-And I was exhausted. And confused. And — the part I didn't want to admit — my daughter seemed *more* anxious, not less.
-
-It took me eighteen months to figure out what was wrong. The problem wasn't gentle parenting. The problem was that I had accidentally been practicing something else entirely: permissive parenting with a gentle parenting label on it.
+It took me a long time to figure out what was wrong. The problem wasn't gentle parenting. The problem was that I had accidentally been practicing something else entirely: permissive parenting with a gentle parenting label on it.
 
 Maria Montessori would not have been surprised. She warned about exactly this in 1949.
 
@@ -92,7 +90,7 @@ A 2024 PLOS One study that examined what gentle parenting actually means to pare
 
 **Children crave structure.** If they don't get it from their parents, they will try to create it themselves — and they are not equipped to do so. This causes undue stress, anxiety, and, over time, resentment.
 
-I saw this in my daughter. She wasn't thriving in the open space I was giving her. She was floundering in it.
+Many parents see this firsthand: a child who isn't thriving in all that open space, but floundering in it.
 
 
 ---
@@ -225,9 +223,9 @@ You're modeling exactly what you want them to learn: feel the emotion, name it, 
 
 ### Scenario 4: When you mess up
 
-Last Tuesday I yelled. I'm not going to pretend otherwise.
+Every parent yells sometimes. There's no point pretending otherwise.
 
-When I calmed down, I went to my daughter and said: *"I got frustrated and raised my voice. That wasn't okay. I'm sorry."*
+Once you've calmed down, go back to your child and say: *"I got frustrated and raised my voice. That wasn't okay. I'm sorry."*
 
 That's the entire repair. No 20-minute processing session. No excessive self-flagellation in front of a four-year-old. A clear acknowledgment and genuine apology.
 

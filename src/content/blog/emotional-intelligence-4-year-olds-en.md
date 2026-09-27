@@ -12,9 +12,9 @@ ageGroup: ["preschool"]
 
 **TL;DR:** Four-year-olds aren't being dramatic — their brains literally can't regulate big emotions yet. The fix isn't punishment or distraction. It's emotion naming, calm co-regulation, and a few repeatable daily habits. This guide walks through exactly how to do that without losing your mind.
 
-My daughter had a full nuclear meltdown in a Bali supermarket last March because I picked up the wrong color yogurt cup. Pink lid. She wanted blue. The yogurt was identical inside. I stood there in aisle 4, holding a perfectly good strawberry yogurt, watching a small human dissolve into the floor, and thought: *I have a master's degree in computer science. I can architect distributed systems. Why does a dairy product have this kind of power over me?*
+If you've ever watched a small human dissolve into the supermarket floor because you picked up the wrong color yogurt cup — pink lid, they wanted blue, the yogurt identical inside — you know the feeling. You're standing in the aisle, holding a perfectly good strawberry yogurt, wondering: *Why does a dairy product have this kind of power over me?*
 
-That night, after bedtime, my wife — former early childhood educator — sat me down and explained something that changed everything. "She's not manipulating you," she said. "Her prefrontal cortex literally cannot do what you're asking it to do right now." That's when BloomPath came into our lives, and that's when I started actually learning how four-year-old brains work.
+I'm a software engineer. I debug complicated systems for a living. When our daughter was younger, her meltdowns still left me stumped — until I understood one thing that changed everything: she wasn't manipulating me. Her prefrontal cortex literally couldn't do what I was asking it to do yet. That's when I started actually learning how young children's brains work.
 
 *This article is part of our [Complete Positive Parenting Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -38,7 +38,7 @@ Age 4 is the sweet spot because children at this stage are developmentally begin
 
 Before this milestone, a child genuinely cannot grasp that you don't share their desires. After it develops? You can start building empathy, emotional vocabulary, and self-regulation scaffolding in a way that actually lands.
 
-My friend Dave in Tokyo told me his pediatrician explained it this way: "Trying to teach emotional intelligence before 3.5 is like installing software on a computer before the operating system is ready. After 4, the OS is booting up. Now you can actually install things."
+Here's the engineer's version: trying to teach emotional intelligence before 3.5 is like installing software on a computer before the operating system is ready. After 4, the OS is booting up. Now you can actually install things.
 
 The American Academy of Pediatrics (AAP) notes that social-emotional development in early childhood — including identifying and managing emotions — is one of the strongest predictors of long-term wellbeing, more so than early academic skills.
 
@@ -75,7 +75,7 @@ Janet Lansbury, who studies RIE (Resources for Infant Educarers) approaches, emp
 Montessori approaches to emotional development center on three things: prepared environments, concrete materials, and authentic adult modeling. Here are four activities that work well at home with 4-year-olds.
 
 **1. The Feelings Check-In Jar**
-Get a jar and some craft sticks. Write one emotion on each stick — happy, sad, angry, worried, excited, proud, bored, confused, silly, scared. Every morning, your child picks one that matches how they feel and puts it in a "today" cup. No right answers, no judgment. Takes 90 seconds. My daughter started picking "nervous" on daycare Mondays — which opened a conversation I didn't even know we needed to have.
+Get a jar and some craft sticks. Write one emotion on each stick — happy, sad, angry, worried, excited, proud, bored, confused, silly, scared. Every morning, your child picks one that matches how they feel and puts it in a "today" cup. No right answers, no judgment. Takes 90 seconds. Over time you may spot a pattern — say, "nervous" showing up every Monday — which can open a conversation you didn't even know you needed to have.
 
 **2. The Emotion Weather Board**
 A simple whiteboard or piece of paper with your family members' names. Each person picks a "weather" for their feelings: sunny, cloudy, rainy, stormy, foggy. Kids love extending metaphors. "Stormy" became our household word for really big emotions, and somehow it's less charged than "angry."
@@ -84,7 +84,7 @@ A simple whiteboard or piece of paper with your family members' names. Each pers
 Sit in front of a mirror together and make faces: happy, surprised, sad, angry, confused. Talk about what you notice in your face — eyebrows, mouth, eyes. This is body literacy, and it helps kids recognize emotions in themselves AND others. It also results in some genuinely hilarious photo opportunities.
 
 **4. The "I Feel _____ Because _____" Sentence**
-During dinner or bedtime, go around the table: "I feel _____ because _____." This isn't therapy. It's a daily two-second habit that normalizes emotional vocabulary. I started doing this with my daughter eighteen months ago. Last week she told me "I feel proud because I helped Mama clean up without being asked." I nearly cried into my pasta.
+During dinner or bedtime, go around the table: "I feel _____ because _____." This isn't therapy. It's a daily two-second habit that normalizes emotional vocabulary. Give it time. The first time your child volunteers something like "I feel proud because I helped clean up without being asked," you may nearly cry into your pasta.
 
 ---
 
@@ -92,7 +92,7 @@ During dinner or bedtime, go around the table: "I feel _____ because _____." Thi
 
 Handle big emotions by co-regulating first — meaning you calm your own nervous system before trying to help your child calm theirs. This is the part nobody tells you in the parenting books: you can't co-regulate from a dysregulated state.
 
-Before kids, I thought I was patient. Then my daughter had her first 45-minute screaming session over a sock seam, and I discovered my patience had a very specific expiration date.
+Before kids, I thought I was patient. When our daughter was younger, I learned fast that my patience had a very specific expiration date.
 
 Here's the engineering mindset approach: your child's amygdala is firing. Their stress hormones are spiked. Logic is offline. You cannot debug a running process that's thrown an exception by yelling more exceptions at it. You have to let the process complete its current cycle, then reboot.
 
@@ -112,7 +112,7 @@ Dr. Becky Kennedy's "Good Inside" framework calls this "repair" — and she argu
 
 The best conversation starters happen during low-stakes moments: car rides, bath time, side-by-side drawing, before sleep. Not across a table, not during a conflict.
 
-Here are conversation starters that have actually worked in our house, field-tested over two years:
+Here are conversation starters worth trying:
 
 - "What was the best part of today? What was the hardest part?"
 - "Did anything make you feel nervous today?"
@@ -164,7 +164,7 @@ You don't need to overhaul your parenting. You need five minutes and consistency
 
 That's it. No curriculum. No special materials required. Just language, presence, and repetition.
 
-My daughter is now five. She still melts down — she's five, not a robot. But last month she came to me during a quiet moment and said, "Papa, I felt embarrassed today when I tripped at school and everyone laughed." She named it. She brought it to me. That's the whole point.
+Your child will still melt down — they're four, not a robot. But one day they may come to you during a quiet moment and say something like, "I felt embarrassed today when I tripped and everyone laughed." They named it. They brought it to you. That's the whole point.
 
 You're here reading this. That already makes you a great parent.
 

@@ -10,9 +10,9 @@ image: "/og/sharenting-child-privacy-before-you-post-en.png"
 draft: false
 ---
 
-Two weeks ago, at my daughter's school talent show, my father-in-law pulled out his phone during her act and started livestreaming straight to a family Facebook group with roughly 200 members — most of whom I have never met in person. Twelve minutes later I checked the group. The video already had nine comments. One of them tagged my daughter by her full name and named her school. I build a parenting app called BloomPath for a living. I spend my workdays thinking about how to keep kids' data private by default — and here was my own family, live-streaming my daughter's face and school name to two hundred strangers without a second thought. I didn't say anything at the time. It was his moment too, and making a scene in the school auditorium felt worse than the actual problem. But I sat there running the math in my head the way I run math on everything: 200 strangers, one livestream, her full name, her school, all searchable, all permanent, all decided by someone who wasn't her and wasn't me.
+Picture a school talent show. A grandparent pulls out a phone during your kid's act and starts livestreaming straight to a family Facebook group with a couple hundred members — most of whom you have never met in person. A few minutes later, the video already has comments. One of them tags your child by full name and names the school. It isn't malicious; it's pride. And making a scene in the school auditorium feels worse than the actual problem. But run the math: a couple hundred strangers, one livestream, a full name, a school, all searchable, all permanent, all decided by someone who wasn't your child and wasn't you.
 
-That's the moment I actually looked into sharenting — the practice of parents and grandparents posting kids' lives online — instead of just having a vague uneasy feeling about it. At BloomPath, we've spent two years building a parenting app specifically designed so families can keep their kids' milestones private by default, so this wasn't an abstract question for me. It was the exact problem sitting in my pocket that night.
+That kind of moment is a good reason to actually look into sharenting — the practice of parents and grandparents posting kids' lives online — instead of just having a vague uneasy feeling about it. I'm a software engineer, and at BloomPath we build a parenting app designed so families can keep their kids' milestones private by default, so this isn't an abstract question for us.
 
 ## TL;DR
 
@@ -52,17 +52,17 @@ I'm an engineer. I don't scare easily about hypothetical tech risks — most of 
 
 Because you've probably already tightened your own privacy settings and thought about this at least once. Extended family often hasn't — not out of carelessness, but because they grew up in a world where "sharing a photo" meant handing a print to one person, not broadcasting to 200.
 
-The livestream at my daughter's talent show wasn't malicious. My father-in-law was proud. He wanted his friends to see her. The problem was structural: he had no framework for thinking about "200 people I've never met" as meaningfully different from "the neighbors I show photos to over coffee." Most oversharing from grandparents comes from that gap, not from disregard for the kid.
+A grandparent livestreaming a talent show usually isn't being malicious. They're proud. They want their friends to see. The problem is structural: there's no framework for thinking about "200 people I've never met" as meaningfully different from "the neighbors I show photos to over coffee." Most oversharing from grandparents comes from that gap, not from disregard for the kid.
 
 ## How Do You Actually Handle This Without Starting a Family War?
 
-The framing matters more than the rule itself — a household policy that applies to everyone, including you, lands very differently than correcting one person's post. Here's what's worked for us:
+The framing matters more than the rule itself — a household policy that applies to everyone, including you, lands very differently than correcting one person's post. Here's what tends to work:
 
-1. **Set one rule and repeat it, don't negotiate it per-photo.** Ours is: no full name + school + real-time location in the same post, ever, from anyone. It's simple enough that people actually remember it.
-2. **Give people an easy alternative.** We started printing photos on an [Instax instant camera](https://www.amazon.com/dp/B0BWNZLQ69?tag=bloompath-20) at family gatherings specifically so grandparents have something physical to be proud of and hand around — without it going online at all.
+1. **Set one rule and repeat it, don't negotiate it per-photo.** For example: no full name + school + real-time location in the same post, ever, from anyone. It's simple enough that people actually remember it.
+2. **Give people an easy alternative.** Printing photos on an [Instax instant camera](https://www.amazon.com/dp/B0BWNZLQ69?tag=bloompath-20) at family gatherings gives grandparents something physical to be proud of and hand around — without it going online at all.
 3. **Ask before, not after.** If a grandparent wants to post something, the ask is "can you check with me first" — not "you're not allowed," which almost always turns into a fight.
 4. **Talk to your kid about it as soon as they can understand the concept.** Even a five- or six-year-old can answer "is it okay if Grandma shares this one?" Teaching consent early does double duty — it protects them now and models something they'll need later.
-5. **Back up what matters privately.** We keep our real photo archive on an [encrypted drive](https://www.amazon.com/dp/B01N6SNUZN?tag=bloompath-20) instead of relying on whatever's publicly posted somewhere as the "real" record.
+5. **Back up what matters privately.** Keep your real photo archive on an [encrypted drive](https://www.amazon.com/dp/B01N6SNUZN?tag=bloompath-20) instead of relying on whatever's publicly posted somewhere as the "real" record.
 
 ## What Age Can Kids Actually Consent to Being Posted?
 
@@ -105,8 +105,8 @@ Keep a private family record — a shared album, an encrypted backup, or an app 
 
 ## Products We Recommend
 
-- **[Fujifilm Instax Mini 12 Instant Camera](https://www.amazon.com/dp/B0BWNZLQ69?tag=bloompath-20)** — What we now hand grandparents at gatherings instead of letting them default to posting. Physical prints, zero upload.
+- **[Fujifilm Instax Mini 12 Instant Camera](https://www.amazon.com/dp/B0BWNZLQ69?tag=bloompath-20)** — Something to hand grandparents at gatherings instead of letting them default to posting. Physical prints, zero upload.
 - **[Growing Up in Public by Devorah Heitner](https://www.amazon.com/dp/0593420969?tag=bloompath-20)** — The most practical book I've read on raising kids whose whole lives are technically postable, and how to think about consent as they grow.
-- **[SanDisk Cruzer Glide 256GB Encrypted Flash Drive](https://www.amazon.com/dp/B01N6SNUZN?tag=bloompath-20)** — Where our actual family photo archive lives now, password-protected, instead of scattered across whatever app happened to have the "share" button handy.
+- **[SanDisk Cruzer Glide 256GB Encrypted Flash Drive](https://www.amazon.com/dp/B01N6SNUZN?tag=bloompath-20)** — A password-protected home for a family photo archive, instead of scattering it across whatever app happened to have the "share" button handy.
 
 Want a private place to actually keep the milestones without deciding, in the moment, who else gets to see them? [BloomPath](/en/app/) is built for exactly that.

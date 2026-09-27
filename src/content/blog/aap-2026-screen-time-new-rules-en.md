@@ -18,17 +18,13 @@ ageGroup: ["all"]
 
 ---
 
-My daughter Luna figured out how to unlock my iPad before she could reliably use a spoon.
+If your kid figured out how to unlock your iPad before they could reliably use a spoon, you are not alone.
 
-I am a software engineer. I should have seen this coming. The device was basically designed to be intuitive for humans of any age, and a four-year-old human is a tiny, extremely motivated UX tester. By the time I noticed, she had found YouTube Kids, navigated to a channel about excavators, and was completely absorbed.
+I am a software engineer, and I can tell you: these devices are designed to be intuitive for humans of any age, and a preschooler is a tiny, extremely motivated UX tester. One minute they are next to you; the next they have found YouTube Kids, navigated to a channel about excavators, and are completely absorbed.
 
-My wife Mei looked at me. I looked at Mei. I said: How long has she been doing this?
+Then the familiar parental guilt kicks in. How long has this been going on? Twenty minutes? Thirty? Is that over the two-hour limit? Are you supposed to take it away?
 
-Mei said: I do not know. Twenty minutes? Maybe thirty?
-
-I felt the familiar parental guilt kick in. Was I supposed to take it away? Before kids, I thought I was patient about screen time. I was not.
-
-Here is what I did not know yet: that rule no longer exists.
+Here is what many parents do not know yet: that two-hour rule no longer exists.
 
 And here is what I wish someone had told me sooner: the first five years of brain development do not wait for us to figure out a screen policy. Ninety percent of a child's brain architecture forms before age five. Every month we spend arguing about whether two hours or three hours is "the right number," we are missing the point entirely. The AAP finally agrees.
 
@@ -132,13 +128,13 @@ For 18 months to 3 years, the guidance leans heavily toward co-viewing and conte
 
 Making a media plan sounds great until you realize it requires agreement from a four-year-old with strong opinions about excavator channels.
 
-**Start with the non-negotiables.** Mei and I agreed on two things before we talked to Luna: no screens at dinner, and no iPad in bedrooms after bath time. These were not up for debate. A united front on the anchors makes the rest of the conversation easier.
+**Start with the non-negotiables.** Agree with your partner on a couple of anchors before you talk to your child - for example, no screens at dinner and no iPad in bedrooms after bath time. Those are not up for debate. A united front on the anchors makes the rest of the conversation easier.
 
-**Give your child some ownership.** We let Luna pick which shows she wanted on the approved list. She felt heard - and, to our surprise, she chose thoughtfully.
+**Give your child some ownership.** Let your child pick which shows they want from the approved list. Feeling heard goes a long way.
 
-**Put it somewhere visible.** We wrote the key rules on a small whiteboard in the kitchen. Pointing at the board when the whining starts is less confrontational than repeating yourself.
+**Put it somewhere visible.** Write the key rules on a small whiteboard in the kitchen. Pointing at the board when the whining starts is less confrontational than repeating yourself.
 
-**Revisit it when it stops working.** The plan we made when Luna was three looks nothing like our plan now. Kids change. The plan should too.
+**Revisit it when it stops working.** A plan made for a three-year-old will not fit a six-year-old. Kids change. The plan should too.
 
 ---
 

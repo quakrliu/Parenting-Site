@@ -10,11 +10,11 @@ draft: false
 ageGroup: ["school-age"]
 ---
 
-Three Tuesdays ago, I was folding laundry and pulled a balled-up piece of paper out of my daughter's backpack pocket — the kind of moment BloomPath exists to help parents through. A math quiz. A 61. Dated twelve days earlier. Every single day since that quiz came home, she'd told me school was "great" and she "didn't have any tests."
+Picture it: you're folding laundry and pull a balled-up piece of paper out of your child's backpack pocket — the kind of moment BloomPath exists to help parents through. A math quiz. A 61. Dated twelve days earlier. Every single day since that quiz came home, she's told you school was "great" and she "didn't have any tests."
 
-I sat down on the edge of her bed that night with the crumpled paper still in my hand, and what I felt wasn't anger. It was something closer to fear — because if she'd hidden a 61 for twelve days, what else was she hiding, and for how long?
+Sitting on the edge of her bed that night with the crumpled paper still in your hand, what you feel might not be anger. It might be something closer to fear — because if she hid a 61 for twelve days, what else is she hiding, and for how long?
 
-That's the moment this whole topic clicked for me. This isn't really a story about one bad grade. It's about what happens in a kid's head between "I got a 61" and "I will tell my mom everything is fine" — and what you can actually do about it that doesn't involve interrogation, punishment, or pretending it didn't happen.
+This isn't really a story about one bad grade. It's about what happens in a kid's head between "I got a 61" and "I will tell my mom everything is fine" — and what you can actually do about it that doesn't involve interrogation, punishment, or pretending it didn't happen.
 
 **TL;DR**
 - Kids ages 6–9 don't hide mistakes because they're turning into pathological liars. They hide because disappointing you has started to feel unbearable.
@@ -49,9 +49,9 @@ One important distinction here: if your child holds it together at school and th
 
 The Association Montessori Internationale describes the core idea plainly: real freedom in a Montessori environment means the ability to act inside a framework of responsibility. Maria Montessori argued that without that structure, children feel overwhelmed instead of free. Applied to a math quiz, that principle sounds almost boring: kids need a predictable, safe place to put unfinished or failed work, and a predictable process for what happens next, so that "I did badly" never has to become "I need to make this disappear."
 
-The thing that actually changed for us wasn't a script I read out loud. It was building a five-minute window, most evenings, where nothing she told me could get her in trouble in that moment — no matter what it was. I told her directly: "You can tell me anything happened today and I promise not to react right then. We'll figure out what to do about it together, later, calmly." It took about two weeks before she tested it with something small. It took longer before she trusted it with something big.
+What tends to change things isn't a script read out loud. It's building a five-minute window, most evenings, where nothing she tells you can get her in trouble in that moment — no matter what it is. Tell her directly: "You can tell me anything happened today and I promise not to react right then. We'll figure out what to do about it together, later, calmly." It may take a while before she tests it with something small, and longer before she trusts it with something big.
 
-That's freedom within limits at home: the limit (there are consequences, homework still needs to get done, honesty still matters) stays fixed. The freedom (when and how she tells me, without an instant reaction) is what makes honesty survivable for a seven-year-old.
+That's freedom within limits at home: the limit (there are consequences, homework still needs to get done, honesty still matters) stays fixed. The freedom (when and how she tells you, without an instant reaction) is what makes honesty survivable for a seven-year-old.
 
 ## What is the 6-step repair conversation, and how do you actually use it?
 

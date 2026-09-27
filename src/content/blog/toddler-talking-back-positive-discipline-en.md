@@ -10,7 +10,7 @@ image: "/og/toddler-talking-back-positive-discipline-en.png"
 draft: false
 ---
 
-Last Tuesday, at the playground two blocks from our house, I told my daughter it was time to go. She put her hands on her hips and said, "You never let me do anything fun. You're the worst." Loud enough that the two other moms nearby definitely heard it. My friend Amy, who was standing next to me with her own son, just raised her eyebrows at me like *good luck with that one*. I co-founded BloomPath, a parenting app built around exactly this kind of moment, and this is still one of the questions we hear the most from parents — right up there with tantrums and bedtime battles.
+If you've ever told your child it's time to leave the playground and gotten hands on hips and a loud "You never let me do anything fun. You're the worst." — loud enough that every parent nearby definitely heard it — you know how fast your face can go hot. I co-founded BloomPath, a parenting app built around exactly this kind of moment, and talking back sits right up there with tantrums and bedtime battles as one of the hardest moments to handle well.
 
 Is my kid being disrespectful? Am I raising a brat? Should I be cracking down harder? I've spent years working through this exact question at home, plus reading everything Dr. Becky Kennedy, Jane Nelsen, and Janet Lansbury have written about it. The short answer surprised me the first time I read it, and it's changed how I respond every single time it happens now.
 
@@ -24,7 +24,7 @@ Talking back is almost never actually about disrespect — it's a communication 
 
 Talking back is rarely genuine disrespect — in most cases, it's a child's underdeveloped brain trying to express frustration, exert autonomy, or test a limit, using the only communication skills they currently have. Dr. Becky Kennedy, the clinical psychologist behind Good Inside, puts it bluntly: what looks like rudeness is usually your child telling you something important in a tone you don't like. She's not being defiant on purpose so much as she's flooded with a feeling and doesn't yet have a calmer way to hand it to you. That reframe matters, because how you interpret the behavior determines how you respond to it — and "this is an attack on my authority" leads to a very different response than "this is a kid who's overwhelmed."
 
-I remember the moment this actually clicked for me. My daughter snapped at me over something small — I don't even remember what — and my first instinct was the old script: *don't you dare talk to me like that.* But I'd just read Kennedy's explanation the week before, so instead I said, "You sound really frustrated with me right now." Her whole face changed. She wasn't expecting to be understood. She was expecting a fight.
+I'll admit my own first instinct used to be the old script: *don't you dare talk to me like that.* What works better is naming what's underneath: "You sound really frustrated with me right now." A kid who's braced for a fight isn't expecting to be understood — and that alone can change the whole tone of the moment.
 
 ## Why Do Kids Talk Back? The Developmental Science
 
@@ -44,7 +44,7 @@ Montessori philosophy treats "grace and courtesy" as a skill to be taught explic
 
 The best response to a child talking back is to name the emotion underneath the words, hold your boundary without escalating, and save the lesson on respectful phrasing for after everyone is calm — responding to tone in the heat of the moment almost always backfires. Here's the sequence that's actually worked for us, in order:
 
-1. **Don't match the energy.** If your voice gets sharper because theirs did, you've just taught them that sassing works to get a reaction. Dr. Kennedy's line has become a household mantra for me: "I can tell you have something important to tell me, but I can't listen when you say it that way."
+1. **Don't match the energy.** If your voice gets sharper because theirs did, you've just taught them that sassing works to get a reaction. A line worth borrowing: "I can tell you have something important to tell me, but I can't listen when you say it that way."
 2. **Name the feeling, not the crime.** Instead of "don't talk to me like that," try "you sound really frustrated right now." This does two things — it de-escalates because your child feels understood, and it models the emotional vocabulary you eventually want them using instead of the sass.
 3. **Hold the boundary anyway.** Naming the feeling isn't the same as giving in. "You're mad we have to leave the playground. We still have to leave." Empathy and limits aren't opposites — you need both in the same sentence.
 4. **Wait for calm to teach the redo.** In the moment, nobody's listening to a lecture on tone. Once things settle — later that day, or even the next morning — go back to it: "Earlier you said I never let you do anything fun. I bet you were really disappointed. Next time, you could say it like this instead." This is where the actual skill-building happens.
@@ -65,7 +65,7 @@ Occasional backtalk is developmentally typical and, on its own, isn't something 
 
 It's also worth remembering that a kid who never pushes back at all isn't necessarily "easier" in the long run. Jane Nelsen's Positive Discipline framework argues that kids who get to practice disagreeing with a parent respectfully, in a low-stakes setting like the living room, are building the exact skill they'll need to say no to a friend later — the ability to hold an unpopular position without falling apart. That reframe helped me stop dreading the pushback and start seeing at least some of it as a skill in progress.
 
-If your child's tantrums extend beyond backtalk into full meltdowns, we've written in more depth about what actually helps in the moment in our guide to [toddler meltdowns in public](/en/blog/toddler-meltdown-in-public-en). And if the backtalk shows up specifically around sharing or playground conflict, our piece on [what actually helped when my toddler grabbed every toy at the playground](/en/blog/toddler-wont-share-toys-playground-en) covers a lot of the same emotional-coaching territory.
+If your child's tantrums extend beyond backtalk into full meltdowns, we've written in more depth about what actually helps in the moment in our guide to [toddler meltdowns in public](/en/blog/toddler-meltdown-in-public-en). And if the backtalk shows up specifically around sharing or playground conflict, our piece on [what actually helps when a toddler grabs every toy at the playground](/en/blog/toddler-wont-share-toys-playground-en) covers a lot of the same emotional-coaching territory.
 
 ## Frequently Asked Questions
 

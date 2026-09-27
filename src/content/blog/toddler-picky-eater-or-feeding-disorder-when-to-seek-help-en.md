@@ -9,11 +9,11 @@ image: "/og/toddler-picky-eater-or-feeding-disorder-when-to-seek-help-en.png"
 draft: false
 ---
 
-Three weeks ago, our daughter sat at the dinner table for forty-five minutes in front of a bowl of pasta she'd eaten happily six times before. Tonight it was "the wrong pasta." She ate two crackers and a glass of milk.
+Picture it: your toddler sits at the dinner table for forty-five minutes in front of a bowl of pasta they've eaten happily six times before. Tonight it's "the wrong pasta." Dinner ends up being two crackers and a glass of milk.
 
-I work in software. I build systems that behave predictably. A toddler who refuses the same pasta she loved last Tuesday is not a system that behaves predictably.
+I work in software. I build systems that behave predictably. A toddler who refuses the same pasta they loved last Tuesday is not a system that behaves predictably.
 
-At BloomPath, we've spent eleven years figuring out what's a normal toddler phase and what genuinely warrants a call to the pediatrician. Picky eating is the one that trips up almost every family I know — because the line between "this is fine" and "we should get some help" is genuinely hard to see when you're in the middle of it.
+At BloomPath, we spend a lot of time on what's a normal toddler phase and what genuinely warrants a call to the pediatrician. Picky eating is the one that trips up almost every family — because the line between "this is fine" and "we should get some help" is genuinely hard to see when you're in the middle of it.
 
 *This article is part of our [Positive Parenting Complete Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -47,7 +47,7 @@ The challenge is that for some families, the picture never quite looks like this
 
 ## The Red Flags That Tell a Different Story
 
-I'm not a clinician, but after reading through pediatric feeding research and talking to other parents over the years, these are the signals that moved us from "this is normal" to "let's call the pediatrician":
+I'm not a clinician, but after reading through pediatric feeding research, these are the signals that separate "this is normal" from "let's call the pediatrician":
 
 **The list of accepted foods keeps shrinking.** A child who eats fifteen foods this year and twelve foods next year and nine foods the year after is showing a concerning trajectory. Typical picky eating plateaus. A feeding disorder often gets more restrictive.
 
@@ -90,11 +90,11 @@ You don't need all of them for every evaluation. A good starting point is your p
 
 ## What Mei Reminded Me About the Mealtime Environment
 
-Before we get to the professional referral conversation, Mei pointed out something that changed how I approached our dinner table: a lot of what looks like extreme pickiness is made worse by mealtime pressure.
+Before we get to the professional referral conversation, here's something Mei pointed out that's worth knowing: a lot of what looks like extreme pickiness is made worse by mealtime pressure.
 
-She'd been reading about Ellyn Satter's Division of Responsibility framework — the idea that parents decide *what* is served, *when*, and *where*; children decide *whether* to eat and *how much*. When we stopped negotiating over every plate and stopped commenting on what our daughter ate or didn't eat, mealtimes got quieter. She started exploring foods on her own timeline.
+Ellyn Satter's Division of Responsibility framework puts it simply: parents decide *what* is served, *when*, and *where*; children decide *whether* to eat and *how much*. When parents stop negotiating over every plate and stop commenting on what their child eats or doesn't eat, mealtimes often get quieter, and kids start exploring foods on their own timeline.
 
-That didn't fix everything. But it separated what was developmental from what we were adding to the situation.
+That won't fix everything. But it separates what's developmental from what the mealtime dynamic is adding to the situation.
 
 If you're in the thick of picky eating struggles, [our guide on why force-feeding backfires](/en/blog/break-force-feeding-cycle-division-responsibility-en) covers the Division of Responsibility framework in detail. And if you want to understand why throwing food is actually developmental (and not defiance), [that one is worth reading too](/en/blog/toddler-throws-food-at-every-meal-en).
 
@@ -117,7 +117,7 @@ Here's the short version for parents who want a checklist rather than another wa
 - Growth is on track
 - Mealtimes are tense but not traumatic
 
-You know your kid. Eleven years in, I've learned that the parents who are worried about something specific are usually picking up on something real. Trust that instinct enough to bring it up with your pediatrician.
+You know your kid. Over the years, I've learned that the parents who are worried about something specific are usually picking up on something real. Trust that instinct enough to bring it up with your pediatrician.
 
 ---
 
@@ -151,7 +151,7 @@ Yes — consistently. Pressure around eating increases anxiety and makes restric
 
 ## Products We Recommend
 
-We've found these genuinely useful over eleven years of navigating picky eating and toddler mealtimes:
+A few books that are genuinely useful for navigating picky eating and toddler mealtimes:
 
 **[No Bad Kids: Toddler Discipline Without Shame by Janet Lansbury](https://www.amazon.com/dp/1499351119?tag=bloompath-20)**
 Lansbury's approach to respecting toddler autonomy changed how we handled mealtimes. The chapter on feeding pressure is particularly useful.

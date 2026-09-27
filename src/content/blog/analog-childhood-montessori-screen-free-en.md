@@ -17,11 +17,11 @@ image: "/og/analog-childhood-montessori-screen-free-en.png"
 *This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
 
-Before I became a dad, I thought I had a healthy relationship with screens. One phone, moderate use, nothing excessive. Then my daughter turned two and I caught myself handing her the iPad at 7 a.m. because I needed five more minutes of coffee and silence.
+Before I became a dad, I thought I had a healthy relationship with screens. One phone, moderate use, nothing excessive. Most parents know what comes next: one morning you catch yourself handing your two-year-old the iPad at 7 a.m. because you need five more minutes of coffee and silence.
 
-It worked. Beautifully. Terrifyingly.
+It works. Beautifully. Terrifyingly.
 
-That was when I started paying attention to the ratio.
+That's usually when you start paying attention to the ratio.
 
 
 ---
@@ -128,7 +128,7 @@ This is what Montessori called "connection to the real world" and what developme
 
 Folding dish towels. Sweeping with a child-sized broom. Setting the table. Watering plants. Washing their own cup.
 
-My daughter became completely absorbed by folding towels at age three. I did not understand why she would do this for 20 minutes when she usually couldn't sit still for two. Then I read Montessori: she was exercising *genuine agency* over a real task in the real world. That drive is built-in to every child. We mostly just need to get out of the way.
+Don't be surprised if a three-year-old gets completely absorbed in folding towels, for far longer than they usually sit still. Montessori explains why: they're exercising *genuine agency* over a real task in the real world. That drive is built-in to every child. We mostly just need to get out of the way.
 
 
 ---
@@ -150,9 +150,9 @@ If you want to track whether your child is hitting key developmental milestones 
 
 ---
 
-## The Part I'm Going to Be Honest About
+## The Part Worth Being Honest About
 
-Last Thursday I yelled at my daughter because she spilled water on my laptop while "helping" me pour. Then I handed her the iPad so I could clean it up.
+Some days a little "helper" spills water on your laptop, you snap, and then you hand over the iPad so you can clean it up.
 
 The Analog Childhood is not a purity test.
 

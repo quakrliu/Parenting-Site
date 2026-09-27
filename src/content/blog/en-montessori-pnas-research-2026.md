@@ -22,13 +22,13 @@ image: "/og/en-montessori-pnas-research-2026.png"
 
 ---
 
-I'll be honest. When my wife first mentioned Montessori preschool, I did what most engineers do with things they don't understand: I immediately googled "is Montessori a cult."
+I'll be honest. If you've ever heard Montessori pitched and wondered, half-seriously, whether it's a cult — you're not alone.
 
 (It is not. Though the followers are enthusiastic.)
 
-She had done her research. Mixed-age classrooms. Child-led learning. Wooden toys that don't make annoying noises at 6 AM. It all sounded reasonable in theory. But I'm a data guy. I needed evidence, not a philosophy.
+Mixed-age classrooms. Child-led learning. Wooden toys that don't make annoying noises at 6 AM. It all sounds reasonable in theory. But I'm a data guy. I want evidence, not a philosophy.
 
-What I found back then was a lot of small studies. Observational research. Parents who loved Montessori — but of course they would say that, they chose it. Nothing that would satisfy the data-driven part of my brain asking: *does this actually work, or are we paying $18,000 a year for vibes?*
+For a long time, what was out there was a lot of small studies. Observational research. Parents who loved Montessori — but of course they would say that, they chose it. Nothing that would satisfy the data-driven part of the brain asking: *does this actually work, or are families paying private-school tuition for vibes?*
 
 Then, in late 2025, the evidence arrived. And it's hard to argue with.
 

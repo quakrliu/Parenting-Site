@@ -19,9 +19,9 @@ draft: false
 ---
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
 
-Last Tuesday at dinner, my daughter refused to sit in her booster seat. Not a meltdown, just a flat, dead-eyed "no" while standing on the chair. Out of pure muscle memory, I heard myself say, "One... two..." and I stopped mid-sentence because I genuinely didn't know what "three" was supposed to accomplish. Was I going to pick her up? Take away dessert? I hadn't thought that far. I was just running a script I'd absorbed somewhere without ever checking if it worked — the same way I write code sometimes, if I'm honest, which is exactly the problem this article at BloomPath is here to fix.
+Picture dinnertime: your toddler refuses to sit in their booster seat. Not a meltdown, just a flat, dead-eyed "no" while standing on the chair. Out of pure muscle memory, you hear yourself say, "One... two..." — and then stop, because you genuinely don't know what "three" is supposed to accomplish. Pick them up? Take away dessert? It's a script most of us absorbed somewhere without ever checking if it works. (I'll admit I've written code the same way, which is exactly the problem this article at BloomPath is here to fix.)
 
-That's the moment I actually looked into where this counting thing comes from, and it turns out the answer is more interesting — and more useful — than I expected.
+So where does this counting thing come from? The answer is more interesting — and more useful — than you might expect.
 
 ## Where Did Counting to 3 Even Come From?
 
@@ -45,7 +45,7 @@ What you actually want is code the child can run on their own eventually — not
 
 ## What Should You Say Instead?
 
-Here's the script I've been using since that dinner-table moment, built on three parts: name it, state it, offer a choice.
+Here's a better script, built on three parts: name it, state it, offer a choice.
 
 **Name what you see.** "You really don't want to sit down right now." No question mark, no accusation — just an accurate read on the situation. This is the same move family therapist Dr. Dan Siegel calls "name it to tame it": putting a feeling into words engages the prefrontal cortex and helps dial down the amygdala's stress response. You're not negotiating yet. You're just proving you noticed.
 
@@ -57,15 +57,15 @@ Total time from "name it" to "offer a choice": maybe eight seconds. Roughly the 
 
 ## Does This Actually Work Faster Than Counting?
 
-Not always, and I want to be honest about that. The first few times I used this with my daughter, she tested it harder than she ever tested a countdown — what child psychologist Ross Greene calls an "extinction burst," where behavior gets worse briefly before it improves, because the old pattern (comply at the last second) stopped being reinforced. She stood on that chair for a solid twenty seconds after I offered the choice, staring me down.
+Not always, and I want to be honest about that. The first few times you use this, your child may test it harder than they ever tested a countdown — what child psychologist Ross Greene calls an "extinction burst," where behavior gets worse briefly before it improves, because the old pattern (comply at the last second) stopped being reinforced. They may stay standing on that chair after you offer the choice, staring you down.
 
-I didn't recount. I didn't cave. I repeated the choice once: "Sit by yourself, or I help you — which one?" She sat by herself, glaring the entire time, like she'd lost a negotiation she didn't remember agreeing to enter.
+Don't recount. Don't cave. Repeat the choice once: "Sit by yourself, or I help you — which one?" Often they'll pick one — glaring the entire time, like they've lost a negotiation they don't remember agreeing to enter.
 
-A month later, that same dinner-table standoff barely happens anymore. Not because she's scared of a number — because the choice format got predictable, and predictable limits are easier for a toddler's still-developing brain to accept than a countdown that always ends in the same unclear threat.
+Over time, the standoff tends to shrink. Not because the child is scared of a number — because the choice format becomes predictable, and predictable limits are easier for a toddler's still-developing brain to accept than a countdown that always ends in the same unclear threat.
 
 ## What About Public Meltdowns, Where You Don't Have Eight Seconds?
 
-Same three-part structure, just faster. Last month at the airport, my daughter refused to put her shoes back on after security, sitting cross-legged on the floor while a line built up behind us. I didn't have time for a paragraph. I said, "You're mad about the shoes. We're putting them on now — feet first or shoes first?" She picked "feet first," which is a meaningless distinction functionally, but it was her distinction to make. Shoes were on in under a minute.
+Same three-part structure, just faster. Picture the airport: your child refuses to put their shoes back on after security, sitting cross-legged on the floor while a line builds up behind you. There's no time for a paragraph. Try: "You're mad about the shoes. We're putting them on now — feet first or shoes first?" "Feet first" is a meaningless distinction functionally, but it's theirs to make — and that's often enough to get the shoes on.
 
 Compare that to counting, where the actual message a rushed public moment sends is "comply before I embarrass both of us at three" — which works sometimes, and teaches the kid that limits are about your embarrassment threshold, not about what's actually true.
 

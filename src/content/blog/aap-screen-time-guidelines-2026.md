@@ -354,7 +354,7 @@ AAP最大的轉變是移除「2歲以下零螢幕、2-5歲每天1小時」的硬
 
 探索更多螢幕時間系列文章：
 
-- [女兒看電視突然瞇眼睛，我才知道她近視了：關掉螢幕沒用，戶外時間才是關鍵](/zh/blog/child-myopia-screen-time-outdoor-zh)
+- [孩子看電視突然瞇眼睛，是近視了嗎？關掉螢幕沒用，戶外時間才是關鍵](/zh/blog/child-myopia-screen-time-outdoor-zh)
 - [台灣爸媽的 5C 實踐指南：AAP 2026 取消 2 小時上限](/zh/blog/aap-screen-time-2026-taiwan-parents-zh)
 - [2026年兒童網路安全完整指南：AI玩具、國際新法與台灣爸媽實戰設定](/zh/blog/children-internet-safety-2026-zh)
 - [孩子沉迷螢幕，可能是你的手機造成的？](/zh/blog/parental-phubbing-child-screen-addiction-zh)
@@ -362,8 +362,8 @@ AAP最大的轉變是移除「2歲以下零螢幕、2-5歲每天1小時」的硬
 - [AI 幫女兒想答案，那她自己在想什麼？工程師爸爸的「大腦外包」焦慮自救指南](/zh/blog/ai-cognitive-debt-kids-zh)
 - [睡前滑 iPad 半小時，她十一點還醒著：螢幕與睡眠的真相](/zh/blog/screen-time-sleep-bedtime-zh)
 - [螢幕時間跟焦慮症有關？2026 年 5 萬名兒童研究揭露的真相](/zh/blog/screen-time-anxiety-depression-study-2026-zh)
-- [開學倒數十天，我用「15 分鐘法則」把女兒的暑假作息拉回來](/zh/blog/back-to-school-sleep-screen-reset-zh)
-- [女兒參加完同學生日趴回家吵著要下載 Roblox，我先做完這 5 件事才點頭](/zh/blog/kid-wants-roblox-parental-controls-zh)
-- [女兒滑短影音停不下來：我們家怎麼用「蒙特梭利式專注力訓練」把手機還給她](/zh/blog/short-video-addiction-tweens-montessori-zh)
-- [朋友的女兒因為限動只有 3 個愛心把 IG 刪了：我們家提早在做的三件事](/zh/blog/teen-social-media-likes-self-worth-zh)
+- [開學倒數十天，用「15 分鐘法則」把孩子的暑假作息拉回來](/zh/blog/back-to-school-sleep-screen-reset-zh)
+- [孩子參加完同學生日趴回家吵著要下載 Roblox？點頭之前先做完這 5 件事](/zh/blog/kid-wants-roblox-parental-controls-zh)
+- [孩子滑短影音停不下來？用「蒙特梭利式專注力訓練」幫孩子放下手機](/zh/blog/short-video-addiction-tweens-montessori-zh)
+- [孩子因為限動只有 3 個愛心就把 IG 刪了？我們家提早在做的三件事](/zh/blog/teen-social-media-likes-self-worth-zh)
 - [朋友的兒子國一，每天起床第一件事是看 IG 追蹤數：工程師爸爸拆解演算法陷阱](/zh/blog/teen-social-media-follower-count-anxiety-zh)

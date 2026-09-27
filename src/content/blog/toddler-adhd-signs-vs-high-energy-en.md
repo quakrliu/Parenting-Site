@@ -1,6 +1,6 @@
 ---
 title: "Is My Preschooler's High Energy Normal, or Could It Be ADHD? Here's How to Tell"
-description: "A preschool teacher once asked us if we'd 'looked into an evaluation.' Here's what the research actually says about ADHD signs in toddlers and preschoolers, and how to tell the difference from normal high energy."
+description: "Has a preschool teacher asked if you've 'looked into an evaluation'? Here's what the research actually says about ADHD signs in toddlers and preschoolers, and how to tell the difference from normal high energy."
 pubDate: "2026-08-22"
 tags: ["ADHD in toddlers", "preschooler behavior", "child development", "attention span", "early intervention", "parenting research"]
 lang: "en"
@@ -14,13 +14,13 @@ draft: false
 
 ---
 
-Years ago, at pickup on a Thursday afternoon, Luna's preschool teacher pulled me aside in the hallway and said, gently, "Has anyone talked to you about getting her evaluated?"
+Maybe it happens at pickup. Your child's preschool teacher pulls you aside in the hallway and says, gently, "Has anyone talked to you about an evaluation?"
 
-I remember exactly where I was standing — by the cubby with the fish sticker on it, holding her half-zipped backpack. My stomach dropped in a way that had nothing to do with logic and everything to do with fear. *Evaluated for what?*
+Your stomach drops in a way that has nothing to do with logic and everything to do with fear. *Evaluated for what?*
 
-It turned out Luna had spent most of circle time that week wandering to the window, narrating what she saw outside instead of listening to the story. The teacher wasn't alarmed. She was just noticing. But I spent that whole car ride home spiraling through a list of things I didn't understand yet, and it's one of the most common messages we hear from parents in the BloomPath community: *my kid won't sit still, and I don't know if that's a problem or if that's just what a kid this age does.*
+Maybe your child has been wandering away during circle time, narrating what they see out the window instead of listening to the story. The teacher isn't alarmed — just noticing. But the whole ride home, you're spiraling through a list of things you don't understand yet: *my kid won't sit still, and I don't know if that's a problem or if that's just what a kid this age does.*
 
-Here's what I've learned since — from research, from Luna's actual development, and from a lot of conversations with other parents who got the same hallway comment I did.
+Here's what the research actually says — and what to do next.
 
 ## Is My Toddler's High Energy Normal, or Could It Be ADHD?
 
@@ -45,7 +45,7 @@ One thing that surprised me when I first read the research: none of these signs,
 
 ## What's Actually Different Between a High-Energy Kid and a Kid With ADHD?
 
-This is the question I actually needed answered, and it took me a while to find language for it. Researchers at institutions like Kennedy Krieger describe the core distinction as **focus under structure**. An energetic child can, when the moment calls for it, lock in — finish the puzzle, follow the two-step instruction, sit for the five minutes of a favorite book. It might take more redirection than it takes for their calmer sibling, but they get there.
+This is the question most parents actually need answered, and it can take a while to find language for it. Researchers at institutions like Kennedy Krieger describe the core distinction as **focus under structure**. An energetic child can, when the moment calls for it, lock in — finish the puzzle, follow the two-step instruction, sit for the five minutes of a favorite book. It might take more redirection than it takes for their calmer sibling, but they get there.
 
 A child showing ADHD-risk signs struggles to do this consistently, even when they clearly want to. They might get visibly frustrated trying to finish a task they care about and simply can't hold their attention on it long enough to succeed. The behavior also tends to show up in more than one setting — not just at home where limits might be looser, and not just at preschool where the structure is unfamiliar, but in both.
 
@@ -61,21 +61,21 @@ If your child's teacher raises the question, or if you're noticing the same patt
 
 ## What Can I Do While We Wait for an Evaluation?
 
-Evaluation waitlists are real, and the waiting itself can be the hardest part. A few things genuinely helped us in that stretch:
+Evaluation waitlists are real, and the waiting itself can be the hardest part. A few things can genuinely help in that stretch:
 
-**Use visual timers, not verbal countdowns.** "Five more minutes" means almost nothing to a preschooler's sense of time. A visual timer they can watch count down gives them something concrete to track, and it cut down on our transition meltdowns significantly.
+**Use visual timers, not verbal countdowns.** "Five more minutes" means almost nothing to a preschooler's sense of time. A visual timer they can watch count down gives them something concrete to track, and it can cut down on transition meltdowns.
 
 **Break instructions into one step at a time.** "Put on your shoes, then get your bag, then meet me at the door" is three instructions. For a child who's struggling to hold onto sequences, that's two too many. One instruction, confirmed, then the next.
 
-**Build in movement, don't fight it.** We stopped expecting Luna to sit still for everything and started building in movement breaks — a lap around the yard between activities, jumping jacks before we tried to read together. It wasn't a cure for anything. It made the sitting-still parts more achievable.
+**Build in movement, don't fight it.** Stop expecting your child to sit still for everything and start building in movement breaks — a lap around the yard between activities, jumping jacks before you try to read together. It isn't a cure for anything. It makes the sitting-still parts more achievable.
 
-**Keep a simple log.** Jot down when the hardest moments happen, where, and what was going on beforehand. This single piece of paper became the most useful thing we brought to our first appointment — more useful than my attempt to summarize "she's just really active" from memory.
+**Keep a simple log.** Jot down when the hardest moments happen, where, and what was going on beforehand. This single piece of paper can be the most useful thing you bring to a first appointment — far more useful than trying to summarize "my kid is just really active" from memory.
 
 ## What Does Montessori Say About High-Energy Kids?
 
 This is where my own bias shows, because Luna's Montessori classroom changed how I thought about this entirely. Montessori environments are built around the idea that movement and concentration aren't opposites — they're connected. Children are given long, uninterrupted work periods and the freedom to choose physical, hands-on activities (pouring, carrying, building) instead of being asked to sit still and listen for extended stretches.
 
-What I watched, year after year, was that an environment designed around real choice and purposeful movement drew out focus in Luna that circle time never could. That's not a substitute for an evaluation if your child genuinely needs one. But it told me something important: sometimes what looks like an attention problem is actually an environment mismatch, and it's worth ruling that out before assuming the harder explanation.
+An environment designed around real choice and purposeful movement can draw out focus that circle time never could. That's not a substitute for an evaluation if your child genuinely needs one. But it points to something important: sometimes what looks like an attention problem is actually an environment mismatch, and it's worth ruling that out before assuming the harder explanation.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
@@ -112,8 +112,8 @@ Visual timers, one-step instructions, built-in movement breaks, and a simple log
 
 ## Products We Recommend
 
-- [Time Timer Visual Timer](https://www.amazon.com/dp/B08SKVMGCK?tag=bloompath-20) — the single tool that made "five more minutes" mean something to our daughter.
+- [Time Timer Visual Timer](https://www.amazon.com/dp/B08SKVMGCK?tag=bloompath-20) — a simple tool that makes "five more minutes" mean something to a preschooler.
 - [Taking Charge of ADHD (4th Edition) by Russell A. Barkley](https://www.amazon.com/dp/1462507891?tag=bloompath-20) — the most research-backed parent guide if you're moving toward an evaluation.
-- [Sensory Fidget Toy Set (32-Pack)](https://www.amazon.com/dp/B07PKGVF89?tag=bloompath-20) — useful for building in the movement breaks that helped us most.
+- [Sensory Fidget Toy Set (32-Pack)](https://www.amazon.com/dp/B07PKGVF89?tag=bloompath-20) — useful for building in movement breaks.
 
-*Want to track your child's development milestones alongside guides like this one? [BloomPath's app](/en/app/) helps you log patterns over time — the same kind of log that made our first pediatrician appointment so much more useful.*
+*Want to track your child's development milestones alongside guides like this one? [BloomPath's app](/en/app/) helps you log patterns over time — the same kind of log that can make a first pediatrician appointment so much more useful.*

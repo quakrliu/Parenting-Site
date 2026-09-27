@@ -1,6 +1,6 @@
 ---
-title: "My Daughter Came Home From a Birthday Party Begging for Roblox. Here's What I Set Up Before I Said Yes"
-description: "An engineer dad breaks down Roblox and Minecraft's 2026 parental controls, what actually keeps kids safe, and the 5-step setup he ran before letting his daughter play."
+title: "Your Kid Came Home From a Birthday Party Begging for Roblox? Set Up These 5 Things Before You Say Yes"
+description: "An engineer dad breaks down Roblox and Minecraft's 2026 parental controls, what actually keeps kids safe, and a 5-step setup to run before letting your kid play."
 pubDate: "2026-08-28"
 tags: ["screen time", "Roblox safety", "video games kids", "digital parenting", "parental controls"]
 lang: "en"
@@ -10,11 +10,11 @@ draft: false
 ageGroup: ["school", "school-age", "teen"]
 ---
 
-**TL;DR:** Roblox rolled out mandatory facial age verification for chat access in January 2026 and split accounts into Roblox Kids (ages 5-8) and Roblox Select (ages 9-15). Minecraft's safety runs through the separate Microsoft Family Safety app, not the game itself. Neither one is safe "out of the box." Before I let my daughter download anything, I spent about 40 minutes auditing account settings, linking my own parent account, capping the Robux allowance, and turning off default chat. Below is the exact list, plus what the research actually says about how much game time is reasonable.
+**TL;DR:** Roblox rolled out mandatory facial age verification for chat access in January 2026 and split accounts into Roblox Kids (ages 5-8) and Roblox Select (ages 9-15). Minecraft's safety runs through the separate Microsoft Family Safety app, not the game itself. Neither one is safe "out of the box." Before letting your kid download anything, set aside about 40 minutes to audit account settings, link your own parent account, cap the Robux allowance, and turn off default chat. Below is the exact list, plus what the research actually says about how much game time is reasonable.
 
-Last Friday night, my daughter came home from her friend Mia's birthday party and did not take her shoes off before asking, "Can I get Roblox?" Apparently four girls at that party had it open on a shared iPad the whole afternoon, building some kind of pizza restaurant, and she had spent two hours watching over shoulders instead of playing. She was not asking permission so much as informing me of a decision that had already been made by consensus at the party.
+Maybe your kid came home from a friend's birthday party and did not take their shoes off before asking, "Can I get Roblox?" Apparently a few kids at the party had it open on a shared iPad the whole afternoon, building some kind of pizza restaurant, and your kid spent two hours watching over shoulders instead of playing. They are not asking permission so much as informing you of a decision that has already been made by consensus at the party.
 
-I said "let me look into it," which is dad code for "I need forty minutes and a strong coffee before I can answer this honestly." At BloomPath, half of what I build is about giving parents a clearer picture of what's actually happening with a kid's development, so my first instinct wasn't to panic — it was to go read the actual settings menu like it was a codebase I'd inherited from someone else.
+"Let me look into it" is a perfectly good answer — it's parent code for "I need forty minutes and a strong coffee before I can answer this honestly." At BloomPath, half of what I build is about giving parents a clearer picture of what's actually happening with a kid's development, so my first instinct with something like this isn't to panic — it's to go read the actual settings menu like it's a codebase I've inherited from someone else.
 
 *This article is part of our [Screen Time in 2026 guide](/en/blog/screen-time-2026-guide-en).*
 
@@ -26,7 +26,7 @@ Here's the pattern safety researchers keep flagging, and it's worth saying plain
 
 ## What Are Roblox's 2026 Parental Controls, Actually?
 
-Roblox now separates accounts by age band, and the controls differ meaningfully between them. Kids ages 5-8 get a **Roblox Kids** account with chat disabled by default. Ages 9-15 get **Roblox Select**, which allows more communication but keeps guardrails in place. The feature I actually used was **Linked Parent Accounts** — I connected my own Roblox login to my daughter's, which let me see her friends list, set a monthly Robux allowance instead of an open-ended spending permission, and review a "Parental Insights" dashboard that shows who she's been chatting with.
+Roblox now separates accounts by age band, and the controls differ meaningfully between them. Kids ages 5-8 get a **Roblox Kids** account with chat disabled by default. Ages 9-15 get **Roblox Select**, which allows more communication but keeps guardrails in place. The feature that matters most is **Linked Parent Accounts** — connecting your own Roblox login to your kid's lets you see their friends list, set a monthly Robux allowance instead of an open-ended spending permission, and review a "Parental Insights" dashboard that shows who they've been chatting with.
 
 None of this turns on by itself. You have to go looking for it in account settings, and the menu labeling isn't especially intuitive — I clicked through three different settings screens before I found the linked-account option, which tells you something about how much Roblox is still prioritizing account growth over making safety the obvious default path.
 
@@ -40,23 +40,23 @@ The commonly cited range is 1-2 hours on school days and up to 3 hours on weeken
 
 Mei's take on this, from the parenting-methods side of things, is that the question "how long" usually matters less than "with whom" and "doing what" — which lines up with the newer [5C framework guidance](/en/blog/aap-5cs-screen-time-framework-preschoolers-en) we've written about before: content, context, calm, communication, and consistency, rather than a hard stopwatch number.
 
-## The 5-Step Setup I Ran Before Saying Yes
+## The 5-Step Setup to Run Before Saying Yes
 
-I told my daughter she could have Roblox by Sunday. Here's what actually happened between Friday and Sunday:
+Here's the setup, in order:
 
-1. **Created a linked parent account first.** I made my own Roblox login before she made hers, so her account was born already connected to mine, not retrofitted later.
-2. **Set the account to the correct age band and verified it stuck.** I double-checked that her account actually landed in the Roblox Kids or Roblox Select tier that matched her age — the age estimation step doesn't always run cleanly, and I wanted to confirm it manually rather than assume it worked.
-3. **Turned off open chat and set a Robux allowance cap.** She gets a fixed monthly amount instead of open spending, and I turned off chat with anyone outside her existing friends-of-friends network.
-4. **Put the device in the living room, not her room.** This is the least technical step and honestly the most effective one. Nothing replaces being able to glance over from the kitchen table.
-5. **Scheduled a recurring monthly check.** Not a one-time setup — a calendar reminder to reopen the Parental Insights dashboard and look at who she's actually been talking to, because settings drift and friend requests pile up.
+1. **Create a linked parent account first.** Make your own Roblox login before your kid makes theirs, so their account is born already connected to yours, not retrofitted later.
+2. **Set the account to the correct age band and verify it stuck.** Double-check that the account actually landed in the Roblox Kids or Roblox Select tier that matches your kid's age — the age estimation step doesn't always run cleanly, so confirm it manually rather than assume it worked.
+3. **Turn off open chat and set a Robux allowance cap.** A fixed monthly amount instead of open spending, and chat turned off with anyone outside their existing friends-of-friends network.
+4. **Put the device in the living room, not their room.** This is the least technical step and honestly the most effective one. Nothing replaces being able to glance over from the kitchen table.
+5. **Schedule a recurring monthly check.** Not a one-time setup — a calendar reminder to reopen the Parental Insights dashboard and look at who your kid has actually been talking to, because settings drift and friend requests pile up.
 
-The part I want to be honest about: I almost skipped step 5. It felt like overkill for a kid who just wants to build a pizza restaurant. Then I read about the gift-then-migrate-to-Discord pattern again and put the reminder in my calendar anyway.
+It's tempting to skip step 5. It can feel like overkill for a kid who just wants to build a pizza restaurant. But the gift-then-migrate-to-Discord pattern is exactly why the reminder belongs in your calendar anyway.
 
 ## What If My Kid Already Has an Account I Didn't Set Up?
 
 If this is you — and it's a lot of parents, since kids often get accounts at a friend's house or on a hand-me-down tablet before you're even in the loop — the audit is the same five steps, just run in reverse. Log in with your kid present (not behind their back; this works better as a "let's do this together" conversation than a surprise inspection), check the current age band setting, review the existing friends list for anyone they don't actually know in person, and reset the chat permissions from scratch. It takes about the same 40 minutes either way.
 
-11 years into parenting, I still catch myself wanting a single toggle that makes all of this safe permanently. There isn't one. Settings drift, platforms update their policies, and the conversation has to happen more than once. That's not a failure of the tools — it's just what raising a kid in 2026 actually involves.
+Years into parenting, I still catch myself wanting a single toggle that makes all of this safe permanently. There isn't one. Settings drift, platforms update their policies, and the conversation has to happen more than once. That's not a failure of the tools — it's just what raising a kid in 2026 actually involves.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 

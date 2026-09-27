@@ -10,9 +10,9 @@ draft: false
 ageGroup: ["preschool", "school"]
 ---
 
-Last Tuesday afternoon, my friend Jenna picked up her five-year-old from his new Mandarin immersion kindergarten in Portland, and his teacher pulled her aside at the door. Six weeks into the school year, her son still hadn't said a single word in class — not to the teacher, not to the other kids, nothing. He wasn't crying at drop-off anymore. He wasn't refusing to go in. He just... didn't talk. Jenna texted me that night convinced something was wrong with him.
+Picture pickup at a new Mandarin immersion kindergarten. Six weeks into the school year, the teacher pulls you aside at the door: your five-year-old still hasn't said a single word in class — not to the teacher, not to the other kids, nothing. They're not crying at drop-off anymore. They're not refusing to go in. They just... don't talk. That night, you're convinced something is wrong.
 
-I've heard a version of this story more than once from parents at BloomPath, usually right around this point in the school year, when the new-classmate excitement has worn off and the silence hasn't. Here's what the actual research says is going on, and why it's very different from what most parents assume.
+If that sounds familiar, you're not alone — and the timing often lines up with the point in the school year when the new-classmate excitement has worn off and the silence hasn't. Here's what the actual research says is going on, and why it's very different from what most parents assume.
 
 **TL;DR:** A child who goes quiet at a new language-immersion school isn't broken, behind, or being difficult — this is a well-documented phase in second-language acquisition called the Silent Period (or nonverbal period). Researchers estimate it can last anywhere from about two weeks to six months, and during it, most kids are actively building comprehension even though they aren't producing speech yet. Many aren't fully silent at all — they communicate constantly through gesture, pointing, and copying peers. The main exception to watch for is a child who goes silent in every setting, including home, or who shows real distress well past the typical window — that's worth a conversation with a specialist.
 
@@ -20,7 +20,7 @@ I've heard a version of this story more than once from parents at BloomPath, usu
 
 The Silent Period is the stretch of time after a child is placed in a new language environment during which they understand far more than they say out loud. Linguist Stephen Krashen, who popularized the term, argued this silence isn't a delay or a problem to fix — it's the brain prioritizing comprehension before it risks production. Krashen and his colleague Tracy Terrell originally estimated this phase could run anywhere from one to six months in young children learning naturalistically.
 
-Later research narrowed that estimate considerably. A well-known study by [Pauline Gibbons](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-1770.1985.tb01027.x) that followed ESL students in Sydney primary schools found the average silent period lasted just over two weeks — but with huge individual variation. Some kids barely paused before jumping in. Others took months. Jenna's son, six weeks in, was well within a normal range, even if it didn't feel that way from the pickup line.
+Later research narrowed that estimate considerably. A well-known study by [Pauline Gibbons](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-1770.1985.tb01027.x) that followed ESL students in Sydney primary schools found the average silent period lasted just over two weeks — but with huge individual variation. Some kids barely paused before jumping in. Others took months. A child who's six weeks in is well within a normal range, even if it doesn't feel that way from the pickup line.
 
 *This article is part of our [Positive Parenting Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -34,7 +34,7 @@ Skipping straight to speech without that comprehension-building stage isn't actu
 
 Usually not, and this is the part that surprised me most in the research. A scoping review of [emergent bilingual children during the silent period](https://www.cambridge.org/core/journals/journal-of-child-language/article/emergent-bilingual-children-during-the-silent-period-a-scoping-review-of-their-communication-strategies-and-classroom-environments/BC017E73C1C33333DB8A8683DDF5A9DB) found that kids in this stage are rarely doing nothing — they point, mimic classmates, nod, laugh at the right moments, and use gesture constantly. Some researchers prefer "nonverbal period" over "silent period" for exactly this reason. A child who isn't speaking English yet but is copying the hand-washing song, lining up correctly, and laughing along at circle time is communicating plenty. They just haven't started producing spoken output in the new language.
 
-I asked Jenna to watch for this specifically over the next week. She texted back two days later: he'd been "talking" the whole time, just not in words — pointing at the snack he wanted, high-fiving a classmate after a game, mimicking the teacher's clean-up routine down to the exact gesture. None of that had registered to her as communication because she was only listening for English words.
+So watch for this specifically over the next week. You may find your child has been "talking" the whole time, just not in words — pointing at the snack they want, high-fiving a classmate after a game, mimicking the teacher's clean-up routine down to the exact gesture. It's easy to miss all of that as communication when you're only listening for words in the new language.
 
 ## How Long Should the Silent Period Last Before I Worry?
 
@@ -46,7 +46,7 @@ What is worth a closer look: a child who stops talking everywhere, including at 
 
 Keep talking to your child in both languages, keep sending them to school, and resist the urge to demand a response. Asking "can you say it in Chinese?" in front of the class puts pressure directly on the part of the process that isn't ready yet, and can make an anxious kid retreat further rather than open up. What actually helps is narrating without requiring a reply — "you picked the red cup" said calmly, no follow-up question attached — and giving your child credit for the nonverbal communication they're already doing.
 
-I'll admit this is harder to sit with than it sounds. Watching your kid stand quietly at pickup while every other kid chatters at their parent in the new language triggers a very specific kind of parent panic, and I've felt it plenty of times over the years watching other families go through it at our own school. The instinct is to fix it fast. The research says the fix is mostly patience plus normal exposure — not flashcards, not extra tutoring, not pulling a five-year-old aside for a "practice conversation."
+I'll admit this is harder to sit with than it sounds. Watching your kid stand quietly at pickup while every other kid chatters at their parent in the new language triggers a very specific kind of parent panic. The instinct is to fix it fast. The research says the fix is mostly patience plus normal exposure — not flashcards, not extra tutoring, not pulling a five-year-old aside for a "practice conversation."
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
@@ -59,10 +59,10 @@ If you're trying to track whether a quiet stretch is actually progress — compr
 
 ## Related Reading
 
-- [My Kid Mixes English and Mandarin Mid-Sentence — Here's What the Research Actually Says](/en/blog/bilingual-child-code-switching-en)
+- [Does Your Kid Mix English and Mandarin Mid-Sentence? Here's What the Research Actually Says](/en/blog/bilingual-child-code-switching-en)
 - [Bilingual Children Aren't Behind: New Research Finally Debunks the Language Delay Myth](/en/blog/bilingual-children-language-delay-myth-debunked-en)
-- [Why My Toddler Cries at Preschool Drop-Off Every Morning (And What Finally Stopped It)](/en/blog/toddler-preschool-drop-off-tears-en)
-- [My Kid Started Waking Up at 2 AM the Second Week of School — Here's What Was Actually Going On](/en/blog/back-to-school-anxiety-sleep-problems-en)
+- [Why Your Toddler Cries at Preschool Drop-Off Every Morning (And What Actually Helps)](/en/blog/toddler-preschool-drop-off-tears-en)
+- [Is Your Kid Waking Up at 2 AM the Second Week of School? Here's What's Actually Going On](/en/blog/back-to-school-anxiety-sleep-problems-en)
 
 ## Frequently Asked Questions
 

@@ -10,11 +10,11 @@ draft: false
 ageGroup: ["toddler"]
 ---
 
-Before kids, I thought potty training was simple. You wait until they're ready, you spend a weekend on it, done. My cousin trained her son in three days. I fully expected the same experience.
+Before kids, I thought potty training was simple. You wait until they're ready, you spend a weekend on it, done.
 
 Then I learned that readiness is not a single moment -- it's a combination of physical, emotional, and cognitive signals. And readiness does not arrive on schedule just because your toddler turns 2.
 
-We started training my daughter at 26 months, which felt late to some people in our circle. My mother-in-law asked if something was wrong. It wasn't. We were following her readiness cues, not a calendar -- which is exactly what BloomPath's development tracking is built around.
+If your child isn't trained by an age that some people around you consider "on time," that doesn't mean something is wrong. Following readiness cues instead of a calendar is what the research supports -- and exactly what BloomPath's development tracking is built around.
 
 *This article is part of our [Positive Parenting Complete Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -53,7 +53,7 @@ The AAP and pediatric research point to these readiness indicators. Look for a c
 - Can communicate the need to go (or is getting there)
 - Not in a period of major disruption (new sibling, new home, new daycare)
 
-My daughter showed most of these at 24-26 months. The two holdouts were communication (she wasn't yet telling us she needed to go) and staying dry for two hours. We waited a few more weeks. Second attempt: much smoother.
+If one or two signs are still missing -- say, your child isn't yet telling you they need to go, or can't stay dry for two hours -- waiting a few more weeks before trying again can make the next attempt much smoother.
 
 ---
 
@@ -69,15 +69,15 @@ This is one of those cases where patience actually makes the job easier.
 
 ## How to Prepare Before You Start
 
-A few things we did in the 4-6 weeks before starting:
+A few things that help in the 4-6 weeks before starting:
 
-**Talk about it matter-of-factly.** We mentioned the potty in normal conversation without pressure: 'Daddy uses the toilet, someday you will too.'
+**Talk about it matter-of-factly.** Mention the potty in normal conversation without pressure: 'Daddy uses the toilet, someday you will too.'
 
-**Let her observe.** Embarrassing to admit, but toddlers learn by watching. When our daughter was curious about bathroom routines, we explained calmly instead of rushing her out.
+**Let them observe.** Embarrassing to admit, but toddlers learn by watching. When your toddler is curious about bathroom routines, explain calmly instead of rushing them out.
 
-**Get the equipment early.** We bought a small standalone potty and put it in the bathroom with zero pressure for weeks. By the time we started, she was comfortable with it.
+**Get the equipment early.** Put a small standalone potty in the bathroom with zero pressure for weeks. By the time you start, your child is comfortable with it.
 
-**Pick a calm stretch.** We avoided starting during vacation week, a new daycare start, or a grandparent visit. Transitions layer stress. Do one major change at a time.
+**Pick a calm stretch.** Avoid starting during vacation week, a new daycare start, or a grandparent visit. Transitions layer stress. Do one major change at a time.
 
 The [child development milestones guide](/en/blog/child-development-milestones-en) has more on developmental windows for skills like this.
 
@@ -116,7 +116,7 @@ A: Absolutely. Consistency between home and daycare matters. Talk to providers b
 
 ## Products We Recommend
 
-The book that actually made our potty training make sense:
+Books that make potty training make sense:
 
 - [Oh Crap! Potty Training](https://www.amazon.com/dp/1501122983?tag=bloompath-20) by Jamie Glowacki -- practical, no-nonsense, and the single best resource I found. The structured approach works well when you're following readiness cues.
 - [How to Talk So Little Kids Will Listen](https://www.amazon.com/dp/150113163X?tag=bloompath-20) by Joanna Faber and Julie King -- the chapter on resistance applies directly to potty training power struggles.

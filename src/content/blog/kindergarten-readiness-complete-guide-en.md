@@ -46,7 +46,7 @@ Here's what surprised me researching this for our own daughter: kindergarten tea
 
 This is the domain the research keeps pointing back to. It includes: separating from a parent without prolonged distress, following multi-step directions from an adult who isn't you, taking turns, managing frustration without immediately falling apart, and working on a task independently for a stretch of time.
 
-I want to be honest about something here: our daughter was academically ahead of where her list said she needed to be, and she still had a rough first six weeks — not because of letters, but because circle time required sitting still and waiting for a turn to talk, and she'd never really had to practice that. We hadn't thought to practice it, because it wasn't on the checklist that scared me at the kitchen table.
+I want to be honest about something here: a child can be academically ahead of where the list says they need to be and still have a rough start — not because of letters, but because circle time requires sitting still and waiting for a turn to talk, and they may never have really had to practice that. It's easy to skip practicing it, because it usually isn't on the checklist.
 
 If you're prepping a child for this fall, [our guide on easing separation anxiety before day one](/en/blog/toddler-preschool-separation-anxiety-prep-en) and [the research on how daily routines ease the kindergarten transition](/en/blog/kindergarten-separation-anxiety-routines-research-en) both dig into this domain specifically.
 
@@ -121,7 +121,7 @@ Reading fluently, doing math beyond counting, or writing full sentences before k
 
 ---
 
-Priya's son, by the way, learned to tie his shoes in October, just like she predicted, and he was completely fine. Our daughter got through her rough six weeks of circle time and came out the other side loving school. Readiness isn't a pass-fail test you administer in August. It's a rough sense of where your child stands across three domains, and a plan to keep building the ones that need it — during the school year, not just before it starts.
+Priya's son, by the way, learned to tie his shoes in October, just like she predicted, and he was completely fine. Readiness isn't a pass-fail test you administer in August. It's a rough sense of where your child stands across three domains, and a plan to keep building the ones that need it — during the school year, not just before it starts.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 

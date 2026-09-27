@@ -10,11 +10,11 @@ draft: false
 ageGroup: ["toddler"]
 ---
 
-Last March, IKEA, Sweden section. My daughter decided that the specific yellow throw pillow she had been carrying for the last twenty minutes was, without warning, the most important object in the universe. When I gently suggested we put it back, she dropped to the floor and began a sound that I can only describe as a smoke alarm having an argument with another smoke alarm.
+If you've ever been in a store when your toddler suddenly decides that the yellow throw pillow they've been carrying for twenty minutes is, without warning, the most important object in the universe, you know what comes next. You gently suggest putting it back. They drop to the floor and begin a sound best described as a smoke alarm having an argument with another smoke alarm.
 
-Every person within fifteen meters looked over. I looked at my daughter on the floor. I looked at the pillow. I did a very brief internal calculation about who was winning this situation.
+Every person within fifteen meters looks over. You look at your child on the floor. You look at the pillow. You do a very brief internal calculation about who is winning this situation.
 
-Reader, I bought the pillow. But I also learned, through BloomPath's positive parenting resources and a lot of trial and error, why that wasn't actually the right move -- and what is.
+Buying the pillow is tempting. Here's why it isn't actually the right move -- and what is.
 
 *This article is part of our [Positive Parenting Complete Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -78,7 +78,7 @@ Here is my honest experience: most people watching a public toddler meltdown are
 
 What does affect development: whether you stay regulated and present for your child in that moment. The audience is irrelevant to the actual work.
 
-When I stopped performing for the imaginary jury of strangers and started focusing entirely on my daughter, meltdowns resolved faster. Not because she sensed my improvement (maybe she did, a little), but because I stopped adding my own anxiety to an already escalated situation.
+When you stop performing for the imaginary jury of strangers and focus entirely on your child, meltdowns tend to resolve faster. Not because your child senses the change (though maybe they do, a little), but because you stop adding your own anxiety to an already escalated situation.
 
 ---
 
@@ -132,7 +132,7 @@ A: Most people watching are not judging as harshly as you fear. Focus on your ch
 
 ## Products We Recommend
 
-These books helped me understand and actually handle big emotions -- my daughter's and my own:
+These books help with understanding and actually handling big emotions -- your child's and your own:
 
 - [No Bad Kids: Toddler Discipline Without Shame](https://www.amazon.com/dp/1499351119?tag=bloompath-20) by Janet Lansbury -- reframes toddler behavior in a way that genuinely changes how you respond in the moment.
 - [Good Inside](https://www.amazon.com/dp/0063159481?tag=bloompath-20) by Dr. Becky Kennedy -- the chapter on meltdowns as emotional floods is the most useful thing I've read on this topic.

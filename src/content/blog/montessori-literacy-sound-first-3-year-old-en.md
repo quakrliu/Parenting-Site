@@ -1,5 +1,5 @@
 ---
-title: "Is It Normal My 3-Year-Old Can't Read Yet? What Montessori's Sound-First Method Says"
+title: "Is It Normal If Your 3-Year-Old Can't Read Yet? What Montessori's Sound-First Method Says"
 description: "A Montessori parent's honest look at reading readiness: why letter-name flashcards backfire, what sandpaper letters actually do, and when 'not reading yet' is truly nothing to worry about."
 pubDate: "2026-09-04"
 tags: ["montessori literacy", "reading readiness", "toddler development", "montessori at home", "emergent literacy"]
@@ -16,9 +16,9 @@ BloomPath parents ask this constantly: is it normal for a 3-year-old not to read
 
 ---
 
-Two Tuesdays ago, I was standing in the pickup line at Luna's Montessori school when another mom leaned over and said, casually, like she was mentioning the weather: "Ellie's already sounding out three-letter words. CVC words, you know — cat, dog, sun." I smiled and said something like "that's great," and then spent the entire walk to the car doing mental math about what my daughter could and couldn't do at that age.
+Maybe it happens in a pickup line: another parent leans over and says, casually, like they're mentioning the weather, "She's already sounding out three-letter words. CVC words, you know — cat, dog, sun." You smile and say something like "that's great," and then spend the entire walk to the car doing mental math about what your own child can and can't do.
 
-I want to be honest about that moment because I think most parents have had a version of it — at a birthday party, in a group chat, standing next to another stroller at the park. Someone mentions their kid reading, or almost reading, and something in your chest tightens. This article is my attempt to answer the question I asked myself that afternoon, backed by what the research and the Montessori method actually say, not what a hallway conversation implied.
+I think most parents have had a version of that moment — at a birthday party, in a group chat, standing next to another stroller at the park. Someone mentions their kid reading, or almost reading, and something in your chest tightens. This article is my attempt to answer the question that moment raises, backed by what the research and the Montessori method actually say, not what a hallway conversation implied.
 
 *This article is part of our [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
@@ -40,7 +40,7 @@ Maria Montessori also described early childhood, roughly birth to six, as a "sen
 
 ## How to Handle a Toddler Who Seems "Behind" on Letters
 
-If you're standing in your own version of that pickup line right now, here's what actually helped me stop spiraling, in order:
+If you're standing in your own version of that pickup line right now, here's what actually helps you stop spiraling, in order:
 
 1. **Check for interest, not output.** Does your child ask "what does that say" on a cereal box or a stop sign? Do they beg for the same book every night? Interest is the real early signal, not letter recall.
 2. **Play sound games before letter games.** In the car, try "I spy something that starts with the same sound as your name." No flashcards required — this builds phonemic awareness, which research consistently shows predicts later reading more than early letter-naming does.
@@ -57,9 +57,9 @@ These are general patterns, not a checklist to panic over if your child doesn't 
 - **Ages 4-5:** Can often identify some letter sounds, starts noticing rhymes, may attempt to write letters or "invented spelling" (writing the sounds they hear, like "KT" for cat).
 - **Ages 5-6:** Kindergarten typically introduces blending sounds into words; this is genuinely the developmentally expected window for actual decoding to click for most kids.
 
-## What We Figured Out At Home (Trial and Error)
+## What Tends to Work at Home
 
-I'll admit the flashcard set sat in a drawer for about eight months before I accepted it wasn't the right tool yet. What actually worked in our house wasn't a program — it was noticing what Luna was already curious about and following that instead of a milestone chart. She got interested in the letters of her own name first, the way most kids do, because it's the word that matters most to her. We traced sandpaper letters together maybe three or four times before she lost interest, came back to it two weeks later on her own, and that second round is when something clicked. I didn't push the second round. She asked for it.
+When our daughter was younger, we had to learn this the slow way too. What tends to work isn't a program — it's noticing what your child is already curious about and following that instead of a milestone chart. Most kids get interested in the letters of their own name first, because it's the word that matters most to them. If you trace sandpaper letters together a few times and your child loses interest, let it go. Don't push a second round — wait for them to ask for it.
 
 The honest lesson, across years of watching this pattern at Luna's school and comparing notes with other parents: kids don't read on a schedule that matches our anxiety. They read when the pieces — sound awareness, vocabulary, fine motor control, genuine curiosity — line up, and that timeline is wildly individual.
 
@@ -106,5 +106,5 @@ Want to track your own child's development milestones without the comparison spi
 - [Montessori at Home: The Complete Guide](/en/blog/montessori-at-home-guide-en)
 - [10 Montessori Activities You Can Do Today With Things Already in Your Home](/en/blog/montessori-activities-at-home-en)
 - [Montessori Practical Life at Home: The 4-Year-Old Setup Guide](/en/blog/montessori-practical-life-home-en)
-- [My Bilingual 4-Year-Old Has a 'Vocabulary Gap' — Here's Why I Stopped Worrying](/en/blog/bilingual-4-year-old-vocabulary-en)
+- [Bilingual 4-Year-Old With a 'Vocabulary Gap'? What the Research Says](/en/blog/bilingual-4-year-old-vocabulary-en)
 - [Is Montessori Worth It? The 2025 National Study Finally Has an Answer](/en/blog/montessori-worth-it-uva-study-2025-en)

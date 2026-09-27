@@ -14,9 +14,9 @@ ageGroup: ["infant"]
 
 ---
 
-Week two, 3:14 a.m., I'm sitting on the kitchen floor with my back against the cabinet because the dishwasher hum was the only thing that had gotten her to stop crying in the last twenty minutes. I had a spreadsheet open on my phone — feed times, diaper changes, nap lengths, color-coded because that's how my brain copes with chaos — and I remember staring at it thinking: this data makes no sense. She slept for 40 minutes at 11 p.m., was wide awake and alert for an hour at 1 a.m., then crashed hard at 2:30. No pattern. Nothing to optimize.
+If it's week two, 3 a.m., and you're sitting on the kitchen floor with your back against the cabinet because the dishwasher hum is the only thing that got your baby to stop crying, you're in good company. Maybe you even have a spreadsheet open on your phone — feed times, diaper changes, nap lengths — and you're staring at it thinking: this data makes no sense. Forty minutes of sleep at 11 p.m., wide awake at 1 a.m., crashed hard at 2:30. No pattern. Nothing to optimize.
 
-I'm a software engineer. My entire professional instinct is to find the pattern, write the function, ship the fix. Newborn sleep does not care about your instincts. It took me until about week six to stop trying to impose a schedule and start actually reading what was happening in her brain, and that shift changed the whole first four months for us.
+I'm a software engineer, and when our daughter was a newborn, I was that parent with the color-coded spreadsheet. My entire professional instinct is to find the pattern, write the function, ship the fix. Newborn sleep does not care about your instincts. What finally helped was to stop trying to impose a schedule and start actually reading what was happening in her brain.
 
 ## Why doesn't my newborn know it's nighttime?
 
@@ -40,9 +40,9 @@ Three things, and none of them were a strict schedule.
 
 **Light in the day, dark and boring at night.** This was the single biggest lever. During the day, even for naps, we kept blinds open and didn't tiptoe around normal household noise. At night, feeds happened in near-dark with minimal talking — no bright overhead lights, no chatting her back to sleep. Babies exposed to a clear light-dark cycle develop more distinct rest-and-activity patterns than babies kept in constant dim light, and you can feel the difference within a couple of weeks of doing this consistently.
 
-**A sound machine that stayed on all night, not just for naps.** The dishwasher-floor moment above is basically what pushed us to get a real one instead of relying on random household noise. Pediatric guidance generally points to keeping it around a moderate volume — loud enough to mask hallway noise and door creaks, not loud enough to be doing any work on its own. Consistency mattered more than the specific sound.
+**A sound machine that stayed on all night, not just for naps.** If the dishwasher hum is the only thing that works, that's your sign to get a real one instead of relying on random household noise. Pediatric guidance generally points to keeping it around a moderate volume — loud enough to mask hallway noise and door creaks, not loud enough to be doing any work on its own. Consistency mattered more than the specific sound.
 
-**Letting go of the spreadsheet by about week eight.** I want to be honest about this one: tracking every feed for the first month wasn't useless — it helped us catch a slow weight-gain pattern our pediatrician wanted to watch. But by week eight, the tracking had turned into anxiety management for me, not actual information for her. Mei was the one who finally said, "You're not learning anything new from this anymore, you're just checking a box." She was right. I deleted the color-coding and kept the sleep sack.
+**Letting go of the spreadsheet by about week eight.** I want to be honest about this one: tracking every feed for the first month wasn't useless — it gave us real information early on. But by week eight, the tracking had turned into anxiety management for me, not actual information for her. Mei was the one who finally said, "You're not learning anything new from this anymore, you're just checking a box." She was right. I deleted the color-coding and kept the sleep sack.
 
 ## Isn't sleep training supposed to fix this?
 

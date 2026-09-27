@@ -22,9 +22,9 @@ draft: false
 
 ---
 
-Last Saturday morning at the park near our house, I sat next to a mom I'd met maybe twice before — I think her name was Jenny, baby in a stroller, coffee in hand, that particular look of a parent running on five hours of sleep. Her son was eight months old and doing this determined scoot-drag thing across the blanket, one leg tucked under him, never once going up on hands and knees. "He won't crawl properly," she said, not quite looking at me. "My sister's baby was crawling at seven months. I keep googling it at 2am."
+Maybe your eight-month-old is doing a determined scoot-drag thing across the blanket, one leg tucked under, never once going up on hands and knees. Maybe a cousin's baby was crawling at seven months. And maybe you keep googling it at 2am.
 
-I've been that mom googling at 2am. Years ago, when our daughter Luna was around that same age, I did the exact same thing — propped my phone above a nursing pillow, typing "baby not crawling normal or not" into a search bar that had clearly seen this question ten thousand times before. What I didn't know then, and what most parents still don't know now, is that the actual medical guidance on this changed. CDC quietly rewrote the rulebook in 2022, and crawling isn't part of it anymore.
+If you've ever typed "baby not crawling normal or not" into a search bar that has clearly seen this question ten thousand times before, you're far from alone. What most parents still don't know is that the actual medical guidance on this changed. CDC quietly rewrote the rulebook in 2022, and crawling isn't part of it anymore.
 
 This is the kind of update BloomPath exists to translate — the official source is dense and buried three clicks deep on a government site, and nobody has time to parse a PDF at 2am with a baby on their chest.
 
@@ -76,7 +76,7 @@ You don't need a curriculum. A few things genuinely help, based on both pediatri
 
 No — and this is worth saying plainly because it's the exact fear that used to send parents into a spiral. A baby who sits well, pulls to stand, cruises along the couch, and then walks — without ever doing a classic hands-and-knees crawl — is following one of several completely typical paths. CDC's removal of crawling from the checklist is essentially an official acknowledgment of something pediatric researchers had been saying for years: crawling was never a required rung on the ladder, just one common way to climb it.
 
-If you're the parent standing at the park doing that same 2am search I did years ago, the honest answer is: you're probably fine, and if you're not, the *real* red flags (no movement attempts at all, loss of a skill, strong asymmetry) will show up in ways that are much clearer than "hasn't crawled yet."
+If you're the parent doing that 2am search, the honest answer is: you're probably fine, and if you're not, the *real* red flags (no movement attempts at all, loss of a skill, strong asymmetry) will show up in ways that are much clearer than "hasn't crawled yet."
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
@@ -108,7 +108,7 @@ Montessori practice emphasizes freedom of movement on the floor rather than cont
 
 *As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
 
-- [**Lovevery The Play Gym**](https://www.amazon.com/dp/B075R8BXXC?tag=bloompath-20) — A stage-based activity mat that grows with your baby through the exact "reach, roll, scoot, pull-up" window this article covers. We used ours until Luna outgrew tummy time entirely.
+- [**Lovevery The Play Gym**](https://www.amazon.com/dp/B075R8BXXC?tag=bloompath-20) — A stage-based activity mat that grows with your baby through the exact "reach, roll, scoot, pull-up" window this article covers.
 - [**Good Inside** by Dr. Becky Kennedy](https://www.amazon.com/dp/0063159481?tag=bloompath-20) — Not a milestone book specifically, but the single best resource I've found for turning down the volume on comparison-driven parenting anxiety, which is really what "is my baby behind" questions are about underneath.
 
 ---
@@ -118,6 +118,6 @@ Want a simple way to log what your baby is actually doing — movement attempts,
 **Related Reading:**
 
 - [Child Development Milestones: The Complete Guide (0–6 Years)](/en/blog/child-development-milestones-en)
-- [RIE Parenting: Why I Stopped Narrating Every Second of My Baby's Playtime](/en/blog/rie-respectful-parenting-baby-independent-play-en)
-- [My Daughter's Height Growth Stalled for Three Months — Our Pediatrician Asked About Bedtime, Not Milk](/en/blog/child-height-growth-sleep-connection-en)
+- [RIE Parenting: Respectful Care and Independent Play for Babies](/en/blog/rie-respectful-parenting-baby-independent-play-en)
+- [Child Height Growth and Sleep: Why Bedtime Matters](/en/blog/child-height-growth-sleep-connection-en)
 - [Montessori Toys by Age 2026: What Actually Works (And What Collects Dust)](/en/blog/montessori-toys-by-age-2026-en)

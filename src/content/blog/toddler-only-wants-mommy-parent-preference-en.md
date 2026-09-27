@@ -1,6 +1,6 @@
 ---
-title: "My Toddler Only Wants Mom: A Dad's Survival Guide to the Parent Preference Phase"
-description: "Your toddler screams for the other parent every time you walk in. Here's what the attachment science actually says — and how to stop taking it personally from an engineer dad who lived through it."
+title: "Toddler Only Wants Mom? A Dad's Survival Guide to the Parent Preference Phase"
+description: "Your toddler screams for the other parent every time you walk in. Here's what the attachment science actually says — and how to stop taking it personally, from an engineer dad's point of view."
 pubDate: "2026-05-11"
 tags: ["toddler parenting", "parent preference phase", "toddler only wants mom", "positive parenting", "attachment theory", "toddler behavior", "dad parenting tips"]
 lang: "en"
@@ -10,13 +10,13 @@ draft: false
 ageGroup: ["toddler"]
 ---
 
-Tuesday. 8:17 PM. I walked into my daughter's room holding her gray stuffed elephant — the one without the hat, because that detail matters enormously when you're 22 months old — ready to do bedtime. She looked up. She assessed me. She made her ruling.
+If you're the "other" parent, you may know this moment. You walk into your toddler's room at bedtime holding her gray stuffed elephant — the one without the hat, because that detail matters enormously when you're 22 months old. She looks up. She assesses you. She makes her ruling.
 
 "I WANT MOMMYYY. DADDY GO AWAY."
 
-I stood there holding a stuffed elephant, feeling inexplicably like I'd just been voted off an island by someone who still needed help opening a juice box. When I mentioned this to the team at [BloomPath](https://bloom-path.app), their response was not the sympathy I was looking for. It was: "That's actually a sign of healthy attachment development. Congratulations." I was not consoled.
+You stand there holding a stuffed elephant, feeling inexplicably like you've just been voted off an island by someone who still needs help opening a juice box. Here at [BloomPath](https://bloom-path.app), we'll tell you something that probably won't console you at first: that's actually a sign of healthy attachment development.
 
-But it turns out they were right. And understanding why — actually understanding the developmental science behind it — was the only thing that got me through the next eight months without permanently internalizing a complex about my own child.
+But it's true. And understanding why — actually understanding the developmental science behind it — is what gets you through this phase without permanently internalizing a complex about your own child.
 
 *This article is part of our [Positive Parenting Complete Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -28,7 +28,7 @@ But it turns out they were right. And understanding why — actually understandi
 
 Somewhere between 18 months and 3 years, many toddlers lock in on one parent with an intensity that feels almost territorial. They want that parent for bedtime. That parent for boo-boos. That parent for the car seat buckle, the banana peeling, and the very specific way the blanket goes on.
 
-The non-preferred parent — hi, that was me — gets the full experience of being gently (and sometimes not gently) redirected. "No daddy, MOMMY do it." "Daddy sit over THERE." On a particularly rough Tuesday in December, my daughter asked me to leave the room while she finished her yogurt. The yogurt required privacy. I was not invited.
+The non-preferred parent gets the full experience of being gently (and sometimes not gently) redirected. "No daddy, MOMMY do it." "Daddy sit over THERE." On a particularly rough day, you might even be asked to leave the room while she finishes her yogurt. The yogurt requires privacy. You are not invited.
 
 This is the parent preference phase. And the first thing you need to know is that it doesn't mean what it feels like it means.
 
@@ -58,7 +58,7 @@ Toddlers between 18 and 36 months are in the height of what developmental psycho
 
 ### Reason 4: Preferences Shift With Context
 
-Here's something I noticed that actually made me feel better: the preference isn't always the same. At certain points, my daughter only wanted me for the bath. She wanted her mom for bedtime. She wanted me for the park. The "only wants mom" phase was really more of a "has strong opinions about who she wants for each specific task" phase, and those opinions evolved constantly.
+Here's something that can make you feel better: the preference isn't always the same. A toddler might only want you for the bath, her other parent for bedtime, and you again for the park. The "only wants mom" phase is often more of a "has strong opinions about who she wants for each specific task" phase, and those opinions evolve constantly.
 
 Preferences track availability and association. If one parent handles most bedtimes, that parent becomes the bedtime expert in the child's mind. If the other parent is the park person, they become the park expert. The preference isn't a verdict on your worth as a parent — it's a very literal database of who does what.
 
@@ -66,7 +66,7 @@ Preferences track availability and association. If one parent handles most bedti
 
 ## What Not to Do (The Rejected Parent Edition)
 
-I made several of these mistakes. I'm sharing them because I want you to have documentation that you're not alone.
+These mistakes are incredibly common. I'm sharing them because I want you to have documentation that you're not alone.
 
 **Don't take it personally out loud.** "That hurts daddy's feelings" said to a 22-month-old is... not effective. They don't have the empathy machinery yet to process that information usefully. What they register is that they've caused your emotional distress, which either adds to their own dysregulation or, somewhat worse, teaches them that rejecting you gets a big emotional reaction. Neither outcome is helpful.
 
@@ -78,11 +78,11 @@ I made several of these mistakes. I'm sharing them because I want you to have do
 
 ---
 
-## What Actually Helps: Five Things That Worked for Me
+## What Actually Helps: Five Things to Try
 
 ### 1. Claim One Low-Stakes Ritual
 
-Pick one routine and make it yours. Not bedtime, if that's a battlefield. Pick morning teeth-brushing, or post-dinner bath, or the walk to the mailbox. Do it consistently, cheerfully, without competition. Over weeks, you become the association for that moment. I was the Saturday pancake guy. That became a whole thing.
+Pick one routine and make it yours. Not bedtime, if that's a battlefield. Pick morning teeth-brushing, or post-dinner bath, or the walk to the mailbox. Do it consistently, cheerfully, without competition. Over weeks, you become the association for that moment.
 
 ### 2. Play the Long Game With Parallel Presence
 
@@ -90,7 +90,7 @@ Stay near. Be fun and available without requiring response. Read a book near whe
 
 ### 3. Let the Preferred Parent Step Back Strategically
 
-Mei, my co-founder and wife — who's been a Montessori-school parent for years and has heard this pattern from many teachers and other parents — described it this way: "The preferred parent is often the obstacle to the other parent's relationship, without meaning to be. If mom always rushes in the moment the toddler asks, the toddler never has to find out that dad is also safe."
+Mei, my co-founder and wife, describes it this way: "The preferred parent is often the obstacle to the other parent's relationship, without meaning to be. If mom always rushes in the moment the toddler asks, the toddler never has to find out that dad is also safe."
 
 This requires the preferred parent to do something uncomfortable: step back. Not disappear. But delay the response by 30 seconds. Let the non-preferred parent step in calmly. Let the toddler discover that comfort is available from two sources. This is one of the most effective interventions in the research, and it requires teamwork.
 
@@ -102,7 +102,7 @@ I'm not as good at the bedtime voice as my wife. I accept this. But I'm signific
 
 This is the Montessori principle Mei kept coming back to: "Children feel your anxiety about their rejection more than they feel the rejection itself. If you come in calm and open and leave calm and open, the message is: I am here, I am safe, I am not threatened by your feelings. That builds more trust than winning the bedtime battle."
 
-I read [The Whole-Brain Child by Daniel Siegel](https://www.amazon.com/dp/0553386699?tag=bloompath-20) around month three of this phase, and the chapter on the difference between "connecting" and "directing" genuinely changed how I approached my daughter. Highly recommend for any parent who wants to understand the neuroscience without a PhD.
+[The Whole-Brain Child by Daniel Siegel](https://www.amazon.com/dp/0553386699?tag=bloompath-20) is worth reading during this phase — the chapter on the difference between "connecting" and "directing" can change how you approach your toddler. Highly recommend for any parent who wants to understand the neuroscience without a PhD.
 
 For more on co-regulation and staying calm when your toddler is spiraling, read our guide on [handling toddler meltdowns with the Montessori approach](/en/blog/toddler-meltdowns-montessori-en).
 
@@ -110,9 +110,7 @@ For more on co-regulation and staying calm when your toddler is spiraling, read 
 
 ## The Montessori Frame: What Mei Taught Me
 
-When I described the full situation to Mei — the elephant rejection, the December yogurt incident, the general pattern of being the second-choice parent for about six months straight — she said something that stuck with me.
-
-"In my classroom, I saw this pattern every single day. A child bonds intensely with one teacher and will only go to her. The other teachers take it personally. But the child isn't rejecting anyone. They're exercising a developmental right: the right to have a preference. The job of the non-preferred adult is to remain warm, remain present, remain predictable. The research shows that children with secure attachments to two caregivers are more emotionally regulated, more socially competent. You're building that — even if it doesn't feel like it right now."
+Mei puts it this way: "A child who bonds intensely with one adult isn't rejecting anyone. They're exercising a developmental right: the right to have a preference. The job of the non-preferred adult is to remain warm, remain present, remain predictable. The research shows that children with secure attachments to two caregivers are more emotionally regulated, more socially competent. You're building that — even if it doesn't feel like it right now."
 
 The Montessori approach frames this as respecting the child's internal experience while staying reliably available. You're not forcing warmth. You're making warmth consistently accessible until the child reaches for it.
 
@@ -160,7 +158,7 @@ Extremely. Preferences shift based on energy levels, recent experiences, who the
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "My Toddler Only Wants Mom: A Dad's Survival Guide to the Parent Preference Phase",
+  "headline": "Toddler Only Wants Mom? A Dad's Survival Guide to the Parent Preference Phase",
   "description": "Your toddler screams for the other parent every time you walk in. Here's what the attachment science actually says and how to stop taking it personally.",
   "author": {
     "@type": "Person",

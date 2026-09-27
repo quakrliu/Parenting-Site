@@ -10,9 +10,9 @@ draft: false
 ageGroup: ["infant", "toddler"]
 ---
 
-Years ago, back when our daughter was still small enough to fit in the crook of one arm, she went three nights in a row where she'd wake up around 2 a.m., jam her fist into her mouth, and scream in a way that was different from her usual cry. My wife Mei was convinced she was coming down with something. I was convinced I'd broken the baby monitor because the sound felt so much louder at that hour. Neither of us guessed "teeth" until my mother-in-law took one look at the drool-soaked collar of her onesie and said, in the calm voice of someone who has seen this movie before, "she's teething."
+If your baby has ever woken in the middle of the night, jammed a fist into their mouth, and screamed in a way that sounds different from their usual cry, "teeth" might not be the first thing you think of. When our daughter was a baby, it wasn't the first thing we thought of either.
 
-That was the start of me reading more about tooth eruption than I ever expected to as someone who writes about parenting research for BloomPath. What I found surprised me: some of what I assumed was obviously true about teething — the fever, the diarrhea — turned out to be myths that pediatric sources have been trying to correct for years. And some of what I assumed was a harmless home remedy turned out to be something the FDA has specifically warned parents to stop using.
+Looking into it later sent me reading more about tooth eruption than I ever expected to as someone who writes about parenting research for BloomPath. What I found surprised me: some of what I assumed was obviously true about teething — the fever, the diarrhea — turned out to be myths that pediatric sources have been trying to correct for years. And some of what I assumed was a harmless home remedy turned out to be something the FDA has specifically warned parents to stop using.
 
 **TL;DR:** Real teething symptoms are drooling, gum swelling, a strong urge to chew, and mild irritability — not high fever, not diarrhea, not vomiting. The safest remedies are also the simplest: a chilled (not frozen) silicone teether, gentle gum massage with a clean finger, and extra holding. Skip benzocaine gels (FDA warning, risk of methemoglobinemia), amber teething necklaces (choking and strangulation hazard), and homeopathic teething tablets (inconsistent, occasionally dangerous ingredient levels). If your baby has a fever over 100.4°F, call the pediatrician — that's not teething.
 
@@ -64,7 +64,7 @@ It's also worth a call if the fussiness and sleep disruption stretch on for more
 
 Most babies get their bottom two front teeth (central incisors) first, followed by the top two front teeth, then the lateral incisors, first molars, canines, and finally the second molars — with all 20 primary teeth typically in by around age 3 ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/teething/art-20046378)). Molars in particular tend to be the roughest round, since they're wider and take up more room breaking through the gum.
 
-We noticed the molar phase, months after the first-tooth phase, was honestly worse — more chewing, more night waking, more of that particular cranky-and-clingy combination that makes you google the same questions all over again even though you'd already been through it once.
+The molar phase, often months after the first-tooth phase, can honestly be worse — more chewing, more night waking, more of that particular cranky-and-clingy combination that makes you google the same questions all over again even though you'd already been through it once.
 
 ---
 
@@ -103,7 +103,7 @@ Call if there's a fever above 100.4°F, diarrhea, vomiting, a rash, or if fussin
 ## Related Reading
 
 - [Newborn Sleep: The Spreadsheet That Saved My Sanity](/en/blog/newborn-sleep-day-night-confusion-en)
-- [My Toddler Refuses Medicine: A Dad's Guide to Sick Days That Actually Work](/en/blog/toddler-refuses-medicine-sick-days-en)
+- [Toddler Refuses Medicine? A Dad's Guide to Sick Days That Actually Work](/en/blog/toddler-refuses-medicine-sick-days-en)
 - [My Daughter Screamed Through Every Doctor's Visit for Two Years](/en/blog/toddler-doctor-visit-shot-fear-en)
 - [Baby & Toddler Nutrition: The Complete Guide (0–3 Years)](/en/blog/baby-nutrition-health-guide-en)
 - [Toddler Constipation: Why It Happens and What Actually Helps](/en/blog/toddler-constipation-complete-guide-en)

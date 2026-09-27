@@ -21,9 +21,7 @@ ageGroup: ["school-age", "teen"]
 
 ---
 
-Three weeks ago, my friend Mike texted me a ten-second video from his living room in Denver: his son Kai, eleven years old, thumb flicking up every second and a half, eyes glazed, not responding to being called for dinner three separate times. "He's not even laughing at anything," Mike wrote. "He's just... going." At BloomPath, this is close to the single most common message we get from parents right now — not "my kid watches too much TV," but something closer to worry that the watching itself has changed.
-
-I didn't get to feel superior for long. A few months back I noticed my own daughter, who used to ask me to help her build the same LEGO set for two hours straight, had quietly swapped that habit for fifteen-second videos any time she had ten free minutes. Same kid. Completely different relationship with her own attention.
+If you've ever called your tween to dinner three separate times while their thumb kept flicking up every second and a half, eyes glazed, not even laughing at anything — just... going — you're not alone. It's not quite the old worry of "my kid watches too much TV." It's closer to a sense that the watching itself has changed.
 
 ## Why Can't My Kid Stop Watching Short Videos?
 
@@ -45,15 +43,15 @@ Here's the collision: a brain that's used to a new stimulus every 1.5 seconds fi
 
 ## How Do You Actually Get a Tween to Cut Back Without a Nightly Fight?
 
-You cut back gradually, with your kid's input, not by confiscating the phone at dinner and hoping for peace. A sudden hard ban tends to backfire — kids get resourceful, borrow a friend's device, or just get sneakier, which trades a screen-time problem for a trust problem. What's worked in my house, and what Mike ended up trying with Kai after we compared notes, breaks into three concrete moves.
+You cut back gradually, with your kid's input, not by confiscating the phone at dinner and hoping for peace. A sudden hard ban tends to backfire — kids get resourceful, borrow a friend's device, or just get sneakier, which trades a screen-time problem for a trust problem. A gradual approach breaks into three concrete moves.
 
 **Move the charging spot out of the bedroom.** This is the single change that does the most work and it has nothing to do with willpower — it's environment design, which is a very Montessori idea in disguise (a "prepared environment" removes the temptation instead of relying on self-control to resist it). If the phone charges in the kitchen overnight, the 11pm scroll and the first-thing-in-the-morning scroll both disappear without a single argument.
 
-**Replace the algorithm with a choice.** Short-form feeds are engineered to remove decision-making. A subscribed YouTube playlist, a downloaded show, or a specific creator your kid follows on purpose restores something closer to active choice — which is the whole Montessori point of "freedom within limits." Kai's version of this was a rule: fifteen minutes of a show he picked in advance, no infinite-scroll app, period.
+**Replace the algorithm with a choice.** Short-form feeds are engineered to remove decision-making. A subscribed YouTube playlist, a downloaded show, or a specific creator your kid follows on purpose restores something closer to active choice — which is the whole Montessori point of "freedom within limits." One version of this is a simple rule: fifteen minutes of a show your kid picked in advance, no infinite-scroll app, period.
 
 **Protect one stretch of boring, screen-free time before video is even an option.** This is the part parents skip because it sounds soft, but it's the actual mechanism behind reduced dependency — a kid who does twenty minutes of Lego, drawing, or bike riding before screens ever come up is exercising the exact muscle that short video atrophies. It doesn't need to be structured or "enrichment." Boredom is the point.
 
-We had our own confession moment trying this: the first week, Luna asked for her phone back four separate times in the first ninety minutes, and I nearly caved twice. It got easier by week two, not because she stopped wanting it, but because the wanting stopped feeling like an emergency to either of us.
+Expect pushback at first. In the first week, your kid may ask for the phone back again and again, and you may nearly cave. It tends to get easier after that — not because they stop wanting it, but because the wanting stops feeling like an emergency to either of you.
 
 ## What About Talking to Your Kid About Why the App Is Built This Way?
 
@@ -65,8 +63,8 @@ Want a hand figuring out what independent, attention-building activities actuall
 
 ## Products We Recommend
 
-- [The Anxious Generation by Jonathan Haidt](https://www.amazon.com/dp/B0D9WT6DP7?tag=bloompath-20) — the clearest breakdown I've read of what constant device access does to a developing brain, and the research Mike and I both went back to before making any household rules.
-- [Gabb Phone 4](https://www.amazon.com/dp/B0D8683JFV?tag=bloompath-20) — a real phone with GPS and calling but no browser, no app store, and no infinite-scroll feed to design around. What Kai actually switched to.
+- [The Anxious Generation by Jonathan Haidt](https://www.amazon.com/dp/B0D9WT6DP7?tag=bloompath-20) — the clearest breakdown I've read of what constant device access does to a developing brain, and a good place to start before making any household rules.
+- [Gabb Phone 4](https://www.amazon.com/dp/B0D8683JFV?tag=bloompath-20) — a real phone with GPS and calling but no browser, no app store, and no infinite-scroll feed to design around.
 - [Hatch Restore 3 Sunrise Alarm Clock](https://www.amazon.com/dp/B0DLLTJFJL?tag=bloompath-20) — solves the "but I need my phone as my alarm clock" argument, which is the excuse that keeps most phones charging in bedrooms in the first place.
 
 ## Frequently Asked Questions
@@ -89,7 +87,7 @@ Move the phone's charging spot out of the bedroom, replace algorithm-fed feeds w
 ## Related Reading
 
 - [Screen Time in 2026: Why the 2-Hour Rule No Longer Applies to Your School-Age Child](/en/blog/screen-time-rules-school-age-kids-2026-en)
-- [My Daughter Came Home From a Birthday Party Begging for Roblox. Here's What I Set Up Before I Said Yes](/en/blog/kid-wants-roblox-parental-controls-en)
+- [Your Kid Came Home From a Birthday Party Begging for Roblox? Set Up These 5 Things Before You Say Yes](/en/blog/kid-wants-roblox-parental-controls-en)
 - [Is AI Doing My Kid's Thinking For Her? What 'Cognitive Debt' Research Actually Says](/en/blog/ai-cognitive-debt-kids-en)
 - [Teen Mental Health in 2026: Warning Signs Every Parent Should Know](/en/blog/teen-mental-health-warning-signs-2026-en)
 - [Montessori Preschool Costs Less AND Works Better — National Study Proves It (2026)](/en/blog/montessori-national-study-2026-results-en)

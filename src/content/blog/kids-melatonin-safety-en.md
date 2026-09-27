@@ -15,9 +15,9 @@ ageGroup: ["toddler", "preschooler", "school"]
 
 **TL;DR:** Low-dose, short-term melatonin appears safe for most kids under a pediatrician's guidance, but it's not meant to be a nightly grab-and-go supplement. CDC data shows a 530% jump in poison control calls for pediatric melatonin exposure between 2012 and 2021, tied to two deaths — mostly because gummies look like candy and aren't in child-proof packaging. BloomPath's take: try the free fixes first, and if you do use melatonin, treat it like medicine, not a vitamin.
 
-Three weeks ago, at a birthday party for one of Luna's classmates, another mom named Priya pulled a bottle of cherry gummies out of her bag around 4pm and handed two to her son like they were fruit snacks. I asked what they were. "Melatonin," she said. "He's been up till ten every night, so we just started giving him one before dinner sometimes, whenever it's bad." She wasn't being careless — she looked tired in the specific way parents look tired when a kid's sleep has been broken for weeks. I understood the impulse completely. I just also knew, from reading up on this after a scare in our own house, that the timing and the dose she described weren't quite what pediatric sleep guidance actually recommends.
+Maybe you've seen it at a birthday party: around 4pm, another parent pulls a bottle of cherry gummies out of their bag and hands two to their kid like fruit snacks. "Melatonin," they explain. "He's been up till ten every night, so we just give him one before dinner sometimes, whenever it's bad." They're not being careless — they're tired in the specific way parents get tired when a kid's sleep has been broken for weeks. The impulse is completely understandable. But the timing and the dose they describe aren't quite what pediatric sleep guidance actually recommends.
 
-That scare was two years ago. My daughter's cousin got into an unattended bottle of melatonin gummies at a family gathering and ate what we later guessed was six or seven of them before anyone noticed. She was fine — groggy for a few hours, nothing more — but it rattled everyone at that table, including me. I went home and actually read the research instead of just trusting the bottle that says "natural sleep aid" in friendly script. What I found surprised me, and it's worth walking through here at BloomPath because I don't think most parents have seen these numbers.
+Gummies that look like candy also carry a second risk: a child who finds an unattended bottle can eat several before anyone notices. So it's worth reading the research instead of just trusting the bottle that says "natural sleep aid" in friendly script. What it shows is worth walking through here at BloomPath, because I don't think most parents have seen these numbers.
 
 ## Is Melatonin Actually Safe for Kids?
 
@@ -29,7 +29,7 @@ That gap matters more than it sounds. Melatonin isn't just a sleep aid — it's 
 
 Because gummies look and taste exactly like candy, and most bottles aren't sold in child-resistant packaging the way real medication is. The CDC tracked a 530% increase in poison control center calls for pediatric melatonin exposure between 2012 and 2021 — from about 8,250 calls a year to over 44,500. Those exposures were tied to nearly 28,000 emergency department and clinic visits, over 4,000 hospitalizations, close to 300 ICU admissions, and two deaths. Melatonin sales rose about 150% over roughly that same window, so more bottles in more houses is part of the story, but it's not the whole story.
 
-The other part is a labeling problem most parents don't know about. Because melatonin is sold as a supplement in the US, not a drug, it isn't held to the same manufacturing standards. A widely cited analysis of melatonin gummy products found that actual melatonin content ranged from under half of what the label claimed to more than three times the labeled dose, in some cases with almost none at all. So when Priya said "one gummy," the actual amount her son got could have been meaningfully different from what the label promised.
+The other part is a labeling problem most parents don't know about. Because melatonin is sold as a supplement in the US, not a drug, it isn't held to the same manufacturing standards. A widely cited analysis of melatonin gummy products found that actual melatonin content ranged from under half of what the label claimed to more than three times the labeled dose, in some cases with almost none at all. So "one gummy" can mean a meaningfully different amount than the label promises.
 
 ## What Dose of Melatonin Is Safe, If a Pediatrician Says Yes?
 
@@ -65,9 +65,9 @@ If bedtime consistency is the piece you're struggling with, the BloomPath app ha
 
 ## Related Reading
 
-- [My Toddler Keeps Getting Out of Bed — 45 Minutes Every Night](/en/blog/toddler-bedtime-stalling-keeps-getting-up-en)
+- [Toddler Keeps Getting Out of Bed Every Night?](/en/blog/toddler-bedtime-stalling-keeps-getting-up-en)
 - [Why Your Toddler Wakes Every 2 Hours (And What Actually Helps)](/en/blog/toddler-wakes-every-2-hours-en)
-- [iPad Before Bed: The Screen Time Rule That Actually Fixed Our Nightly Meltdowns](/en/blog/screen-time-sleep-bedtime-en)
+- [iPad Before Bed: The Screen Time Rule That Can End Nightly Meltdowns](/en/blog/screen-time-sleep-bedtime-en)
 - [We Almost Quit Gentle Sleep Training on the Worst Night](/en/blog/gentle-sleep-training-extinction-burst-en)
 - [Why Your Toddler Won't Sleep (Again): The Brain Science Behind Sleep Regression](/en/blog/toddler-sleep-regression-guide-en)
 
@@ -93,7 +93,7 @@ Pediatricians more often consider it for these kids since sleep-onset delay is m
 
 ## Products We Recommend
 
-- **[Precious Little Sleep by Alexis Dubief](https://www.amazon.com/dp/0997580808?tag=bloompath-20)** — This is the book I actually recommended to Priya after that birthday party conversation. It walks through the behavioral fixes before anyone reaches for a supplement.
+- **[Precious Little Sleep by Alexis Dubief](https://www.amazon.com/dp/0997580808?tag=bloompath-20)** — A good place to start: it walks through the behavioral fixes before anyone reaches for a supplement.
 - **[Yogasleep Dohm Classic White Noise Machine](https://www.amazon.com/dp/B00HD0ELFK?tag=bloompath-20)** — No app, no lights, just consistent sound. We use one for the "boring and repeatable" part of the wind-down routine.
 - **[Hatch Rest+ 2nd Gen Sound Machine & Night Light](https://www.amazon.com/dp/B08YS6S66Z?tag=bloompath-20)** — If you want the dim-light and time-to-rise features built in, this is the version that replaced screens in our own bedtime routine.
 

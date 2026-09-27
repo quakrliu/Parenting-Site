@@ -1,6 +1,6 @@
 ---
-title: "My Kid Started Waking Up at 2 AM the Second Week of School — Here's What Was Actually Going On"
-description: "An engineer dad digs into the research on why kids' sleep falls apart right when the school year starts, and what actually helped bring the 2 a.m. wake-ups back down to zero."
+title: "Is Your Kid Waking Up at 2 AM the Second Week of School? Here's What's Actually Going On"
+description: "An engineer dad digs into the research on why kids' sleep falls apart right when the school year starts, and what actually helps bring the 2 a.m. wake-ups back down."
 pubDate: "2026-09-02"
 tags: ["back to school", "sleep problems", "child anxiety", "night waking", "school-age behavior"]
 lang: "en"
@@ -10,11 +10,11 @@ draft: false
 ageGroup: ["preschool", "school-age"]
 ---
 
-**TL;DR:** BloomPath looked into a pattern a lot of parents notice every September but rarely connect to its actual cause: kids who slept fine all summer suddenly waking up at 1 or 2 a.m. once the school year starts. It's not usually a sleep problem on its own — research on children's separation anxiety and sleep shows the two are closely linked, and a new classroom, teacher, or schedule is exactly the kind of low-grade stressor that shows up as night waking before it shows up as anything else. Below is what the research actually says, what we tried with our own daughter years ago, and the wind-down routine that got the wake-ups back under control within about two weeks.
+**TL;DR:** BloomPath looked into a pattern a lot of parents notice every September but rarely connect to its actual cause: kids who slept fine all summer suddenly waking up at 1 or 2 a.m. once the school year starts. It's not usually a sleep problem on its own — research on children's separation anxiety and sleep shows the two are closely linked, and a new classroom, teacher, or schedule is exactly the kind of low-grade stressor that shows up as night waking before it shows up as anything else. Below is what the research actually says, and a wind-down routine that can help get the wake-ups back under control.
 
-My friend Marcus messaged our third-grade parent chat at 11:52 p.m. on a Tuesday, the second week of school: "Anyone else's kid waking up at 2 a.m. every night since school started? She slept through the entire summer without a peep." Four other parents replied "yes" within the hour. One added that her son had started asking to sleep with the hallway light on, something he hadn't done since kindergarten.
+If your kid slept through the entire summer without a peep and is suddenly waking up at 2 a.m. every night since school started, you're far from alone. Some kids even start asking to sleep with the hallway light on again, something they haven't needed in years.
 
-Nobody in that chat thread thought their kid had a sleep disorder. Everyone just assumed it was some vague "adjustment period" thing and figured it would pass. Maybe it will. But I'm the type who wants to know why before I just wait it out, so I went and read what the actual research says about kids' sleep and the start of a new school year.
+Most parents in this spot don't think their kid has a sleep disorder. It's easy to assume it's some vague "adjustment period" thing that will pass. Maybe it will. But I'm the type who wants to know why before I just wait it out, so I went and read what the actual research says about kids' sleep and the start of a new school year.
 
 ## Why does my kid's sleep fall apart right when school starts?
 
@@ -34,21 +34,21 @@ Where it's worth paying closer attention:
 
 If none of that applies, you're most likely looking at a normal adjustment curve, not a sleep disorder.
 
-## What actually helped with our daughter's back-to-school wake-ups
+## What actually helps with back-to-school wake-ups
 
-Here's the confession part. The first year this happened with our own daughter, my instinct was to solve it like an engineering problem — earlier bedtime, blackout curtains, cut the pre-bed screen time, basically throw every sleep-hygiene lever at once. None of it touched the 2 a.m. wake-ups, because I was treating an anxiety problem like a sleep-hygiene problem.
+It's tempting to solve this like an engineering problem — earlier bedtime, blackout curtains, cut the pre-bed screen time, basically throw every sleep-hygiene lever at once. (When our daughter was younger, that was my first instinct too.) But that often doesn't touch the 2 a.m. wake-ups, because it treats an anxiety problem like a sleep-hygiene problem.
 
-What Mei pointed out, and what tracks with the research on separation anxiety and sleep, is that the wake-ups weren't really about *sleep* at all — they were about an unprocessed worry finding the only quiet moment in the day to surface. Once we started giving that worry a place to go *before* bedtime instead of leaving it to show up at 2 a.m., things actually shifted.
+What the research on separation anxiety and sleep points to is that the wake-ups often aren't really about *sleep* at all — they're about an unprocessed worry finding the only quiet moment in the day to surface. The fix is giving that worry a place to go *before* bedtime instead of leaving it to show up at 2 a.m.
 
-The routine that worked, roughly two weeks in:
+A routine to try:
 
-1. **A five-minute "worry download" before the bedtime routine starts**, not during it. We'd ask one specific question — "what's one thing about school today you're still thinking about?" — and just listen. No fixing, no reassurance speeches. Just naming it out loud.
-2. **A worry jar or worry monster** where she could physically put the worry "away" for the night. Sounds small. Made a real difference for a kid who needed something concrete to do with an abstract feeling.
-3. **Keep the actual sleep environment boring and consistent** — same light level, same white noise, same order of steps — so the only new variable in her life was school, not also her bedroom.
-4. **If she woke up anyway, keep the response short and calm**, not a full conversation. A hand on the back, "you're okay, it's still nighttime," and out. Turning a 2 a.m. wake-up into a 20-minute chat just teaches the brain that 2 a.m. is when connection happens.
+1. **A five-minute "worry download" before the bedtime routine starts**, not during it. Ask one specific question — "what's one thing about school today you're still thinking about?" — and just listen. No fixing, no reassurance speeches. Just naming it out loud.
+2. **A worry jar or worry monster** where your child can physically put the worry "away" for the night. Sounds small. It can make a real difference for a kid who needs something concrete to do with an abstract feeling.
+3. **Keep the actual sleep environment boring and consistent** — same light level, same white noise, same order of steps — so the only new variable in your child's life is school, not also their bedroom.
+4. **If your child wakes up anyway, keep the response short and calm**, not a full conversation. A hand on the back, "you're okay, it's still nighttime," and out. Turning a 2 a.m. wake-up into a 20-minute chat just teaches the brain that 2 a.m. is when connection happens.
 5. **Revisit the worry download the next morning too** — sometimes what got named at bedtime needed a real answer the next day, like a note to the teacher or a plan for lunch.
 
-By the end of the second week, the wake-ups had dropped from every night to maybe once. It didn't disappear instantly, and some weeks it came back around a test or a friend conflict, but it stopped being a nightly event.
+Don't expect it to disappear instantly. It may come back around a test or a friend conflict, but the goal is for it to stop being a nightly event.
 
 ## Is this the same thing as a regular sleep regression?
 
@@ -80,7 +80,7 @@ A: That's still consistent with anticipatory anxiety — the anxious response to
 - [Starting Preschool This Fall? Here's How to Prep Your Toddler for Separation Anxiety Before Day One](/en/blog/toddler-preschool-separation-anxiety-prep-en)
 - [How Daily Routines Ease Kindergarten Separation Anxiety: What the Research Actually Says](/en/blog/kindergarten-separation-anxiety-routines-research-en)
 - [Why Your Toddler Won't Sleep (Again): The Brain Science Behind Sleep Regression](/en/blog/toddler-sleep-regression-guide-en)
-- [The 15-Minute Trick That Fixed My Kid's Summer-Wrecked Bedtime Before School Started](/en/blog/back-to-school-sleep-screen-reset-en)
+- [The 15-Minute Trick for Resetting a Summer-Wrecked Bedtime Before School Starts](/en/blog/back-to-school-sleep-screen-reset-en)
 - [Why Your Kid Falls Apart the Second You Pick Them Up From Aftercare](/en/blog/after-school-care-pickup-meltdown-en)
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
@@ -89,6 +89,6 @@ Want an easy way to spot patterns like this before they turn into a two-week str
 
 ## Products We Recommend
 
-- [Ruby Finds a Worry by Tom Percival](https://www.amazon.com/dp/1547607246?tag=bloompath-20) — the picture book that gave our daughter language for naming a worry before bed
+- [Ruby Finds a Worry by Tom Percival](https://www.amazon.com/dp/1547607246?tag=bloompath-20) — a picture book that gives kids language for naming a worry before bed
 - [Wilma Jean the Worry Machine by Julia Cook](https://www.amazon.com/dp/1937870014?tag=bloompath-20) — good for slightly older kids who need a concrete "worry" character to talk to
-- [Hatch Rest+ 2nd Gen Sound Machine and Night Light](https://www.amazon.com/dp/B09X5V88J8?tag=bloompath-20) — kept our bedtime environment consistent while everything else in her routine changed
+- [Hatch Rest+ 2nd Gen Sound Machine and Night Light](https://www.amazon.com/dp/B09X5V88J8?tag=bloompath-20) — helps keep the bedtime environment consistent while everything else in the routine changes

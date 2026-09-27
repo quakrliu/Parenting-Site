@@ -1,5 +1,5 @@
 ---
-title: "My Friend's Teenage Daughter Deleted Instagram Over 3 Likes. Here's What Actually Helped."
+title: "Your Teenage Daughter Deleted Instagram Over 3 Likes? Here's What Actually Helps."
 description: "When self-worth starts riding on a like count, the fix isn't a lecture about vanity. Here's the research on teens, social validation, and a Montessori-informed way to rebuild worth that doesn't come from a screen."
 pubDate: "2026-09-10"
 tags: ["teen self-esteem", "social media validation", "screen time", "positive parenting", "montessori intrinsic motivation", "teen mental health"]
@@ -21,9 +21,9 @@ ageGroup: ["teen"]
 
 ---
 
-At BloomPath, we hear a version of this story constantly, so I want to start with the one that actually made me change something at home. Last month my friend Dave called me from Portland, and he sounded rattled in a way I hadn't heard from him before. His daughter Maya, 14, had posted a photo from a friend's birthday party. Three likes. One comment, from a classmate, about her outfit — not even that mean, just a little sideways. Maya deleted the app, then deleted the photo, then didn't come out of her room for the rest of the night. "She wouldn't even look at her phone the next morning," Dave told me. "Like it had betrayed her."
+If you have a teenager, you may have seen a version of this. A 14-year-old posts a photo from a friend's birthday party. Three likes. One comment, from a classmate, about her outfit — not even that mean, just a little sideways. She deletes the app, then deletes the photo, then doesn't come out of her room for the rest of the night. The next morning she won't even look at her phone, like it betrayed her.
 
-I've spent ten years writing software, and I want to be honest about something before I go further: I know exactly why that post felt like a referendum on Maya as a person. It was built to feel that way. That's not an accident, and it's not a character flaw in Maya. It's the predictable result of putting a number on a teenager's social performance and letting her check it forty times a day.
+I've spent ten years writing software, and I want to be honest about something before I go further: I know exactly why a post like that feels like a referendum on a kid as a person. It was built to feel that way. That's not an accident, and it's not a character flaw in your kid. It's the predictable result of putting a number on a teenager's social performance and letting them check it forty times a day.
 
 ## Why Do Teens Tie Their Self-Worth to Likes and Comments?
 
@@ -35,7 +35,7 @@ Here's my honest confession: I catch myself doing a version of this on LinkedIn.
 
 The research leans yes, particularly for teen girls on visual, appearance-based platforms. [Pew Research Center's 2026 report on teens' experiences across TikTok, Instagram, and Snapchat](https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/) found teen girls use Instagram at notably higher rates than boys, and that the pursuit of social approval through likes and comments tracks with higher anxiety among heavy users. Researcher Jonathan Haidt, whose [work on adolescent mental health and social media](https://www.anxiousgeneration.com/research) has become a reference point for a lot of parents right now, has documented a specific pattern: girls gravitate toward visual platforms that invite direct comparison of appearance, and that comparison — not screen time in general — is doing a lot of the damage.
 
-I want to be careful here, because I don't think every study agrees on how big the causal effect is, and I'm not going to pretend the science is fully settled. But the pattern Dave described — a kid's entire evening derailed by a single-digit number — isn't rare, and it isn't really about vanity. It's what happens when self-worth gets outsourced to an audience that didn't earn the job.
+I want to be careful here, because I don't think every study agrees on how big the causal effect is, and I'm not going to pretend the science is fully settled. But that pattern — a kid's entire evening derailed by a single-digit number — isn't rare, and it isn't really about vanity. It's what happens when self-worth gets outsourced to an audience that didn't earn the job.
 
 ## What Does Montessori Say About External Rewards and Self-Worth?
 
@@ -47,9 +47,9 @@ What this looks like in practice at home: when your kid shows you a photo before
 
 ## How Do You Respond When Your Teen's Post Gets No Likes or a Mean Comment?
 
-You start by naming the feeling, not fixing the math. When Maya deleted the app, Dave's first instinct was to tell her the comment didn't matter, that the kid who wrote it probably wasn't even thinking about it. Reasonable, and also — in the moment — useless. A day later, once she'd calmed down, he tried something different: "That really stung. I get it." No reframe, no lecture, just an acknowledgment. He said that was the first time she actually talked instead of shrugging.
+You start by naming the feeling, not fixing the math. The first instinct is usually to say the comment doesn't matter, that the kid who wrote it probably wasn't even thinking about it. Reasonable, and also — in the moment — useless. Once they've calmed down, try something different: "That really stung. I get it." No reframe, no lecture, just an acknowledgment. That's often what gets a teen to actually talk instead of shrugging.
 
-Only after that landed did they get into the practical stuff: turning off visible like counts on her account (both Instagram and TikTok let you hide these now), and a conversation — not a lecture — about how the apps are built to make a number feel like a verdict on a person. Maya's response, according to Dave, was some version of "wait, that's actually a setting?" Nobody had told her that before.
+Only after that lands do you get into the practical stuff: turning off visible like counts on their account (both Instagram and TikTok let you hide these now), and a conversation — not a lecture — about how the apps are built to make a number feel like a verdict on a person. Your teen may not even know hiding likes is a setting.
 
 ## What Can You Actually Do Before Your Kid Even Gets a Phone?
 
@@ -57,7 +57,7 @@ This is the part I wish someone had told me earlier, and it's also the part Mei 
 
 If you've got a few years before your kid is on any platform, that's the runway to practice this. Praise effort, choices, and persistence at home constantly, in small, unremarkable moments — not just during big achievements. By the time a like count enters the picture, you want a kid who already has a working sense that her value doesn't move based on someone else's reaction.
 
-You're not going to get this perfect, and neither did Dave, and neither have I. Some nights the LinkedIn dip still gets me. But you're here, thinking about it before it's a crisis in your own house — that already puts you ahead of where most of us start.
+You're not going to get this perfect, and neither have I. Some nights the LinkedIn dip still gets me. But you're here, thinking about it before it's a crisis in your own house — that already puts you ahead of where most of us start.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
@@ -92,6 +92,6 @@ Don't minimize it ("who cares what strangers think") and don't over-fix it. Sit 
 
 - [*The Anxious Generation* by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20) — the research behind why visual social platforms hit teen girls hardest.
 - [*Good Inside* by Dr. Becky Kennedy](https://www.amazon.com/dp/0063159481?tag=bloompath-20) — the "your value lives inside you" framework referenced above, explained in full.
-- [*Untangled* by Lisa Damour](https://www.amazon.com/dp/0553393073?tag=bloompath-20) — a clear-eyed guide to the developmental stages behind moments like Maya's.
+- [*Untangled* by Lisa Damour](https://www.amazon.com/dp/0553393073?tag=bloompath-20) — a clear-eyed guide to the developmental stages behind moments like these.
 
 *As an Amazon Associate, BloomPath earns from qualifying purchases.*

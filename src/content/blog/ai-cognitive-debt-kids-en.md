@@ -1,6 +1,6 @@
 ---
 title: "Is AI Doing My Kid's Thinking For Her? What 'Cognitive Debt' Research Actually Says"
-description: "A software engineer dad breaks down the MIT Media Lab 'cognitive debt' study, what it does (and doesn't) mean for kids using AI chatbots, and the framework we use at home instead of an outright ban."
+description: "A software engineer dad breaks down the MIT Media Lab 'cognitive debt' study, what it does (and doesn't) mean for kids using AI chatbots, and a framework for home instead of an outright ban."
 pubDate: "2026-07-20"
 tags: ["AI and kids", "critical thinking", "screen time", "digital parenting", "cognitive debt"]
 lang: "en"
@@ -10,9 +10,9 @@ draft: false
 ageGroup: ["school", "teen"]
 ---
 
-Last Wednesday night, my daughter was stuck on a homework question — explain, in her own words, why a character in her reading book made the choice she did. I watched her open a chatbot app on the family tablet, type the question almost verbatim, and copy the answer back into her worksheet in under ten seconds. She never once looked like she was thinking. She looked like she was retrieving.
+If you've ever watched your kid get stuck on a homework question — explain, in their own words, why a character in a reading book made the choice she did — you may have seen this: they open a chatbot app on the family tablet, type the question almost verbatim, and copy the answer back into the worksheet in under ten seconds. They never once look like they're thinking. They look like they're retrieving.
 
-I'm Ethan, and BloomPath is the parenting app I've been building — I'm a software engineer by trade, more than a decade into the job, and for the last few years I've been teaching myself how to fold AI into tools for families. So when I saw my own kid outsource a "what do you think" question to a language model, I didn't have the luxury of dismissing it as some abstract tech-anxiety headline. I use these tools every day. I know exactly what they're good at, and exactly what they let you stop doing.
+I'm Ethan, and BloomPath is the parenting app I've been building — I'm a software engineer by trade, more than a decade into the job, and for the last few years I've been teaching myself how to fold AI into tools for families. So when kids outsource a "what do you think" question to a language model, I don't have the luxury of dismissing it as some abstract tech-anxiety headline. I use these tools every day. I know exactly what they're good at, and exactly what they let you stop doing.
 
 *This article is part of our [Screen Time in 2026 Guide](/en/blog/screen-time-2026-guide-en).*
 
@@ -47,19 +47,19 @@ Less worried than the "AI is rotting your kid's brain" headlines want you to be,
 
 The FTC's updated child-privacy rules (COPPA), which tighten what AI products can collect from and target at kids, take effect in 2026 — a sign that regulators are also treating this as a live concern, not a hypothetical one.
 
-## The Framework We Use at Home: AI as Calculator, Not Crutch
+## A Framework for Home: AI as Calculator, Not Crutch
 
-Mei and I didn't ban AI tools in our house — that ship has sailed for most families, and pretending it hasn't just pushes the behavior underground. Instead we built three rules that treat AI the way a good math teacher treats a calculator: fine after you've tried it yourself, not instead of trying.
+Banning AI tools outright rarely works — that ship has sailed for most families, and pretending it hasn't just pushes the behavior underground. A better approach is three simple house rules that treat AI the way a good math teacher treats a calculator: fine after you've tried it yourself, not instead of trying.
 
-1. **Brain first, AI second.** For homework and open-ended questions, she has to write or say her own attempt before she's allowed to open any AI tool. It doesn't have to be right. It has to be hers.
-2. **"Explain it back to me" is non-negotiable.** If she used AI for help, she has to walk me through the answer in her own words afterward. If she can't, we go back and rebuild it together — slowly, out loud, at the kitchen table.
-3. **AI answers questions of fact, not questions of judgment.** "What year did this happen" is a fine AI question. "What do you think the character should have done" is not — that one's hers to wrestle with, badly, for as long as it takes.
+1. **Brain first, AI second.** For homework and open-ended questions, your kid writes or says their own attempt before opening any AI tool. It doesn't have to be right. It has to be theirs.
+2. **"Explain it back to me" is non-negotiable.** If they used AI for help, they walk you through the answer in their own words afterward. If they can't, go back and rebuild it together — slowly, out loud, at the kitchen table.
+3. **AI answers questions of fact, not questions of judgment.** "What year did this happen" is a fine AI question. "What do you think the character should have done" is not — that one's theirs to wrestle with, badly, for as long as it takes.
 
-None of this is about being anti-technology. I build AI features for a living. The goal isn't to keep her away from these tools — she'll be using far more capable ones as an adult than the ones we have today. The goal is to make sure the thinking muscle is still there when the tool isn't.
+None of this is about being anti-technology. I build AI features for a living. The goal isn't to keep kids away from these tools — they'll be using far more capable ones as adults than the ones we have today. The goal is to make sure the thinking muscle is still there when the tool isn't.
 
 ## The Real Skill We're Trying to Protect
 
-What actually unsettled me that Wednesday night was how unbothered she was by skipping the hard part — the ten-second answer itself barely registered next to that. Kids have always looked for the shortcut, and that's neither new nor a sign of bad character. What's changed is how much faster, more convincing, and more available that shortcut has gotten. My real job has less to do with out-competing it and more to do with making sure she still knows how to do the slow thing when the fast thing isn't the point.
+What's actually unsettling in a moment like that is how unbothered a kid can be by skipping the hard part — the ten-second answer itself barely registers next to that. Kids have always looked for the shortcut, and that's neither new nor a sign of bad character. What's changed is how much faster, more convincing, and more available that shortcut has gotten. Our real job as parents has less to do with out-competing it and more to do with making sure kids still know how to do the slow thing when the fast thing isn't the point.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
@@ -96,15 +96,15 @@ That depends entirely on the assignment and the teacher's policy, not on some un
 - [Screen Time Guilt Is Making Things Worse: What the Research Actually Says](/en/blog/screen-time-guilt-quality-over-quantity-en)
 - [AAP 2026 Screen Time Guidelines: What Changed and How to Actually Use the New Rules](/en/blog/aap-2026-screen-time-new-rules-en)
 - [The Analog Childhood Movement: Why Montessori Parents Are Already Ahead of the Curve](/en/blog/analog-childhood-montessori-screen-free-en)
-- [Magnetic Tiles vs. Screen Time: I Tested 3 Brands So You Don't Have To](/en/blog/magnetic-tiles-screen-alternative-en)
+- [Magnetic Tiles vs. Screen Time: 3 Brands Compared So You Don't Have To](/en/blog/magnetic-tiles-screen-alternative-en)
 
 ---
 
 ## Products We Recommend
 
 - **[The Anxious Generation by Jonathan Haidt](https://www.amazon.com/dp/0593655036?tag=bloompath-20)** — Not about AI specifically, but the clearest breakdown I've read of why kids' developing brains need more friction, not less, from the tools we hand them.
-- **[The Tech-Wise Family by Andy Crouch](https://www.amazon.com/dp/0801018668?tag=bloompath-20)** — Practical, non-preachy framework for deciding what technology earns a place in your house. Helped Mei and me write our actual AI rules, not just feel vaguely uneasy about them.
-- **[ThinkFun Gravity Maze](https://www.amazon.com/dp/B00IUAAK2A?tag=bloompath-20)** — A logic puzzle with zero shortcuts — you either work through the spatial reasoning or you don't solve it. Our go-to for rebuilding the "sit with a hard problem" muscle.
+- **[The Tech-Wise Family by Andy Crouch](https://www.amazon.com/dp/0801018668?tag=bloompath-20)** — Practical, non-preachy framework for deciding what technology earns a place in your house. Useful for writing actual house rules for AI, not just feeling vaguely uneasy about it.
+- **[ThinkFun Gravity Maze](https://www.amazon.com/dp/B00IUAAK2A?tag=bloompath-20)** — A logic puzzle with zero shortcuts — you either work through the spatial reasoning or you don't solve it. Great for rebuilding the "sit with a hard problem" muscle.
 
 ---
 

@@ -13,9 +13,7 @@ draft: false
 
 ---
 
-Three years ago, I stood outside our daughter's preschool door for seven minutes after drop-off, listening to her cry. I couldn't move. A teacher finally came out, looked at me — not at the door, at *me* — and said, "She stopped at four minutes. You're the one who needs help."
-
-She was right.
+If you've ever stood outside a preschool door after drop-off, listening to your child cry and unable to move, you know how long a few minutes can feel. Often, your child has stopped crying long before you're ready to walk away. Sometimes the parent is the one who needs help.
 
 At BloomPath, we've been tracking what actually works across the preschool transition. What I learned from my own wrong turns, from Mei's research into attachment theory, and from watching this play out at our daughter's Montessori school — is that the families who struggle most in September are often the ones who didn't practice separation in June.
 
@@ -57,7 +55,7 @@ For most families, what you're dealing with is the former. Here's how to make it
 
 ## The 10-Step Prep Checklist (Start 6 Weeks Before School)
 
-I'm an engineer. I need a process. After three failed attempts — including one week where I thought "just ripping off the bandaid" would work (it did not) — here's what actually helped.
+I'm an engineer. I need a process. Here's what actually helps — and "just ripping off the bandaid" isn't on the list.
 
 ### Week 1–2: Build the Preview
 
@@ -65,10 +63,10 @@ I'm an engineer. I need a process. After three failed attempts — including one
 Most Montessori and preschool programs offer orientation visits in August. Don't skip this. Go twice if you can. Let your child walk the classroom without an agenda — touch the materials, use the bathroom, find where the cubbies are. Familiarity is the antidote to novelty anxiety.
 
 **2. Meet the teacher by name, on purpose.**
-Before the first day, I made sure our daughter knew Ms. Chen's name and face. We talked about her at dinner. "Ms. Chen keeps the guinea pig. Her name is Biscuit." By the time school started, Ms. Chen was a real person — not a stranger.
+Before the first day, help your child learn the teacher's name and face. Talk about her at dinner, with small concrete details — maybe she's the one who looks after the class pet. By the time school starts, the teacher is a real person — not a stranger.
 
 **3. Read "The Kissing Hand" together.**
-Audrey Penn's picture book is the preschool separation classic for a reason. The raccoon's mom kisses his palm so he can hold her kiss against his cheek when he misses her. My daughter asked me to do this for real. I did. She pressed her cheek at drop-off for the entire first semester.
+Audrey Penn's picture book is the preschool separation classic for a reason. The raccoon's mom kisses his palm so he can hold her kiss against his cheek when he misses her. If your child asks you to do this for real, do it. A kiss they can press to their cheek at drop-off gives them something tangible to hold onto.
 
 ### Week 3–4: Practice Short Separations
 
@@ -76,7 +74,7 @@ Audrey Penn's picture book is the preschool separation classic for a reason. The
 This sounds simple and feels weird. Leave your toddler with your partner, a grandparent, or a trusted caregiver — and actually leave. Go to the store. Sit in your car for 20 minutes. Let them experience: you leave, you come back, everything is fine. Repeat this 3–4 times a week.
 
 **5. Create and practice the goodbye ritual NOW.**
-This is the single highest-leverage thing I did. We settled on: one hug, one "I'll be here at pickup time," hand kiss, and I leave. Every time. No lingering. No looking back from the parking lot (I learned that one the hard way when she spotted me from the window).
+This is the single highest-leverage step. A simple version: one hug, one "I'll be here at pickup time," hand kiss, and you leave. Every time. No lingering. No looking back from the parking lot.
 
 The ritual works because it removes uncertainty. The child isn't wondering "is she staying? is she going? should I panic?" They know exactly what happens, and they know it ends with you coming back.
 
@@ -94,7 +92,7 @@ Pack the bag. Eat breakfast at the school-start time. Drive the route. Walk to t
 **9. On the first day, don't hesitate.**
 This is the hardest one. A lingering goodbye tells your child's nervous system "this situation is dangerous enough that my parent is uncertain about leaving." Every extra minute you hover extends the transition. The research here is clear: confident, brief goodbyes reduce total distress time.
 
-Mei told me about a study from the journal *Early Education and Development* where children's cortisol levels were measured after drop-off — the children of parents who did quick, confident goodbyes had cortisol return to baseline faster than children whose parents delayed. I went in with that number in my head on day one.
+Mei told me about a study from the journal *Early Education and Development* where children's cortisol levels were measured after drop-off — the children of parents who did quick, confident goodbyes had cortisol return to baseline faster than children whose parents delayed. Keep that in mind on day one.
 
 **10. Debrief at pickup, not at the gate.**
 "How was school?" immediately at pickup often gets "bad" because the child just re-experienced the transition stress. We started asking about school during dinner, when everyone was calm and full. The stories that came out then were far better than anything I got from a parking lot interrogation.
@@ -103,9 +101,7 @@ Mei told me about a study from the journal *Early Education and Development* whe
 
 ## What Happens When You "Can't" Leave Because They're Screaming
 
-Last September, a parent I know — Mike, software engineer, Taipei — messaged me: "She's been crying for 40 minutes and they called me back. What do I do?"
-
-I told him what a Montessori teacher told me: **going back in almost always extends the distress.** The child learns "if I cry hard enough, they return" — which trains a longer protest response. If the school calls after 40 minutes, they have a specific reason. But if you're watching from outside the window and can't bring yourself to leave? That's a you-problem, not a her-problem.
+If your child is crying hard at the door and you can't make yourself walk away, remember this: **going back in almost always extends the distress.** The child learns "if I cry hard enough, they return" — which trains a longer protest response. If the school calls you back, they have a specific reason, and that's different. But if you're watching from outside the window and can't bring yourself to leave? That's a you-problem, not a kid-problem.
 
 I say this with full solidarity. I was that parent.
 
@@ -115,7 +111,7 @@ The practical answer: hand off to the teacher at the door, say your goodbye with
 
 ## The Counter-Intuitive Truth About Separation Distress
 
-Here's what 11 years of parenting has taught me — and what the attachment research confirms: **how secure a child feels with you is not measured by how easily they separate. It's measured by how completely they come back.**
+Here's what years of parenting have taught me — and what the attachment research confirms: **how secure a child feels with you is not measured by how easily they separate. It's measured by how completely they come back.**
 
 The child who runs to hug you at pickup, who wants to tell you everything about their day, who falls asleep easily that night because their secure base is restored — that's the sign you've built something real.
 
@@ -158,9 +154,9 @@ If your child is heading toward kindergarten transition, [our complete guide to 
 
 ## Products We Recommend
 
-These are things we've actually used. If you buy through these links, we earn a small commission at no cost to you.
+Books that can help with the transition. If you buy through these links, we earn a small commission at no cost to you.
 
-**[The Kissing Hand by Audrey Penn](https://www.amazon.com/dp/1933718005?tag=bloompath-20)** — The go-to picture book for preschool transitions. We read it the week before school started and turned the ritual into our real goodbye. Our daughter asked for the palm kiss until second grade.
+**[The Kissing Hand by Audrey Penn](https://www.amazon.com/dp/1933718005?tag=bloompath-20)** — The go-to picture book for preschool transitions. Read it the week before school starts, then turn the ritual into your real goodbye.
 
 **[Good Inside by Dr. Becky Kennedy](https://www.amazon.com/dp/0063159481?tag=bloompath-20)** — Dr. Becky's chapter on separation contains the clearest explanation I've found of why confident goodbyes work better than extended comfort. Worth the whole book for this section alone.
 

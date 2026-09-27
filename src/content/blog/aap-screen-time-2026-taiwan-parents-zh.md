@@ -10,7 +10,7 @@ image: "/og/aap-screen-time-2026-taiwan-parents-zh.png"
 
 # 幼兒[AAP 2026 螢幕時間完整解析](/zh/blog/aap-screen-time-guidelines-2026)新規：AAP 2026 取消 2 小時上限，台灣爸媽的 5C 實踐指南
 
-那天在咖啡廳，女兒把我[父母滑手機對孩子的影響](/zh/blog/parental-phubbing-child-screen-addiction-zh)拿走，手指熟練滑開鎖定，直接按進 YouTube。她兩歲半。
+很多爸媽都遇過這一幕：在咖啡廳，兩歲半的孩子一把拿走你的手機，手指熟練滑開鎖定，直接按進 YouTube。（延伸閱讀：[父母滑手機對孩子的影響](/zh/blog/parental-phubbing-child-screen-addiction-zh)）
 
 當爸之前我以為我很有耐心。當爸之後我發現，我只是很會塞手機。
 
@@ -54,7 +54,7 @@ AAP 在 2026 年 2 月的 Pediatrics 期刊（Vol. 157, Issue 2）發布政策�
 
 ## 5 歲以下仍然受限（別誤讀）{#under-5-仍然受限}
 
-中文媒體標題常下成「AAP 取消螢幕時間限制」，我在爸媽群組看到有人轉發寫「可以放寬了」。不行。
+中文媒體標題常下成「AAP 取消螢幕時間限制」，很容易被解讀成「可以放寬了」。不行。
 
 AAP 2026 政策**明確保留**兩條 under-5 硬規則（見 DOI 10.1542/peds.2025-075320 與 HealthyChildren.org 官方說明）：
 
@@ -78,7 +78,7 @@ AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosys
 
 **自問**：我的孩子看完這節目是安靜下來還是更躁？
 
-我家大女兒看《小企鵝 Pororo》會安靜，小女兒看同一部卻把沙發當蹦床。同一個媒體，兩種反應。
+同一部《小企鵝 Pororo》，有的孩子看完會安靜，有的孩子卻把沙發當蹦床。同一個媒體，兩種反應。
 
 ### C2 — Content（內容品質）
 
@@ -110,14 +110,14 @@ AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosys
 
 **自問**：我最近一次跟孩子聊「這影片在教什麼」是什麼時候？
 
-女兒才 2 歲多，我已經開始邊看邊聊：「這小朋友為什麼哭？他媽媽會怎麼做？」等她 5 歲才開始談就晚了。
+孩子才 2 歲多，就可以開始邊看邊聊：「這小朋友為什麼哭？他媽媽會怎麼做？」等到 5 歲才開始談就晚了。
 
 
 ---
 
 ## Montessori Crowd Out vs AAP 5C 對照 {#蒙特梭利對照}
 
-讀到 Crowding Out 時，我老婆（幼教出身、把我拖進蒙特梭利那位）笑出來說：「這 Maria Montessori 100 年前就寫過了。」
+讀到 Crowding Out 時，我的第一個念頭是：這 Maria Montessori 100 年前就寫過了。
 
 | AAP 5C（2026） | 蒙特梭利核心原則（1907–） |
 |----------------|--------------------------|
@@ -148,7 +148,7 @@ AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosys
 
 這把「Crowding Out」的意義放大了。螢幕不只排擠孩子的時間，**它排擠大人回應孩子的能力**。一個低頭滑手機的媽媽，就算孩子沒在看螢幕，也在被影響。
 
-我讀完那篇 paper 是週末下午，女兒在旁邊組積木，我把手機丟進抽屜。
+讀完那篇 paper，很難不想先把手機收起來。
 
 **免責聲明**：這是觀察性研究，相關性不等於因果。ADHD 成因複雜。研究不是要讓媽媽罪惡感（爸爸也一樣），是提醒：家庭螢幕文化是整體的，不只管小孩那份。
 
@@ -157,9 +157,9 @@ AAP 這次對幼兒的態度其實**更嚴**——因為把整個 digital ecosys
 
 ## 5 個今天就能做的小改變 {#今天可以做的}
 
-把 5C 翻譯成行動。這些我自己家都在做：
+把 5C 翻譯成行動：
 
-**1. 寫下你家的 5C 剖面圖**。拿紙寫下 5 個 C 現狀。例如我家：Child——小女兒看會躁所以不看；Content——只放 PBS Kids 和精選頻道；Calm——先給抱抱和繪本；Crowding Out——晚上 7 點後無螢幕；Communication——週末早餐聊這週看了什麼。15 分鐘寫完。貼冰箱。
+**1. 寫下你家的 5C 剖面圖**。拿紙寫下 5 個 C 現狀。例如：Child——孩子看了會躁的節目就不看；Content——只放 PBS Kids 和精選頻道；Calm——先給抱抱和繪本；Crowding Out——晚上 7 點後無螢幕；Communication——週末早餐聊這週看了什麼。15 分鐘寫完。貼冰箱。
 
 **2. 關掉「自動播放」**。YouTube、YouTube Kids、Netflix 都可關。一集結束就問「還要看嗎？」這微小停頓讓孩子從被動觀看變主動選擇。
 
@@ -199,9 +199,9 @@ AAP 2026 建議 18 個月以下**不接觸**數位媒體，**視訊通話是唯�
 
 ## Products We Recommend {#推薦}
 
-這幾樣東西是我們家真正在用、也真的擋住螢幕時間的替代品。誠實：這是 Amazon affiliate 連結，你買我們會收到一點點回饋，不影響你的價格。
+這幾樣東西可以當作螢幕時間的替代品。誠實：這是 Amazon affiliate 連結，你買我們會收到一點點回饋，不影響你的價格。
 
-- **[Magna-Tiles Clear Colors 100-Piece Set](https://www.amazon.com/dp/B000CBSNRY?tag=bloompath-20)** — 我們家用來當 iPad 的直接替代品，效果意外好。兩姊妹可以搭半小時不吵架，這在我家等於國慶煙火。
+- **[Magna-Tiles Clear Colors 100-Piece Set](https://www.amazon.com/dp/B000CBSNRY?tag=bloompath-20)** — 很適合當 iPad 的直接替代品，開放式玩法，能讓孩子專心搭建。
 - **[The Montessori Toddler by Simone Davies](https://www.amazon.com/dp/152350689X?tag=bloompath-20)** — 老婆推薦給我的第一本蒙特梭利書，對工程師大腦很友善，給你框架不給你教條。
 - **[Good Inside by Dr. Becky Kennedy](https://www.amazon.com/dp/0063159481?tag=bloompath-20)** — 當孩子哭鬧我想掏手機時，這本書讓我按住自己。Connection over correction 這句話我貼在冰箱。
 

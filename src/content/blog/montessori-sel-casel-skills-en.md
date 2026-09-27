@@ -36,15 +36,11 @@ ageGroup: ["preschool"]
 
 ---
 
-My daughter's preschool newsletter last fall said they were "prioritizing SEL this year." I read it three times. I thought SEL might be a new testing framework, a curriculum brand, maybe an acronym for some kind of sensory program.
-
-I texted my wife: "What's SEL?"
-
-She sent back a voice memo. Six minutes long.
+If your child's school newsletter has announced that they're "prioritizing SEL this year," you may have read it three times and wondered what SEL even is. A new testing framework? A curriculum brand? An acronym for some kind of sensory program?
 
 Turns out, SEL — social-emotional learning — might be the most important thing your kid's school is doing. And if your child is in a Montessori environment, here's what nobody tells you: *they've been doing it since 1907.*
 
-What kept me up that night: if SEL is so critical, and there's a window where it's easiest to build — **are we inside that window right now, or have we already started to miss it?**
+The question worth asking: if SEL is so critical, and there's a window where it's easiest to build — **is your child inside that window right now, or has it already started to close?**
 
 
 ---
@@ -178,7 +174,7 @@ Praise the process: "You kept trying even when that was really hard." Give it tw
 A small cushion, calming objects, a book of feelings. Not a punishment — a resource. Let your child help set it up. It becomes *their* space for regulation.
 
 **5. Do real things together.** *(Social awareness + all five)*
-Cooking, cleaning, gardening. Not toy versions — real consequences, real decisions. My daughter makes her own breakfast at four. She's incredibly proud. I'm 40% less tired in the mornings.
+Cooking, cleaning, gardening. Not toy versions — real consequences, real decisions. Even a four-year-old can help make their own breakfast, and be incredibly proud of it.
 
 
 ---

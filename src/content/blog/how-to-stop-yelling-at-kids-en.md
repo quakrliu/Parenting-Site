@@ -20,9 +20,9 @@ ageGroup: ["all"]
 
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
 
-Last Saturday, the four of us were in the IKEA parking lot at 12:15 PM. Hungry. We'd spent two and a half hours debating furniture I did not want to think about anymore. My daughter refused to get into her car seat. Not tantrum-refused — just slowly, methodically, touching the car door frame like she was inspecting each inch of paint for quality control.
+Picture a Saturday: you're in a store parking lot around lunchtime. Everyone's hungry. You've spent hours debating furniture you don't want to think about anymore. Your child refuses to get into the car seat. Not tantrum-refused — just slowly, methodically, touching the car door frame like they're inspecting each inch of paint for quality control.
 
-I had asked nicely. Twice. Then less nicely. Then I heard myself say her full name in a tone I recognized from my own childhood and did not want to be transmitting to the next generation.
+You ask nicely. Twice. Then less nicely. Then you hear yourself say their full name in a tone you recognize from your own childhood and do not want to be transmitting to the next generation.
 
 I'm Ethan, an engineer dad and founder of [BloomPath](https://bloom-path.app), which I built partly because I kept wishing there was a tool that translated child development research into "what do I actually say in the parking lot right now." I've been studying [positive parenting strategies](/en/blog/positive-parenting-guide-en) seriously for two years, and I still yell sometimes. This article is everything I've learned about why that happens, what it does, and how to actually change the pattern. Progress, not perfection — that's the realistic bar here.
 
@@ -44,7 +44,7 @@ Most parents yell at the intersection of three things:
 2. **Accumulated frustration** — a low-level friction that's been building for hours. The car seat wasn't the trigger; it was the 47th thing that didn't go smoothly today.
 3. **A behavior that activates something personal** — defiance, whining, being ignored when you speak. These can connect to emotional memories from your own childhood in ways that bypass your rational brain entirely.
 
-The IKEA parking lot wasn't really about the car seat. I'd woken up at 5:30 AM, skipped breakfast, and been agreeing to things I didn't want to agree to for two hours. The car seat was just where the bill came due.
+A parking-lot moment like that usually isn't really about the car seat. You woke up early, skipped breakfast, and spent hours agreeing to things you didn't want to agree to. The car seat is just where the bill comes due.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "My Toddler Keeps Getting Out of Bed — 45 Minutes Every Night"
+title: "Toddler Keeps Getting Out of Bed? How to End the 45-Minute Bedtime Marathon"
 description: "Does your toddler turn bedtime into a negotiation marathon? Here's what's actually driving the curtain calls — and the specific changes that cut our bedtime from 45 minutes to 12."
 pubDate: "2026-05-30"
 tags: ["toddler sleep", "bedtime routine", "toddler discipline", "positive parenting", "toddler behavior"]
@@ -92,15 +92,15 @@ First night, she used it in about ten minutes. Second night, she held it until s
 
 ### Logging the Goodbye
 
-We started a small check-out book. Every night before I leave her room, she gets to draw or dictate one thing about her day, and I write one thing I'm proud of from the day. It takes two minutes.
+We started a small check-out book. Every night before I left her room, she got to draw or dictate one thing about her day, and I wrote one thing I was proud of from the day. It took two minutes.
 
 The insight behind this: kids often stall at bedtime because they want to extend the emotional connection of the day before they have to let go of it for sleep. The book gives the evening a clear, warm ending. There's a ritual close. It feels complete.
 
-She almost never comes out after the book.
+She almost never came out after the book.
 
 ### The No-Engagement Return
 
-When curtain calls still happen — and they do, just rarely now — I use what sleep researchers call "silent return." I get up without making eye contact, lead her back to her room by the hand, say "I love you, sleep time," and leave. No water discussion. No looking at the request on its merits. No stern lecture.
+When curtain calls still happened — and they did, just rarely — I used what sleep researchers call "silent return." I'd get up without making eye contact, lead her back to her room by the hand, say "I love you, sleep time," and leave. No water discussion. No looking at the request on its merits. No stern lecture.
 
 The first night I did this, she came out four times. Second night, twice. Third night, once. Fourth night, not at all.
 
@@ -116,11 +116,11 @@ If curtain calls come with significant distress (not just testing), if your chil
 
 ---
 
-## What Life Looks Like Now
+## What Life Looked Like After
 
-The routine runs 30-35 minutes from bath to me leaving her room. She stays in bed. This took about three weeks of consistency to stick.
+The routine settled at 30-35 minutes from bath to me leaving her room. She stayed in bed. This took about three weeks of consistency to stick.
 
-The evening I get back is still small — maybe 90 minutes before I'm too tired myself. But it's mine, and that makes everything else more sustainable.
+The evening I got back was still small — maybe 90 minutes before I was too tired myself. But it was mine, and that made everything else more sustainable.
 
 The thing nobody told me: toddler bedtime doesn't get better from waiting. It gets better from specific structural changes and consistent follow-through. Every week you delay is another week of 52-minute sessions and cold tea.
 
@@ -153,6 +153,6 @@ A: Most families see meaningful change within 3-5 nights, with the improvement c
 
 Two things that made a genuine difference for us:
 
-- [Hatch Rest 2nd Gen Baby Sound Machine and Night Light](https://www.amazon.com/dp/B08M3R6X97?tag=bloompath-20) — we use this as both a white noise machine and a visual cue. We set it to change color at wake time, which helped our daughter understand "light is red = stay in bed" without me having to explain it every morning. The app lets you set a gentle wake light so she knows when it's actually okay to get up.
+- [Hatch Rest 2nd Gen Baby Sound Machine and Night Light](https://www.amazon.com/dp/B08M3R6X97?tag=bloompath-20) — works as both a white noise machine and a visual cue. You can set it to change color at wake time, which helps a toddler understand "light is red = stay in bed" without you having to explain it every morning. The app lets you set a gentle wake light so they know when it's actually okay to get up.
 
 - [The Sleep Lady's Good Night, Sleep Tight](https://www.amazon.com/dp/1800243820?tag=bloompath-20) by Kim West — the most practical sleep book I've read for this specific age range (toddler through school age). The curtain call chapter alone is worth the price.

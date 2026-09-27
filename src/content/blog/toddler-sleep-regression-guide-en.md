@@ -10,11 +10,11 @@ image: "/og/toddler-sleep-regression-guide-en.png"
 ageGroup: ["toddler"]
 ---
 
-It was 2:17am. My daughter—who had been sleeping through the night for three months—was standing in her crib screaming like I'd stolen her stuffed elephant. I hadn't. Bruno was right there. She didn't want Bruno. She didn't want water. She didn't want me. Then she wanted ALL of those things at once.
+If you've ever stood in the dark at 2am, shirt inside-out, while your toddler—who had been sleeping through the night for months—stands in the crib screaming like someone stole their favorite stuffed animal, you know this moment. They don't want the stuffed animal. They don't want water. They don't want you. Then they want ALL of those things at once.
 
-I stood there in the dark, shirt inside-out, trying to remember if this was normal or if something had gone terribly wrong.
+And you're left wondering whether this is normal or whether something has gone terribly wrong.
 
-It was normal. It was a sleep regression. And nobody had warned me it would hit again at 18 months—after we thought we were done with the newborn chaos.
+It's normal. It's a sleep regression. And it often hits again at 18 months—right when you thought you were done with the newborn chaos.
 
 Here's what I know now: how you respond during these 2–6 weeks does more to shape your child's long-term relationship with sleep—and with you—than almost anything else in the toddler years. The regression itself is unavoidable. Your response is not.
 
@@ -95,10 +95,6 @@ Sleep regressions don't follow a strict calendar—every child is different—bu
 
 The 18-month and 2-year regressions hit hardest for most parents because by then, you thought you were *past* all this. You had a system. The system worked. And then it didn't.
 
-I asked my wife (former early childhood educator, infinitely more patient than me) why these two ages are the worst. Her answer: "Because the toddler is becoming a *person*, and becoming a person is exhausting."
-
-She wasn't wrong.
-
 
 ---
 
@@ -147,7 +143,7 @@ Here's what actually worked for us—and is backed by sleep research:
 
 This feels wrong. They're already fighting sleep, so earlier seems worse. But an overtired toddler produces more cortisol—making it genuinely harder for them to fall asleep. Sleep scientists call this the "sleep pressure window." Miss it, and you're fighting biology.
 
-We moved our daughter's bedtime from 7:30pm to 7:00pm during the 2-year regression. She fell asleep faster. I know.
+Even a small shift—7:00pm instead of 7:30pm—can help an overtired toddler fall asleep faster. It sounds backwards. That's the point.
 
 ### 2. Add a "Winds Down" Buffer (20 minutes minimum)
 
@@ -163,7 +159,7 @@ Same order. Every night. Even when it's inconvenient. Especially when it's incon
 
 During developmental leaps, toddlers' attachment systems are running hot. Floor play, cuddling, "special time"—before the bedtime routine reduces cortisol and eases the transition.
 
-My rule: phone goes face-down at 6:30pm. No exceptions. This one change—more than any sleep method I've tried—reduced our night waking frequency faster than anything else.
+A simple rule: phone goes face-down at 6:30pm. No exceptions. It's a small change that can matter more than any sleep method.
 
 A 2025 attachment research review found that parental presence quality (not quantity) during the hour before sleep was the strongest predictor of how quickly toddlers settled during developmental regressions. Ten minutes of focused connection beats 3 hours of distracted proximity.
 
@@ -181,7 +177,7 @@ You control the options. They feel control. Everyone wins.
 
 This is the hardest part. Whatever your night-waking approach is—immediate comfort, timed check-ins, verbal reassurance—*be consistent*. Inconsistency during a regression reinforces anxiety ("sometimes they come back immediately, sometimes they don't—I need to scream louder to make sure").
 
-Confession: I messed this up completely during the 18-month regression. Sometimes I'd rush in at the first sound. Sometimes I'd let her fuss for 20 minutes first. She got more dysregulated, not less. We reset to a clear rule—3-minute wait, then one check-in, then reassurance—and things improved within 4 days.
+Confession: when our daughter was younger, I got this wrong too—sometimes rushing in at the first sound, sometimes waiting much longer. Inconsistency made things worse, not better. A clear, predictable rule—a short wait, then one check-in, then reassurance—works far better than improvising at 2am.
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "First Time at Summer Camp: A Field Guide to Separation Anxiety (Ages 4-10)"
-description: "Your kid is sobbing at camp drop-off and you're questioning everything. Here's what's actually normal, what makes it worse, and the exact goodbye routine that worked for us."
+description: "Your kid is sobbing at camp drop-off and you're questioning everything. Here's what's actually normal, what makes it worse, and a simple goodbye routine that actually helps."
 pubDate: "2026-07-26"
 tags: ["separation anxiety", "summer camp", "positive parenting", "toddler behavior", "school-age"]
 lang: "en"
@@ -10,7 +10,7 @@ draft: false
 ageGroup: ["preschool", "school-age"]
 ---
 
-Last Tuesday I sat in my car in the parking lot of Luna's day camp for four minutes after drop-off, watching a counselor peel her off my leg through the rearview mirror. I'd already been late to a stand-up meeting once that week. I sat there anyway.
+Maybe you've sat in the camp parking lot for a few extra minutes after drop-off, replaying the moment a counselor had to peel your kid off your leg, while your first meeting of the day started without you.
 
 BloomPath exists because moments like that one don't come with an instruction manual — just a lot of guilt and a lot of Googling at 11pm. If you're reading this because you just white-knuckled your way through a camp drop-off, or you've got one coming up in a few days and you're already dreading it, you're not doing anything wrong. Neither is your kid.
 
@@ -33,7 +33,7 @@ What's different at camp versus a slow, familiar drop-off routine is the compres
 
 ## What actually makes separation anxiety at camp worse?
 
-Two things, and I did both of them with our older camp drop-offs before we figured this out.
+Two things, and both are easy to fall into.
 
 **Mistake one: the sneak-out.** It feels kind in the moment — slip away while they're distracted by the craft table, avoid the meltdown entirely. It backfires. The next day, your kid doesn't relax when they're distracted; they watch you like a hawk, because now leaving-without-saying-goodbye is a real possibility they have to guard against. You've traded one hard morning for a harder week.
 
@@ -43,7 +43,7 @@ The counterintuitive move that camp psychologists recommend instead: when your k
 
 ## How to handle toddler and preschooler separation anxiety differently at camp
 
-For the 4-6 crowd, the goodbye ritual matters more than the pep talk. A three-year-old doesn't process "camp is going to be so fun, you'll make new friends" as reassurance — it processes tone of voice and how long you linger. What worked for us with Luna at that age wasn't a longer goodbye, it was a shorter one, done the exact same way every single day: one hug, the same phrase ("See you after lunch, I'll be right there"), then I walked away without looking back for a "one more hug."
+For the 4-6 crowd, the goodbye ritual matters more than the pep talk. A three-year-old doesn't process "camp is going to be so fun, you'll make new friends" as reassurance — it processes tone of voice and how long you linger. What tends to work at that age isn't a longer goodbye, it's a shorter one, done the exact same way every single day: one hug, the same phrase ("See you after lunch, I'll be right there"), then walk away without looking back for a "one more hug."
 
 If you want the deeper research on why routine beats reassurance for this age group, we broke down the [research on daily routines and separation anxiety](/en/blog/kindergarten-separation-anxiety-routines-research-en) — the short version is that predictability regulates a young nervous system more effectively than comfort does, because comfort is variable and routine isn't.
 
@@ -57,7 +57,7 @@ For this age, involving them in the prep actually helps more than for younger ki
 
 Practice separations before the real one also matters more at this age, not less. A sleepover at a grandparent's house or a weekend with a trusted family friend gives an 8-year-old actual reps at "I was away from my parents and I was okay" — which is a very different, more durable confidence than a pep talk the morning of.
 
-One thing I got wrong with Luna before a longer program: I under-communicated how she could reach us. Once she knew exactly when letter-writing time was and that a letter back from us would be waiting a couple days later, the anxious mornings before drop-off dropped noticeably. Not eliminated — dropped.
+One thing that's easy to get wrong before a longer program: under-communicating how your child can reach you. Knowing exactly when letter-writing time is, and that a letter back from you will be waiting a couple days later, can ease the anxious mornings before drop-off. Not eliminate them — ease them.
 
 ## What does Montessori say about separation and independence?
 
@@ -65,14 +65,14 @@ Montessori environments are built around a core idea that's directly relevant he
 
 That doesn't mean camp separation anxiety is something to tough out coldly. It means the goal isn't "prevent the hard feeling," it's "help your kid discover they can move through the hard feeling and come out the other side fine." That's a subtle but important difference, and it's the same philosophy behind our [guide to Montessori at home](/en/blog/montessori-at-home-guide-en) — competence comes from doing the hard, slightly uncomfortable thing, with someone steady nearby, not from having the hard thing removed.
 
-## Our actual goodbye script (steal this)
+## A goodbye script you can steal
 
-Here's exactly what I say now, every drop-off, no variation:
+Here's a script to use at every drop-off, no variation:
 
 1. One hug, no longer than five seconds.
 2. "I love you. I'll be back after [specific, concrete time — lunch, swim time, 3 o'clock]. Have a great time."
-3. Hand her off to a specific adult by name if possible: "Luna, go tell Coach J you're here."
-4. Walk away. Don't turn around for a second wave, even if she's still upset. Turning around resets the goodbye and makes it longer, not shorter.
+3. Hand your child off to a specific adult by name if possible: "Go tell Coach J you're here."
+4. Walk away. Don't turn around for a second wave, even if they're still upset. Turning around resets the goodbye and makes it longer, not shorter.
 
 The boring, repetitive part is the entire point. A kid's nervous system doesn't calm down because the goodbye was eloquent — it calms down because the goodbye was predictable enough to stop needing to be monitored.
 
@@ -82,7 +82,7 @@ Most kids settle in within 2-3 days. That's genuinely the average, not the best-
 
 Signs it's worth a conversation with the camp director or your pediatrician: your kid isn't eating meals by day 4-5, isn't sleeping (for overnight camp), is completely withdrawn from every activity rather than just quiet, or the anxiety is escalating instead of easing as the days go on. That pattern is different from garden-variety homesickness, and it's worth ruling out something more — a specific fear about the setting, a peer conflict, an anxiety disorder that camp is surfacing rather than causing.
 
-I'll be honest about something I got wrong here too: with our first camp experience, I waited too long to ask the counselor how Luna's days were actually going, because I didn't want to be "that parent." Camp staff do this every summer. Ask. It took one two-minute conversation to find out she was completely fine by 10am every day — she just cried hard at the exact moment I was still watching.
+One more thing: don't wait too long to ask the counselor how your child's days are actually going just because you don't want to be "that parent." Camp staff do this every summer. Ask. A two-minute conversation can tell you whether your child settles soon after you leave — sometimes the hardest crying happens at the exact moment you're still watching.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
@@ -111,9 +111,9 @@ Yes, most camps allow a small comfort item, and it's a legitimate, research-supp
 
 ## Products We Recommend
 
-Two books that Luna's camp counselor actually recommended to us, and that held up:
+Two books worth reading together before camp starts:
 
-- [The Kissing Hand by Audrey Penn](https://www.amazon.com/dp/1933718005?tag=bloompath-20) — the classic for a reason. We read it the week before her first camp drop-off and she asked for it again at bedtime for a month after.
+- [The Kissing Hand by Audrey Penn](https://www.amazon.com/dp/1933718005?tag=bloompath-20) — the classic for a reason, and a good one to read the week before a first camp drop-off.
 - [The Invisible String by Patrice Karst](https://www.amazon.com/dp/0316570877?tag=bloompath-20) — better for the school-age kid who's embarrassed to admit they're anxious; the "invisible string" framing gives them a concrete way to talk about missing you without saying the word.
 
 For more on building the underlying skills these books support, see our [full positive parenting guide](/en/blog/positive-parenting-guide-en), our breakdown of [preschool drop-off tears](/en/blog/toddler-preschool-drop-off-tears-en), and [why unstructured play matters](/en/blog/boredom-breeds-creativity-parenting-strategy-en) for building the independence camp actually requires.

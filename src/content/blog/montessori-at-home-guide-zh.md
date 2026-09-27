@@ -1,5 +1,5 @@
 ---
-title: "在家打造蒙特梭利教室 2026：附 0-6 歲各年齡實作清單（工程師爸爸改造實錄）"
+title: "在家打造蒙特梭利教室 2026：附 0-6 歲各年齡實作清單（工程師爸爸整理）"
 description: "從零開始打造蒙特梭利居家環境的完整攻略：各房間佈置、各年齡段活動、五大核心原則，還有台灣爸媽最常犯的錯誤。"
 pubDate: 2026-04-01
 lang: "zh-TW"
@@ -38,7 +38,7 @@ image: "/og/montessori-at-home-guide-zh.png"
 
 當你開始「看見」你的寶貝——不是看他是否按你期待的方式成長，而是看他現在真正需要什麼——那個時候，你就已經在實踐蒙特梭利了。
 
-台灣很多爸媽問我：「蒙特梭利費用這麼高，一般家庭負擔不起怎麼辦？」說實話，蒙特梭利學校確實所費不貲，台北市一些私立蒙特梭利幼兒園月費可達三萬至五萬。但蒙特梭利精神本身，並不需要這個價錢。
+如果你也在想：「蒙特梭利費用這麼高，一般家庭負擔不起怎麼辦？」說實話，蒙特梭利學校確實所費不貲，台北市一些私立蒙特梭利幼兒園月費可達三萬至五萬。但蒙特梭利精神本身，並不需要這個價錢。
 
 2025年發表在美國《美國國家科學院院刊》（PNAS）的大型隨機對照試驗，追蹤了 588 位就讀公立蒙特梭利學校的孩子，結果清楚顯示：蒙特梭利對執行功能、語言發展、社交能力的效果，是真實且可重複的。
 
@@ -398,8 +398,8 @@ A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。�
 - [孩子第一次看牙醫就大哭？蒙特梭利陌生情境練習法](/zh/blog/toddler-first-dentist-visit-montessori-zh)
 - [孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援](/zh/blog/kids-say-bored-montessori-prepared-environment-zh)
 - [燈塔式育兒：讓孩子有根、也有翅膀](/zh/blog/lighthouse-parenting-montessori-zh)
-- [孩子到底幾歲該自己睡？跟阿嬤拉鋸半年後，我們家這樣分房睡成功了](/zh/blog/toddler-own-room-transition-zh)
+- [孩子到底幾歲該自己睡？分房睡的時機與溫和的階段式做法](/zh/blog/toddler-own-room-transition-zh)
 - [木製玩具真的比較安全？FSC 認證、無毒漆料，工程師爸爸拆解蒙特梭利教具怎麼挑](/zh/blog/sustainable-montessori-toys-guide-zh)
-- [台北營養午餐9月起全免費，女兒回家還是喊餓：政策懶人包＋偏食應對實戰](/zh/blog/taipei-free-school-lunch-picky-eater-zh)
+- [台北營養午餐9月起全免費，孩子回家還是喊餓？政策懶人包＋偏食應對實戰](/zh/blog/taipei-free-school-lunch-picky-eater-zh)
 - [3 歲還不識字正常嗎？蒙特梭利「先教音、後教名」的識字邏輯](/zh/blog/montessori-literacy-sound-first-3-year-old-zh)
-- [洗澡前尖叫十分鐘：我們用蒙特梭利視覺時間表 + 獨立工作區，把每天的崩潰時刻拆解掉](/zh/blog/montessori-anxiety-visual-schedule-workspace-zh)
+- [洗澡前尖叫十分鐘？用蒙特梭利視覺時間表 + 獨立工作區，把每天的崩潰時刻拆解掉](/zh/blog/montessori-anxiety-visual-schedule-workspace-zh)

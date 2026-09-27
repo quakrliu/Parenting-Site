@@ -16,11 +16,9 @@ ageGroup: ["toddler"]
 
 It is 2:14 AM. Then 4:07 AM. Then 5:30 AM.
 
-I used to think this was my fault. Like I had broken something. My daughter Luna was 18 months old and waking on a schedule that could only be described as aggressively inconvenient. I had a 9 AM team stand-up and I was showing up looking like a zombie who had been mugged.
+When our daughter was younger, I used to think night waking like this was my fault. Like I had broken something. If your toddler is waking on a schedule that can only be described as aggressively inconvenient, and you're showing up to work looking like a zombie who has been mugged, you've probably wondered the same thing.
 
-My wife -- a former early childhood educator who has actually read the research -- sat me down one bleary Saturday morning with a coffee and a very calm explanation. I expected to feel better. Instead I felt like an idiot.
-
-Because the problem was me.
+Here's the uncomfortable, hopeful answer: the problem usually isn't your child. It's the way they learned to fall asleep -- with you.
 
 ---
 
@@ -73,7 +71,7 @@ The sequence matters more than the duration. Pick 4 to 6 steps, do them in the s
 
 The routine acts as a runway. By the time you hit the song, your toddler’s brain is already priming for sleep. Consistency builds the neurological association -- and that association makes falling asleep and staying asleep easier over time.
 
-Confession: we had a routine for months that involved Luna picking which three songs I had to sing in which order, then renegotiating the order, then requesting encores. That is not a routine. That is a hostage negotiation. We fixed it by letting her pick one book and that was the end. Hard first week. Easy ever after.
+Watch out for routines that quietly turn into negotiations: a toddler picking which three songs you have to sing in which order, then renegotiating the order, then requesting encores. That is not a routine. That is a hostage negotiation. Letting them pick one book, and then that's the end, is far simpler. Expect a hard first week.
 
 ### 3. Gradual Exit Strategy
 

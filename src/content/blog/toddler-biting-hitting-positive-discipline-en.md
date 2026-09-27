@@ -10,13 +10,13 @@ draft: false
 ageGroup: ["toddler"]
 ---
 
-February, playground sandbox. A 26-month-old named Oliver leaned over and bit the arm of the girl next to him — hard enough to leave marks. (Names and details have been changed.)
+If you've spent enough time at playgrounds, you may have seen a scene like this. A two-year-old in the sandbox leans over and bites the arm of the girl next to him — hard enough to leave marks.
 
-Oliver's mother froze. The other parent pulled her daughter away. Oliver watched both of them, completely expressionless.
+His mother freezes. The other parent pulls her daughter away. The toddler watches both of them, completely expressionless.
 
-I'm sharing this story because Oliver's parents are friends who reached out after his third biting incident in two weeks. What happened next told me more than any conversation could. Oliver's mom yanked him up, said "NO. We don't BITE. Say sorry," and marched him to the far side of the playground.
+Then his mom yanks him up, says "NO. We don't BITE. Say sorry," and marches him to the far side of the playground.
 
-Oliver said "sorry" in a flat voice. The incident was "handled." And nothing was learned.
+He says "sorry" in a flat voice. The incident is "handled." And nothing is learned.
 
 > **A note from us**: This article is written from Mei's voice — a real parent with years of experience whose daughter attends a Montessori elementary school. To protect our daughter's privacy, BloomPath presents through AI characters. We are not certified Montessori teachers; what follows synthesizes what we've learned from real-life parenting, our daughter's Montessori school, and the research literature.
 
@@ -44,7 +44,7 @@ I've watched this pattern thousands of times. A child reaches for a toy. Another
 
 Playgrounds, parks, birthday parties — these are neurologically intense environments for toddlers. Noise, movement, new faces, texture, the social demands of sharing and waiting all stack on top of each other. A toddler who is overstimulated reaches a threshold, and the overflow comes out physically.
 
-A pattern we've heard from teachers at Luna's Montessori school: incidents almost always cluster right before lunch, or about 40 minutes into open playtime. Two clear patterns — hunger plus sustained social demand. Adjusting the schedule around those windows dropped incidents significantly in the classes we've observed.
+Timing is often a clue. Hunger and sustained social demand are two common triggers, so incidents tend to cluster right before a meal or deep into a long stretch of open playtime. Adjusting the schedule around those windows can help.
 
 ### Reason 3: Testing Cause and Effect
 
@@ -74,7 +74,7 @@ From parent communities we've been part of for the last decade, we've seen a fai
 
 ## The Montessori Response: What to Actually Do
 
-Here's what we shared with Oliver's parents — drawn from Luna's Montessori school's approach plus the research on co-regulation, emotion coaching, and positive discipline.
+Here's a step-by-step response drawn from Montessori principles plus the research on co-regulation, emotion coaching, and positive discipline.
 
 ### Step 1: Protect the Victim First (5 seconds)
 
@@ -110,7 +110,7 @@ Don't expect them to do this next time. Expect it to take six months to two year
 
 Ask yourself: when, where, and what triggered this?
 
-Oliver's biting always happened within the last 20 minutes before lunch. We moved his snack earlier. The biting dropped by half within two weeks. No punishment involved.
+For example, if the biting always happens right before lunch, try moving snack time earlier. No punishment involved.
 
 ---
 
@@ -118,7 +118,7 @@ Oliver's biting always happened within the last 20 minutes before lunch. We move
 
 For toddlers who bite due to sensory needs — gum discomfort, oral stimulation seeking, or anxiety — having something appropriate to chew can dramatically reduce incidents.
 
-The [ARK Therapeutic chew necklace](https://www.amazon.com/dp/B07YHL9FSR?tag=bloompath-20) is designed specifically for oral sensory needs and is food-grade silicone. These are widely recommended by occupational therapists for children with a genuine chewing need — and we've heard consistently positive feedback from other parents. Having a safe outlet often removes the need to bite a person entirely.
+The [ARK Therapeutic chew necklace](https://www.amazon.com/dp/B07YHL9FSR?tag=bloompath-20) is designed specifically for oral sensory needs and is food-grade silicone. These are widely recommended by occupational therapists for children with a genuine chewing need. Having a safe outlet often removes the need to bite a person entirely.
 
 ---
 

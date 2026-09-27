@@ -80,13 +80,13 @@ ageGroup: ["all"]
 
 Before I became a dad, I thought I was patient.
 
-I really believed this. Eight years in tech, deadline pressure, difficult clients — I never lost my cool. I had what I genuinely considered an above-average temperament.
+I really believed this. Years in tech, deadline pressure, difficult clients — I never lost my cool. I had what I genuinely considered an above-average temperament.
 
-Then my daughter turned 18 months old.
+Then our daughter reached the toddler years.
 
-There is a gap between "patient adult" and "patient parent of a toddler who just poured her entire breakfast onto the floor for the third time this week." It is a canyon. I fell into it repeatedly.
+There is a gap between "patient adult" and "patient parent of a toddler who just poured breakfast onto the floor — again." It is a canyon, and most parents fall into it at some point.
 
-So I did what engineers do when facing a system they don't understand: I read everything. I found gentle parenting. Then I found Montessori. Then I spent two confused weeks thinking they were the same thing.
+So I did what engineers do when facing a system they don't understand: I read everything. I found gentle parenting. Then I found Montessori. For a while, it was easy to think they were the same thing.
 
 They're not.
 

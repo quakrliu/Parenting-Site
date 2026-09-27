@@ -44,7 +44,7 @@ It's a philosophy of *environment design* — the idea that how you set up a chi
 
 The core insight: children between 0 and 6 are in what Montessori called the "absorbent mind" stage. Their brains are literally wired to take in the environment and construct understanding from it. They don't learn by being told; they learn by *doing*, touching, repeating, and making sense of real-world cause and effect.
 
-When parents ask me "Is this really Montessori?" the honest answer is: it doesn't matter. What matters is whether your environment supports independent exploration, gives your child agency, and respects their natural developmental timeline.
+If you're wondering "Is this really Montessori?" the honest answer is: it doesn't matter. What matters is whether your environment supports independent exploration, gives your child agency, and respects their natural developmental timeline.
 
 **Three questions to ask about any setup:**
 - Can my child access this independently?

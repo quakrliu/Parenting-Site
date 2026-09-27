@@ -14,15 +14,15 @@ ageGroup: ["3-6", "6+"]
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Will my bilingual child actually forget a language over summer?","acceptedAnswer":{"@type":"Answer","text":"Research shows the first measurable signs of language attrition can appear after about 5 months of reduced exposure, but what children usually lose first is retrieval speed, not the underlying language itself. Listening comprehension holds up much longer than speaking ability. An 8-week summer gap is rarely enough to cause permanent loss, and most kids bounce back quickly once exposure resumes."}},{"@type":"Question","name":"Do I need a bilingual immersion camp to prevent language loss?","acceptedAnswer":{"@type":"Answer","text":"No. What matters most for retention is consistent, frequent exposure, not the format it comes in. Short, daily active-use sessions at home — reading, video chats with relatives, narrating a favorite show — can work as well as a formal camp, for a fraction of the cost."}},{"@type":"Question","name":"How much time per day is actually needed to maintain a second language?","acceptedAnswer":{"@type":"Answer","text":"There's no single magic number in the research, but linguists generally point to 20-30 minutes of active use per day — meaning the child is speaking or answering, not just listening — as more effective than one long weekly session. Frequency beats duration for preschool and early-elementary kids."}},{"@type":"Question","name":"Why does my kid seem to understand English fine but struggle to speak it after a break?","acceptedAnswer":{"@type":"Answer","text":"This is expected and has a name in linguistics: productive skills (speaking) attrite faster than receptive skills (listening/comprehension). Your child likely still understands most of what they hear — the slowdown is in retrieval, pulling the right word out under pressure, not comprehension."}},{"@type":"Question","name":"What should I do if my child refuses to speak the second language after time with monolingual relatives?","acceptedAnswer":{"@type":"Answer","text":"Don't push them to 'perform' the language in front of family — this tends to attach stress to the language itself, which backfires over time. A better approach is rebuilding exposure gently after the visit, through things the child already enjoys, like a favorite bedtime book, rather than putting them on the spot."}}]}
 </script>
 
-Last July, my daughter spent three weeks at her grandmother's house while I was catching up on a work deadline. Grandma speaks Mandarin and Taiwanese, no English at all, and the two of them had a wonderful time at the wet market and the temple fair together. I didn't think much of it — until the week before school started, when we sat down for our usual bedtime book and she stared at a word she'd known cold six months earlier. It took her almost ten seconds to get it out.
+If your child has ever spent a few weeks of summer with grandparents who don't speak their second language — happy, busy, and hearing none of it — you may know this moment. The week before school starts, you sit down for the usual bedtime book, and your child stares at a word they knew cold a few months earlier. It takes them an agonizingly long time to get it out.
 
-My first thought was: we lost it. All that work, gone.
+The first thought is: we lost it. All that work, gone.
 
-My husband Ethan, who's an engineer and turns everything into a systems metaphor, was sitting next to me and just laughed. "She didn't lose the file. The cache got cleared. The data's still on the disk, retrieval's just slower." I rolled my eyes at the time, but when I actually looked into the research afterward, he wasn't far off.
+An engineer might put it this way: the file isn't lost. The cache got cleared. The data's still on the disk; retrieval is just slower. And when you look into the research, that's not far off.
 
-Here at BloomPath, we spend a lot of time tracking bilingual development research, and this summer I finally sat down and read the actual literature on whether a language really can "disappear" over a break like this. Here's what I found, plus what we've changed at home.
+Here at BloomPath, we spend a lot of time tracking bilingual development research, and this summer I finally sat down and read the actual literature on whether a language really can "disappear" over a break like this. Here's what I found, plus a plan you can use at home.
 
-**TL;DR:** A few months without regular exposure will slow down a bilingual child's ability to retrieve words and speak fluently, but it's rarely true loss — listening comprehension holds up much longer than speaking does, and most kids recover full fluency within a week or two of resumed exposure. You don't need an expensive immersion camp to prevent this. Short, consistent daily exposure at home does the job. Here's what actually worked for us.
+**TL;DR:** A few months without regular exposure will slow down a bilingual child's ability to retrieve words and speak fluently, but it's rarely true loss — listening comprehension holds up much longer than speaking does, and most kids recover full fluency within a week or two of resumed exposure. You don't need an expensive immersion camp to prevent this. Short, consistent daily exposure at home does the job. Here's what actually works.
 
 ## Does a Bilingual Kid Really Forget a Language Over Summer?
 
@@ -36,25 +36,25 @@ One linguistic model, the Weaker Links Hypothesis, explains this well: a languag
 
 BloomPath tracks these bilingual developmental patterns if you want a clearer read on where your own child actually stands instead of guessing from a single stumble over one word. Our [app](/en/app/) flags the signals worth paying attention to versus normal fluctuation.
 
-## Why Did Three Weeks at Grandma's Hit So Hard?
+## Why Can a Few Weeks at Grandma's Hit So Hard?
 
-I eventually figured out the real issue wasn't the number of days — it was the density of the drop-off.
+The real issue usually isn't the number of days — it's the density of the drop-off.
 
-Those three weeks weren't "a little less English." They were zero English. No school, no usual English cartoon, no bedtime book in English. Compare that to the school year, where she gets structured exposure daily plus our nightly reading — this was a cliff, not a gradual taper.
+A few weeks like that aren't "a little less English." They're zero English. No school, no usual English cartoon, no bedtime book in English. Compare that to the school year, with structured exposure daily plus nightly reading — it's a cliff, not a gradual taper.
 
 This actually lines up with something Montessori education emphasizes constantly: consistency of environment matters for skill development. Language is no exception. It needs an environment that keeps offering opportunities to practice. Swap the whole environment overnight and of course a kid needs time to readjust. That's not a failure on the child's part, or ours — it's just how skill retention works when the input disappears completely instead of tapering off.
 
 ## A No-Camp Immersion Plan That Actually Works at Home
 
-Here's what we've settled into after a few summers of trial and error — no flights, no $2,000 immersion camp required.
+Here's a plan that works at home — no flights, no $2,000 immersion camp required.
 
-**A fixed time slot, not a random one.** We made 15 minutes of bedtime reading in English non-negotiable, even on the most exhausted nights. The research on this is consistent: short, frequent sessions beat one long weekly session, because a young kid's attention span is the real bottleneck. Doing 15 minutes every night for two months adds up to far more retained practice than a single two-hour Saturday class.
+**A fixed time slot, not a random one.** Make 15 minutes of bedtime reading in the second language non-negotiable, even on the most exhausted nights. The research on this is consistent: short, frequent sessions beat one long weekly session, because a young kid's attention span is the real bottleneck. Doing 15 minutes every night for two months adds up to far more retained practice than a single two-hour Saturday class.
 
-**Watching a show isn't enough on its own — you have to make her talk back.** We noticed that just switching Netflix to English audio put her into pure listening mode; she wasn't producing any language at all. So we changed the habit: after every episode, one quick question — "what did the dog do at the end?" — forces one sentence of actual speech. Given that speaking is the skill that attrites fastest, this turned out to matter a lot more than we expected.
+**Watching a show isn't enough on its own — you have to get them talking back.** Just switching Netflix to English audio puts a kid into pure listening mode; they're not producing any language at all. So add one habit: after every episode, one quick question — "what did the dog do at the end?" — forces one sentence of actual speech. Given that speaking is the skill that attrites fastest, this matters more than you'd expect.
 
-**Set up one real video call with someone who only speaks the language.** Ethan has a friend in the U.S. with a kid close to our daughter's age, and we schedule two or three casual video calls over the summer — no agenda, just kids talking. Real back-and-forth with another person pulls more speech out of a child than a screen ever will, because the other kid is actually waiting for a response.
+**Set up one real video call with someone who only speaks the language.** A friend or relative with a kid of a similar age is ideal — two or three casual video calls over the summer, no agenda, just kids talking. Real back-and-forth with another person pulls more speech out of a child than a screen ever will, because the other kid is actually waiting for a response.
 
-**Don't turn language into a performance in front of relatives.** We learned this one the hard way. Grandma once asked our daughter to "say something in English" for visiting relatives, and she froze and cried instead. What we didn't understand at the time is that putting a kid on the spot to perform a language attaches stress to it, which works against long-term retention. The better move is to let the visit be what it is — she's also building a different, equally valuable connection to Mandarin and Taiwanese there — and rebuild English exposure gently once you're back in your usual routine, not in the moment.
+**Don't turn language into a performance in front of relatives.** When a well-meaning relative asks a child to "say something in English" on the spot, many kids freeze. Putting a kid on the spot to perform a language attaches stress to it, which works against long-term retention. The better move is to let the visit be what it is — your child is also building a different, equally valuable connection to the family's other languages there — and rebuild English exposure gently once you're back in your usual routine, not in the moment.
 
 ## The Mistake We Made First: More Isn't Better
 
@@ -78,7 +78,7 @@ Linguists point to roughly 20-30 minutes of active use daily, spread through nor
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
-Related reading: [My Bilingual 4-Year-Old Has a 'Vocabulary Gap' — Here's Why I Stopped Worrying](/en/blog/bilingual-4-year-old-vocabulary-en), [Bilingual Children Aren't Behind: New Research Finally Debunks the Language Delay Myth](/en/blog/bilingual-children-language-delay-myth-debunked-en), [Montessori at Home: The Complete Guide (0–6 Years)](/en/blog/montessori-at-home-guide-en), [Why Your Toddler Won't Sleep (Again): The Brain Science Behind Sleep Regression](/en/blog/toddler-sleep-regression-guide-en)
+Related reading: [Does Your Bilingual 4-Year-Old Have a 'Vocabulary Gap'? Here's Why You Can Stop Worrying](/en/blog/bilingual-4-year-old-vocabulary-en), [Bilingual Children Aren't Behind: New Research Finally Debunks the Language Delay Myth](/en/blog/bilingual-children-language-delay-myth-debunked-en), [Montessori at Home: The Complete Guide (0–6 Years)](/en/blog/montessori-at-home-guide-en), [Why Your Toddler Won't Sleep (Again): The Brain Science Behind Sleep Regression](/en/blog/toddler-sleep-regression-guide-en)
 
 ## Products We Recommend
 

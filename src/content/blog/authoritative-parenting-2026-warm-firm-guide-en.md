@@ -14,7 +14,7 @@ draft: false
 
 ---
 
-Last Tuesday night, my daughter melted down at dinner because I wouldn't let her watch one more episode of her show. Full drama. Tears. The whole production. I sat with her, acknowledged her feelings — and then held the line.
+If your kid has ever melted down at dinner because you wouldn't allow one more episode of their show — full drama, tears, the whole production — you know how tempting it is to either cave or shut it down. There's a third move: sit with them, acknowledge the feelings, and then hold the line.
 
 Here at BloomPath, we talk about evidence-based parenting constantly. But for years, I did what a lot of parents do: I leaned hard into gentle parenting, validated every emotion, and sometimes backed down when things got loud because I was terrified of becoming my own dad — the shut-it-down-or-else version.
 

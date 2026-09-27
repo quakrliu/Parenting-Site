@@ -1,5 +1,5 @@
 ---
-title: "My Daughter Ripped Up Her Math Worksheet Over One Wrong Answer — Here's What Actually Helped"
+title: "When Your Kid Rips Up a Math Worksheet Over One Wrong Answer — Here's What Actually Helps"
 description: "BloomPath co-founder Mei Chen breaks down why elementary-age kids melt down over small mistakes, what Montessori's 'control of error' teaches about it, and the exact scripts that changed how our house handles wrong answers."
 pubDate: "2026-08-10"
 tags: ["perfectionism in kids", "growth mindset", "montessori", "positive parenting", "elementary school"]
@@ -12,9 +12,9 @@ draft: false
 
 **TL;DR:** When a kid cries, shuts down, or rips up the page over one wrong answer, it's rarely about the answer itself — it's an early sign of perfectionism, and how parents respond to that moment either reinforces the fear of being wrong or starts to loosen it. At BloomPath, we've spent years watching this pattern show up at home and at Luna's Montessori school, and the research backs up what the school kept modeling: kids need to see mistakes treated as information, not failure. Below is what that actually looks like — the scripts, the Montessori concept behind it, and the things I did that made it worse before I figured out what helped.
 
-Last Tuesday night, at our kitchen table, my daughter wrote a 7 where a 1 should have been on a subtraction problem, saw the red mark her teacher had circled, and shut the workbook so hard the cover creased. She didn't yell. She went quiet, folded her arms on the table, and put her head down. When I asked what was wrong, she said, "I always mess it up," which was not true — she'd gotten eleven of twelve problems right. She'd fixated on the one.
+Picture it: at the kitchen table, your kid writes a 7 where a 1 should have been on a subtraction problem, sees the red circle from the teacher, and shuts the workbook so hard the cover creases. No yelling. Just quiet — arms folded on the table, head down. When you ask what's wrong: "I always mess it up." Which isn't true — eleven of twelve problems are right. But the one is all they can see.
 
-I've seen a version of this at least a dozen times over the years, and my friend Priya, whose son is in the same grade at his school, told me almost the identical story a few weeks ago — a spelling quiz, one wrong word, a meltdown that had nothing to do with spelling. If this is happening in your house too, you're not imagining a pattern. It's a real, well-documented one, and it usually shows up right around when kids start getting formal grades and corrections on their work.
+Swap the worksheet for a spelling quiz and one wrong word, and you often get the same meltdown — one that has nothing to do with spelling. If this is happening in your house, you're not imagining a pattern. It's a real, well-documented one, and it usually shows up right around when kids start getting formal grades and corrections on their work.
 
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
 
@@ -58,7 +58,7 @@ The tricky part is how badly I want to say "you're so smart, don't worry about i
 
 ## What We Got Wrong Before We Figured This Out
 
-For a long stretch, my go-to move was jumping straight to the correction — "oh, it's just a 7 instead of a 1, easy fix" — because I thought getting to the right answer fast would stop the crying.
+For a long stretch, my go-to move was jumping straight to the correction — "oh, it's just one digit, easy fix" — because I thought getting to the right answer fast would stop the crying.
 
 It did stop the crying, some of the time. It also skipped the part where she got to sit with being wrong and discover she could handle it. I was solving my own discomfort with her tears more than I was helping her build tolerance for mistakes. The other thing I did that backfired: telling her mistakes don't matter. They do matter to her, in the moment, and pretending otherwise just teaches a kid to hide the reaction instead of working through it.
 
@@ -115,7 +115,7 @@ Want a simple place to jot down what actually helps when your kid is having a ha
 
 ## Further Reading
 
-- [I Almost Drove Her Forgotten Homework to School. Here's What Overparenting Research Taught Me.](/en/blog/overparenting-effects-en)
+- [Should You Drive the Forgotten Homework to School? What Overparenting Research Says](/en/blog/overparenting-effects-en)
 - [Toddler Low Frustration Tolerance: Why Small Things Cause Big Meltdowns](/en/blog/toddler-low-frustration-tolerance-meltdowns-en)
 - [Why Your Toddler Lies (And Why It's Actually a Sign of a Smart Brain)](/en/blog/why-toddler-lies-en)
 - [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)

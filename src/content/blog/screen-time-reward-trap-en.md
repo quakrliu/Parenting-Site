@@ -34,9 +34,9 @@ ageGroup: ["school-age", "teen"]
 
 ---
 
-Last Tuesday night, I made a deal with my daughter that I've probably made a hundred times before: finish your reading log, and you get twenty minutes on the iPad before bed. She finished in what I can only describe as record time — record time, for a task that usually eats forty-five minutes of negotiating and at least one dramatic sigh. I should have been thrilled. Instead I stood in the kitchen watching her blast through the last few sentences like she was defusing a bomb, and thought: this doesn't look like learning. It looks like the fastest possible route to a screen.
+If you've ever made the deal — finish your reading log, and you get twenty minutes on the iPad before bed — you may have seen what happens next: a task that usually eats forty-five minutes of negotiating and at least one dramatic sigh gets done in record time. You should be thrilled. Instead you watch your kid blast through the last few sentences like they're defusing a bomb, and think: this doesn't look like learning. It looks like the fastest possible route to a screen.
 
-At BloomPath, this is one of the most common screen-time questions we hear from parents — not "how much screen time is too much," but something closer to "why does my kid only seem motivated to do anything when a screen is the prize waiting at the end?" My wife Mei has read a lot more parenting research than I have, and when I told her about the reading-log sprint, she said something that's stuck with me since: "You didn't motivate her to read faster. You taught her that reading is an obstacle standing between her and the thing she actually wants."
+The real question isn't "how much screen time is too much." It's closer to "why does my kid only seem motivated to do anything when a screen is the prize waiting at the end?" The uncomfortable answer: the deal didn't motivate them to read faster. It taught them that reading is an obstacle standing between them and the thing they actually want.
 
 ## Why Does Rewarding Kids With Screen Time Backfire?
 
@@ -54,7 +54,7 @@ Kohn's book *Punished by Rewards* built its case across classroom and home studi
 
 There's a dopamine piece to this too. Screens, especially fast-paced apps and short-form video, trigger a strong dopamine response on their own. When you stack "finish the boring task" directly in front of "get the dopamine hit," you're not just offering a reward — you're training the brain on exactly what's worth working for, and it isn't the homework.
 
-I'll admit I didn't fully buy this the first time Mei explained it to me. It felt too tidy, too much like a parenting-book talking point. But watching my own daughter sprint through a reading log without absorbing a word of it made the mechanism click for me in a way the research alone hadn't.
+I'll admit I didn't fully buy this the first time Mei explained it to me. It felt too tidy, too much like a parenting-book talking point. But once you've watched a kid sprint through a reading log without absorbing a word of it, the mechanism clicks in a way the research alone doesn't.
 
 ## What Can I Do Instead of "Finish Your Homework, Then iPad Time"?
 
@@ -62,7 +62,7 @@ I'll admit I didn't fully buy this the first time Mei explained it to me. It fel
 
 This is where Montessori philosophy actually offers something practical, and it's not about buying wooden toys. Montessori classrooms deliberately skip gold stars, treats, and prizes for finishing work — not because kids don't like rewards, but because the whole design assumes competence itself is the reward. A child who pours their own water, or completes a task correctly, gets a hit of satisfaction from doing it well, not from what someone hands them afterward.
 
-At home, that translated into a few concrete changes for us:
+At home, with our daughter, that translated into a few concrete changes:
 
 1. **We stopped naming screens as the prize for homework or chores.** Homework happens because it's part of the day, the same way dinner happens. No "and then" attached.
 2. **We built in actual unscheduled screen time**, separate from any task, so it stopped feeling like something she had to earn through good behavior every single day.
@@ -75,7 +75,7 @@ None of this eliminated screens from our house. It just stopped using them as th
 
 **Direct answer: decouple gradually instead of cutting it off overnight, let your child help design the new plan, and expect one to two weeks of real pushback before it settles.**
 
-If screen time has been the daily currency in your house for a while, don't expect a clean transition. My friend Dave, whose son is a year older than my daughter, tried going cold turkey on the reward system in a single weekend and described the following Monday as "the worst 48 hours of parenting I've had." What worked better for us was slower:
+If screen time has been the daily currency in your house for a while, don't expect a clean transition. Going cold turkey on the reward system in a single weekend can make the pushback much harder. What worked better for us was slower:
 
 - Pick one responsibility to decouple first — we started with homework, not the whole list
 - Say it out loud, once, calmly: "Homework and iPad time aren't connected anymore. Homework happens because it's part of our day."
@@ -113,7 +113,7 @@ Occasional, low-stakes screen time tied to a genuinely fun shared family activit
 
 ## Further Reading
 
-- [Do Reward Charts Actually Work? What 11 Years of Parenting Taught Me](/en/blog/toddler-reward-chart-does-it-work-en)
+- [Do Reward Charts Actually Work? What Years of Parenting Taught Me](/en/blog/toddler-reward-chart-does-it-work-en)
 - [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)
 - [Why Your Tween Can't Stop Watching Short Videos (And What Actually Helps)](/en/blog/short-video-addiction-tweens-montessori-en)
 - [How to Set Boundaries Without Punishment: The Positive Parenting Way](/en/blog/positive-parenting-boundaries-en)

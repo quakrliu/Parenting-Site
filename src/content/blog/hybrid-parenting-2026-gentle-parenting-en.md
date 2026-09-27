@@ -115,9 +115,9 @@ Before becoming a dad, I thought I was a patient person. I was wrong on day one.
 
 I also thought I'd be a "gentle parent." I'd read the books. I understood the theory — validate emotions, never shame, explain everything, no punishments. Made total sense. Very logical. Very engineer of me.
 
-Then my daughter turned two. And I quickly discovered that you cannot reason with a person who has been awake since 4:47 AM and is currently screaming because her cereal touched her yogurt.
+Then our daughter turned two. And I quickly discovered that you cannot reason with a toddler in the middle of a full meltdown.
 
-For months I tried. I'd kneel down to her level, use my calmest voice, reflect her feelings: *"I hear you're really upset about the yogurt touching the cereal. That feels really frustrating."* She'd look at me like I had three heads, then escalate the screaming.
+For a while I tried — kneeling to her level, using my calmest voice, reflecting every feeling. It didn't land the way the books promised.
 
 Something wasn't working. And turns out, I wasn't alone.
 

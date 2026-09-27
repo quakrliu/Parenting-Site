@@ -22,7 +22,7 @@ image: "/og/australia-teen-social-media-ban-parents-guide-en.png"
 *This article is part of our [Screen Time in 2026: The Complete Guide](/en/blog/screen-time-2026-guide-en).*
 
 
-Before I had kids, I thought I was a pretty patient person. Then my daughter turned 12, got a phone, and I watched her disappear into a screen for four hours straight while I stood in the doorway trying to figure out if I was being a controlling parent or a neglectful one.
+Picture a 12-year-old with a new phone, disappearing into the screen for four hours straight, while a parent stands in the doorway trying to figure out whether they're being controlling or neglectful.
 
 If you're parenting a teenager right now, you already know this feeling.
 
@@ -114,7 +114,7 @@ Here's the data point I didn't expect: **a strong parent-teen relationship cuts 
 
 Same screen time. Radically different outcome.
 
-Your relationship with your teen may matter more than how many hours they're on their phone. I don't say that to guilt-trip anyone (I had three 30-minute stress-yelling sessions last month, so I'm not exactly winning Dad of the Year). I say it because it shifts what we should be focused on.
+Your relationship with your teen may matter more than how many hours they're on their phone. I don't say that to guilt-trip anyone — nobody gets this right every day. I say it because it shifts what we should be focused on.
 
 
 ---
@@ -154,9 +154,9 @@ Most experts I read advocated for *both*: meaningful age restrictions *and* acti
 
 ## What Positive Parenting Looks Like Here
 
-I'll be honest: my first instinct when I read the research was "I'm taking her phone." My wife, who's a teacher, asked a better question: "What conversation have you actually had with her about this?"
+Many parents' first instinct after reading this research is "I'm taking the phone." A better first question: "What conversation have I actually had with my kid about this?"
 
-I had not had that conversation.
+For a lot of us, the honest answer is: not that one.
 
 So here's the shift that positive parenting offers in this context: **from surveillance to conversation, from control to connection.**
 
@@ -288,7 +288,7 @@ The statistic that stuck with me most isn't about screen time. It's this one: te
 
 Same phones. Same platforms. Different outcomes.
 
-I still have rules in our house. No phones at dinner. Off at 10 PM. I use Bark. But what I've learned is that the rules work better when they come from a relationship, not a panic.
+Rules still matter — no phones at dinner, off at 10 PM, maybe a tool like Bark. But what I've learned is that the rules work better when they come from a relationship, not a panic.
 
 You're here reading this. You looked up the research. That already makes you the kind of parent that matters most.
 

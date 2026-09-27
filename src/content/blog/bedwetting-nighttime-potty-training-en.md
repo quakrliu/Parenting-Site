@@ -1,6 +1,6 @@
 ---
-title: "My 5-Year-Old Is Potty Trained All Day and Still Wets the Bed Every Night"
-description: "Three nights of 2 a.m. sheet changes taught me that nighttime bedwetting has almost nothing to do with daytime potty training — and almost everything to do with a hormone most parents have never heard of."
+title: "Your 5-Year-Old Is Potty Trained All Day but Still Wets the Bed Every Night? Here's Why"
+description: "If you're changing sheets at 2 a.m., here's what helps to know: nighttime bedwetting has almost nothing to do with daytime potty training — and almost everything to do with a hormone most parents have never heard of."
 pubDate: "2026-08-11"
 tags: ["bedwetting", "nighttime potty training", "toddler sleep", "preschooler development", "positive parenting"]
 lang: "en"
@@ -14,63 +14,63 @@ ageGroup: ["preschool", "school-age"]
 
 ---
 
-Last Tuesday, 2:14 a.m., I was on my knees in my daughter's room stripping a wet fitted sheet off her bed for the third time that week. She was standing in the hallway in a spare pair of pajamas, not crying exactly, just quiet in that specific way kids get when they think they did something wrong. I told her — again — that it wasn't her fault, that accidents happen, that we'd get new sheets and go back to sleep. I believed it when I said it. At 2 a.m. after the third change, I also felt the part of my brain that just wanted it to stop.
+If you've ever been on your knees at 2 a.m., stripping a wet fitted sheet off your child's bed for the third time that week, you know the scene. Your kid is standing in the hallway in a spare pair of pajamas, not crying exactly, just quiet in that specific way kids get when they think they did something wrong. You tell them — again — that it isn't their fault, that accidents happen, that you'll get new sheets and go back to sleep. You mean it when you say it. At 2 a.m. after the third change, there's also a part of your brain that just wants it to stop.
 
-I write about this stuff for BloomPath, and I'd have told you two months earlier that we were basically done with diapers and accidents. She'd been dry all day at kindergarten for over a year — no accidents at drop-off, no accidents at the playground, no accidents on the eight-hour car ride to see her grandparents. Nighttime was a different story, and I didn't understand why until I actually looked into what's happening in a sleeping kid's body, not just what's happening in ours.
+Maybe you thought you were basically done with diapers and accidents. Your child has been dry all day at kindergarten for a year or more — no accidents at drop-off, no accidents at the playground, no accidents on long car rides. Nighttime is a different story, and it's hard to understand why until you look into what's happening in a sleeping kid's body, not just at what might be going wrong at home.
 
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en).*
 
 ## Why Does a Fully Potty-Trained Kid Still Wet the Bed at Night?
 
-Because daytime dryness and nighttime dryness are controlled by two almost separate systems, and one of them she can't consciously manage. During the day, staying dry is about noticing the urge, walking to the bathroom, and pulling down pants in time — a learned, physical skill. At night, staying dry depends on the body producing enough antidiuretic hormone (also called vasopressin, or ADH) to slow down urine production while she sleeps, plus a brain that wakes up when the bladder signals it's full.
+Because daytime dryness and nighttime dryness are controlled by two almost separate systems, and one of them your child can't consciously manage. During the day, staying dry is about noticing the urge, walking to the bathroom, and pulling down pants in time — a learned, physical skill. At night, staying dry depends on the body producing enough antidiuretic hormone (also called vasopressin, or ADH) to slow down urine production during sleep, plus a brain that wakes up when the bladder signals it's full.
 
-Some kids' bodies just aren't making enough ADH yet at five or six. Some kids sleep so deeply that the "wake up, bladder's full" signal doesn't register — Cleveland Clinic and the National Kidney Foundation both describe this as a maturation issue, not a discipline issue. Nobody trained my daughter out of that. Her body has to grow into it, the same way it grew into walking or losing baby teeth, and there's no chart or sticker system that speeds up hormone production.
+Some kids' bodies just aren't making enough ADH yet at five or six. Some kids sleep so deeply that the "wake up, bladder's full" signal doesn't register — Cleveland Clinic and the National Kidney Foundation both describe this as a maturation issue, not a discipline issue. No amount of training gets a child out of that. Their body has to grow into it, the same way it grows into walking or losing baby teeth, and there's no chart or sticker system that speeds up hormone production.
 
-The other thing I didn't know: constipation is a surprisingly common hidden cause. A full bowel physically presses on the bladder and reduces how much urine it can hold overnight. Our pediatrician asked about her bathroom habits before she asked about anything else, which told me this wasn't the first time she'd seen a "day-trained, night-wetting" kid walk in assuming something was broken.
+The other thing many parents don't know: constipation is a surprisingly common hidden cause. A full bowel physically presses on the bladder and reduces how much urine it can hold overnight. So if your child is day-trained and night-wetting, it's worth looking at their bathroom habits before assuming something is broken.
 
 ## Is It Normal for a 5- or 6-Year-Old to Still Wet the Bed?
 
 Yes, more normal than most parents expect. Roughly 20% of five-year-olds wet the bed, according to pediatric urology sources, and the number drops steadily each year after that without any intervention at all — the [National Kidney Foundation](https://www.kidney.org/kidney-topics/bedwetting-children-teens-nocturnal-enuresis) and [Texas Children's Hospital](https://www.texaschildrens.org/content/wellness/when-do-i-need-worry-about-bedwetting) both put the natural resolution rate at somewhere around 15% per year. Most kids grow out of it entirely by the time they're 10, often without any treatment beyond time and a waterproof mattress protector.
 
-What surprised me most: it often runs in families. If one parent wet the bed past age five, the odds are meaningfully higher that their kid will too. I asked my mom about this over video call — she remembered it happening with my older brother until he was almost seven, something nobody in our family had ever really talked about. That one conversation did more to settle my own anxiety about it than any article I'd read.
+What surprises many parents: it often runs in families. If one parent wet the bed past age five, the odds are meaningfully higher that their kid will too. If you're anxious about it, asking your own parents whether bedwetting showed up in your family can be surprisingly reassuring.
 
-## What Actually Helped Us Stop Dreading Bedtime
+## What Actually Helps Families Stop Dreading Bedtime
 
-**We stopped talking about it as a problem to fix.** The single biggest shift wasn't a product or a schedule — it was language. We went from "did you have an accident?" to "your body's still learning to do this at night, that's all." Janet Lansbury's RIE framework talks about how kids absorb the emotional charge adults put around a behavior more than the behavior itself; a wet bed treated like a crisis becomes a shame trigger, and shame doesn't build bladder control, it just builds a kid who hides wet sheets or stops wanting sleepovers.
+**Stop talking about it as a problem to fix.** The single biggest shift isn't a product or a schedule — it's language. Going from "did you have an accident?" to "your body's still learning to do this at night, that's all" changes the whole tone. Janet Lansbury's RIE framework talks about how kids absorb the emotional charge adults put around a behavior more than the behavior itself; a wet bed treated like a crisis becomes a shame trigger, and shame doesn't build bladder control, it just builds a kid who hides wet sheets or stops wanting sleepovers.
 
-**We waterproofed the whole setup so nobody had to panic at 2 a.m.** A fitted waterproof mattress protector under her regular sheet meant that even a full accident stayed contained to the sheet and the pad underneath, not the mattress. We also kept a spare set of sheets and pajamas folded in a drawer in her room specifically for this, so a change took four minutes instead of fifteen minutes of half-asleep hunting through the linen closet.
+**Waterproof the whole setup so nobody has to panic at 2 a.m.** A fitted waterproof mattress protector under the regular sheet means that even a full accident stays contained to the sheet and the pad underneath, not the mattress. Keeping a spare set of sheets and pajamas folded in a drawer in your child's room specifically for this turns a change into a quick swap instead of a half-asleep hunt through the linen closet.
 
-**We moved her last bathroom trip to right before lights-out**, not an hour before, and we cut down (not eliminated) drinks in the last hour before bed without making it a rule she had to enforce herself. Cutting fluids too aggressively can backfire and doesn't fix the underlying hormone timing anyway, so we didn't go overboard — just enough that her bladder wasn't starting the night already full.
+**Move the last bathroom trip to right before lights-out**, not an hour before, and cut down (not eliminate) drinks in the last hour before bed without making it a rule your child has to enforce themselves. Cutting fluids too aggressively can backfire and doesn't fix the underlying hormone timing anyway, so there's no need to go overboard — just enough that their bladder isn't starting the night already full.
 
-**We checked in on constipation**, because it turned out to matter more than I expected. More fiber, more water during the day, and a regular after-dinner bathroom routine made a noticeable difference within a couple of weeks.
+**Check in on constipation**, because it can matter more than you'd expect. More fiber, more water during the day, and a regular after-dinner bathroom routine can all help.
 
-**We didn't wake her up to pee in the middle of the night.** Some families do "lift and carry" — walking a half-asleep kid to the toilet a few hours after bedtime — and it can reduce wet sheets short-term for some kids. For us it just meant two disrupted sleepers instead of one, and it didn't teach her body anything long-term. We dropped it after a week.
+**Think twice before waking them up to pee in the middle of the night.** Some families do "lift and carry" — walking a half-asleep kid to the toilet a few hours after bedtime — and it can reduce wet sheets short-term for some kids. But it can also mean two disrupted sleepers instead of one, and it doesn't teach the body anything long-term.
 
 ## When Should You Actually Talk to a Pediatrician About Bedwetting?
 
 Most nighttime wetting in a five- or six-year-old doesn't need a doctor's visit — it needs time and a plan for laundry. But a few signs are worth a call rather than waiting it out:
 
-- She was reliably dry at night for six months or more and then suddenly started wetting again
-- She's still wetting most nights past age 7
-- She complains of pain, burning, or urgency during the day, not just at night
-- She's drinking or urinating noticeably more than usual, or seems unusually thirsty
+- Your child was reliably dry at night for six months or more and then suddenly started wetting again
+- They're still wetting most nights past age 7
+- They complain of pain, burning, or urgency during the day, not just at night
+- They're drinking or urinating noticeably more than usual, or seem unusually thirsty
 - There are signs of snoring or breathing pauses during sleep (sleep apnea has a documented link to bedwetting)
 
-Our pediatrician told us that a sudden regression after a long dry stretch is the one that gets checked out fastest, because it can point to something separate from ordinary developmental bedwetting — a urinary tract infection, constipation, or stress from a life change. Ours turned out to be nothing more than a growth spurt and a few weeks of irregular bathroom habits, but I was glad we asked instead of guessing.
+A sudden regression after a long dry stretch is the one worth getting checked out fastest, because it can point to something separate from ordinary developmental bedwetting — a urinary tract infection, constipation, or stress from a life change. It may turn out to be nothing serious, but asking is better than guessing.
 
 ## How Do You Handle Sleepovers and Camp When Your Kid Still Wets the Bed?
 
-This was the part that worried me more than the laundry. My daughter has a friend from school, and when the first sleepover invitation came up, my stomach dropped before hers did. What worked was being matter-of-fact with the other parent ahead of time — "she's still working on nighttime dryness, I'll send overnight underwear and she knows how to change herself if she needs to" — instead of treating it like a secret to manage in the moment. Every parent I told had a story of their own kid going through the exact same thing. Nobody blinked.
+This can be the part that worries you more than the laundry. When the first sleepover invitation comes up, your stomach may drop before your child's does. What helps is being matter-of-fact with the other parent ahead of time — "they're still working on nighttime dryness; I'll send overnight underwear, and they know how to change if they need to" — instead of treating it like a secret to manage in the moment.
 
-For her, we practiced the script together beforehand: if she wakes up wet, she changes into the backup clothes we packed and doesn't wake anyone up unless she wants help. Giving her that plan mattered more than the mattress protector did — it moved the whole thing from "something scary that happens to me" to "something I know how to handle."
+With your child, practice the script together beforehand: if they wake up wet, they change into the backup clothes you packed and don't wake anyone up unless they want help. Having that plan can matter more than the mattress protector does — it moves the whole thing from "something scary that happens to me" to "something I know how to handle."
 
 ## The Part Nobody Tells You: It's Not About Willpower
 
-I spent the first few weeks quietly assuming there was some trick I hadn't found yet — a reward chart, a different bedtime, something. There wasn't. Nighttime dryness is a developmental milestone with a wide normal range, the same way some kids walk at ten months and some walk at sixteen. My daughter didn't need to be trained harder. She needed dry sheets, a calm response, and time for her body to catch up to a skill she'd already mastered during the day.
+It's easy to spend weeks quietly assuming there's some trick you haven't found yet — a reward chart, a different bedtime, something. There isn't. Nighttime dryness is a developmental milestone with a wide normal range, the same way some kids walk at ten months and some walk at sixteen. Your child doesn't need to be trained harder. They need dry sheets, a calm response, and time for their body to catch up to a skill they've already mastered during the day.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 
-*If you're tracking sleep, potty training, and behavior patterns like we were, the [BloomPath app](/en/app/) has a simple daily log — it's how we noticed her dry nights were actually increasing well before it felt that way.*
+*If you're tracking sleep, potty training, and behavior patterns, the [BloomPath app](/en/app/) has a simple daily log — it can help you notice dry nights increasing well before it feels that way.*
 
 ---
 
@@ -102,22 +102,22 @@ Tell the host parent ahead of time in a matter-of-fact way and send overnight un
 
 ## Products We Recommend
 
-What actually earned a permanent spot in our laundry routine:
+A few things that can make the nighttime laundry routine easier:
 
-- **Gorilla Grip Washable Waterproof Underpads**: These go under the fitted sheet and catch most accidents before they reach the mattress at all — machine washable, so 2 a.m. changes stopped meaning a full bed-stripping every time. [Check on Amazon](https://www.amazon.com/dp/B01LR99P44?tag=bloompath-20)
-- **PeapodMats Reusable Waterproof Bed Mat**: We keep a second one in her overnight bag for sleepovers so she doesn't have to explain anything to anyone — it just looks like a regular mat. [Check on Amazon](https://www.amazon.com/dp/B07GFQBR98?tag=bloompath-20)
-- **Chummie Pro Bedwetting Alarm**: We haven't needed this yet, but our pediatrician mentioned it as the first-line option if nighttime wetting is still happening consistently past age 7. [Check on Amazon](https://www.amazon.com/dp/B0065FY1ZO?tag=bloompath-20)
+- **Gorilla Grip Washable Waterproof Underpads**: These go under the fitted sheet and catch most accidents before they reach the mattress at all — machine washable, so a 2 a.m. change doesn't have to mean a full bed-stripping every time. [Check on Amazon](https://www.amazon.com/dp/B01LR99P44?tag=bloompath-20)
+- **PeapodMats Reusable Waterproof Bed Mat**: A second one can go in an overnight bag for sleepovers so your child doesn't have to explain anything to anyone — it just looks like a regular mat. [Check on Amazon](https://www.amazon.com/dp/B07GFQBR98?tag=bloompath-20)
+- **Chummie Pro Bedwetting Alarm**: Worth asking your pediatrician about if nighttime wetting is still happening consistently past age 7. [Check on Amazon](https://www.amazon.com/dp/B0065FY1ZO?tag=bloompath-20)
 
 ---
 
 Related reading on BloomPath:
 
 - [When to Start Potty Training: The Signs That Actually Matter](/en/blog/when-to-start-potty-training-en)
-- [My Potty-Trained Toddler Is Having Accidents Again: What's Actually Happening](/en/blog/potty-training-regression-accidents-en)
+- [Potty-Trained Toddler Having Accidents Again? What's Actually Happening](/en/blog/potty-training-regression-accidents-en)
 - [Your Toddler Screams at 2 AM and Remembers Nothing: Night Terrors Explained](/en/blog/toddler-night-terrors-what-to-do-en)
-- [When Should a Toddler Move to Their Own Room? What Actually Worked for Us](/en/blog/toddler-own-room-transition-en)
+- [When Should a Toddler Move to Their Own Room? A Gentle, Step-by-Step Approach](/en/blog/toddler-own-room-transition-en)
 - [How to Stop Yelling at Your Kids: A Dad's Honest Guide to Repair and Reset](/en/blog/how-to-stop-yelling-at-kids-en)
 
 ---
 
-I still keep the spare sheets in that drawer, even now that the wet nights are down to maybe once a month instead of three times a week. Not because I'm bracing for it — just because I know her body is still catching up, on its own schedule, the same way it did with everything else.
+Even as the wet nights become less frequent, it doesn't hurt to keep the spare sheets in that drawer a while longer. Not because you're bracing for it — just because your child's body is still catching up, on its own schedule, the same way it has with everything else.

@@ -10,13 +10,11 @@ draft: false
 ageGroup: ["toddler"]
 ---
 
-Saturday morning, 7:14 AM. I had been awake for approximately four minutes. I hadn't found my coffee yet. And then it started.
+If you've ever been awake for approximately four minutes on a Saturday morning, coffee not yet located, when it starts —
 
 "Daaaaaaddy... these socks are toooooo tight..."
 
-The socks were not too tight. I had watched her put them on herself ninety seconds earlier with zero complaints. They were the same socks she'd worn the previous three Saturdays. But that tone — that specific, rising, nasal frequency that every parent of a toddler knows instantly — had already activated something in my brainstem that made me want to simply cease existing.
-
-I've been a dad for eleven years. I should be past this. I am not past this.
+— you know the feeling. The socks are not too tight. Your toddler put them on ninety seconds earlier with zero complaints. But that tone — that specific, rising, nasal frequency that every parent of a toddler knows instantly — activates something in your brainstem that makes you want to simply cease existing.
 
 Here's what I've learned, mostly the hard way, about why toddlers whine and what you can actually do about it without losing your mind entirely.
 
@@ -30,7 +28,7 @@ Think about their situation: big feelings, limited vocabulary, no real ability t
 
 The whine is a signal, not a manipulation.
 
-I used to take it personally. I thought my daughter was trying to irritate me. She wasn't. She was a small person who didn't have better tools yet. That reframe took me a couple of years to genuinely internalize, and it's still not automatic at 7 AM.
+When our daughter was younger, I used to take it personally. I thought she was trying to irritate me. She wasn't. She was a small person who didn't have better tools yet. That reframe took me a long time to genuinely internalize.
 
 The whining in toddlers peaks between ages two and four and then naturally decreases as language skills develop. It's a developmental phase with a natural endpoint, not a character flaw you need to engineer out.
 
@@ -63,7 +61,7 @@ Not "stop whining." Not "use your words." Not angry silence. Just a calm, matter
 
 The key — and the part that makes or breaks it — is that you have to actually wait for the normal voice before responding. If you respond to the whine even occasionally, the behavior doesn't change. Partial reinforcement schedules are incredibly powerful and work against you here.
 
-My daughter is now old enough that she sometimes catches herself mid-whine and shifts. That took at least a year of consistent application before it worked reliably. I'm not going to tell you it's a quick fix.
+Over time, kids can start catching themselves mid-whine and shifting on their own. It can take a long stretch of consistent application before it works reliably. I'm not going to tell you it's a quick fix.
 
 ### Check the Underlying State
 
@@ -73,9 +71,9 @@ Whining is dramatically more frequent when a child is:
 - Overstimulated from a busy day
 - Transitioning between activities (coming off a screen, arriving home, waking up)
 
-When we notice a sudden uptick, the first question is: what's their state right now? Often it's 4 PM, they haven't eaten since 11:30 AM, and we've run three errands. The answer isn't behavioral — it's a snack and fifteen minutes of low-key downtime.
+When you notice a sudden uptick, the first question is: what's their state right now? Often it's 4 PM, they haven't eaten since 11:30 AM, and you've run three errands. The answer isn't behavioral — it's a snack and fifteen minutes of low-key downtime.
 
-This one piece of situational awareness has cut a significant amount of conflict in our house. The behavior that looks like defiance is frequently just hunger or exhaustion dressed up in a difficult tone.
+This one piece of situational awareness can cut a significant amount of conflict. The behavior that looks like defiance is frequently just hunger or exhaustion dressed up in a difficult tone.
 
 ### Give Language First
 
@@ -89,7 +87,7 @@ This takes longer than a quick correction, but it's building something that matt
 
 This is my most personal opinion and the one I'd most push back against if someone tried to dismiss it: a lot of toddler whining is connection-seeking.
 
-When my daughter has had less one-on-one time with me, she whines more. This isn't manipulation. This is a social animal doing what social animals do when they're feeling disconnected — they escalate their communication attempts.
+When our daughter was younger, I noticed she whined more whenever she'd had less one-on-one time with me. This isn't manipulation. This is a social animal doing what social animals do when they're feeling disconnected — they escalate their communication attempts.
 
 If whining suddenly increases, the question I now ask myself before anything else is: have I been genuinely present this week? Not just physically nearby while distracted, but actually present?
 
@@ -119,11 +117,11 @@ If it's accompanied by other changes — sleep disruption, eating changes, withd
 
 ## The Honest Part
 
-Eleven years in, I still don't handle the whiney voice well at 7 AM before coffee. I still sometimes snap "please, just use a normal voice" in a tone that is not itself a good model for what I'm asking for.
+Even after years of parenting, I don't always handle a whiney voice well before coffee. Sometimes I still snap "please, just use a normal voice" in a tone that is not itself a good model for what I'm asking for.
 
 What I've come to accept is that consistency doesn't mean perfection. It means more often than not responding the way I intend to. The days I get it right are more than the days I don't. That's enough.
 
-One thing I've noticed: the mornings when I match her whining with irritation, the whole day tends to track that direction. The mornings when I manage to stay even — not cheerful, just even — reset faster. That's not a spiritual observation, it's just a pattern I've watched repeat many times.
+One thing I noticed back in the toddler years: the mornings when I matched her whining with irritation, the whole day tended to track that direction. The mornings when I managed to stay even — not cheerful, just even — reset faster. That's not a spiritual observation, it's just a pattern I watched repeat many times.
 
 You will have bad moments. The question is what you do the next time.
 
