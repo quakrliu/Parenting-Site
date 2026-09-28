@@ -28,7 +28,7 @@ draft: false
 
 ## 情緒教練是什麼？跟「安撫」有什麼不一樣？
 
-情緒教練（Emotion Coaching）是心理學家 John Gottman 在《培養高EQ的孩子》這本書裡提出的架構，後來被 Gottman Institute 整理成清楚的 5 個步驟。跟一般講的「安撫孩子情緒」最大的不同是：情緒教練同時處理感受跟行為，不是二選一。
+情緒教練（Emotion Coaching）是心理學家 John Gottman 在《與孩子一起上的情緒管理課》（Raising An Emotionally Intelligent Child）這本書裡提出的架構，後來被 Gottman Institute 整理成清楚的 5 個步驟。跟一般講的「安撫孩子情緒」最大的不同是：情緒教練同時處理感受跟行為，不是二選一。
 
 Gottman 的 5 個步驟，我把它翻成公園現場能用的版本：
 
@@ -63,7 +63,7 @@ Gottman 的 5 個步驟，我把它翻成公園現場能用的版本：
 
 ## 為什麼「命名情緒」這一步這麼重要？
 
-Dan Siegel 在《教養孩子的內在邏輯》裡解釋過類似的機制：把情緒用語言講出來，會啟動大腦負責語言和邏輯的前額葉，這個過程能幫忙緩和杏仁核（負責恐懼、憤怒反應）的過度激動。白話講就是：講出「你很生氣」這三個字，等於幫孩子的大腦踩了一下煞車，不是火上加油。
+Dan Siegel 和 Tina Payne Bryson 在《教孩子跟情緒做朋友》（The Whole-Brain Child）裡，用「說出來，就能馴服它」（name it to tame it）解釋過類似的機制：把情緒用語言講出來，會啟動大腦負責語言和邏輯的前額葉，這個過程能幫忙緩和杏仁核（負責恐懼、憤怒反應）的過度激動。這個說法背後的研究基礎，是 Lieberman 等人 2007 年在 Psychological Science 發表的「情緒標記」（affect labeling）研究。白話講就是：講出「你很生氣」這三個字，等於幫孩子的大腦踩了一下煞車，不是火上加油。
 
 這也是為什麼「不要哭」沒有用——它完全跳過命名情緒，直接叫孩子關掉正在發生的生理反應，等於叫他用意志力壓下一個他自己都還搞不懂的東西。
 
@@ -123,7 +123,7 @@ Dan Siegel 在《教養孩子的內在邏輯》裡解釋過類似的機制：把
 
 *作為 Amazon Associate，BloomPath 會從符合資格的購買中獲得收益，不會增加你的費用，我們只推薦真的有用的東西。*
 
-**《培養高EQ的孩子》— John Gottman**
+**《與孩子一起上的情緒管理課》（Raising An Emotionally Intelligent Child）— John Gottman、Joan DeClaire**
 這篇文章的五步驟框架就是出自這本書，情緒教練的原始出處。
 [查看 Amazon](https://www.amazon.com/dp/0684838656?tag=bloompath-20)
 
@@ -131,8 +131,8 @@ Dan Siegel 在《教養孩子的內在邏輯》裡解釋過類似的機制：把
 用連結取代糾正的具體做法，跟情緒教練的精神很互補。
 [查看 Amazon](https://www.amazon.com/dp/0063159481?tag=bloompath-20)
 
-**《說話讓孩子聽：2-7 歲生存指南》— Joanna Faber、Julie King**
-公共場合來不及想句子的時候，這本書有大量現成腳本可以直接照抄。
+**How to Talk So Little Kids Will Listen — Joanna Faber、Julie King**
+目前沒有繁中版，簡體版書名為《如何說寶貝才會聽》。公共場合來不及想句子的時候，這本書有大量現成腳本可以直接照抄。
 [查看 Amazon](https://www.amazon.com/dp/150113163X?tag=bloompath-20)
 
 ---

@@ -28,7 +28,7 @@ If any version of this sounds familiar, BloomPath has heard versions of it from 
 
 Here's what I had to understand before any conversation with my in-laws went anywhere: **they're not doing this to spite us.**
 
-A 2023 narrative review published in *Nutrients* (PMC10444634) analyzed grandparent feeding behavior across multiple countries. The consistent finding: grandparents express love and caring through food. The treat isn't the point — connection is the point. Saying "no more cookies" feels, to them, like saying "stop loving her that way."
+A 2023 narrative review published in *Current Nutrition Reports* (PMC10444634) analyzed grandparent feeding behavior across multiple countries. The consistent finding: grandparents express love and caring through food. The treat isn't the point — connection is the point. Saying "no more cookies" feels, to them, like saying "stop loving her that way."
 
 There's also a generational lens. My in-laws raised Mei in a time when a chubby baby was a healthy baby. "Eat more" was a sign of good parenting. These aren't arbitrary beliefs — they're deeply held frameworks that took decades to form.
 

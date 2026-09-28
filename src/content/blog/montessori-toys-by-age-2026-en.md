@@ -114,7 +114,7 @@ The Montessori materials that support this stage:
 
 ### 3–6 Years: Preschool Readiness
 
-This is the stage covered by the 2025 PNAS randomized trial — and the results are worth understanding, not just citing. Angeline Lillard's team at UVA followed 588 children who had entered lotteries for public Montessori preschool programs across 24 districts. At the end of kindergarten, the kids who got Montessori showed significantly better outcomes in:
+This is the stage covered by the 2025 PNAS randomized trial — and the results are worth understanding, not just citing. Angeline Lillard's team at UVA followed 588 children who had entered admission lotteries at 24 public Montessori schools across eight states and Washington, D.C. At the end of kindergarten, the kids who got Montessori showed significantly better outcomes in:
 
 - Reading and early literacy
 - Short-term memory

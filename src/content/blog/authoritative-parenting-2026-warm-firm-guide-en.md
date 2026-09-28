@@ -1,6 +1,6 @@
 ---
 title: "Authoritative Parenting 2.0: The Warm + Firm Approach That's Replacing Gentle Parenting"
-description: "80% of Gen Z parents have stopped relying on gentle parenting alone. Here's the research-backed authoritative approach that balances emotional connection with real boundaries."
+description: "85% of parents say there's no one-size-fits-all approach to parenting. Here's the research-backed authoritative approach that balances emotional connection with real boundaries."
 pubDate: "2026-06-19"
 tags: ["positive parenting", "authoritative parenting", "gentle parenting", "toddler discipline", "parenting styles", "boundaries"]
 lang: "en"
@@ -30,7 +30,7 @@ That's what Authoritative Parenting 2.0 is.
 
 Gentle parenting — the approach that emphasizes empathy, emotional validation, and avoiding shame or punishment — changed how a generation of parents talk to their kids. That's genuinely good.
 
-But here's what's happening now: a Talker Research survey of 2,000 parents found that **only 38% of Gen Z parents with young children use gentle parenting exclusively** in 2026. The rest have quietly moved on to something that blends emotional connection with firmer structure.
+But here's what's happening now: a 2025 Talker Research survey of 2,000 U.S. parents of children aged 0–6 found that **only 38% identify with gentle parenting — and just 32% of Gen Z parents do**. The rest have quietly moved on to something that blends emotional connection with firmer structure.
 
 Why the shift? Psychologist Emily Guarnotta put it plainly: when gentle parenting is applied without clear boundaries, it can slide into permissiveness — and permissive parenting is associated with higher child anxiety, lower frustration tolerance, and more behavioral problems over time.
 
@@ -87,7 +87,7 @@ The authoritative difference isn't perfection. It's repair.
 
 "I raised my voice earlier and I shouldn't have. What I was trying to say was..." That moment of repair teaches kids more about emotional regulation than almost anything else you can do. It models that adults make mistakes, take accountability, and come back to connection.
 
-After 11 years in, I still get this wrong sometimes. What's changed is how fast I come back.
+I still get this wrong sometimes. What's changed is how fast I come back.
 
 ---
 
@@ -114,7 +114,7 @@ Multiple longitudinal studies, including work building on Baumrind's original fr
 - **Higher academic performance** — not because of pressure, but because of internalized motivation
 - **Stronger peer relationships** and social competence
 
-The 2026 Talker Research survey found that **80% of current parents** agree there's no one-size-fits-all approach — which is another way of saying most parents are now intuitively doing what the research has supported for decades: blending warmth with structure.
+The same Talker Research survey (commissioned by Kiddie Academy and published in September 2025) found that **85% of parents** agree there's no one-size-fits-all approach — which is another way of saying most parents are now intuitively doing what the research has supported for decades: blending warmth with structure.
 
 ---
 

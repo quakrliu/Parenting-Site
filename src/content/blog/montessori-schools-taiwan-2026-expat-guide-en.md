@@ -32,7 +32,7 @@ The tell: in a genuine Montessori classroom, if you asked a child "what are you 
 
 ## What the Research Actually Shows
 
-A 2026 randomized controlled trial published in PNAS—one of the most rigorous Montessori studies ever conducted—followed 588 children across 24 schools. Children in genuine Montessori programs outperformed peers in reading, working memory, executive function, and theory of mind (the capacity to understand others' mental states). The cost premium was approximately $13,000 per year, less than most people assume.
+A 2025 randomized controlled trial published in PNAS (Lillard et al.)—one of the most rigorous Montessori studies ever conducted—followed 588 children across 24 public Montessori schools. By the end of kindergarten, children in genuine Montessori programs outperformed peers in reading, short-term memory, executive function, and theory of mind (the capacity to understand others' mental states). The study also estimated that public Montessori cost about $13,127 less per child over three years than the alternatives—a saving, not a premium (though that's a US public-school figure, not a guide to private fees in Taiwan).
 
 One notable limitation: Montessori children showed less persistence on genuinely difficult extended tasks. Researchers aren't certain whether this reflects a methodology gap or a measurement artifact. Worth knowing, not as a reason to avoid Montessori, but as a reminder that no approach is complete.
 
@@ -107,7 +107,6 @@ Typical process: registration form and fee (NT$1,000–3,000, non-refundable), a
 
 Whether you're waiting for a spot to open or doing Montessori at home while you figure out school options:
 
-- **[Montessori at Home & School by Charlotte Poussin](https://www.amazon.com/dp/1682972186?tag=bloompath-20)** — Practical introduction to materials and activities, organized by age. Useful during the gap before school starts.
 - **[Little Partners Learning Tower](https://www.amazon.com/dp/B003O0NUYO?tag=bloompath-20)** — The most impactful single Practical Life purchase for under-fives. Enables full kitchen participation safely.
 - **[Melissa & Doug Wooden Sorting Shape Clock](https://www.amazon.com/dp/B00000J1EJ?tag=bloompath-20)** — Classic Montessori-adjacent material for time, shape, and color work.
 - **[The Absorbent Mind by Maria Montessori](https://www.amazon.com/dp/0805069070?tag=bloompath-20)** — If you want to understand the philosophy rather than just the activities, this is the primary source.

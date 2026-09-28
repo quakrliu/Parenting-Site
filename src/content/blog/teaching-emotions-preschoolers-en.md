@@ -32,7 +32,7 @@ Here's the engineer take: between ages 3 and 5, a child's brain shifts from righ
 
 Miss that window and you're not locked out forever, but you're swimming upstream. Catch it, and naming emotions becomes as natural as naming colors.
 
-Research from a 2024 PMC study on early childhood emotional self-regulation found that around 70% of preschoolers could independently articulate an emotion regulation strategy when they'd been given the vocabulary. Seventy percent. Just from having the words.
+A small 2024 pilot study of 59 preschoolers (Bivins and Grabell, in *Translational Issues in Psychological Science*) found that around 70% could put an emotion regulation strategy into words before a frustrating task — and the kids who could name one showed lower physiological stress during that task. The study didn't teach the children any vocabulary first, so it can't tell us what words alone would do. But being able to say what helps went hand in hand with a calmer body.
 
 Think of it this way: your toddler's brain is like a CPU running hot with no RAM upgrade available. Emotions are massive processes — they consume everything. Giving them emotion words is basically installing a small memory buffer. The system doesn't crash as fast.
 

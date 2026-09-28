@@ -42,7 +42,7 @@ Here's where it gets interesting (and a little frustrating for those of us who l
 
 **The short-term case for reward charts:** For very specific, time-limited goals — potty training, for example — external rewards can work as training wheels. The CDC's guidance on toddler discipline notes that rewards can be effective when they're consistent, immediate, and tied to specific behaviors. For kids ages 2-8, sticker charts can create enough of a positive feedback loop to establish a new habit.
 
-**The long-term case against:** A study published in the *Journal of Developmental Psychology* found that children who received frequent rewards showed lower intrinsic motivation than those who weren't rewarded. Psychologist Deci and Ryan's 1985 Cognitive Evaluation Theory — which still holds up — shows that external controls undermine a child's sense of self-determination. You get compliance, not character.
+**The long-term case against:** In an experiment published in *Developmental Psychology* (Warneken & Tomasello, 2008), 20-month-olds who were given a material reward for helping went on to help less than toddlers who got praise or no reward at all. Psychologist Deci and Ryan's 1985 Cognitive Evaluation Theory — which still holds up — shows that external controls undermine a child's sense of self-determination. You get compliance, not character.
 
 Janet Lansbury, whose work Mei follows closely, recommends steering away from sticker-based reward systems entirely. In her view, children do better when they experience natural consequences and genuine connection rather than transaction-based praise.
 

@@ -36,7 +36,7 @@ That moment — the one where you realize the patterns you inherited are more ha
 
 It's not about being a perfect parent. It's about being an aware one.
 
-In 2025, Talker Research surveyed 2,000 parents of children ages 0–6 and found that **37% now identify as cycle-breaking parents** — people actively focused on healing generational trauma rather than passing it on. Among Gen Z parents specifically, that number jumps to **41%**, making it the single most-adopted parenting identity for that generation — ahead of [gentle parenting and empathy](/en/blog/gentle-parenting-burnout-empathy-limits-en) (32%).
+In 2025, Talker Research surveyed 2,000 parents of children ages 0–6 and found that **37% now identify as cycle-breaking parents** — people actively focused on healing generational trauma rather than passing it on — just behind [gentle parenting](/en/blog/gentle-parenting-burnout-empathy-limits-en) (38%) across all parents. Among Gen Z parents specifically, that number jumps to **41%**, well ahead of gentle parenting, which only 32% of Gen Z parents use.
 
 This isn't a trend. It's a reckoning.
 
@@ -221,7 +221,7 @@ Signs include disproportionate emotional reactions to minor incidents, automatic
 
 ### Is cycle-breaking parenting the same as gentle parenting?
 
-No. Cycle-breaking parenting is distinct from gentle parenting. A 2025 survey found 41% of Gen Z parents identify as cycle-breakers, while only 32% use gentle parenting. Cycle-breaking focuses specifically on identifying and healing inherited trauma patterns, while gentle parenting is primarily a child-focused discipline philosophy.
+No. Cycle-breaking parenting is distinct from gentle parenting. A 2025 survey found 41% of Gen Z parents identify as cycle-breakers, while only 32% of them use gentle parenting (across all parents, the two were nearly tied: 38% gentle, 37% cycle-breaking). Cycle-breaking focuses specifically on identifying and healing inherited trauma patterns, while gentle parenting is primarily a child-focused discipline philosophy.
 
 ### What does "repair after rupture" mean?
 
@@ -249,7 +249,7 @@ The most widely cited books for cycle-breaking parenting include *Good Inside* b
 
 ### Why is Gen Z leading the cycle-breaking parenting trend?
 
-Gen Z parents grew up with broader access to therapy-adjacent language, trauma research, and public discourse around mental health — which gave them vocabulary to name their own childhood experiences. A 2025 Talker Research survey of 2,000 parents found 41% of Gen Z parents prioritize cycle-breaking, compared to 37% of all parents, making it the most common parenting identity for that generation.
+Gen Z parents grew up with broader access to therapy-adjacent language, trauma research, and public discourse around mental health — which gave them vocabulary to name their own childhood experiences. A 2025 Talker Research survey of 2,000 parents found 41% of Gen Z parents prioritize cycle-breaking, compared to 37% of all parents — and well ahead of the 32% of Gen Z parents who use gentle parenting.
 
 
 ---
@@ -290,7 +290,7 @@ Gen Z parents grew up with broader access to therapy-adjacent language, trauma r
       "name": "Is cycle-breaking parenting the same as gentle parenting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Cycle-breaking parenting focuses specifically on identifying and healing inherited trauma patterns, while gentle parenting is primarily a child-focused discipline philosophy. A 2025 survey found 41% of Gen Z parents identify as cycle-breakers, while only 32% use gentle parenting."
+        "text": "No. Cycle-breaking parenting focuses specifically on identifying and healing inherited trauma patterns, while gentle parenting is primarily a child-focused discipline philosophy. A 2025 survey found 41% of Gen Z parents identify as cycle-breakers, while only 32% of them use gentle parenting (across all parents, the two were nearly tied: 38% gentle, 37% cycle-breaking)."
       }
     },
     {

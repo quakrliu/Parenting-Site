@@ -90,7 +90,7 @@ No — toddlers having meltdowns in public is a normal part of a nervous system 
 ## Related Reading
 
 - [Why Your Toddler Screams at the Hair Salon (And What Actually Helps)](/en/blog/toddler-scared-of-haircuts-en) — the same sensory-overload pattern shows up in other unfamiliar settings.
-- [My Daughter Screamed Through Every Doctor's Visit for Two Years](/en/blog/toddler-doctor-visit-shot-fear-en) — more on public meltdowns and what actually calms them.
+- [ "Does Your Toddler Scream Through Every Doctor's Visit? Here's What Actually Stops It](/en/blog/toddler-doctor-visit-shot-fear-en) — more on public meltdowns and what actually calms them.
 - [Small Kids Won't Listen? The Boundaries with Empathy Framework That Actually Works](/en/blog/toddler-wont-listen-empathy-boundaries-scripts-en) — scripts for offering real choices mid-meltdown.
 - [RIE Parenting: Stop Narrating Every Second of Your Baby's Playtime](/en/blog/rie-respectful-parenting-baby-independent-play-en) — background on naming feelings instead of correcting behavior.
 - [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en) — the full framework this article is part of.

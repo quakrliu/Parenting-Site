@@ -153,4 +153,4 @@ A few things that can make park trips and transitions smoother:
 
 - [Munchkin Miracle 360 Trainer Cup](https://www.amazon.com/dp/B00BKIK9JY?tag=bloompath-20) — Having their own special "park water bottle" gives a toddler something to carry out, which can help with the exit ritual. Spill-proof, easy to handle at this age.
 - [Healthy Steps Snack Container with Compartments](https://www.amazon.com/dp/B08QTJ2VPS?tag=bloompath-20) — The car snack that smooths out the post-park meltdown. Having it ready to hand over when they buckle up is a transition hack I wish I'd known earlier.
-- [Now I'm Angry! (Daniel Tiger's Neighborhood)](https://www.amazon.com/dp/1481435787?tag=bloompath-20) — Best read at home, not at the park. It gives you and your child shared vocabulary for big feelings, so "I feel mad" can start to replace going rigid.
+- I'm Feeling Mad (Daniel Tiger's Neighborhood) by Natalie Shaw — Best read at home, not at the park. It gives you and your child shared vocabulary for big feelings, so "I feel mad" can start to replace going rigid.

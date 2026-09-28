@@ -68,7 +68,7 @@ If bedtime consistency is the piece you're struggling with, the BloomPath app ha
 - [Toddler Keeps Getting Out of Bed Every Night?](/en/blog/toddler-bedtime-stalling-keeps-getting-up-en)
 - [Why Your Toddler Wakes Every 2 Hours (And What Actually Helps)](/en/blog/toddler-wakes-every-2-hours-en)
 - [iPad Before Bed: The Screen Time Rule That Can End Nightly Meltdowns](/en/blog/screen-time-sleep-bedtime-en)
-- [We Almost Quit Gentle Sleep Training on the Worst Night](/en/blog/gentle-sleep-training-extinction-burst-en)
+- [ "Ready to Quit Gentle Sleep Training on the Worst Night? Here's the Extinction Burst Science to Know First](/en/blog/gentle-sleep-training-extinction-burst-en)
 - [Why Your Toddler Won't Sleep (Again): The Brain Science Behind Sleep Regression](/en/blog/toddler-sleep-regression-guide-en)
 
 ## FAQ

@@ -63,7 +63,7 @@ Here's what tends to move the needle:
 
 **Stay close, don't grab.** Your job is to keep them physically safe — away from furniture edges, not able to fall. You're not trying to end the episode. Just guard.
 
-**Track the timing.** Night terrors happen at predictable intervals after sleep onset. Keep a simple log of when episodes start. Once you've identified your child's window, you can try **scheduled awakenings**: gently rousing your child (not fully waking them, just a light touch on the shoulder) about 15 minutes before the usual episode window. A 2023 pediatric sleep study found this technique reduced night terror frequency by roughly 50% in children with regular patterns.
+**Track the timing.** Night terrors happen at predictable intervals after sleep onset. Keep a simple log of when episodes start. Once you've identified your child's window, you can try **scheduled awakenings**: gently rousing your child (not fully waking them, just a light touch on the shoulder) about 15 minutes before the usual episode window. The evidence for this is still limited — a 2023 systematic review in *Sleep Medicine* found only limited support for scheduled awakenings and other behavioral approaches — so treat it as something worth trying rather than a guaranteed fix.
 
 **Take overtiredness seriously.** It's one of the biggest factors. Clusters of night terrors can often be traced back to a stretch where naps were cut short, bedtime was pushed late, or there'd been a big travel week. Deep sleep gets longer and more intense when a child is overtired — which creates more disruptive transitions. Protecting sleep is often the best prevention.
 

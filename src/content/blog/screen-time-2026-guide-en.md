@@ -12,14 +12,14 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 image: "/og/screen-time-2026-guide-en.png"
 ---
 
-*Updated March 2026 — Based on 2024–2026 [the AAP 5 Cs framework](/en/blog/aap-5cs-screen-time-framework-preschoolers-en) guidelines and peer-reviewed developmental research.*
+*Updated March 2026 — Based on 2024–2026 AAP guidelines and peer-reviewed developmental research.*
 
 
 ---
 
 ## Key Takeaways
 
-- **What your [children internet safety 2026](/en/blog/children-internet-safety-2026-en) watches matters more than how much.** High-quality, co-viewed programming has documented educational benefits; passive, fast-paced content does not.
+- **What your child watches matters more than how much.** High-quality, co-viewed programming has documented educational benefits; passive, fast-paced content does not.
 - **AAP guidelines by age:** no screens under 18 months (except video calls), co-viewed high-quality content at 18-24 months, max 1 hour/day ages 2-5, and a framework-based approach for 6+.
 - **Background television is the most underappreciated risk** — it measurably reduces parent-child verbal interaction even when no one is actively watching.
 - **Co-viewing is the single most evidence-backed screen time intervention.** A parent who comments and asks questions transforms passive viewing into active learning.
@@ -39,7 +39,7 @@ Here is what the research actually says — not the worst-case interpretation, b
 
 ## What the American Academy of Pediatrics Actually Recommends
 
-The American Academy of Pediatrics has issued screen time guidance that has been refined over multiple revision cycles. The current recommendations, most recently updated and reaffirmed through 2025, break down by age in ways that matter:
+The American Academy of Pediatrics has issued screen time guidance that has been refined over multiple revision cycles. Its most recent policy statement, *Digital Ecosystems, Children, and Adolescents* (January 2026), moves away from hour-based limits. The age-by-age recommendations below come from its 2016 statement, *Media and Young Minds*, and they still break down by age in ways that matter:
 
 **Under 18 months:** The AAP recommends avoiding screen media entirely for this age group — with one important exception. Video calls with family members are explicitly exempted. FaceTime with a grandparent, a video chat with a deployed parent: these are not "screen time" in the harmful sense, because they involve real human interaction, turn-taking, and social engagement that an infant can actually process.
 
@@ -352,4 +352,4 @@ Explore more in our Screen Time series:
 - [Your Kid Came Home From a Birthday Party Begging for Roblox? Set Up These 5 Things Before You Say Yes](/en/blog/kid-wants-roblox-parental-controls-en)
 - [Why Your Tween Can't Stop Watching Short Videos (And What Actually Helps)](/en/blog/short-video-addiction-tweens-montessori-en)
 - [The Screen-Time Reward Trap: Why "Finish Your Homework, Then iPad Time" Backfires](/en/blog/screen-time-reward-trap-en)
-- [My Friend's 13-Year-Old Checks His Follower Count Before He's Out of Bed](/en/blog/teen-social-media-follower-count-anxiety-en)
+- [Does Your 13-Year-Old Check Their Follower Count Before They're Out of Bed? A Family Screen Agreement That Helps](/en/blog/teen-social-media-follower-count-anxiety-en)

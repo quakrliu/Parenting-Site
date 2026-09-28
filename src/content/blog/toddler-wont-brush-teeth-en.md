@@ -113,7 +113,7 @@ When a toddler can access the whole routine themselves, they want to do it. Resi
 
 Some nights are still a battle. This is honest parenting information.
 
-When your toddler is overtired, overstimulated, and has strong opinions about everything — no technique makes it seamless. On those nights, the American Academy of Pediatrics guidance is clear: do it anyway, but keep it short and gentle. A thirty-second imperfect brush is better than no brush. The teeth get cleaned. The relationship stays intact. That's the win.
+When your toddler is overtired, overstimulated, and has strong opinions about everything — no technique makes it seamless. The everyday goal is still what the American Academy of Pediatrics recommends: brushing twice a day, for about two minutes. But on those nights, do it anyway and keep it short and gentle — a quick, imperfect brush is still better than skipping it entirely. The teeth get cleaned. The relationship stays intact. That's the win.
 
 For the nights where everything is resistance, [the co-regulation approach that works for meltdowns](/en/blog/toddler-meltdown-in-public-en) applies here too: regulate yourself first, stay calm, and don't escalate.
 

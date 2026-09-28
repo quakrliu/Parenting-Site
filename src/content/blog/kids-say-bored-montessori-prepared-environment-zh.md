@@ -10,7 +10,7 @@ image: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 
 <!-- AEO: 最後更新 2026 年 4 月。基於實證的育兒內容。 -->
 
-# 孩子一直說「我無聊」怎麼辦？[蒙特梭利居家環境布置](/zh/blog/montessori-home-environment-zh)準備好的環境救援指南
+# 孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援指南
 
 當爸之前我以為我很有耐心。後來才發現，孩子一句「我好無聊」，就足以讓很多爸媽瞬間破功。
 
@@ -18,7 +18,7 @@ image: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 
 這篇整理的，是我花了不少時間才搞懂的事。如果你家也有一個每週至少三次開口就說無聊的小孩，這篇是給你的。
 
-> 想看完整的[蒙特梭利居家實踐完整指南](/zh/blog/montessori-at-home-guide-zh)布置，請看姊妹篇 [蒙特梭利居家環境布置完整攻略](/zh/blog/montessori-home-environment-zh/)。那篇是 room-by-room 的整體設計。**本篇是「孩子說無聊的當下」怎麼辦的救援指南**——不是整間重裝，是微調。
+> 想看完整的居家布置，請看姊妹篇 [蒙特梭利居家環境布置完整攻略](/zh/blog/montessori-home-environment-zh/)。那篇是 room-by-room 的整體設計。**本篇是「孩子說無聊的當下」怎麼辦的救援指南**——不是整間重裝，是微調。
 
 
 ---
@@ -88,7 +88,7 @@ image: "/og/kids-say-bored-montessori-prepared-environment-zh.png"
 2. **Structure and Order**：東西有固定位置。選項不是多，是清楚。
 3. **Intellectual**：現場要有一兩樣能觸發好奇心的東西，不是所有玩具都擺滿。
 
-### 為什麼 Montessori 教室沒有[幼兒螢幕時間指南](/zh/blog/aap-screen-time-guidelines-2026)，但孩子玩得進入心流？
+### 為什麼 Montessori 教室沒有螢幕，但孩子玩得進入心流？
 
 答案不在玩具本身特別，而是每樣玩具都**在正確的數量、正確的位置、正確的難度**上。小孩知道這是他的、他會用、他可以自己開始、自己收尾。
 

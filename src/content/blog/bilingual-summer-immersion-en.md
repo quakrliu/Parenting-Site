@@ -56,11 +56,11 @@ Here's a plan that works at home — no flights, no $2,000 immersion camp requir
 
 **Don't turn language into a performance in front of relatives.** When a well-meaning relative asks a child to "say something in English" on the spot, many kids freeze. Putting a kid on the spot to perform a language attaches stress to it, which works against long-term retention. The better move is to let the visit be what it is — your child is also building a different, equally valuable connection to the family's other languages there — and rebuild English exposure gently once you're back in your usual routine, not in the moment.
 
-## The Mistake We Made First: More Isn't Better
+## The Most Common Mistake: More Isn't Better
 
-I'll admit our first attempt at this was wrong. Two summers ago our strategy was "cram in as much English as possible" — workbooks, an online course, a packed daily schedule. By the end of that summer she was saying "no" the second she saw an English picture book.
+A lot of families' first instinct is to "cram in as much English as possible" — workbooks, an online course, a packed daily schedule. It often backfires: by the end of the summer, a child may start saying "no" the second they see an English picture book.
 
-We changed course to what I described above: short, consistent, interactive, never forced. It's something I've watched play out at our daughter's Montessori school over the years too — kids' motivation comes from a sense of control over the activity, not from the sheer volume an adult piles on. Force the quantity and you risk killing whatever goodwill the child had toward the language in the first place.
+What works better is what's described above: short, consistent, interactive, never forced. It's something I've watched play out at our daughter's Montessori school over the years too — kids' motivation comes from a sense of control over the activity, not from the sheer volume an adult piles on. Force the quantity and you risk killing whatever goodwill the child had toward the language in the first place.
 
 ## FAQ
 

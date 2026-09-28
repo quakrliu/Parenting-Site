@@ -1,6 +1,6 @@
 ---
 title: "Is Montessori Worth It? The 2025 National Study Finally Has an Answer"
-description: "A software engineer dad breaks down the largest randomized Montessori trial ever — 588 kids, 24 public schools, and results that flipped how I think about preschool ROI."
+description: "A software engineer dad breaks down the first national randomized trial of public Montessori preschool — 588 kids, 24 public programs, and results that flipped how I think about preschool ROI."
 pubDate: "2026-06-15"
 tags: ["montessori", "preschool", "education research", "toddler development", "school choice", "executive function"]
 lang: "en"
@@ -20,19 +20,20 @@ There is now. And the results are not what you might expect.
 
 ## The Study Nobody Was Talking About Enough
 
-In 2025–2026, researchers at the University of Virginia published results from the largest randomized controlled trial of Montessori education ever run in the United States.
+In 2025, a research team led by the University of Virginia's Angeline Lillard published results from the first national randomized controlled trial of public Montessori preschool in the United States.
 
 Not a survey. Not an observational study where wealthier, more-educated families happened to choose Montessori and their kids happened to do better. A proper RCT — the same standard we use for drug trials and public health interventions. Random assignment. Controlled comparison. Replicable methodology.
 
-The specifics: 588 children across 24 *public* Montessori schools in multiple American states. Children were randomly assigned to either Montessori programs or traditional public preschool. The randomization neutralizes what has always been the hardest critique of Montessori research — that the families who choose it are already different in ways that predict better outcomes.
+The specifics: 588 children across 24 *public* Montessori programs in eight states plus Washington, D.C. Admission was decided by lottery, so the comparison is between children who won a spot and children who applied but didn't get one and went on to other preschool options. The randomization neutralizes what has always been the hardest critique of Montessori research — that the families who choose it are already different in ways that predict better outcomes.
 
-By kindergarten, the Montessori group showed statistically significant advantages in three areas:
+By the end of kindergarten, the Montessori group showed significant advantages in four areas:
 
-- **Early literacy and reading readiness**
-- **Working memory** — holding information in mind while doing something with it
+- **Reading**
+- **Short-term memory** — holding information in mind for a brief stretch
 - **Executive function** — the cluster that includes planning, impulse control, and flexible thinking
+- **Social understanding** — reading other people's perspectives and feelings
 
-Working memory and executive function are not soft outcomes. They're among the strongest early predictors of long-term academic achievement, occupational success, and even physical health in longitudinal research. Researchers weren't just measuring whether kids learned their letters slightly faster. They were measuring whether the underlying cognitive architecture develops differently.
+Memory and executive function are not soft outcomes. They're among the strongest early predictors of long-term academic achievement, occupational success, and even physical health in longitudinal research. Researchers weren't just measuring whether kids learned their letters slightly faster. They were measuring whether the underlying cognitive architecture develops differently.
 
 It does, according to this study.
 
@@ -40,7 +41,7 @@ It does, according to this study.
 
 Here's the detail I didn't see coming.
 
-The Montessori programs in the UVA study cost roughly **$13,000 less per child** than the comparison programs.
+The Montessori programs in the UVA study cost roughly **$13,000 less per child** over three years than the comparison programs.
 
 I had framed Montessori in my head as a premium product — something you pay more for in exchange for a philosophy and a set of methods. The study inverted this. The Montessori programs, which produced better outcomes on three cognitive measures, cost less.
 
@@ -54,19 +55,19 @@ I want to be careful here, because I've seen this research shared in ways that g
 
 The UVA trial studied public Montessori programs, not private premium schools. Class sizes, material sets, and physical environments were constrained by normal public school resources — not the idealized prepared environment from Montessori Instagram reels.
 
-So the study tells us: the *method*, implemented with normal constraints, produces measurable cognitive advantages. It doesn't tell us the $20,000/year private program produces outcomes 54% better than the public version. That comparison hasn't been studied this way.
+So the study tells us: the *method*, implemented with normal constraints, produces measurable cognitive advantages. It doesn't tell us whether a $20,000/year private program produces better outcomes than the public version. That comparison hasn't been studied this way.
 
-It also doesn't settle what happens after kindergarten. The UVA study measured outcomes at kindergarten entry. Long-term follow-up from other Montessori research is more mixed, partly because children often transition to traditional schools in elementary, which may or may not sustain early advantages.
+It also doesn't settle what happens after kindergarten. The UVA study followed children through the end of kindergarten and stopped there. Long-term follow-up from other Montessori research is more mixed, partly because children often transition to traditional schools in elementary, which may or may not sustain early advantages.
 
 What the study does settle: Montessori is not just philosophy. There's a rigorous evidence base now. "It might work, but we don't really know" no longer holds in the same way.
 
 ## What I Actually Use This For
 
-We're based in Taiwan, which adds complexity. The term "Montessori" is unprotected — any school can use it. The variation between a faithfully implemented program and one using the aesthetic without the substance is enormous.
+The term "Montessori" is unprotected — any school can use it. The variation between a faithfully implemented program and one using the aesthetic without the substance is enormous.
 
-When we've evaluated schools — for our family and for BloomPath — the UVA study is useful as a *checklist orientation*. Not as a rubber stamp for any school with the name on the door, but as a framework for asking the right questions during a visit.
+When you're evaluating schools, the UVA study is useful as a *checklist orientation*. Not as a rubber stamp for any school with the name on the door, but as a framework for asking the right questions during a visit.
 
-**What I look for in a classroom observation:**
+**What to look for in a classroom observation:**
 
 **Three-hour uninterrupted work period in the morning.** This is non-negotiable in the Montessori literature. If the program breaks the morning into 40-minute blocks with teacher-directed transitions, it's not implementing what the evidence supports.
 
@@ -82,11 +83,11 @@ If a school ticks most of these, the evidence says it deserves serious considera
 
 ## "Can I Just Do Montessori at Home?"
 
-The most common follow-up I get from parents.
+It's a very common follow-up question.
 
-Yes, partly. The home environment is meaningful, and Montessori practical life at home — children participating in food preparation, caring for plants, folding laundry, managing their own belongings — builds the same underlying skills the classroom is designed to develop. We built a practical life corner in our house with an IKEA kitchen cart, some child-sized tools, and a lot of patience for flour on the floor.
+Yes, partly. The home environment is meaningful, and Montessori practical life at home — children participating in food preparation, caring for plants, folding laundry, managing their own belongings — builds the same underlying skills the classroom is designed to develop. A simple practical life corner — a low cart, some child-sized tools, and a lot of patience for flour on the floor — goes a long way.
 
-But the UVA study found specific benefits from the *social and cognitive complexity* of the mixed-age classroom environment. The four-year-old who watches a six-year-old work with precision, then attempts something beyond their usual scope. The kindergartner who explains a concept to a younger child and discovers they understand it better for having done so. That dynamic is genuinely hard to replicate at home with a single child or siblings of similar ages.
+But part of what a good classroom offers is the *social and cognitive complexity* of a mixed-age environment. The four-year-old who watches a six-year-old work with precision, then attempts something beyond their usual scope. The kindergartner who explains a concept to a younger child and discovers they understand it better for having done so. That dynamic is genuinely hard to replicate at home with a single child or siblings of similar ages.
 
 Home Montessori extends and reinforces what a good program does. It doesn't fully substitute for the classroom effects the evidence captures.
 
@@ -109,7 +110,7 @@ The bead chains, as it turns out, are not decorative. But what matters is whethe
 *Amazon affiliate links (tag: bloompath-20). We only recommend things we've actually used.*
 
 **[The Montessori Toddler by Simone Davies](https://www.amazon.com/dp/1523506016?tag=bloompath-20)**
-The most practical guide to Montessori at home for children ages 0–3. Simone Davies writes with the specificity of someone who has seen every variation of "this isn't working." We've dog-eared about 60% of it.
+The most practical guide to Montessori at home for children ages 0–3. Simone Davies writes with the specificity of someone who has seen every variation of "this isn't working." 
 
 **[How to Raise an Amazing Child the Montessori Way by Tim Seldin](https://www.amazon.com/dp/0756617065?tag=bloompath-20)**
 Good introduction for parents new to Montessori. Clear explanations of the philosophy and method without being overwhelming.
@@ -132,7 +133,7 @@ The classic pre-reading material. Children trace the letter shape while saying t
       "name": "Is Montessori scientifically proven?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The 2025–2026 UVA randomized controlled trial — the largest RCT of Montessori education in the United States — found that children in public Montessori programs showed measurable advantages in literacy, working memory, and executive function at kindergarten entry, compared to children in traditional preschool programs. This is the highest level of educational research evidence available."
+        "text": "The 2025 national randomized controlled trial led by UVA researchers — the first of its kind for public Montessori preschool — found that children in public Montessori programs showed measurable advantages in reading, short-term memory, executive function, and social understanding by the end of kindergarten, compared to children who applied but lost the admission lottery. Lottery-based randomized designs like this are among the strongest kinds of evidence in education research."
       }
     },
     {
@@ -140,7 +141,7 @@ The classic pre-reading material. Children trace the letter shape while saying t
       "name": "What age is Montessori most effective for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The evidence base is strongest for the preschool and kindergarten years, roughly ages 3–6. This aligns with Montessori's emphasis on the 'sensitive period' for language, order, and movement. The UVA study specifically measured outcomes at kindergarten entry for children who attended Montessori primary programs."
+        "text": "The evidence base is strongest for the preschool and kindergarten years, roughly ages 3–6. This aligns with Montessori's emphasis on the 'sensitive period' for language, order, and movement. The UVA-led study followed children from age 3 through the end of kindergarten."
       }
     },
     {
@@ -148,7 +149,7 @@ The classic pre-reading material. Children trace the letter shape while saying t
       "name": "Are public Montessori schools as good as private ones?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The UVA study found that public Montessori programs — operating under normal resource constraints — produced better measured outcomes than traditional public preschool and cost approximately $13,000 less per child. This doesn't settle whether private programs offer additional advantages, but it challenges the assumption that meaningful Montessori requires premium tuition."
+        "text": "The UVA study found that public Montessori programs — operating under normal resource constraints — produced better measured outcomes than traditional public preschool and cost approximately $13,000 less per child over three years. This doesn't settle whether private programs offer additional advantages, but it challenges the assumption that meaningful Montessori requires premium tuition."
       }
     },
     {
@@ -164,7 +165,7 @@ The classic pre-reading material. Children trace the letter shape while saying t
       "name": "What are the limitations of the Montessori research?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The UVA RCT studied public Montessori programs, not private premium schools. It measured outcomes at kindergarten entry, not long-term follow-up. And 'Montessori' is not a protected term — implementation quality varies enormously between schools that use the label. The study supports the method when properly implemented, not the brand name alone."
+        "text": "The UVA RCT studied public Montessori programs, not private premium schools. It followed children only through the end of kindergarten, not long-term. And 'Montessori' is not a protected term — implementation quality varies enormously between schools that use the label. The study supports the method when properly implemented, not the brand name alone."
       }
     }
   ]

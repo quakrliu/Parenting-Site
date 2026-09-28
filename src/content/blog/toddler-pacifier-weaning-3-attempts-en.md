@@ -91,8 +91,8 @@ It can help for kids who are motivated by visible progress — a sticker for eac
 
 ## Related Reading on BloomPath
 
-- [Toddler Won't Get Dressed? How I Survived 847 Morning Meltdowns](/en/blog/morning-routine-toddler-wont-get-dressed-en)
-- [She Screams Before I Even Turn On the Water (Hair Washing)](/en/blog/toddler-hates-hair-washing-en)
+- [Toddler Won't Get Dressed? What Actually Helps With Morning Meltdowns](/en/blog/morning-routine-toddler-wont-get-dressed-en)
+- [ "Toddler Hates Hair Washing? Why It Happens and What Actually Helps](/en/blog/toddler-hates-hair-washing-en)
 - [When to Start Potty Training: The Signs That Actually Matter](/en/blog/when-to-start-potty-training-en)
 - [Toddler Constipation: Why It Happens and What Actually Helps](/en/blog/toddler-constipation-complete-guide-en)
 - [Child Emotional Regulation: 5 Calming Strategies That Actually Work](/en/blog/child-emotional-regulation-5-calming-strategies-en)

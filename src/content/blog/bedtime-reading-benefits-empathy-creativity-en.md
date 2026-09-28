@@ -94,7 +94,7 @@ The researchers specifically noted the absence of gender differences — boys an
 
 ---
 
-## The [Montessori at home activities](/en/blog/montessori-activities-at-home-en) Connection {#montessori-connection}
+## The Montessori Connection {#montessori-connection}
 
 I'll be honest — when I first encountered Montessori, I thought it was expensive furniture and letting kids make messes. But one concept stuck with me: the **language-rich environment**.
 
@@ -102,9 +102,9 @@ In Montessori philosophy, children develop language, social cognition, and creat
 
 The 2026 study findings align directly with this framework. **Nightly bedtime reading creates a consistent language-rich environment that exercises the exact skills Montessori education is designed to cultivate** — perspective-taking, creative thinking, emotional vocabulary.
 
-The Montessori connection also explains *why* picture books work at ages 6–8, not just for [toddler meltdowns guide](/en/blog/toddler-meltdowns-montessori-en)s. Illustrated stories carry emotional information visually — body language, facial expressions, color and composition all communicate subtext that children learn to "read" alongside the words. That multi-modal processing is cognitively demanding in the best possible way.
+The Montessori connection also explains *why* picture books work at ages 6–8, not just for toddlers. Illustrated stories carry emotional information visually — body language, facial expressions, color and composition all communicate subtext that children learn to "read" alongside the words. That multi-modal processing is cognitively demanding in the best possible way.
 
-For parents using the [BloomPath app](https://bloompath.quakr.dev), language and social-emotional [child development milestones](/en/blog/child-development-milestones-en) are two of the eight tracked domains. Bedtime reading directly supports milestones in both — you'll see this reflected in your child's weekly progress reports.
+For parents using the [BloomPath app](https://bloompath.quakr.dev), language and social-emotional [development](/en/blog/child-development-milestones-en) are two of the eight tracked domains. Bedtime reading directly supports milestones in both — you'll see this reflected in your child's weekly progress reports.
 
 
 ---
@@ -270,7 +270,7 @@ You already know how to read. That's all you need.
 
 **Sources:**
 - Winter, Willy, Ingersoll, Meyer & Clabough (2026). "Keep the Bedtime Story: A Daily Reading Ritual Improves Empathy and Creativity in Children." *PLOS One*. [Full study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340068)
-- The Conversation: [Reading to young kids improves their social skills](https://theconversation.com/reading-to-young-kids-improves-their-social-skills-and-a-new-study-shows-it-doesnt-matter-whether-parents-stop-to-ask-questions-274926) (Jan 2026)
+- The Conversation: [Reading to young kids improves their social skills](https://theconversation.com/reading-to-young-kids-improves-their-social-skills-and-a-new-study-shows-it-doesnt-matter-whether-parents-stop-to-ask-questions-274926) (Feb 2026)
 - American Academy of Pediatrics: Literacy Promotion Policy Statement
 
 *Last updated: April 2026*

@@ -57,7 +57,7 @@ Total time from "name it" to "offer a choice": maybe eight seconds. Roughly the 
 
 ## Does This Actually Work Faster Than Counting?
 
-Not always, and I want to be honest about that. The first few times you use this, your child may test it harder than they ever tested a countdown — what child psychologist Ross Greene calls an "extinction burst," where behavior gets worse briefly before it improves, because the old pattern (comply at the last second) stopped being reinforced. They may stay standing on that chair after you offer the choice, staring you down.
+Not always, and I want to be honest about that. The first few times you use this, your child may test it harder than they ever tested a countdown — what behavioral psychologists call an "extinction burst," where behavior gets worse briefly before it improves, because the old pattern (comply at the last second) stopped being reinforced. They may stay standing on that chair after you offer the choice, staring you down.
 
 Don't recount. Don't cave. Repeat the choice once: "Sit by yourself, or I help you — which one?" Often they'll pick one — glaring the entire time, like they've lost a negotiation they don't remember agreeing to enter.
 

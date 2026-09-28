@@ -66,7 +66,7 @@ Want a screen-time tracker that actually fits your family's real rules instead o
 - [The AAP's New 5 Cs of Screen Time: An Engineer Dad's Practical Breakdown](/en/blog/aap-5cs-screen-time-framework-preschoolers-en)
 - [Flying with a Toddler: What Actually Helps (And What to Skip)](/en/blog/flying-with-toddler-long-haul-en)
 - [iPad Before Bed: The Screen Time Rule That Can End Nightly Meltdowns](/en/blog/screen-time-sleep-bedtime-en)
-- [My Daughter Came Home From a Birthday Party Begging for Roblox](/en/blog/kid-wants-roblox-parental-controls-en)
+- [ "Your Kid Came Home From a Birthday Party Begging for Roblox? Set Up These 5 Things Before You Say Yes](/en/blog/kid-wants-roblox-parental-controls-en)
 - [Toddler Restaurant Meltdown: What Actually Works](/en/blog/toddler-restaurant-meltdown-en)
 
 ## Products We Recommend

@@ -48,7 +48,7 @@ Three specific skills that pretend play builds at 4:
 
 **2. Working memory.** A pretend scenario has characters, rules, props with alternate meanings, and a storyline. Keeping all of that in mind while the game evolves is serious cognitive work.
 
-**3. Perspective-taking.** Playing a character who is not you requires modeling what that character thinks and feels. A 2026 longitudinal study in the *Early Childhood Education Journal* found that strong pretend play ability at age 4 predicts better mental health outcomes at ages 6 through 7.
+**3. Perspective-taking.** Playing a character who is not you requires modeling what that character thinks and feels. A 2026 longitudinal study in the *Early Childhood Education Journal* (Vasilopoulos et al., using Australian data on 1,426 children) found that stronger pretend play ability at ages 2 to 3 predicted fewer emotional and behavioral problems at ages 4–5 and 6–7.
 
 ---
 

@@ -167,5 +167,5 @@ A：如果過渡過程有愛、有一致性，不會有長期負面影響。孩�
 
 這兩樣東西在過渡期可以幫上忙：
 
-- [The Whole-Brain Child（全腦教養法）](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — 書裡關於「連結再引導」的章節，對應對孩子的情緒崩潰很有幫助。
+- [The Whole-Brain Child（繁中版《教孩子跟情緒做朋友》）](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — Daniel J. Siegel 與 Tina Payne Bryson 合著，書裡關於「連結再引導」的章節，對應對孩子的情緒崩潰很有幫助。
 - [Hape 家族情緒主題磁性拼圖](https://www.amazon.com/dp/B07DFLQYTK?tag=bloompath-20) — 讓孩子用玩具場景表達「想媽媽」「想阿嬤」的情緒，比說教更容易開啟對話。

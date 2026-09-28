@@ -11,7 +11,7 @@ ageGroup: ["all"]
 ---
 
 <!-- AEO OVERVIEW — 50 words, extraction-ready -->
-> **Quick Answer:** Montessori and [gentle parenting complete guide](/en/blog/positive-parenting-guide-en) are not the same. Gentle parenting prioritizes emotional connection and validation. Montessori honors emotions while also expecting independence, real contribution, and capability. In 2026, only 32% of Gen Z parents use gentle parenting as their primary approach — many are turning to Montessori's structured framework for what validation alone can't provide. *Last updated: April 2026.*
+> **Quick Answer:** Montessori and [gentle parenting](/en/blog/positive-parenting-guide-en) are not the same. Gentle parenting prioritizes emotional connection and validation. Montessori honors emotions while also expecting independence, real contribution, and capability. In 2026, only 32% of Gen Z parents use gentle parenting as their primary approach — many are turning to Montessori's structured framework for what validation alone can't provide. *Last updated: April 2026.*
 
 
 ---
@@ -71,7 +71,7 @@ ageGroup: ["all"]
       "name": "Is Montessori parenting better than gentle parenting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Neither is universally better. Gentle parenting excels at emotional connection and reduces shame-based discipline. Montessori excels at building independence, self-regulation, and capability. A 2026 PNAS randomized controlled trial showed Montessori education produces measurable gains in reading, executive function, and social skills. The evidence points toward a hybrid of both approaches."
+        "text": "Neither is universally better. Gentle parenting excels at emotional connection and reduces shame-based discipline. Montessori excels at building independence, self-regulation, and capability. A 2025 PNAS randomized controlled trial showed Montessori education produces measurable gains in reading, executive function, and social skills. The evidence points toward a hybrid of both approaches."
       }
     }
   ]
@@ -150,7 +150,7 @@ Montessori has what's missing.
 
 Let's be fair to the approach before we compare it.
 
-Gentle parenting, popularized by Sarah Ockwell-Smith in 2016, rests on four pillars: **empathy, respect, understanding, and [setting limits without punishment](/en/blog/positive-parenting-boundaries-en)**. The boundaries part often gets lost in the social-media version — but it's genuinely in the original framework.
+Gentle parenting, popularized by Sarah Ockwell-Smith in 2016, rests on four pillars: **empathy, respect, understanding, and [boundaries](/en/blog/positive-parenting-boundaries-en)**. The boundaries part often gets lost in the social-media version — but it's genuinely in the original framework.
 
 Real gentle parenting is not permissive parenting. It's about *how* you set limits (connection and explanation, not power and control) and *how* you respond when those limits are tested (validate before you redirect, don't punish).
 
@@ -181,7 +181,7 @@ Montessori sees the child as **inherently capable, curious, and intrinsically mo
 - Materials designed for self-correction (the puzzle piece either fits or it doesn't — no adult needed to judge)
 - Stepping back when your child is struggling, rather than jumping in to fix it
 
-A 2026 national randomized controlled trial published in *PNAS* found that public Montessori education produced measurable gains in reading, executive function, memory, and social understanding. [The science is strong](/en/blog/montessori-preschool-evidence-pnas-study-2026/) — this isn't a parenting trend.
+A 2025 national randomized controlled trial published in *PNAS* found that public Montessori education produced measurable gains in reading, executive function, memory, and social understanding. [The science is strong](/en/blog/montessori-preschool-evidence-pnas-study-2026/) — this isn't a parenting trend.
 
 The shorthand: **Gentle parenting is about how you *respond* to your child. Montessori is about what your child *does* when you're not responding.**
 
@@ -196,7 +196,7 @@ One is reactive. The other is structural.
 |-----------|-----------------|------------|
 | **Primary focus** | Emotions and connection | Independence and capability |
 | **How the child learns** | Parent explains the "why" | Child figures it out through self-correction |
-| **Structure** | Flexible, follows the child's lead | Structured [Montessori home environment](/en/blog/montessori-home-environment-en) with clear limits |
+| **Structure** | Flexible, follows the child's lead | Structured [prepared environment](/en/blog/montessori-home-environment-en) with clear limits |
 | **Expectations** | Meet child where they are | High expectations — child is *capable* |
 | **Contribution/chores** | Optional, based on readiness | Essential. Practical life activities are core curriculum. |
 | **Adult's role** | Emotional coach and co-regulator | Environmental architect and observer |

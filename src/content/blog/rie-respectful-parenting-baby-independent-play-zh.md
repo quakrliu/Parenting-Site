@@ -69,7 +69,7 @@ Lansbury 的建議是：把目標縮小。不要一開始就想要三十分鐘�
 
 ## 這套方法有研究支持嗎？
 
-RIE 這個品牌本身沒有像蒙特梭利那樣被大型隨機對照研究驗證過（想看蒙特梭利那邊的研究，可以參考我們整理的[蒙特梭利小孩真的比較聰明嗎？2026 最新研究這樣說](/zh/blog/montessori-national-study-2026-results-zh)）。但底層的發展心理學論點——自主、非結構化的遊戲比大人主導的遊戲更能培養執行功能、專注力跟解決問題的能力——是有長期研究基礎的。Emmi Pikler 在布達佩斯 Loczy 機構做的長期追蹤觀察，記錄了在極少大人介入遊戲下長大的嬰兒，發現他們的動作發展達到甚至超過一般時程，同時展現出很強的獨立解決問題能力。
+RIE 這個品牌本身沒有像蒙特梭利那樣被大型隨機對照研究驗證過（想看蒙特梭利那邊的研究，可以參考我們整理的[蒙特梭利小孩真的比較聰明嗎？2025 年 PNAS 全國研究這樣說](/zh/blog/montessori-national-study-2026-results-zh)）。但底層的發展心理學論點——自主、非結構化的遊戲比大人主導的遊戲更能培養執行功能、專注力跟解決問題的能力——是有長期研究基礎的。Emmi Pikler 在布達佩斯 Loczy 機構做的長期追蹤觀察，記錄了在極少大人介入遊戲下長大的嬰兒，發現他們的動作發展達到甚至超過一般時程，同時展現出很強的獨立解決問題能力。
 
 從家長視角、而不是研究視角來看，Lansbury 教了二十年課，從家長那裡聽到的回饋方向很一致：只要穩定留給寶寶安靜的地板時間，她自己專注玩耍的時間，通常幾週內就會拉長。這是家長經驗，不是研究數據。
 
@@ -103,7 +103,7 @@ RIE 這個品牌本身沒有大型對照實驗，但自主、非結構化遊戲�
 
 ## 推薦好物
 
-- [**No Bad Kids（沒有壞孩子）** — Janet Lansbury](https://www.amazon.com/dp/1499351119?tag=bloompath-20) — RIE 出身的作者寫的尊重式教養經典，把獨立遊戲背後的邏輯講得很清楚。
+- [**No Bad Kids（中文版：設限與管教）** — Janet Lansbury](https://www.amazon.com/dp/1499351119?tag=bloompath-20) — RIE 出身的作者寫的尊重式教養經典，把獨立遊戲背後的邏輯講得很清楚。
 - [**Elevating Child Care: A Guide to Respectful Parenting** — Janet Lansbury](https://www.amazon.com/dp/1499103670?tag=bloompath-20) — 更深入嬰兒階段 RIE 實踐，包含獨立遊戲環境怎麼佈置。
 - [**Lovevery The Play Gym**](https://www.amazon.com/dp/B075R8BXXC?tag=bloompath-20) — 適合用來打造 RIE 友善地墊的開放式遊戲組，沒有電池、沒有燈光，這正是重點。
 

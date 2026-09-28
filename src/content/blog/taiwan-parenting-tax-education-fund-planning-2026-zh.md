@@ -80,7 +80,7 @@ ageGroup: ["infant", "toddler", "preschool", "school-age"]
 
 ### 用蒙特梭利的角度看教育基金
 
-我們自己覺得，教育基金這件事也可以帶一點蒙特梭利的精神進去——不是替孩子把所有選擇都做好，而是隨著她長大，慢慢讓她參與。女兒讀小學高年級之後，我們開始讓她知道家裡有一個「她的」帳戶，也會用她聽得懂的方式解釋「錢放久一點會長大」的概念，這其實跟蒙特梭利強調的**延遲滿足**和**對自己生活的參與感**是同一件事——孩子不需要知道帳戶裡確切的數字，但可以感受到「這是為我準備的」，這本身就是一種安全感。
+我們自己覺得，教育基金這件事也可以帶一點蒙特梭利的精神進去——不是替孩子把所有選擇都做好，而是隨著孩子長大，慢慢讓他參與。等孩子大一點，可以讓他知道家裡有一個「他的」帳戶，用他聽得懂的方式解釋「錢放久一點會長大」的概念，這其實跟蒙特梭利強調的**延遲滿足**和**對自己生活的參與感**是同一件事——孩子不需要知道帳戶裡確切的數字，但可以感受到「這是為我準備的」，這本身就是一種安全感。
 
 ## 各縣市加碼補助跟教育基金衝突嗎？
 
@@ -138,5 +138,5 @@ ageGroup: ["infant", "toddler", "preschool", "school-age"]
 
 ## Products We Recommend
 
-- [《反溺愛》The Opposite of Spoiled（Ron Lieber）](https://www.amazon.com/Opposite-Spoiled-Raising-Grounded-Generous/dp/0062247026?tag=bloompath-20) — 談怎麼從小教孩子用健康的方式看待金錢，我們自己也在讀
+- [《反溺愛》（暫譯）The Opposite of Spoiled（Ron Lieber）](https://www.amazon.com/Opposite-Spoiled-Raising-Grounded-Generous/dp/0062247026?tag=bloompath-20) — 談怎麼從小教孩子用健康的方式看待金錢，我們自己也在讀
 - 想追蹤孩子的成長跟教養里程碑？歡迎下載 [BloomPath App](/zh/app/)，記錄之外也幫你整理台灣育兒補助資訊

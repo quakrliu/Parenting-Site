@@ -34,7 +34,7 @@ Here is what the research actually says — not the worst-case interpretation, b
 
 ## What the American Academy of Pediatrics Actually Recommends
 
-The American Academy of Pediatrics has issued screen time guidance that has been refined over multiple revision cycles. The current recommendations, most recently updated and reaffirmed through 2025, break down by age in ways that matter:
+The American Academy of Pediatrics has issued screen time guidance that has been refined over multiple revision cycles. Its most recent policy statement, *Digital Ecosystems, Children, and Adolescents* (January 2026), moves away from hour-based limits. The age-by-age recommendations below come from its 2016 statement, *Media and Young Minds*, and they still break down by age in ways that matter:
 
 **Under 18 months:** The AAP recommends avoiding screen media entirely for this age group — with one important exception. Video calls with family members are explicitly exempted. FaceTime with a grandparent, a video chat with a deployed parent: these are not "screen time" in the harmful sense, because they involve real human interaction, turn-taking, and social engagement that an infant can actually process.
 
@@ -305,7 +305,7 @@ You already care about getting this right. That caring is the most important var
 ## Related Reading
 
 - [Magnetic Tiles vs. Screen Time: 3 Brands Compared So You Don't Have To](/en/blog/magnetic-tiles-screen-alternative-en)
-- [My Kid Screamed for 20 Minutes Every Time I Turned Off the TV](/en/blog/toddler-screen-time-ending-meltdown-en)
+- [ "Toddler Screams Every Time You Turn Off the TV? Here's What Actually Changes It](/en/blog/toddler-screen-time-ending-meltdown-en)
 - [Screen Time Guilt Is Making Things Worse: What the Research Actually Says](/en/blog/screen-time-guilt-quality-over-quantity-en)
 - [Your Teenage Daughter Deleted Instagram Over 3 Likes? Here's What Actually Helps.](/en/blog/teen-social-media-likes-self-worth-en)
 

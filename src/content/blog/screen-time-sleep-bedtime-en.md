@@ -73,7 +73,7 @@ None of this needed to be elaborate. The kid whose brain just spent forty minute
 
 If your kid's screen struggles go beyond bedtime, these dig into the wider pattern:
 
-- [My Kid Screamed for 20 Minutes Every Time I Turned Off the TV](/en/blog/toddler-screen-time-ending-meltdown-en)
+- [ "Toddler Screams Every Time You Turn Off the TV? Here's What Actually Changes It](/en/blog/toddler-screen-time-ending-meltdown-en)
 - [AAP 2026 Screen Time Guidelines: What Changed and How to Actually Use the New Rules](/en/blog/aap-2026-screen-time-new-rules-en)
 - [When a Toddler Keeps Getting Out of Bed at Bedtime](/en/blog/toddler-bedtime-stalling-keeps-getting-up-en)
 - [Screen Time Guilt Is Making Things Worse: What the Research Actually Says](/en/blog/screen-time-guilt-quality-over-quantity-en)

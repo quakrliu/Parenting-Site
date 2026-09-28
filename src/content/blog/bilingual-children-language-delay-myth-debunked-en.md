@@ -1,6 +1,6 @@
 ---
 title: "Bilingual Children Aren't Behind: New Research Finally Debunks the Language Delay Myth"
-description: "Worried your bilingual toddler is speaking late? New Cambridge research confirms bilingual children aren't delayed — they're actually developing stronger language skills. Here's what the science says and when to actually worry."
+description: "Worried your bilingual toddler is speaking late? New research confirms bilingual children aren't delayed — they reach early language milestones at the same age as monolingual peers. Here's what the science says and when to actually worry."
 pubDate: "2026-06-21"
 tags: ["bilingual parenting", "language development", "toddler speech", "speech delay", "bilingual toddler"]
 lang: "en"
@@ -9,7 +9,7 @@ image: "/og/bilingual-children-language-delay-myth-debunked-en.png"
 draft: false
 ---
 
-My daughter mixed languages at every meal. At two and a half, she'd ask for "更多 juice please" — Mandarin more, English please, in the same breath. My mother-in-law would give me the look across the dinner table. Quietly worried. Not saying anything directly, but the question hung in the air: *Is she behind?*
+Maybe your child mixes languages at every meal, asking for "更多 juice please" — Mandarin more, English please, in the same breath. Maybe a grandparent gives you the look across the dinner table. Quietly worried. Not saying anything directly, but the question hangs in the air: *Is my child behind?*
 
 I'm an engineer. I do what engineers do when something worries me — I read the research. What I found surprised me enough that I want to share it here, because a lot of bilingual families are carrying unnecessary anxiety that the science has already resolved.
 
@@ -21,15 +21,15 @@ Ask almost any pediatrician, grandparent, or neighbor about raising kids with tw
 
 This belief has been around for decades. It shaped how generations of immigrant families approached language at home — many deliberately suppressing the heritage language so children could "focus" on the dominant one. Parents in Taiwan are navigating this actively right now as English bilingual policies expand and families debate how much Mandarin, Taiwanese, and English to mix.
 
-The problem is that this belief is wrong. Not slightly wrong — meaningfully, structurally wrong. And recent research from Cambridge makes that clearer than ever.
+The problem is that this belief is wrong. Not slightly wrong — meaningfully, structurally wrong. And recent research makes that clearer than ever.
 
 ---
 
-## What the Cambridge 2026 Research Actually Shows
+## What the New Research Actually Shows
 
-A 2026 study from Cambridge researchers examined language development in bilingual children across multiple age groups and language combinations. The key finding: **when you count vocabulary and grammar across both languages together, bilingual children hit the same developmental milestones as monolingual children.**
+A study led by researchers at the University of Warsaw (Muszyńska and colleagues, published in the *Journal of Child Language* in 2025) compared 302 bilingual children growing up with Polish and another language to 302 monolingual peers. The team looked at the age when each child reached early language milestones: babbling, first word, 10 words, 50 words, and first multi-word sentences. The key finding: **bilingual children reached these early milestones at the same age as monolingual children.**
 
-This matters because the old way of measuring "delay" was to count words in just one language. By that metric, a child who knows 40 words in Mandarin and 50 words in English looks like they only have 40 or 50 words — when in reality they have a conceptual vocabulary of 90+.
+It also matters how "delay" gets measured. The old way was to count words in just one language. By that metric, a child who knows 40 words in Mandarin and 50 words in English looks like they only have 40 or 50 words — when in reality their total vocabulary across both languages is 90.
 
 The updated picture:
 
@@ -42,7 +42,7 @@ The updated picture:
 
 ## Code-Switching: What It Actually Means
 
-My daughter's "更多 juice please" moment isn't a warning sign. It's evidence that her brain is doing something impressive.
+A "更多 juice please" moment isn't a warning sign. It's evidence that your child's brain is doing something impressive.
 
 Code-switching — moving between languages in a single sentence or conversation — is one of the more studied phenomena in bilingual development research. What researchers have consistently found is that children who code-switch are not confused about which language is which. They know exactly what they're doing. They're filling gaps, borrowing the word that comes faster, or doing what adult bilinguals do naturally: using the full toolkit available to them.
 
@@ -89,7 +89,7 @@ The research gives us something practical to hold onto. A few things I've change
 
 **One parent, one language** isn't a hard rule. The research supports consistency as a value, not one specific system. If your household is fluid — some Mandarin, some English depending on who's home — that's workable. What matters more is total exposure.
 
-**Don't suppress code-switching.** When my daughter mixes languages, I don't correct her. I model back the full sentence in whichever language seems most appropriate for the moment, which helps her build the pattern without shame.
+**Don't suppress code-switching.** When your child mixes languages, you don't need to correct them. Model back the full sentence in whichever language seems most appropriate for the moment, which helps them build the pattern without shame.
 
 **Read in both languages.** Bilingual picture books exist in Mandarin-English combinations. Reading regularly in both languages builds vocabulary in both. The bilingual brain is not a zero-sum game — strength in one language supports the other.
 

@@ -51,7 +51,7 @@ The research on early nutrition is clearer on some things than others. Where the
 
 ### Breastfeeding
 
-The WHO and AAP recommend exclusive breastfeeding for the first 6 months, followed by continued breastfeeding alongside complementary foods through 2 years or beyond. This recommendation is based on substantial evidence for immune function, gut microbiome [child development milestones](/en/blog/child-development-milestones-en), and reduced risk of certain infections and chronic conditions in infancy.
+The WHO and AAP recommend exclusive breastfeeding for the first 6 months, followed by continued breastfeeding alongside complementary foods through 2 years or beyond. This recommendation is based on substantial evidence for immune function, gut microbiome development, and reduced risk of certain infections and chronic conditions in infancy.
 
 Breastfeeding is also deeply personal and not always possible. It requires significant physical and logistical support. If you're breastfeeding and it's working — the evidence supports continuing. If you're breastfeeding and it's not working — there are resources, and there is also formula.
 
@@ -320,7 +320,7 @@ A: The evidence for health benefits of organic vs. conventional produce for infa
 
 ---
 
-*Back to start: [Montessori at Home Guide](/guides/montessori-at-home-guide) — the complete guide to [Montessori at home activities](/en/blog/montessori-activities-at-home-en) principles, age-by-age activities, and room setup.*
+*Back to start: [Montessori at Home Guide](/guides/montessori-at-home-guide) — the complete guide to [Montessori](/en/blog/montessori-activities-at-home-en) principles, age-by-age activities, and room setup.*
 
 
 ---

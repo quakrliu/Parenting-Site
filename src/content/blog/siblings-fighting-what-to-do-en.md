@@ -38,7 +38,7 @@ When you step in and solve every sibling conflict -- separating them, deciding w
 2. The adult decides who wins, so the game is to get the adult on your side
 3. There is always a winner and a loser
 
-Research from a 2023 Journal of Child and Family Studies study confirmed that parental coaching of prosocial behaviors was associated with lower rates of sibling victimization. Leaving kids entirely to themselves, or penalizing them equally regardless of context, didn't work as well.
+Earlier sibling research has linked parental coaching of prosocial behaviors with lower rates of sibling victimization. A 2023 randomized trial in the Journal of Child and Family Studies tested a brief parenting program designed to improve sibling relationships (74 parents): it increased warmth between siblings, though it didn't reduce conflict. In general, coaching kids toward positive interaction tends to help more than leaving them entirely to themselves or penalizing them equally regardless of context.
 
 The middle path is coaching: present enough to guide, but not so present that you become the arbitrator of every dispute.
 
@@ -78,7 +78,7 @@ This sends the message: cooperation is noticed here, not just conflict.
 
 ### Step 5: Never Say "You're Older, You Should Know Better"
 
-Research from a 2024 Montclair State University study found this phrasing significantly increases resentment in older siblings and creates a sense of unfairness that persists. The older child starts to feel like their needs don't matter.
+Jonathan Caspi, a family studies professor at Montclair State University, makes this point in his 2024 book *Raising Loving Siblings*: telling the older child "You're older, you should understand" or "Let your younger sibling play" tends to leave them feeling pushed aside, more resentful, and more aggressive. Research on parental differential treatment points the same way: a 2013 study of young adult siblings in the *Journal of Marriage and Family* linked feeling treated unequally by parents with poorer sibling relationships. The older child starts to feel like their needs don't matter.
 
 Each child's feelings are valid regardless of birth order. The older child still needs their needs acknowledged even if they also need higher expectations.
 

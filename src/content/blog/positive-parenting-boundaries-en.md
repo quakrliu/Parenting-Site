@@ -14,7 +14,7 @@ image: "/og/positive-parenting-boundaries-en.png"
 
 *Updated March 2026*
 
-**Key Takeaways:** Punishment creates compliance through fear but doesn't build internal self-regulation. Research shows children raised with authoritative boundaries (warm + firm) develop stronger executive function and social skills. The three-step framework: connect first, state the boundary clearly, follow through with natural consequences. Scripts included for [toddler meltdowns](/en/blog/toddler-meltdowns-montessori-en)s through school-age. You can be both kind and firm -- they're not opposites.
+**Key Takeaways:** Punishment creates compliance through fear but doesn't build internal self-regulation. Research shows children raised with authoritative boundaries (warm + firm) develop stronger executive function and social skills. The three-step framework: connect first, state the boundary clearly, follow through with natural consequences. Scripts included for toddlers through school-age. You can be both kind and firm -- they're not opposites.
 
 
 ---
@@ -25,7 +25,7 @@ There's a moment most parents remember. Your four-year-old is melting down at th
 
 The question that follows is harder than it sounds: if not fear, then what?
 
-That question is what [positive parenting complete guide](/en/blog/positive-parenting-guide-en) actually grapples with. Not whether to have limits — of course children need limits — but how to hold them in a way that actually shapes behavior, builds internal self-regulation, and preserves the relationship. This guide lays out the mechanics of that, with real language you can use starting tonight.
+That question is what [positive parenting](/en/blog/positive-parenting-guide-en) actually grapples with. Not whether to have limits — of course children need limits — but how to hold them in a way that actually shapes behavior, builds internal self-regulation, and preserves the relationship. This guide lays out the mechanics of that, with real language you can use starting tonight.
 
 
 ---
@@ -40,7 +40,7 @@ Authoritative parenting — combining warmth with clear limits — consistently 
 
 The authoritarian approach, which relies heavily on punishment, does produce compliance. In the short term and with younger children, that compliance can look like success. The problem emerges over time. Children raised in predominantly punitive environments learn to manage their behavior based on the presence or absence of consequences they can observe. They learn to not get caught. They develop what researchers call external rather than internal regulation — they behave well when someone is watching, and they stop when the watcher leaves.
 
-Dr. Ross Greene, the psychologist behind Collaborative Problem Solving, frames it this way: punishment tells a child what you don't want them to do, but teaches them nothing about what to do instead, and nothing about why. It also reliably increases oppositional behavior in children with inflexible or explosive temperaments — the children for whom parents tend to escalate punishment the most.
+Dr. Ross Greene, the psychologist behind the Collaborative & Proactive Solutions (CPS) model, frames it this way: punishment tells a child what you don't want them to do, but teaches them nothing about what to do instead, and nothing about why. It also reliably increases oppositional behavior in children with inflexible or explosive temperaments — the children for whom parents tend to escalate punishment the most.
 
 Punishment teaches children to fear authority rather than understand it. That fear fades at adolescence — and so does compliance.
 
@@ -188,7 +188,7 @@ The repair conversation — the actual learning — happens after. Not hours lat
 
 Listen. Then: "Hitting hurts him. When you're that angry, what else could you do?"
 
-This is a conversation, not a lecture. Your child generates the alternative, which means they're more likely to remember and use it. This is the Collaborative Problem Solving approach that Dr. Ross Greene describes: engage the child as a participant in solving the problem, not just the recipient of a correction.
+This is a conversation, not a lecture. Your child generates the alternative, which means they're more likely to remember and use it. This is the Collaborative & Proactive Solutions approach that Dr. Ross Greene describes: engage the child as a participant in solving the problem, not just the recipient of a correction.
 
 
 ---
@@ -371,12 +371,12 @@ No. Patterns that begin to form in the early years are still actively shaping th
 
 ---
 
-*Expert sources: Diana Baumrind's parenting styles research (1966–1991); Dr. Ross Greene, "The Explosive Child" and the Collaborative Problem Solving model (Lives in the Balance). For current research on authoritative parenting outcomes, see the work of Nancy Darling and Laurence Steinberg.*
+*Expert sources: Diana Baumrind's parenting styles research (1966–1991); Dr. Ross Greene, "The Explosive Child" and the Collaborative & Proactive Solutions (CPS) model (Lives in the Balance). For a classic integrative model of how parenting style shapes children's outcomes, see Nancy Darling and Laurence Steinberg, "Parenting Style as Context: An Integrative Model" (Psychological Bulletin, 1993).*
 
 
 ---
 
-**Tomorrow:** [Montessori and boundaries](/en/blog/montessori-vs-gentle-parenting-en) at Home — The Complete Beginner's Guide
+**Tomorrow:** Montessori at Home — The Complete Beginner's Guide
 
 
 ---

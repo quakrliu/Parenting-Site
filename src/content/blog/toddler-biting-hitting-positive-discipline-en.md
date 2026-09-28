@@ -38,7 +38,7 @@ Here's what's actually happening:
 
 The most common reason for biting and hitting at this age is the gap between emotional experience and verbal ability. Your toddler feels something — frustration, overwhelm, the urgent need for "mine" — and the words simply aren't there. Biting or hitting becomes the body's substitute vocabulary.
 
-I've watched this pattern thousands of times. A child reaches for a toy. Another child has it. The first child's body fills with something urgent and overwhelming. They don't have "I want that and I'm frustrated you have it." They have teeth.
+Almost every parent of a toddler has watched this pattern play out. A child reaches for a toy. Another child has it. The first child's body fills with something urgent and overwhelming. They don't have "I want that and I'm frustrated you have it." They have teeth.
 
 ### Reason 2: Sensory Overload
 
@@ -60,7 +60,7 @@ Two-year molars typically arrive between 20 and 33 months, sometimes as late as 
 
 ## What Most Parents Do in the Moment (and Why It Backfires)
 
-From parent communities we've been part of for the last decade, we've seen a fairly consistent set of reactions to toddler biting or hitting. Almost all of them feel right. Almost none of them work — and some actively make things worse.
+Parents tend to reach for a fairly consistent set of reactions to toddler biting or hitting. Almost all of them feel right. Almost none of them work — and some actively make things worse.
 
 **The lecture.** "We do NOT bite. Biting HURTS people. How would YOU feel if someone bit YOU?" A 2-year-old cannot absorb a multi-sentence ethical argument when their nervous system is dysregulated. The words become noise. What they register is the intensity of your emotion, which adds to their own dysregulation.
 

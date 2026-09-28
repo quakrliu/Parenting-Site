@@ -21,7 +21,7 @@ Here's what I know now: how you respond during these 2–6 weeks does more to sh
 
 ---
 
-**TL;DR:** Sleep regressions at 18 months and 2 years are driven by massive brain [child development milestones](/en/blog/child-development-milestones-en), not bad habits or [positive parenting guide](/en/blog/positive-parenting-guide-en) failures. They typically last 2–6 weeks. The most effective strategies are predictability, earlier bedtimes (counterintuitive but true), and staying consistent—not sleep training all over again. Your child's brain is actually growing fastest during this exact chaos.
+**TL;DR:** Sleep regressions at 18 months and 2 years are driven by massive brain [development](/en/blog/child-development-milestones-en), not bad habits or parenting failures. They typically last 2–6 weeks. The most effective strategies are predictability, earlier bedtimes (counterintuitive but true), and staying consistent—not sleep training all over again. Your child's brain is actually growing fastest during this exact chaos.
 
 
 ---
@@ -73,7 +73,7 @@ At 2 years, the brain adds:
 
 Here's the engineering version: Your toddler's prefrontal cortex (the "rational brain" responsible for self-regulation) is like a CPU that's been given a massive software upgrade—but it's still running on hardware that won't be fully built until age 25. The system reboots constantly. At 2am, that's your problem.
 
-A 2026 review published in *Sleep Medicine Reviews* noted that slow-wave sleep activity (SWA)—the deep sleep phase—is a key marker of cortical maturation. More deep sleep = more brain development. So when your toddler is fighting sleep, their brain is actually craving it for very good reasons.
+Sleep research, including a 2010 high-density sleep EEG study by Kurth and colleagues in the *Journal of Neuroscience*, supports the idea that slow-wave sleep activity (SWA)—the deep sleep phase—is a marker of cortical maturation. In other words, deep sleep and brain development go hand in hand. So when your toddler is fighting sleep, their brain is actually craving it for very good reasons.
 
 *Last updated: April 2026*
 
@@ -280,7 +280,7 @@ Regression = sudden onset, new developmental skills emerging, good sleep history
 
 ## You're Not Failing
 
-The sleep research community calls the period from ages 1–3 the most neurologically active stretch of a human life. More synaptic connections form in these 24 months than at any other point. Every regression, every night waking, every 2am [toddler meltdowns guide](/en/blog/toddler-meltdowns-montessori-en) is evidence of that.
+The sleep research community calls the period from ages 1–3 the most neurologically active stretch of a human life. More synaptic connections form in these 24 months than at any other point. Every regression, every night waking, every 2am [meltdown](/en/blog/toddler-meltdowns-montessori-en) is evidence of that.
 
 Which means: you're not in the middle of a problem. You're in the middle of a miracle that's louder than expected.
 
@@ -302,7 +302,7 @@ You're raising a brilliant, curious, developmentally on-track kid. That's who's 
 
 *Wondering how your toddler's development stacks up across other domains? [BloomPath](https://bloompath.quakr.dev) tracks 224 developmental milestones and flags when sleep disruptions correlate with growth leaps—so you know you're on track.*
 
-*Data sources: American Academy of Sleep Medicine guidelines; Sleep Medicine Reviews (2026); Taking Cara Babies developmental research summaries; Nature npj Biological Timing and Sleep (2026).*
+*Data sources: American Academy of Sleep Medicine guidelines; Journal of Neuroscience (Kurth et al., 2010); Taking Cara Babies developmental research summaries; Nature npj Biological Timing and Sleep (2026).*
 
 
 ---
@@ -311,7 +311,7 @@ You're raising a brilliant, curious, developmentally on-track kid. That's who's 
 
 *As an Amazon Associate, BloomPath earns from qualifying purchases — at no extra cost to you. We only recommend products we genuinely find useful.*
 
-- [**The Happy Sleeper** by Heather Turgeon & Julie Wright](https://www.amazon.com/dp/0399166025?tag=bloompath-20) — The book we actually used. Science-based, kind, and -- rare for sleep books -- actually respects both the child and the parents' sanity.
+- [**The Happy Sleeper** by Heather Turgeon & Julie Wright](https://www.amazon.com/dp/0399166025?tag=bloompath-20) — Science-based, kind, and -- rare for sleep books -- actually respects both the child and the parents' sanity.
 - [**Cribsheet** by Emily Oster](https://www.amazon.com/dp/0525559191?tag=bloompath-20) — Emily Oster's evidence-based look at sleep training myths and realities. Perfect if you're paralyzed by conflicting advice.
 
 

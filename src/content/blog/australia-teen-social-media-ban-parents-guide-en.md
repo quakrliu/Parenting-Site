@@ -15,7 +15,7 @@ image: "/og/australia-teen-social-media-ban-parents-guide-en.png"
 
 <!-- SCHEMA: FAQPage + Article JSON-LD — see end of file -->
 
-**TL;DR:** Australia banned social media for under-16s in December 2025 -- the first national ban worldwide. Ten more countries are following. Teens spending 3+ hours daily on social media face double the risk of depression (U.S. Surgeon General). But the most surprising finding: teens with strong [positive parenting teens](/en/blog/positive-parenting-guide-en)al relationships showed only 2% suicidal ideation vs. 22% without, regardless of [screen time research in 2026](/en/blog/screen-time-2026-guide-en). Your relationship with your teen may matter more than their phone settings. Two tools worth considering: Bark (content monitoring) and Circle (time management).
+**TL;DR:** Australia banned social media for under-16s in December 2025 -- the first national ban worldwide. Ten more countries are following. Teens spending 3+ hours daily on social media face double the risk of depression (U.S. Surgeon General). But the most surprising finding: teens with strong parental relationships showed only 2% suicidal ideation vs. 22% without, regardless of [screen time](/en/blog/screen-time-2026-guide-en). Your relationship with your teen may matter more than their phone settings. Two tools worth considering: Bark (content monitoring) and Circle (time management).
 
 
 ---
@@ -86,7 +86,7 @@ Australia didn't act in isolation. As of March 2026, here's what's happening glo
 
 ## What the Research Actually Says
 
-I want to be honest about something: this research is messier than the headlines suggest. There is a real association between heavy social media use and teen [teen mental health in 2026](/en/blog/teen-mental-health-warning-signs-2026-en) problems. But "association" and "causation" are not the same thing, and some researchers have made this point loudly.
+I want to be honest about something: this research is messier than the headlines suggest. There is a real association between heavy social media use and teen [mental health](/en/blog/teen-mental-health-warning-signs-2026-en) problems. But "association" and "causation" are not the same thing, and some researchers have made this point loudly.
 
 That said, here's the data that convinced me this isn't nothing:
 
@@ -102,7 +102,7 @@ That said, here's the data that convinced me this isn't nothing:
 
 ### The Global Picture
 
-**The World Happiness Report 2026 found life satisfaction among under-25s dropped by nearly one full point on a 0-10 scale over the past decade in English-speaking countries, while youth in the rest of the world became happier.**
+**The World Happiness Report 2026 found that life evaluations among under-25s in the United States, Canada, Australia, and New Zealand fell by an average of 0.86 points on a 0-10 scale between 2006-2010 and 2023-2025, while youth in most other countries became happier.**
 
 The same report found this decline is most strongly correlated with algorithmic, visual-first platforms that drive social comparison — Instagram, TikTok. Communication-focused platforms show less harm.
 
@@ -324,9 +324,9 @@ You're here reading this. You looked up the research. That already makes you the
 - **Limitation:** Cross-sectional survey; direction of causation unclear
 
 ### Evidence Panel 4: Global Wellbeing Decline
-- **Claim:** Life satisfaction among under-25s dropped by nearly one full point (0-10 scale) in English-speaking countries over the past decade
+- **Claim:** Life evaluations among under-25s in the US, Canada, Australia, and New Zealand fell by an average of 0.86 points (0-10 scale) between 2006-2010 and 2023-2025
 - **Source:** World Happiness Report 2026
-- **URL:** https://www.worldhappiness.report/ed/2026/social-media-is-harming-adolescents-at-a-scale-large-enough-to-cause-changes-at-the-population-level/
+- **URL:** https://www.worldhappiness.report/ed/2026/international-evidence-on-happiness-and-social-media/
 - **Data collection:** Multi-country longitudinal data, published March 2026
 - **Limitation:** Correlation with social media adoption, causation not fully established
 

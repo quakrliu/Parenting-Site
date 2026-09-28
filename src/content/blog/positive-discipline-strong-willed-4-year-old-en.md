@@ -37,7 +37,7 @@ Think of your 4-year-old's brain like a CPU running at 100% with no RAM upgrade 
 
 Janet Lansbury puts it this way: strong-willed children aren't trying to control you. They're trying to understand their world by testing its limits. The testing is development, not defiance.
 
-Research backs this up. A 2019 study published in *Developmental Psychology* found that children who showed high persistence and autonomy at age 4 were more likely to demonstrate leadership skills and goal-achievement in adolescence — IF their parents used authoritative rather than authoritarian approaches.
+Many parenting experts also make a hopeful point: the persistence that makes a 4-year-old exhausting can become a real strength later on — IF parents respond with warmth and clear limits (an authoritative approach) rather than harsh control (an authoritarian one).
 
 That "if" is doing a lot of work.
 
@@ -83,7 +83,7 @@ Five-minute warnings before ending an activity aren't coddling — they're respe
 
 The follow-through is equally important. If you say five minutes, you mean five minutes. Inconsistency teaches strong-willed kids that limits are negotiable, which means they'll always test them harder next time.
 
-My friend Marcus in Melbourne — dad of twin strong-willed boys, double the chaos — told me this was the one change that transformed his mornings. He started setting a phone timer visible to both kids. "The timer says time's up, not Daddy" removed him from the equation entirely.
+A visible timer can help with the follow-through. Set one where your child can see it, so it's the timer saying time's up, not you — which takes you out of the equation entirely.
 
 ### Strategy 4: State What WILL Happen, Not What Won't
 

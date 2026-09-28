@@ -10,7 +10,7 @@ draft: false
 ageGroup: ["school", "school-age", "teen"]
 ---
 
-**重點先講：** Roblox 從 2026 年 1 月起，開放聊天功能前強制做臉部年齡辨識，把帳號分成 5-8 歲的 Roblox Kids、9-15 歲的 Roblox Select 兩種等級。Minecraft 的安全設定則完全不在遊戲裡，要另外裝 Microsoft Family Safety 這個 app 才有效。這兩款遊戲都不是「下載就安全」。點頭讓孩子玩之前，建議花大概 40 分鐘把帳號設定整個檢查過一輪，包含綁定家長帳號、設定 Robux 零用金上限、關掉預設聊天。下面是完整清單，還有國衛院跟兒盟的數據給你參考。
+**重點先講：** Roblox 從 2026 年 1 月起，開放聊天功能前強制做臉部年齡辨識；2026 年 4 月又宣布把帳號分成 5-8 歲的 Roblox Kids、9-15 歲的 Roblox Select 兩種等級，6 月起全球上線。Minecraft 的安全設定則完全不在遊戲裡，要另外裝 Microsoft Family Safety 這個 app 才有效。這兩款遊戲都不是「下載就安全」。點頭讓孩子玩之前，建議花大概 40 分鐘把帳號設定整個檢查過一輪，包含綁定家長帳號、設定 Robux 零用金上限、關掉預設聊天。下面是完整清單，還有國衛院跟兒盟的數據給你參考。
 
 也許你家也上演過這一幕：孩子參加完同學的生日派對回家，鞋子都還沒脫就衝過來問：「我可以玩 Roblox 嗎？」原來派對上幾個小朋友輪流用一台共用的 iPad 開著玩，蓋了一間披薩店，孩子在旁邊看了快兩小時，比起玩其實更像是在排隊等輪到自己。那個語氣根本不是在徵求同意，是在通知你一個朋友圈已經決定好的事。
 
@@ -85,7 +85,7 @@ Roblox Kids 帳號（5-8 歲）就是為這個年齡層設計的，預設關閉�
 - [《Glow Kids》Nicholas Kardaras 著](https://www.amazon.com/dp/1250097991?tag=bloompath-20)——臨床心理學家拆解遊戲設計為什麼讓人放不下手，看完會更懂為什麼孩子這麼難自己停下來。
 - [《The Art of Screen Time》Anya Kamenetz 著](https://www.amazon.com/dp/1610396723?tag=bloompath-20)——如果被那些恐嚇式標題搞得很焦慮，這本書用比較冷靜、有研究依據的角度講螢幕時間。
 
-延伸閱讀：[孩子的AI「麻吉」在陪她聊心事？](/zh/blog/kids-ai-companion-chatbot-safety-zh)、[2026年兒童網路安全完整指南](/zh/blog/children-internet-safety-2026-zh)、[AI 幫女兒想答案，那她自己在想什麼？](/zh/blog/ai-cognitive-debt-kids-zh)、[螢幕時間 2 小時上限取消了！AAP 2026 新規＋台灣爸媽 5C 實踐指南](/zh/blog/aap-screen-time-2026-taiwan-parents-zh)、[是霸凌還是同儕衝突？爸媽該注意的訊號](/zh/blog/bullying-vs-peer-conflict-signs-zh)。
+延伸閱讀：[孩子的AI「麻吉」在陪她聊心事？](/zh/blog/kids-ai-companion-chatbot-safety-zh)、[2026年兒童網路安全完整指南](/zh/blog/children-internet-safety-2026-zh)、[AI 幫女兒想答案，那她自己在想什麼？](/zh/blog/ai-cognitive-debt-kids-zh)、[螢幕時間不再只看時數？AAP 2026 新規＋台灣爸媽 5C 實踐指南](/zh/blog/aap-screen-time-2026-taiwan-parents-zh)、[是霸凌還是同儕衝突？爸媽該注意的訊號](/zh/blog/bullying-vs-peer-conflict-signs-zh)。
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Roblox適合6歲小孩玩嗎？","acceptedAnswer":{"@type":"Answer","text":"Roblox Kids帳號（5-8歲）就是為這個年齡層設計的，預設關閉聊天功能，這是對年幼孩子來說最重要的一項設定。就算用這個等級的帳號，也建議還是在客廳等共同空間玩，不要放房間。"}},{"@type":"Question","name":"Minecraft需要跟Roblox一樣仔細設定嗎？","acceptedAnswer":{"@type":"Answer","text":"需要，甚至可以說更需要，因為Minecraft的安全控制完全在遊戲之外，要靠Microsoft Family Safety這個app。沒設定的話，孩子可以直接加入完全沒審核的公開多人伺服器。"}},{"@type":"Question","name":"Robux零用金設多少算合理？","acceptedAnswer":{"@type":"Answer","text":"沒有一個放諸四海皆準的數字，但Linked Parent Accounts這個功能的重點，是把無上限的花費換成你自己設定的每月固定額度，避免突然收到忘記綁定的遊戲內購帳單。"}},{"@type":"Question","name":"孩子的聊天紀錄裡最該警覺的紅旗是什麼？","acceptedAnswer":{"@type":"Answer","text":"陌生成人送過遊戲幣或道具，之後又建議轉去Discord、Snapchat這類其他平台繼續聊。這是有紀錄可查的誘拐固定套路，不是單一巧合。"}},{"@type":"Question","name":"乾脆完全禁止玩電動比較保險嗎？","acceptedAnswer":{"@type":"Answer","text":"可以，但完全禁止常常只是讓孩子改成在朋友家偷玩，家長反而完全看不到任何設定畫面。用心設定過再讓孩子玩，通常比完全禁止更實際。"}}]}

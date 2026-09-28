@@ -1,5 +1,5 @@
 ---
-title: "Are Montessori Kids Really Smarter? The 2026 Study Every Parent Should Read"
+title: "Are Montessori Kids Really Smarter? The National Study Every Parent Should Read"
 description: "The first national randomized controlled trial of public Montessori preschool found stronger reading, executive function, and social skills — at $13,127 less per child. Here's what every parent needs to know."
 pubDate: 2026-04-03
 lastUpdated: 2026-04-03
@@ -17,7 +17,7 @@ image: "/og/en-montessori-pnas-research-2026.png"
 *This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
 
-**TL;DR:** The first-ever national randomized controlled trial of public Montessori preschool (PNAS, 2025) tracked 588 children across 24 programs and found Montessori students significantly outperformed peers in reading, executive function, short-term memory, and [Montessori SEL and CASEL skills](/en/blog/montessori-sel-casel-skills-en) understanding -- at $13,127 less per child. Benefits grew over time rather than fading. You don't need private school: four Montessori principles can be applied [Montessori at home](/en/blog/montessori-at-home-guide-en) starting tonight.
+**TL;DR:** The first-ever national randomized controlled trial of public Montessori preschool (PNAS, 2025) tracked 588 children across 24 programs and found Montessori students significantly outperformed peers in reading, executive function, short-term memory, and social understanding -- at $13,127 less per child. Benefits built up over time rather than fading, becoming clear by the end of kindergarten. You don't need private school: four Montessori principles can be applied [at home](/en/blog/montessori-at-home-guide-en) starting tonight.
 
 
 ---
@@ -58,7 +58,7 @@ The PNAS study solved this with a lottery. Families who applied to public Montes
 
 **Study basics:**
 - 588 children across 24 public Montessori programs
-- 9 US states
+- 8 US states plus the District of Columbia
 - Random assignment (lottery-based admissions)
 - Followed through the end of kindergarten
 - Led by Angeline Lillard (University of Virginia) and David Loeb (University of Pennsylvania)
@@ -86,7 +86,7 @@ Loeb was equally direct: *"Because of the rigor of the study, they're definitely
 
 This is where my engineering brain broke a little.
 
-*"Over three years, every child in Montessori versus conventional preschool [national cost comparison study](/en/blog/montessori-national-study-2026-results-en)s their districts, on average, $13,127 less,"* said Lillard.
+*"Over three years, every child in Montessori versus conventional preschool costs their districts, on average, $13,127 less,"* said Lillard.
 
 Let me repeat that: Montessori produced **better outcomes at lower cost.**
 
@@ -98,7 +98,7 @@ Better results AND lower cost almost never coexist in education research. When t
 
 When most people picture Montessori, they see private schools with $20,000-a-year tuition, organic snacks, and parents who own tasteful linen tote bags.
 
-This entire study was on **public Montessori programs.** Lottery access. No tuition. Available to any family in those nine states.
+This entire study was on **public Montessori programs.** Lottery access. No tuition. Available to any family in those eight states and Washington, D.C.
 
 The study found that effects were **strongest among children from lower-income families.** That makes this an equity story as much as a parenting story. Montessori isn't just a premium product for privileged families — it's a scalable model that disproportionately helps kids who most need a strong start.
 
@@ -106,13 +106,13 @@ If you're in a city with public Montessori programs, this research is direct per
 
 **One practical note on timing:** public Montessori programs typically run lottery enrollment in January-February for the following fall. Many programs have waitlists 2-3 years long in high-demand cities. If your child is 2 or younger, the time to research your local programs is now — not when they're 4 and the relevant spots are gone. Public Montessori for the 3-year-old cohort is specifically the window this study validated.
 
-### 3. The Gains Don't Fade — They Grow
+### 3. The Gains Didn't Fade — They Grew
 
 Here's something that frustrated me for years about early childhood research: the "fade-out" problem. Programs produce real gains in preschool. Those gains shrink by 1st grade. By 3rd grade, they're mostly gone.
 
-The PNAS study found the opposite with Montessori. Gains **persisted and appeared to strengthen** over time.
+The PNAS study found the opposite pattern with Montessori. There were no significant differences between the groups at the end of the first or second preschool year; the advantages **built up over time and were clear by the end of kindergarten.** (The study ended there, so whether they keep growing after kindergarten is still an open question.)
 
-Why? Because Montessori doesn't primarily teach content — it develops **executive function.** And executive function isn't subject matter you forget after summer break. It's the cognitive infrastructure that makes learning *easier.* Planning. Impulse control. Sustained focus. Emotional regulation. Once built, it compounds.
+Why? The paper doesn't say. One plausible explanation is that Montessori doesn't primarily teach content — it develops **executive function.** And executive function isn't subject matter you forget after summer break. It's the cognitive infrastructure that makes learning *easier.* Planning. Impulse control. Sustained focus. Emotional regulation. Once built, it compounds.
 
 Think of it like compound interest for the brain. You're not depositing facts. You're building the account that earns returns for decades.
 
@@ -176,7 +176,7 @@ Let me be precise, because parenting research gets oversimplified all the time.
 **What this study DOES prove:**
 - The core Montessori approach — child-led work periods, mixed-age groupings, freedom within structure, real tasks — produces measurable cognitive and social advantages in well-implemented programs.
 - Effects are strongest for children from lower-income families, making this an equity finding as much as an educational one.
-- Gains persist and compound rather than fading, suggesting the mechanisms (executive function development) have lasting structural impact.
+- Advantages built up over time rather than fading: no significant differences at the end of the first two preschool years, clear advantages by the end of kindergarten. (The study ended at kindergarten, so longer-term effects are still unknown.)
 
 
 ---
@@ -248,11 +248,11 @@ For purposefully designed Montessori-aligned materials, [Amazon's Montessori sec
 
 ### Does Montessori actually work, according to research? {#faq-does-montessori-work}
 
-Yes. The 2025 PNAS national randomized controlled trial — the first of its kind — found public Montessori preschool significantly improved reading, executive function, short-term memory, and social understanding in 588 children by the end of kindergarten, with gains that persisted and grew rather than fading over time.
+Yes. The 2025 PNAS national randomized controlled trial — the first of its kind — found public Montessori preschool significantly improved reading, executive function, short-term memory, and social understanding in 588 children by the end of kindergarten, with advantages that built up over time rather than fading.
 
 ### What did the 2025 PNAS Montessori study find? {#faq-pnas-study-findings}
 
-The first national RCT of public Montessori preschool, tracking 588 children across 24 programs in 9 states, found Montessori-educated children outperformed peers in reading, executive function, short-term memory, and social understanding by kindergarten's end — at an average cost savings of $13,127 per child over three years.
+The first national RCT of public Montessori preschool, tracking 588 children across 24 programs in 8 states plus Washington, D.C., found Montessori-educated children outperformed peers in reading, executive function, short-term memory, and social understanding by kindergarten's end — at an average cost savings of $13,127 per child over three years.
 
 ### Why is the PNAS Montessori study different from earlier research? {#faq-why-different}
 
@@ -280,7 +280,7 @@ Yes. Core Montessori principles — protecting uninterrupted time, offering real
 
 ### What were the reading outcomes in the 2025 PNAS Montessori study? {#faq-reading-outcomes}
 
-Children in public Montessori preschool programs scored significantly higher on reading proficiency by the end of kindergarten compared to lottery waitlisted peers. The reading advantage was consistent across analytical approaches and appeared to strengthen rather than fade with time.
+Children in public Montessori preschool programs scored significantly higher on reading proficiency by the end of kindergarten compared to lottery waitlisted peers. The reading advantage was consistent across analytical approaches and, like the other outcomes, built up over time rather than fading — it was clear by the end of kindergarten, when the study ended.
 
 ### Did Montessori help children from low-income families? {#faq-equity}
 
@@ -300,7 +300,7 @@ The National Center for Montessori in the Public Sector (NCMPS) maintains a dire
 
 ### Do Montessori benefits fade by elementary school? {#faq-fade-out}
 
-The 2025 PNAS study found the opposite of the typical "fade-out" pattern. Montessori gains in executive function, reading, and social skills persisted and appeared to strengthen over time. Researchers attribute this to Montessori's focus on developing foundational cognitive skills (executive function) rather than specific academic content.
+Through kindergarten, the 2025 PNAS study found the opposite of the typical "fade-out" pattern. There were no significant group differences at the end of the first two preschool years; the advantages in reading, executive function, short-term memory, and social understanding had built up by the end of kindergarten. The study stopped there and doesn't explain why the effects accumulated, so whether the benefits last into later grades is still unknown.
 
 ### What Montessori materials are best for home use? {#faq-materials}
 
@@ -313,9 +313,9 @@ Montessori materials emphasize open-ended engagement over entertainment: wooden 
 
 > **Claim:** Public Montessori preschool improves reading, executive function, and social skills compared to conventional preschool.
 >
-> **Methodology:** National randomized controlled trial. Lottery-based random assignment to public Montessori programs (n=588 children, 24 programs, 9 US states). Comparison to lottery waitlisted children. Outcomes measured at end of kindergarten.
+> **Methodology:** National randomized controlled trial. Lottery-based random assignment to public Montessori programs (n=588 children, 24 programs, 8 US states plus the District of Columbia). Comparison to lottery waitlisted children. Outcomes measured at end of kindergarten.
 >
-> **Source:** Lillard, A.S., Loeb, D., Manship, K., et al. (2025). "A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten." *Proceedings of the National Academy of Sciences.* https://www.pnas.org/doi/10.1073/pnas.2506130122
+> **Source:** Lillard, A.S., Loeb, D., Berg, J., Escueta, M., Manship, K., Hauser, A., & Daggett, E.D. (2025). "A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten." *Proceedings of the National Academy of Sciences.* https://www.pnas.org/doi/10.1073/pnas.2506130122
 >
 > **Date of data collection:** 2019-2024 (longitudinal)
 >
@@ -345,7 +345,7 @@ You're here reading a 3,000-word article about preschool research. That already 
 ---
 
 *Sources:*
-- *Lillard, A.S., Loeb, D., Manship, K., et al. (2025). "A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten." Proceedings of the National Academy of Sciences. https://www.pnas.org/doi/10.1073/pnas.2506130122*
+- *Lillard, A.S., Loeb, D., Berg, J., Escueta, M., Manship, K., Hauser, A., & Daggett, E.D. (2025). "A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten." Proceedings of the National Academy of Sciences. https://www.pnas.org/doi/10.1073/pnas.2506130122*
 - *Harvard University Center on the Developing Child. "Executive Function & Self-Regulation." https://developingchild.harvard.edu/science/key-concepts/executive-function/*
 - *National Center for Montessori in the Public Sector. https://www.montessoripublic.org/*
 
@@ -364,7 +364,7 @@ You're here reading a 3,000-word article about preschool research. That already 
       "name": "Does Montessori actually work, according to research?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The 2025 PNAS national randomized controlled trial found public Montessori preschool significantly improved reading, executive function, short-term memory, and social understanding in 588 children by the end of kindergarten, with gains that persisted and grew rather than fading over time."
+        "text": "Yes. The 2025 PNAS national randomized controlled trial found public Montessori preschool significantly improved reading, executive function, short-term memory, and social understanding in 588 children by the end of kindergarten, with advantages that built up over time rather than fading."
       }
     },
     {
@@ -372,7 +372,7 @@ You're here reading a 3,000-word article about preschool research. That already 
       "name": "What did the 2025 PNAS Montessori study find?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The first national RCT of public Montessori preschool, tracking 588 children across 24 programs in 9 states, found Montessori-educated children outperformed peers in reading, executive function, short-term memory, and social understanding by kindergarten's end, at an average cost savings of $13,127 per child over three years."
+        "text": "The first national RCT of public Montessori preschool, tracking 588 children across 24 programs in 8 states plus Washington, D.C., found Montessori-educated children outperformed peers in reading, executive function, short-term memory, and social understanding by kindergarten's end, at an average cost savings of $13,127 per child over three years."
       }
     },
     {
@@ -420,7 +420,7 @@ You're here reading a 3,000-word article about preschool research. That already 
       "name": "Do Montessori benefits fade by elementary school?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The 2025 PNAS study found the opposite of the typical fade-out pattern. Montessori gains in executive function, reading, and social skills persisted and appeared to strengthen over time, attributed to Montessori's focus on foundational cognitive skills rather than specific academic content."
+        "text": "Through kindergarten, the 2025 PNAS study found the opposite of the typical fade-out pattern. There were no significant group differences at the end of the first two preschool years; the advantages in reading, executive function, short-term memory, and social understanding had built up by the end of kindergarten. The study stopped there and doesn't explain why the effects accumulated, so whether the benefits last into later grades is still unknown."
       }
     }
   ]

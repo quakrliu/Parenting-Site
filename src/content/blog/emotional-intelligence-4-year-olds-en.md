@@ -1,6 +1,6 @@
 ---
 title: "How to Teach Emotional Intelligence to 4-Year-Olds (A Dad's Field Guide)"
-description: "A research-backed, dad-tested guide to building emotional intelligence in 4-year-olds — using emotion naming, daily conversation scripts, and Montessori-inspired activities."
+description: "A research-backed guide to building emotional intelligence in 4-year-olds — using emotion naming, daily conversation scripts, and Montessori-inspired activities."
 pubDate: "2026-04-27"
 tags: ["emotional intelligence", "4 year old", "positive parenting", "emotion coaching", "preschool"]
 lang: "en"
@@ -28,7 +28,7 @@ Dr. John Gottman, who has spent 40 years studying emotional development in child
 
 Think of your 4-year-old's brain like a CPU running at 100% with no RAM upgrade available. The prefrontal cortex — the part that handles emotional regulation, impulse control, and logical reasoning — won't be fully developed until they're in their mid-twenties. At age 4, they're running complex social and emotional software on toddler hardware. Cut them some slack.
 
-Research published in *Early Childhood Education Journal* (2023) found that children who develop emotional vocabulary between ages 3 and 6 show significantly better peer relationships and academic engagement by age 8. The investment is real and measurable.
+Building emotional vocabulary between ages 3 and 6 may pay off later, too — in how children get along with peers and how they engage at school.
 
 ---
 
@@ -40,7 +40,7 @@ Before this milestone, a child genuinely cannot grasp that you don't share their
 
 Here's the engineer's version: trying to teach emotional intelligence before 3.5 is like installing software on a computer before the operating system is ready. After 4, the OS is booting up. Now you can actually install things.
 
-The American Academy of Pediatrics (AAP) notes that social-emotional development in early childhood — including identifying and managing emotions — is one of the strongest predictors of long-term wellbeing, more so than early academic skills.
+The American Academy of Pediatrics (AAP) treats social-emotional development as a core part of school readiness. And a 2015 study in the *American Journal of Public Health* (Jones, Greenberg & Crowley) found that children's social competence in kindergarten predicted a range of adult outcomes.
 
 Miss this window? Nothing is lost. But catching it early means years of fewer meltdowns, stronger friendships, and a kid who can tell you "I'm frustrated" instead of biting their classmate.
 
@@ -78,7 +78,7 @@ Montessori approaches to emotional development center on three things: prepared 
 Get a jar and some craft sticks. Write one emotion on each stick — happy, sad, angry, worried, excited, proud, bored, confused, silly, scared. Every morning, your child picks one that matches how they feel and puts it in a "today" cup. No right answers, no judgment. Takes 90 seconds. Over time you may spot a pattern — say, "nervous" showing up every Monday — which can open a conversation you didn't even know you needed to have.
 
 **2. The Emotion Weather Board**
-A simple whiteboard or piece of paper with your family members' names. Each person picks a "weather" for their feelings: sunny, cloudy, rainy, stormy, foggy. Kids love extending metaphors. "Stormy" became our household word for really big emotions, and somehow it's less charged than "angry."
+A simple whiteboard or piece of paper with your family members' names. Each person picks a "weather" for their feelings: sunny, cloudy, rainy, stormy, foggy. Kids love extending metaphors. "Stormy" can easily become a household word for really big emotions, and somehow it's less charged than "angry."
 
 **3. Mirror Faces**
 Sit in front of a mirror together and make faces: happy, surprised, sad, angry, confused. Talk about what you notice in your face — eyebrows, mouth, eyes. This is body literacy, and it helps kids recognize emotions in themselves AND others. It also results in some genuinely hilarious photo opportunities.
@@ -184,7 +184,7 @@ If this topic connects with what you're working through, these articles might be
 
 ## Products We Recommend
 
-These are tools that have genuinely helped in our household. Amazon affiliate links support this site at no extra cost to you.
+These are tools that can help. Amazon affiliate links support this site at no extra cost to you.
 
 **[No Bad Kids: Toddler Discipline Without Shame by Janet Lansbury](https://www.amazon.com/dp/1499351119?tag=bloompath-20)**
 The book that fundamentally changed how I respond during meltdowns. Janet Lansbury's approach is grounded, practical, and doesn't make you feel like a failure for being human. Required reading for any parent navigating the 3-6 year window.
@@ -193,7 +193,7 @@ The book that fundamentally changed how I respond during meltdowns. Janet Lansbu
 Dr. Becky's framework of "all behavior is communication" reshaped how I see my daughter's worst moments. Specific scripts, real scenarios, and absolutely zero judgment. One of the most useful parenting books I've read.
 
 **[Emotion Cards for Kids (100 Cards)](https://www.amazon.com/dp/B0893Z6G7B?tag=bloompath-20)**
-100 double-sided cards with emotion illustrations and coping ideas. We use these for our morning feelings check-in. The scenario cards are especially useful — they spark conversations about real-life situations in a low-pressure way.
+100 double-sided cards with emotion illustrations and coping ideas. They work well for a morning feelings check-in. The scenario cards are especially useful — they spark conversations about real-life situations in a low-pressure way.
 
 ---
 

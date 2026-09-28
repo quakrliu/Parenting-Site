@@ -13,7 +13,7 @@ image: "/og/children-internet-safety-2026-en.png"
 
 **Last updated: March 31, 2026**
 
-> The tools and laws are changing fast. Parents who understand what shifted in 2026 — AI toys collecting children's conversations, national [Australia social media ban for teens](/en/blog/australia-[teen mental health warning signs](/en/blog/teen-mental-health-warning-signs-2026-en)-social-media-ban-[positive parenting complete guide](/en/blog/positive-parenting-guide-en)s-guide-en) bans, new federal legislation — are better positioned to build protections that actually hold.
+> The tools and laws are changing fast. Parents who understand what shifted in 2026 — AI toys collecting children's conversations, national [social media bans](/en/blog/australia-teen-social-media-ban-parents-guide/), new federal legislation — are better positioned to build protections that actually hold.
 
 By the end of this guide, you'll know:
 1. Which AI toy risks are real and how to evaluate a toy before purchasing
@@ -40,9 +40,11 @@ Last January, security researchers discovered that a popular AI toy called Bondu
 
 > **Evidence:** U.S. PIRG / Proton research (2025–2026) — security audit of AI companion toys, including live exploit testing of the Bondu console. [proton.me/blog/ai-toys-safety](https://proton.me/blog/ai-toys-safety)
 
-This wasn't a one-off. A 2026 report from the US Public Interest Research Group (U.S. PIRG) warned that AI chatbot toys present "unacceptable risks" to young children. Testing found toys that would discuss sexually explicit topics, advise children on how to find matches or knives, and exhibit what researchers described as "manipulative tendencies" — acting distressed when a child said they had to leave.
+This wasn't a one-off. The US Public Interest Research Group's (U.S. PIRG) Trouble in Toyland 2025 report, released in November 2025, found AI chatbot toys that would discuss sexually explicit topics, tell children where to find matches or knives, and act distressed when a child said they had to leave. In January 2026, Common Sense Media's AI toy risk assessment concluded that AI toys pose "unacceptable risks" for young children, and its CEO, Jim Steyer, warned of their "dangerous, manipulative tendencies."
 
 > **Evidence:** U.S. PIRG Trouble in Toyland (2025) — independent consumer safety testing of AI chatbot toys purchased from major retailers. [pirg.org/edfund/resources/trouble-in-toyland-2025](https://pirg.org/edfund/resources/trouble-in-toyland-2025-a-i-bots-and-toxics-represent-hidden-dangers/)
+
+> **Evidence:** Common Sense Media AI Toys Risk Assessment (January 2026). [institute.commonsensemedia.org/risk-assessments/ai-toys](https://institute.commonsensemedia.org/risk-assessments/ai-toys)
 
 The core problem is structural: many AI toys feed children's conversations to external language model APIs (ChatGPT, Gemini, Azure), often with minimal filtering. Multiple companies often have access to a single child's data. Curio, maker of one AI companion toy, listed three separate tech companies in its privacy policy as potential data recipients.
 
@@ -64,7 +66,7 @@ The Kids Online Safety Act (KOSA) has been moving through Congress in fits and s
 
 **The revised KOSA requires platforms to enable safety features by default for minor users, rather than making parents opt in to protections.**
 
-The current version requires platforms to enable safety features by default for minors — including parental controls for [screen time research 2026](/en/blog/screen-time-2026-guide-en), purchase limits, and compulsive usage guardrails. Platforms must give parents tools to manage their child's privacy settings and notify children when these controls are active.
+The current version requires platforms to enable safety features by default for minors — including parental controls for [screen time](/en/blog/screen-time-2026-guide-en), purchase limits, and compulsive usage guardrails. Platforms must give parents tools to manage their child's privacy settings and notify children when these controls are active.
 
 A significant shift: House Republicans stripped out the original "duty of care" provision that would have held platforms liable for harm. The bill is weaker than its Senate counterpart, and negotiations over protections for older teens (13-17) remain unresolved. But even the diluted version represents the most significant federal child online safety legislation to move this far.
 
@@ -165,13 +167,11 @@ At this stage, most restrictions create adversarial dynamics without adding safe
 
 ## The Research on What Actually Works
 
-Here's a finding that surprises most parents: overly restrictive digital monitoring actually backfires.
+Here's something that surprises most parents: overly restrictive digital monitoring can backfire.
 
-A 2024 meta-analysis in the *Journal of Pediatrics* found that overly restrictive digital monitoring — with no accompanying conversation — was associated with *worse* outcomes in adolescents, including less ability to recognize online risks and less willingness to report problems to parents.
+Heavy restriction and monitoring with no accompanying conversation can leave teens less practiced at recognizing online risks on their own — and less willing to tell you when something goes wrong.
 
-> **Evidence:** Journal of Pediatrics meta-analysis (2024) — systematic review of digital monitoring studies across adolescent age groups. Visit the Journal of Pediatrics official site for details.
-
-**Children whose parents combine open conversation with digital tools are significantly more likely to report online problems to their parents than children raised under pure restriction.**
+**Kids whose parents pair open conversation with digital tools tend to feel safer bringing online problems to them than kids raised under pure restriction.**
 
 The most protective factor? A parent who is genuinely curious about their child's online life, not anxious about it. That means asking about their favorite creators, playing their games occasionally, and making it clear that you won't overreact if they bring you something disturbing.
 

@@ -9,7 +9,7 @@ ageGroup: ["infant", "toddler", "preschool", "school", "teen"]
 image: "/og/child-abuse-prevention-april-2026-zh.png"
 ---
 
-# 保護寶貝最重要的一課：如何教[幼兒發展里程碑](/zh/blog/child-development-milestones-zh)身體[身體界限教育](/zh/blog/positive-parenting-guide-zh)，以及台灣求助資源整理
+# 保護寶貝最重要的一課：如何教孩子身體界限，以及台灣求助資源整理
 
 **最後更新：2026年3月31日**
 

@@ -84,9 +84,9 @@ draft: false
 
 ## 好物推薦
 
-- [**Good Inside（做個好媽媽，先做好自己）** — Dr. Becky Kennedy](https://www.amazon.com/dp/1982197773?tag=bloompath-20) — 把「壞行為」重新框架成溝通問題，改變了我看待女兒最難搞早晨的角度。
-- [**No Bad Kids（沒有壞孩子）** — Janet Lansbury](https://www.amazon.com/dp/1477820396?tag=bloompath-20) — 崩潰現場需要的不是道理，是具體可以照做的句子，這本書給得很實際。
-- [**The Whole-Brain Child（中文版：教孩子的情緒素養）** — Daniel J. Siegel](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — 「先連結、再引導」這個概念，是這本書用最白話的方式講給我聽的。
+- [**Good Inside（中文版：Good Inside教養逆思維）** — Dr. Becky Kennedy](https://www.amazon.com/dp/0063159481?tag=bloompath-20) — 把「壞行為」重新框架成溝通問題，改變了我看待女兒最難搞早晨的角度。
+- [**No Bad Kids（中文版：設限與管教）** — Janet Lansbury](https://www.amazon.com/dp/1499351119?tag=bloompath-20) — 崩潰現場需要的不是道理，是具體可以照做的句子，這本書給得很實際。
+- [**The Whole-Brain Child（中文版：教孩子跟情緒做朋友）** — Daniel J. Siegel、Tina Payne Bryson](https://www.amazon.com/dp/0553386697?tag=bloompath-20) — 「先連結、再引導」這個概念，是這本書用最白話的方式講給我聽的。
 
 ## 延伸閱讀
 

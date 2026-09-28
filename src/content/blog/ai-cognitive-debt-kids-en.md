@@ -12,7 +12,7 @@ ageGroup: ["school", "teen"]
 
 If you've ever watched your kid get stuck on a homework question — explain, in their own words, why a character in a reading book made the choice she did — you may have seen this: they open a chatbot app on the family tablet, type the question almost verbatim, and copy the answer back into the worksheet in under ten seconds. They never once look like they're thinking. They look like they're retrieving.
 
-I'm Ethan, and BloomPath is the parenting app I've been building — I'm a software engineer by trade, more than a decade into the job, and for the last few years I've been teaching myself how to fold AI into tools for families. So when kids outsource a "what do you think" question to a language model, I don't have the luxury of dismissing it as some abstract tech-anxiety headline. I use these tools every day. I know exactly what they're good at, and exactly what they let you stop doing.
+I'm Ethan, and BloomPath is the parenting app I've been building — I'm a software engineer by trade, and for the last few years I've been teaching myself how to fold AI into tools for families. So when kids outsource a "what do you think" question to a language model, I don't have the luxury of dismissing it as some abstract tech-anxiety headline. I use these tools every day. I know exactly what they're good at, and exactly what they let you stop doing.
 
 *This article is part of our [Screen Time in 2026 Guide](/en/blog/screen-time-2026-guide-en).*
 

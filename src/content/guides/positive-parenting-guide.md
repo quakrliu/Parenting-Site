@@ -60,7 +60,7 @@ What makes positive parenting distinct is the *why* behind the limits. The goal 
 Diana Baumrind's foundational research in the 1960s identified three parenting styles: authoritarian (high control, low warmth), permissive (low control, high warmth), and authoritative (high control, high warmth). Her follow-up studies — and decades of replication — consistently found authoritative parenting associated with better outcomes across nearly every domain measured.
 
 Key findings from more recent research:
-- **Brain development**: Harsh punitive parenting is associated with reduced gray matter in regions linked to emotion regulation and stress response (Hart & Rubia, 2012). Supportive parenting shows the opposite effect.
+- **Brain development**: Child abuse and maltreatment are associated with reduced volume in brain regions linked to emotion regulation and stress response, including the prefrontal cortex, hippocampus and amygdala (Hart & Rubia, 2012), and harsh corporal punishment in childhood has been linked to reduced prefrontal gray matter (Tomoda et al., 2009). Supportive parenting shows the opposite effect.
 - **Secure attachment**: A secure parent-child attachment (built through responsiveness and connection) predicts better peer relationships, emotional regulation, and academic engagement — the effects persist into adulthood (Sroufe et al., 2005).
 - **Emotional coaching**: Gottman's research at the University of Washington found that children whose parents validate and discuss emotions (rather than dismiss or punish them) show better physiological stress recovery, higher academic achievement, and fewer behavioral problems.
 - **Intrinsic motivation**: Decades of research by Deci and Ryan on Self-Determination Theory show that punishments and rewards undermine intrinsic motivation over time — particularly for tasks children were already interested in.
@@ -103,7 +103,7 @@ Punishments — especially physical punishment and harsh verbal criticism — wo
 - They teach children to avoid getting caught, not to understand why the behavior was harmful
 - They damage the connection between parent and child, reducing the child's openness to parental influence over time
 - They model that power and pain are legitimate tools for getting what you want
-- They're associated with increased aggression in children (Gershoff, 2002)
+- Physical punishment is associated with increased aggression in children (Gershoff, 2002)
 
 **What works better:**
 

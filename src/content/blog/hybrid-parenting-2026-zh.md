@@ -246,7 +246,7 @@ image: "/og/hybrid-parenting-2026-zh.png"
 
 混合式教養的設計本來就是要**個人化**的。Kiddie Academy 的研究發現，大多數 Z 世代父母平均混用三種教養方式。你的配方取決於孩子的氣質、你們家的文化脈絡，還有你自己的成長背景。
 
-有些爸媽是 70% 溫和 + 30% 威信式。有些人反過來。還有人加入[蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)（孩子主導探索）的元素。
+有些爸媽是 70% 溫和 + 30% 威信式。有些人反過來。還有人加入[蒙特梭利](/zh/blog/montessori-at-home-guide-zh)（孩子主導探索）的元素。
 
 起點不是「我是哪種類型的父母」，而是：**「我的孩子需要什麼，才能同時感受到被愛和有安全感？」**
 
@@ -261,9 +261,9 @@ image: "/og/hybrid-parenting-2026-zh.png"
 
 威信式教養——和混合式教養最接近的研究術語——是所有教養方式中證據最強的：
 
-- **高溫暖 + 高結構的孩子，在情緒調節能力上顯著優於只有溫暖或只有結構的孩子**（Frontiers in Psychology, 2025）
+- 2025 年一項針對 799 名學齡前兒童的研究（Frontiers in Psychology）比較了威信式與專制型教養，探討教養方式如何透過孩子的**自我控制和情緒管理能力**，影響外化問題行為（如攻擊、衝動）
 - 威信式教養持續與較低的焦慮、憂鬱指數、行為問題相關聯
-- 2024 年一項發表於 PMC 的研究發現，[正向教養完整指南](/zh/blog/positive-parenting-guide-zh)能透過增強情緒韌性和學校投入感，保護孩子免受學業拖延的影響
+- 2025 年一項發表於《Behavioral Sciences》、追蹤 728 名 8 到 12 歲小學生的研究（Wei 等人）發現，[正向教養](/zh/blog/positive-parenting-guide-zh)能透過增強情緒韌性和學校投入感，保護孩子免受學業拖延的影響
 
 關鍵機制是這樣的：孩子在感覺被肯定情緒，又有清晰界限可以依靠的環境中，會隨著時間建立更強的內在自我調節能力。
 
@@ -353,8 +353,8 @@ image: "/og/hybrid-parenting-2026-zh.png"
 - Kiddie Academy 2025 育兒調查 — [PR Newswire](https://www.prnewswire.com/news-releases/new-research-from-kiddie-academy-reveals-54-of-gen-z-parents-prioritize-preparing-children-for-real-world-302559687.html)
 - [IBTimes: Hybrid Parenting Beyond Gentle Parenting 2026](https://www.ibtimes.com/hybrid-parenting-beyond-gentle-parenting-2026-3795167)
 - [Today's Parent: Gentle Parenting Is Out; Hybrid Parenting Is In](https://www.todaysparent.com/family/hybrid-parenting-is-in/)
-- Frontiers in Psychology (2025): 教養風格與學齡前兒童自我控制能力
-- PMC (2024): 正向教養、情緒韌性與學業投入
+- Frontiers in Psychology (2025): 教養風格與學齡前兒童外化問題行為——自我控制與情緒管理的中介（Zhang 等人）
+- Behavioral Sciences (2025): 正向教養、情緒韌性與學業投入（Wei 等人，收錄於 PMC）
 
 
 ---

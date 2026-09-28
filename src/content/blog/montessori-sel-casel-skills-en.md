@@ -11,14 +11,14 @@ image: "/og/montessori-sel-casel-skills-en.png"
 ageGroup: ["preschool"]
 ---
 
-*Last updated: April 2026 | Sources: CASEL.org, PNAS (2025), Dr. Angeline Lillard (Oxford University Press, 2026)*
+*Last updated: April 2026 | Sources: CASEL.org, PNAS (2025), Journal of Benefit-Cost Analysis (2015), American Journal of Public Health (2015)*
 
 
 ---
 *This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
 
-**TL;DR:** CASEL [PNAS study findings](/en/blog/montessori-preschool-evidence-pnas-study-2026) shows SEL programs generate $11 in returns for every $1 invested. Montessori has been building these exact skills for over a century — without the acronym. Children who miss SEL development during the critical 3-6 window face significantly harder catch-up later. This article maps Montessori to the 5 CASEL competencies and gives you 5 ways to start at home today.
+**TL;DR:** A 2015 benefit-cost analysis found SEL programs return an average of $11 for every $1 invested, and the [2025 PNAS study findings](/en/blog/montessori-preschool-evidence-pnas-study-2026) link public Montessori preschool to stronger social understanding. Montessori has been building these exact skills for over a century — without the acronym. Children who miss SEL development during the critical 3-6 window face significantly harder catch-up later. This article maps Montessori to the 5 CASEL competencies and gives you 5 ways to start at home today.
 
 
 ---
@@ -49,7 +49,7 @@ The question worth asking: if SEL is so critical, and there's a window where it'
 
 Schools are not talking about SEL because it's trendy. They're talking about it because the data is impossible to ignore.
 
-**CASEL research shows SEL programs generate $11 in returns for every $1 invested** — through better academic outcomes, lower dropout rates, reduced behavioral issues, and higher lifetime earnings. Students in evidence-based SEL programs show 11% better academic performance compared to control groups, according to CASEL's landmark meta-analysis of 213 programs.
+**A 2015 benefit-cost analysis from Columbia University's Teachers College (published in the *Journal of Benefit-Cost Analysis* and often cited by CASEL) found that six SEL programs returned an average of $11 for every $1 invested** — through better academic outcomes, lower dropout rates, reduced behavioral issues, and higher lifetime earnings. Students in evidence-based SEL programs show 11% better academic performance compared to control groups, according to CASEL's landmark meta-analysis of 213 programs.
 
 In 2025, governments worldwide started mandating SEL frameworks in public schools. Taiwan's Ministry of Education published a 5-year SEL implementation plan. Multiple US states passed legislation requiring SEL standards.
 
@@ -72,7 +72,7 @@ CASEL identified 5 core SEL competencies. Here they are, without the jargon:
 
 Think of it like emotional intelligence with a structured framework researchers can study and measure.
 
-The honest truth: most adults are still working on some of these. I'm 36 and my self-management score is... a work in progress. But here's the difference — I'm building these skills as an adult, which is like learning a second language at 40. Your child has the chance to build them as a native language. That advantage is enormous, and it's time-limited.
+The honest truth: most adults are still working on some of these. My own self-management score is... a work in progress. But here's the difference — I'm building these skills as an adult, which is like learning a second language at 40. Your child has the chance to build them as a native language. That advantage is enormous, and it's time-limited.
 
 
 ---
@@ -135,9 +135,9 @@ This is disappearing from childhood. In many conventional settings, adults clean
 
 **CASEL Meta-Analysis:** 213 studies, 270,000 students: SEL programs reduce conduct problems by 22%, emotional distress by 24%, and improve academic achievement by 11%.
 
-**Dr. Angeline Lillard (Oxford University Press, 2026):** *The Montessori Difference* presents the most comprehensive Montessori outcomes review to date. Social-emotional outcomes are among the most consistently documented benefits.
+**Worth watching for:** Dr. Angeline Lillard's book *The Montessori Difference* (Oxford University Press) is scheduled for release on October 27, 2026.
 
-**The flip side:** A 2015 study in *Developmental Psychology* tracked 750+ children for 19 years. Children lacking social-emotional competence at kindergarten entry were significantly less likely to graduate high school and more likely to need public assistance as adults. SEL wasn't a nice-to-have — it predicted life outcomes two decades later.
+**The flip side:** A 2015 study in the *American Journal of Public Health* tracked 753 children for 13 to 19 years. Children lacking social-emotional competence at kindergarten entry were significantly less likely to graduate high school and more likely to need public assistance as adults. SEL wasn't a nice-to-have — it predicted life outcomes up to nearly two decades later.
 
 
 ---
@@ -197,7 +197,7 @@ The 3-hour uninterrupted work cycle removes external rewards and requires childr
 The first national RCT of public Montessori preschool (PNAS, 2025) found significantly higher social understanding among Montessori kindergarteners, alongside reading, executive function, and short-term memory advantages.
 
 **What happens if my child doesn't develop SEL skills during the early years?**
-SEL skills can be developed at any age, but early childhood (0-7) is the most receptive period. A 19-year longitudinal study found kindergarten social-emotional competence predicted outcomes in employment, education, and mental health into adulthood. Starting early creates a significantly stronger foundation.
+SEL skills can be developed at any age, but early childhood (0-7) is the most receptive period. A longitudinal study that followed children for up to 19 years found kindergarten social-emotional competence predicted outcomes in employment, education, and mental health into adulthood. Starting early creates a significantly stronger foundation.
 
 
 ---
@@ -219,9 +219,9 @@ You're one of them.
 
 ## Products We Recommend
 
-- **"The Montessori Toddler" by Simone Davies** — The most practical guide to [Montessori at home guide](/en/blog/montessori-at-home-guide-en). [Check it on Amazon](https://www.amazon.com/dp/1523502681?tag=bloompath-20)
+- **"The Montessori Toddler" by Simone Davies** — The most practical guide to [Montessori at home](/en/blog/montessori-at-home-guide-en). [Check it on Amazon](https://www.amazon.com/dp/1523502681?tag=bloompath-20)
 - **"How to Talk So Little Kids Will Listen" by Joanna Faber & Julie King** — The bridge between Montessori philosophy and day-to-day parenting. [Check it on Amazon](https://www.amazon.com/dp/1451663927?tag=bloompath-20)
-- **"No Bad Kids" by Janet Lansbury** — Essential for understanding [toddler meltdowns Montessori guide](/en/blog/toddler-meltdowns-montessori-en) behavior through an SEL lens. [Check it on Amazon](https://www.amazon.com/dp/1503094685?tag=bloompath-20)
+- **"No Bad Kids" by Janet Lansbury** — Essential for understanding toddler behavior through an SEL lens. [Check it on Amazon](https://www.amazon.com/dp/1503094685?tag=bloompath-20)
 - **Lovevery Play Kits** — Developmentally staged kits building SEL skills: self-regulation, empathy, cooperation. [Check on Amazon](https://www.amazon.com/s?k=lovevery+play+kit&tag=bloompath-20)
 
 

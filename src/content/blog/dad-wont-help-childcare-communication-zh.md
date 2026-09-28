@@ -1,5 +1,5 @@
 ---
-title: "爸爸不幫忙帶小孩怎麼溝通：3 個不吵架的真實對話法（台灣媽媽親測）"
+title: "爸爸不幫忙帶小孩怎麼溝通：3 個不吵架的真實對話法"
 description: "65% 台灣媽媽不信任爸爸的育兒能力，但搶著做只會讓他永遠退出。這篇給你真正可以用的溝通腳本，讓爸爸從旁觀者變成隊友——不靠吵架，不靠眼淚。"
 pubDate: "2026-06-21"
 tags: ["爸爸育兒", "夫妻溝通", "台灣媽媽", "育兒分工", "正向教養"]
@@ -31,11 +31,11 @@ draft: false
 
 ## 爸爸退出的真正原因（不是他偷懶）
 
-每次我跟台灣媽媽聊這個話題，她們最先說的是：「他就是懶」或「他就是不在乎」。
+聊到這個話題，很多人最先說的是：「他就是懶」或「他就是不在乎」。
 
 但如果你仔細問，幾乎每個退出的爸爸說的都是同一件事：**「我不知道怎麼做，然後她就直接接手了，我就不再試了。」**
 
-2024 年台灣媽媽育兒調查有一個有趣的數據矛盾：65% 的媽媽表示「不信任爸爸的育兒能力」，但同一份調查裡，65% 的爸爸表示「希望更多參與，但不知道從哪裡切入」。
+兒福聯盟 2026 年「台灣媽媽育兒情形調查」（訪問全台近 800 位媽媽）發現，約 6 成 5 的媽媽對爸爸的育兒表現表示不信任。爸爸那一端也有訊號：信誼基金會 2020 年「新世代父親育兒參與大調查」中，有 12.5% 的爸爸同意自己「不知道怎麼跟孩子互動或處理孩子的問題」。
 
 這不是巧合。這是一個系統性問題——媽媽和寶貝互動的時間天生比爸爸多，累積的熟練度高，然後這個差距變成理由排除爸爸，爸爸沒有機會練習，差距越拉越大。
 
@@ -208,8 +208,8 @@ A: 需要先跟老公對齊：你們兩個人先達成共識，「這件事這�
 
 **Amazon 推薦購買**（tag: bloompath-20）
 
-- [Fair Play: A Game-Changing Solution for When You Have Too Much to Do (and More Life to Live)（公平遊戲）](https://www.amazon.com/dp/0525541942?tag=bloompath-20) — 美國家庭育兒分工最熱門的書，用「任務卡」框架讓育兒分工視覺化，已有不少台灣媽媽讀過都說很有效。
+- [Fair Play: A Game-Changing Solution for When You Have Too Much to Do (and More Life to Live)（公平遊戲）](https://www.amazon.com/dp/0525541942?tag=bloompath-20) — 美國家庭育兒分工最熱門的書，用「任務卡」框架讓育兒分工視覺化。
 
 - [The Good Enough Parent (英文版)](https://www.amazon.com/dp/1982168188?tag=bloompath-20) — 適合台灣爸媽一起讀，打破完美育兒的迷思，降低彼此的焦慮。
 
-- [How to Talk So Little Kids Will Listen（如何說，孩子才肯聽）](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — 溝通方式的書，同樣適用於跟孩子和跟另一半的溝通。推薦爸爸讀，因為入門門檻低、實例多。
+- [How to Talk So Kids Will Listen & Listen So Kids Will Talk（Adele Faber、Elaine Mazlish 著）](https://www.amazon.com/dp/1451663870?tag=bloompath-20) — 溝通方式的書，同樣適用於跟孩子和跟另一半的溝通。推薦爸爸讀，因為入門門檻低、實例多。

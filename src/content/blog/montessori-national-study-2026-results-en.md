@@ -27,10 +27,10 @@ Turns out, the data is now in. And it's not even close.
 
 - The first national randomized controlled trial of public Montessori preschool was published in *Proceedings of the National Academy of Sciences* (PNAS) in October 2025
 - 588 children across 24 public Montessori programs in 8 states plus Washington, D.C. were tracked from ages 3 to 6
-- By the end of kindergarten, Montessori children outperformed peers in **reading, [PNAS research details](/en/blog/montessori-preschool-evidence-pnas-study-2026), short-term memory, and [Montessori SEL and CASEL skills](/en/blog/montessori-sel-casel-skills-en) understanding**
+- By the end of kindergarten, Montessori children outperformed peers in **reading, [executive function](/en/blog/montessori-preschool-evidence-pnas-study-2026), short-term memory, and social understanding**
 - Unlike most preschool studies where gains fade, Montessori benefits **grew stronger over time**
 - Three years of public Montessori cost **$13,127 less per child** than traditional programs
-- Effects were strongest among children from lower-income families
+- Exploratory analyses hinted at stronger effects among lower-income children and boys, though the authors caution these results are tentative due to low statistical power
 
 
 ---
@@ -151,7 +151,7 @@ The study was conducted in **public** Montessori programs, which tend to have mo
 
 ### If Montessori isn't an option:
 
-You can still apply core Montessori principles [Montessori at home](/en/blog/montessori-at-home-guide-en):
+You can still apply core Montessori principles [at home](/en/blog/montessori-at-home-guide-en):
 
 - **Follow the child's interest.** When your child is fascinated by bugs, lean into bugs — don't redirect to the alphabet worksheet.
 - **Offer real tools, not toys.** Child-sized pitchers, real brooms, actual cooking utensils. Children rise to the level of what you trust them with.
@@ -206,7 +206,7 @@ The study focused on reading, executive function, short-term memory, and social 
 
 ## Sources {#sources}
 
-- Lillard, A. S., Manship, K., Loeb, D., Berg, J., Escueta, M., Hauser, A., & Daggett, E. (2025). A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten. *Proceedings of the National Academy of Sciences*, 122(43). DOI: [10.1073/pnas.2506130122](https://www.pnas.org/doi/10.1073/pnas.2506130122)
+- Lillard, A. S., Loeb, D., Berg, J., Escueta, M., Manship, K., Hauser, A., & Daggett, E. D. (2025). A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten. *Proceedings of the National Academy of Sciences*, 122(43). DOI: [10.1073/pnas.2506130122](https://www.pnas.org/doi/10.1073/pnas.2506130122)
 - [National study finds public Montessori programs strengthen early learning outcomes — at sharply lower costs](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html) — Phys.org
 - [Massive national study shows public Montessori improves outcomes, reduces costs](https://www.montessoripublic.org/2025/10/massive-national-study-shows-public-montessori-improves-outcomes-reduces-costs/) — MontessoriPublic
 - [UVA-led national study finds Montessori preschool boosts learning, cuts costs](https://news.virginia.edu/content/uva-led-national-study-finds-montessori-preschool-boosts-learning-cuts-costs) — UVA News

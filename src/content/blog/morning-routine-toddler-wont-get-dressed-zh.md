@@ -1,5 +1,5 @@
 ---
-title: "小孩早上不肯穿衣服？5 個讓出門不崩潰的方法（台灣爸媽親測有效）"
+title: "小孩早上不肯穿衣服？5 個讓出門不崩潰的方法"
 description: "早上七點多，一邊趕著出門，一邊跟孩子談判牛仔褲？女兒小一點的時候，Mei 跟我說過：問題不是孩子，是我完全搞錯了方向。"
 pubDate: "2026-05-15"
 tags: ["正向教養", "幼兒教養", "早晨崩潰", "幼兒自主", "穿衣服"]
@@ -151,4 +151,4 @@ A：平靜地說明時間狀況（「我們五分鐘後要出門」），給一�
 兩個可以參考的選擇：
 
 - [Moon and Back by Hanna Andersson 三件組運動褲](https://www.amazon.com/dp/B08GJ4DS59?tag=bloompath-20) ——有機棉、軟腰、幾乎沒有刺感的接縫。觸感基本上等於睡衣，但可以出門。
-- [No Bad Kids：沒有壞孩子，只有不被理解的孩子](https://www.amazon.com/dp/1499351119?tag=bloompath-20) Janet Lansbury 著——關於權力鬥爭那幾章完全重新框架了我對早晨慣例的理解。短版結論：你可以守住界線，但不需要在七點打贏這場仗。
+- [No Bad Kids: Toddler Discipline Without Shame](https://www.amazon.com/dp/1499351119?tag=bloompath-20) Janet Lansbury 著（繁中版《設限與管教：瑪德葛伯教你允許孩子犯錯的勇氣》）——關於權力鬥爭那幾章完全重新框架了我對早晨慣例的理解。短版結論：你可以守住界線，但不需要在七點打贏這場仗。

@@ -11,19 +11,19 @@ ageGroup: ["preschool"]
 ---
 
 <!-- AEO Product Overview (50 words) -->
-**Lovevery's 2026 four-kit series for ages 4–5** — The Connector, The Examiner, The Persister, and The Planner — each targets a specific executive function skill in three-month [child development milestones](/en/blog/child-development-milestones-en)al windows. Priced at $120 per kit, they're the brand's first expansion into the 4–5 year age range. Last updated: April 2026.
+**Lovevery's 2026 four-kit series for ages 4–5** — The Connector, The Examiner, The Persister, and The Planner — each targets a specific executive function skill in three-month developmental windows. Priced at $120 per kit, they're the brand's first expansion into the 4–5 year age range. Last updated: April 2026.
 
 
 ---
 *This article is part of our [Montessori at Home Complete Guide](/en/blog/montessori-at-home-guide-en).*
 
 
-**TL;DR:** Lovevery's 2026 four-kit series for ages 4-5 (The Connector, The Examiner, The Persister, The Planner) each targets a specific executive function skill in three-month developmental windows. At $120 per kit, they're research-backed and well-designed. Executive function at age 4 predicts academic success better than IQ. Best kit: The Persister for frustration tolerance. Skip if: your child already has rich open-ended play materials, or if cost is a stretch -- unit blocks plus household items build similar skills.
+**TL;DR:** Lovevery's 2026 four-kit series for ages 4-5 (The Connector, The Examiner, The Persister, The Planner) each targets a specific executive function skill in three-month developmental windows. At $120 per kit, they're research-backed and well-designed. Executive function is a foundation for school readiness. Best kit: The Persister for frustration tolerance. Skip if: your child already has rich open-ended play materials, or if cost is a stretch -- unit blocks plus household items build similar skills.
 
 
 ---
 
-Maybe you've read somewhere that executive function skills — things like flexible thinking, frustration tolerance, and planning — predict academic success better than IQ scores. Maybe you nodded, filed it in your mental "good to know" folder, and moved on.
+Maybe you've read somewhere that executive function skills — things like flexible thinking, frustration tolerance, and planning — are a foundation for school readiness. Maybe you nodded, filed it in your mental "good to know" folder, and moved on.
 
 Then the meltdowns started.
 
@@ -38,7 +38,7 @@ That's the question behind this review: can Lovevery's four new kits for 4-year-
 
 Here's the engineer's explanation: think of your child's brain at age 4 like a CPU getting its first major firmware upgrade. The prefrontal cortex — the part responsible for planning, impulse control, and flexible thinking — is in its most active development phase right now.
 
-**Executive function skills developed at age 4 predict academic achievement and social competence more reliably than IQ at kindergarten entry.** This isn't marketing copy. Researchers at Harvard's Center on the Developing Child have documented this extensively. And it gets bigger: a landmark PNAS study tracking 1,037 children from birth to age 32 found that childhood self-control — the behavioral expression of EF — predicted adult physical health, financial stability, and even criminal record, independent of IQ and socioeconomic background (Moffitt et al., 2011). Meanwhile, a 2026 randomized controlled trial in *PNAS* found that children in [Montessori activities at home](/en/blog/montessori-activities-at-home-en)-aligned play environments showed measurably stronger executive function scores at kindergarten entry compared to peers in conventional settings.
+**Executive function skills built around age 4 lay the groundwork for school readiness.** This isn't marketing copy. Harvard's Center on the Developing Child calls executive function the "biological foundation for school readiness," and notes that kindergarten teachers rank self-control and sustained attention above content knowledge (Rimm-Kaufman et al., 2000). And it gets bigger: a landmark PNAS study tracking 1,037 children from birth to age 32 found that childhood self-control — the behavioral expression of EF — predicted adult physical health, financial stability, and even criminal record, independent of IQ and socioeconomic background (Moffitt et al., 2011). Meanwhile, a 2025 randomized controlled trial in *PNAS* found that children who won a lottery for a public Montessori preschool showed stronger executive function by the end of kindergarten than peers who didn't get a spot.
 
 We're not talking about a skill that helps your kid do better in first grade. We're talking about a skill with a 30-year documented footprint on life outcomes.
 
@@ -262,7 +262,7 @@ You're here reading this. That already makes you a great parent.
 
 *Want to track your child's executive function development alongside play? The [BloomPath app](https://bloompath.quakr.dev) includes 224 developmental skill indicators for ages 0–18, including the EF milestones targeted by each Lovevery kit.*
 
-*Sources: Lovevery product pages (lovevery.com, April 2026); Moffitt et al., "A gradient of childhood self-control predicts health, wealth, and public safety," PNAS (2011); Lillard et al., Montessori Preschool EF RCT, PNAS (2026); Harvard Center on the Developing Child, "Executive Function & Self-Regulation" (developingchild.harvard.edu); MasAndPas KiwiCo vs Lovevery comparison.*
+*Sources: Lovevery product pages (lovevery.com, April 2026); Moffitt et al., "A gradient of childhood self-control predicts health, wealth, and public safety," PNAS (2011); Lillard et al., Montessori Preschool RCT, PNAS 122(43), e2506130122 (2025); Harvard Center on the Developing Child, "Executive Function & Self-Regulation" (developingchild.harvard.edu); MasAndPas KiwiCo vs Lovevery comparison.*
 
 
 ---

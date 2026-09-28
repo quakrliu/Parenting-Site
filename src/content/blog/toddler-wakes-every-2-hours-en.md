@@ -81,7 +81,7 @@ If full cold-turkey sleep training feels like too much, gradual withdrawal is a 
 - Week 2: Sit in the doorway
 - Week 3: Outside the door
 
-You are still present -- just less so each night. Research published in *Pediatrics* supports that both extinction methods and graduated approaches are safe and effective for toddlers. Neither causes long-term harm. The best method is the one you will actually do consistently.
+You are still present -- just less so each night. Research published in *Pediatrics* backs gradual approaches like this, though it was done with babies rather than toddlers: in a trial of 43 infants aged 6 to 16 months, graduated extinction and bedtime fading both improved sleep, with no adverse effects on stress, attachment, or emotions and behavior 12 months later (Gradisar et al., 2016), and a follow-up of controlled comforting and "camping out" used at 8 to 10 months found no harms at age 6 (Price et al., 2012). Neither study tested full cold-turkey extinction. The best method is the one you will actually do consistently.
 
 ---
 

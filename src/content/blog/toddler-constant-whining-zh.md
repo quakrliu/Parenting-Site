@@ -170,6 +170,6 @@ A：現場不要起衝突，先穩住界限。事後找平靜時機跟長輩說�
 
 這幾本書改變了我理解幼兒行為的方式，也改變了我在那個當下怎麼開口：
 
-- [How to Talk So Little Kids Will Listen](https://www.amazon.com/dp/1451663870?tag=bloompath-20)（繁中版《如何說，小孩才會聽》）作者 Joanna Faber & Julie King ——書裡針對不同情緒給的具體對話腳本，直接可以用在哭哭音的場景。
+- [How to Talk So Little Kids Will Listen](https://www.amazon.com/dp/150113163X?tag=bloompath-20)（英文版）作者 Joanna Faber & Julie King ——書裡針對不同情緒給的具體對話腳本，直接可以用在哭哭音的場景。
 - [Good Inside](https://www.amazon.com/dp/0063159481?tag=bloompath-20) 作者 Dr. Becky Kennedy ——把孩子的行為重新定位為「溝通」而不是「操控」，這個框架讓我面對哭哭音的方式整個轉變了。
 - [No Bad Kids](https://www.amazon.com/dp/1499351119?tag=bloompath-20) 作者 Janet Lansbury ——「設界限不說教」的章節，是「用正常聲音再說一次」這個方法的理論基礎。

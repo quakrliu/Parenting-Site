@@ -1,6 +1,6 @@
 ---
-title: "Toddler Won't Get Dressed? How I Survived 847 Morning Meltdowns"
-description: "When your toddler hits the floor because the shirt has buttons and buttons are now evil. The strategies that actually work -- backed by developmental science and a dad who was chronically late to standup."
+title: "Toddler Won't Get Dressed? What Actually Helps With Morning Meltdowns"
+description: "When your toddler hits the floor because the shirt has buttons and buttons are now evil. The strategies that actually work -- backed by developmental science and a little Montessori-style prep."
 pubDate: "2026-05-15"
 tags: ["toddler behavior", "morning routine", "positive parenting", "toddler independence", "getting dressed"]
 lang: "en"
@@ -38,15 +38,15 @@ This doesn't mean every clothing refusal is legitimate sensory distress. But it 
 
 ## What Doesn't Work
 
-I tested all of these extensively.
+Most of us have tried at least a few of these.
 
 **Threatening consequences.** "If you don't get dressed in two minutes, we're not going to the park after school." Adds cortisol to an already escalated situation. A dysregulated toddler cannot process future consequences -- the prefrontal cortex that handles that reasoning isn't sufficiently online. You're announcing something to nobody who can hear it.
 
 **Explaining the weather.** "You need to wear pants because it's cold outside." They know it's cold outside. That's not the problem. The problem is they wanted the orange leggings and the orange leggings are in the wash.
 
-**Yelling.** She cries, I feel terrible, everything is delayed by another six minutes. Net change: zero. Net damage to mood: substantial.
+**Yelling.** Your toddler cries, you feel terrible, everything is delayed by another six minutes. Net change: zero. Net damage to mood: substantial.
 
-**Giving up.** I tried this precisely once. She arrived at daycare in a swimsuit and one snow boot. Her teacher gave me a look I still think about.
+**Giving up.** Tempting, until you picture your child arriving at daycare in a swimsuit and one snow boot -- and the look their teacher gives you.
 
 ---
 

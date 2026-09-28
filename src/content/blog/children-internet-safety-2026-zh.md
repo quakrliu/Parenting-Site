@@ -13,7 +13,7 @@ image: "/og/children-internet-safety-2026-zh.png"
 
 **最後更新：2026年3月31日**
 
-> [正向教養完整指南](/zh/blog/positive-parenting-guide-zh)數位安全，在2026年已經不只是「管[幼兒螢幕時間新指引](/zh/blog/aap-screen-time-guidelines-2026)」的問題。AI玩具在蒐集什麼資料？國際新法對台灣有什麼影響？哪些工具真的有用？這篇指南給你具體答案。
+> 數位安全，在2026年已經不只是「管[螢幕時間](/zh/blog/aap-screen-time-guidelines-2026)」的問題。AI玩具在蒐集什麼資料？國際新法對台灣有什麼影響？哪些工具真的有用？這篇指南給你具體答案。
 
 閱讀完這篇指南，你會知道：
 1. AI玩具的真實風險，以及購買前如何評估
@@ -42,13 +42,15 @@ image: "/og/children-internet-safety-2026-zh.png"
 
 不需要任何駭客技術。就這樣公開著。
 
-這不是單一事件。美國消費者倡議組織 U.S. PIRG 在 2025 年的《玩具危機報告》裡，把 AI 聊天玩具列為「對幼童具有不可接受風險」的類別。測試發現，有些 AI 玩具會：
+這不是單一事件。美國消費者倡議組織 U.S. PIRG 在 2025 年 11 月發布的《玩具危機報告》（Trouble in Toyland 2025）裡，點名了 AI 聊天玩具的多項問題；2026 年 1 月，Common Sense Media 的 AI 玩具風險評估更直接把 AI 玩具評為對幼童具有「不可接受風險」。PIRG 的測試發現，有些 AI 玩具會：
 
 - 跟孩子討論不適齡的性相關內容
 - 告訴孩子哪裡可以找到火柴或刀子
 - 當孩子說要離開時，展現出讓人不安的「依戀行為」
 
 > **Evidence:** U.S. PIRG 《玩具危機報告》(2025) — 從主要零售商購買的AI聊天玩具獨立消費者安全測試。[pirg.org](https://pirg.org/edfund/resources/trouble-in-toyland-2025-a-i-bots-and-toxics-represent-hidden-dangers/)
+
+> **Evidence:** Common Sense Media AI 玩具風險評估 (2026年1月)。[institute.commonsensemedia.org](https://institute.commonsensemedia.org/risk-assessments/ai-toys)
 
 問題的核心在於架構：大多數 AI 玩具把孩子的對話送到外部語言模型（ChatGPT、Gemini 或 Azure），中間的安全過濾非常薄弱。有些品牌的隱私政策裡，甚至寫明了三間不同的科技公司都可能收到孩子的資料。
 
@@ -172,11 +174,9 @@ Family Link 或 Screen Time 全面啟動。沒有社群媒體。遊戲時間有�
 
 ## 研究說什麼：什麼方式真的有效？
 
-有個發現讓很多爸媽感到意外：過度限制反而適得其反。
+有件事讓很多爸媽感到意外：過度限制可能適得其反。
 
-美國《兒科學期刊》的一篇統合分析研究發現，**過度限制數位使用——沒有配套的親子對話——與[孩子說不想上學的警訊](/zh/blog/zh-teen-not-wanting-school)更差的結果相關，包括更難辨識網路風險，以及遇到問題時更不願意告訴爸媽。**
-
-> **Evidence:** 《兒科學期刊》統合分析研究 (2024) — 跨不同青少年年齡層的數位監控研究系統性回顧。請至 Journal of Pediatrics 官方網站查閱詳細資料。
+**只靠限制與監控、沒有配套的親子對話，孩子可能比較難學會自己辨識網路風險，遇到問題時也更不願意告訴爸媽。**
 
 最有保護效果的因素是什麼？
 

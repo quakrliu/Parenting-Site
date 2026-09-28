@@ -14,7 +14,7 @@ Picture it: you're making breakfast — scrambled eggs, nothing fancy — when y
 
 That moment is what Montessori practical life is really about. Not a curriculum. Not a set of expensive wooden toys. A philosophy that says: your 4-year-old *needs* to do real things, with real tools, in the real world. And when you set it up right, it builds something no flashcard ever could.
 
-At **BloomPath**, we lean on the research, and it's consistent: children who regularly participate in household tasks at ages 3–5 show measurably stronger executive function by age 7. That's not a parenting blog claim — that's from a 2023 study in *Early Childhood Education Journal* tracking 341 preschoolers across five countries.
+At **BloomPath**, we lean on the research, and it points in a consistent direction: children who regularly take on self-care and household tasks tend to have stronger executive function skills, like working memory and self-control. We'll get to the study behind that below.
 
 *This article is part of our [Complete Montessori at Home Guide](/en/blog/montessori-at-home-guide-en).*
 
@@ -36,7 +36,7 @@ At age 4 specifically, the fine motor explosion is real. Children this age can:
 - Use a whisk, sponge, or brush with increasing precision
 - Follow a 3–4 step sequence without constant reminders
 
-A 2022 meta-analysis in *Developmental Psychology* found that children who performed self-care and household tasks regularly by age 5 had significantly better working memory and inhibitory control by age 8 — two of the top predictors of academic success. The researchers specifically noted that the *real tools* aspect (as opposed to toy imitations) was a key variable. So skip the toy broom and give your child a small, real one. That distinction matters.
+A 2022 study in the *Australian Occupational Therapy Journal* surveyed 207 parents of Australian children aged 5 to 13 and found that children's participation in self-care and household chores predicted better working memory and inhibitory control — two of the top predictors of academic success. It was a one-time (cross-sectional) survey, so it shows a link rather than proof that chores cause the benefit, and it didn't look at *real tools* versus toy imitations. Real tools are a core Montessori principle in their own right, though: skip the toy broom and give your child a small, real one. In Montessori thinking, that distinction matters.
 
 ## The 3 Stations You Can Set Up This Weekend
 
@@ -49,7 +49,7 @@ The single most impactful thing you can add is a learning tower — a sturdy ste
 Set up:
 - **Learning tower** at the counter (Guidecraft Classic is the gold standard — ASIN below)
 - A **small pitcher** (300ml max) filled halfway with water
-- A **child-safe knife** (for example, the Opinel Bébé) and a cutting board
+- A **child-safe knife** (for example, Opinel's Le Petit Chef children's knife) and a cutting board
 - A small tray with soft foods ready to prep: bananas, strawberries, boiled eggs
 
 The pouring exercise alone — filling a glass from a small pitcher — develops grip strength, hand-eye coordination, and the ability to self-correct. When your child spills (and they will), they know where the sponge is. That's the whole loop.

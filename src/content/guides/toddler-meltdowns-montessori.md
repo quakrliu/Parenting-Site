@@ -142,7 +142,7 @@ The repair is where the learning actually lives.
 
 ### Time-outs for children under three
 
-The American Academy of Pediatrics recommends that time-outs, if used at all, not be used until a child is at least two to three years old — and only then with specific guidance. For children under three, isolation during an emotional storm removes the one thing they actually need: a co-regulating presence. It doesn't teach them what to do with the feeling; it just teaches them to be alone with it.
+The American Academy of Pediatrics does present time-outs as a useful discipline tool, including short ones for toddlers (about one minute per year of age). The approach in this guide is more cautious in the middle of a meltdown. For children under three, isolation during an emotional storm removes the one thing they actually need: a co-regulating presence. It doesn't teach them what to do with the feeling; it just teaches them to be alone with it.
 
 ### Saying "Stop crying"
 

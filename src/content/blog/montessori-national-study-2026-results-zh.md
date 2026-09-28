@@ -35,10 +35,10 @@ image: "/og/montessori-national-study-2026-results-zh.png"
 
 - 2025 年 10 月，美國頂尖期刊《PNAS》（美國國家科學院院刊）發表了史上第一個全國性蒙特梭利隨機對照試驗（RCT）
 - 研究追蹤了 **588 個孩子**，來自美國 8 個州加華盛頓特區的 **24 所公立蒙特梭利學校**
-- 到[幼兒園選校指南](/zh/blog/kindergarten-guide-taiwan-2026-zh)結束時，蒙特梭利的孩子在**閱讀、執行功能、短期記憶、社會理解**四項都顯著優於同齡
-- 最特別的是：這些優勢**隨時間越來越大**，不像其他學前[蒙特梭利居家實踐](/zh/blog/montessori-at-home-guide-zh)研究中的「效果消退」
+- 到幼兒園結束時，蒙特梭利的孩子在**閱讀、執行功能、短期記憶、社會理解**四項都顯著優於同齡
+- 最特別的是：這些優勢**隨時間越來越大**，不像其他學前教育研究中的「效果消退」
 - 三年公立蒙特梭利花費比傳統學前班**每個孩子省下 $13,127 美元**（約台幣 40 萬）
-- 低收入家庭的孩子受益最大
+- 探索性分析顯示，低收入家庭的孩子和男孩效果可能更強，但作者提醒統計檢定力不足，還不能下定論
 
 
 ---
@@ -149,7 +149,7 @@ image: "/og/montessori-national-study-2026-results-zh.png"
 
 我知道你在想：「這是美國的研究，跟我在台灣有什麼關係？」
 
-關係很大。因為蒙特梭利的核心原則是通用的——它針對的是兒童[0-6歲發展里程碑](/zh/blog/child-development-milestones-zh)的普遍規律，不是特定文化。
+關係很大。因為蒙特梭利的核心原則是通用的——它針對的是兒童發展的普遍規律，不是特定文化。
 
 ### 如果你考慮讓孩子上蒙特梭利幼兒園
 
@@ -217,7 +217,7 @@ image: "/og/montessori-national-study-2026-results-zh.png"
 
 ## 參考資料 {#sources}
 
-- Lillard, A. S., Manship, K., Loeb, D., Berg, J., Escueta, M., Hauser, A., & Daggett, E. (2025). A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten. *Proceedings of the National Academy of Sciences*, 122(43). DOI: [10.1073/pnas.2506130122](https://www.pnas.org/doi/10.1073/pnas.2506130122)
+- Lillard, A. S., Loeb, D., Berg, J., Escueta, M., Manship, K., Hauser, A., & Daggett, E. D. (2025). A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten. *Proceedings of the National Academy of Sciences*, 122(43). DOI: [10.1073/pnas.2506130122](https://www.pnas.org/doi/10.1073/pnas.2506130122)
 - [National study finds public Montessori programs strengthen early learning outcomes — at sharply lower costs](https://phys.org/news/2025-10-national-montessori-early-outcomes-sharply.html) — Phys.org
 - [Massive national study shows public Montessori improves outcomes, reduces costs](https://www.montessoripublic.org/2025/10/massive-national-study-shows-public-montessori-improves-outcomes-reduces-costs/) — MontessoriPublic
 - [UVA-led national study finds Montessori preschool boosts learning, cuts costs](https://news.virginia.edu/content/uva-led-national-study-finds-montessori-preschool-boosts-learning-cuts-costs) — UVA News

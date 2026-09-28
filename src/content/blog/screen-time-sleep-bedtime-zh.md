@@ -74,7 +74,7 @@ ageGroup: ["toddler", "preschooler", "school"]
 如果你家孩子的螢幕問題不只發生在睡前，這幾篇可以幫你看整體模式：
 
 - [關掉螢幕孩子就崩潰？不是你管太嚴，是他需要這 4 個幫助](/zh/blog/toddler-screen-time-ending-meltdown-zh)
-- [AAP 2026 螢幕時間新指南：沒有時間限制了，但你需要這 5 個品質問題](/zh/blog/aap-2026-screen-time-quality-checklist-zh)
+- [AAP 2026 螢幕時間新指南：不再只看時數，你需要這 5 個品質問題](/zh/blog/aap-2026-screen-time-quality-checklist-zh)
 - [小孩睡前一直找理由不肯睡？爸媽最崩潰的這45分鐘終於有解了](/zh/blog/toddler-bedtime-stalling-zh)
 - [溫和睡眠訓練第四晚哭得比第一晚還慘：「消退爆發」是什麼](/zh/blog/gentle-sleep-training-extinction-burst-zh)
 

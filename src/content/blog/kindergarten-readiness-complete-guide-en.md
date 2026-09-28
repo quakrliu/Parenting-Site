@@ -14,11 +14,11 @@ ageGroup: ["preschool"]
 
 ---
 
-The week before our daughter started kindergarten, I sat at our kitchen table with a photocopied list her soon-to-be teacher had handed out at orientation. It had maybe thirty items on it — can write first name, can count to ten, can identify colors — and I remember feeling my stomach drop a little, because I couldn't confidently check off half of them.
+Before our daughter started kindergarten, we worried the way most parents do: about a list of things she was supposed to be able to do on day one — write her first name, count to ten, name her colors — and whether we could confidently check them all off.
 
-I called my friend Priya, whose son had started kindergarten the year before in Boston, and asked her, more or less panicked, whether her son could do all thirty things on his list before day one. She laughed. "He couldn't tie his shoes until October," she said. "Nobody cares about the shoes. They care whether he could sit still for circle time without hitting the kid next to him."
+If you're staring at a list like that right now, here's the reassuring part: a child who can't tie their shoes yet is rarely what a kindergarten teacher is worried about. What teachers notice much sooner is whether a child can sit through circle time and wait for a turn without hitting the kid next to them.
 
-That conversation changed how I thought about the entire concept of readiness. BloomPath has spent years helping parents sort real developmental milestones from internet-driven panic, and kindergarten readiness might be the single topic where the gap between what parents worry about and what actually predicts a good transition is the widest.
+That shift, from the checklist to the child, is what this guide is about. BloomPath has spent years helping parents sort real developmental milestones from internet-driven panic, and kindergarten readiness might be the single topic where the gap between what parents worry about and what actually predicts a good transition is the widest.
 
 *This checklist draws on our own experience with our daughter's Montessori elementary transition, plus the research below — not classroom teaching experience.*
 
@@ -121,7 +121,7 @@ Reading fluently, doing math beyond counting, or writing full sentences before k
 
 ---
 
-Priya's son, by the way, learned to tie his shoes in October, just like she predicted, and he was completely fine. Readiness isn't a pass-fail test you administer in August. It's a rough sense of where your child stands across three domains, and a plan to keep building the ones that need it — during the school year, not just before it starts.
+Readiness isn't a pass-fail test you administer in August. It's a rough sense of where your child stands across three domains, and a plan to keep building the ones that need it — during the school year, not just before it starts.
 
 *BloomPath uses illustrated AI characters (Mei and Ethan) to protect our daughter's privacy. The content is real; the avatars are illustrated. [Learn more →](/en/about/)*
 

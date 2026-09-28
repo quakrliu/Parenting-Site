@@ -190,7 +190,7 @@ IKEA 的 KALLAX 層架（單格，或者 2×2 那種）是台灣蒙特梭利家�
 
 這幾本書，我們覺得很值得一讀：
 
-**[Janet Lansbury《No Bad Kids：沒有壞孩子》](https://www.amazon.com/dp/1499351119?tag=bloompath-20)**
+**[Janet Lansbury《No Bad Kids》（中文版：設限與管教）](https://www.amazon.com/dp/1499351119?tag=bloompath-20)**
 Lansbury 對於孩子自主性的觀點，直接影響了我們怎麼設計家裡的環境——讓孩子自己選、自己做、自己收拾。
 
 **[《Good Inside》Dr. Becky Kennedy](https://www.amazon.com/dp/0063159481?tag=bloompath-20)**

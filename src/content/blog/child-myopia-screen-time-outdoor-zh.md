@@ -61,7 +61,7 @@ draft: false
 
 建議滿 3 歲就做第一次視力篩檢,5 歲左右安排一次完整的散瞳驗光,這也是台灣目前公費篩檢計畫鎖定的年齡。之後建議每年至少檢查一次,如果爸媽本身近視,或是孩子已經進入近視前期,更應該固定追蹤度數變化。散瞳驗光比一般視力表檢查更準確,因為可以排除孩子暫時性的調節痙攣造成的假性近視,直接看到真實的屈光狀態。
 
-如果你也在煩惱螢幕時間該怎麼抓，可以搭配看看[AAP 2026 螢幕時間新規＋台灣爸媽 5C 實踐指南](/zh/blog/aap-screen-time-2026-taiwan-parents-zh)，還有[睡前滑 iPad 半小時對睡眠的影響](/zh/blog/screen-time-sleep-bedtime-zh)。如果想找不用滑平板的替代方案，[磁力片玩具推薦 2026](/zh/blog/magnetic-tiles-screen-alternative-zh)是我們家實測過還不錯的選項。另外，[兒科醫師建議每天戶外 15 分鐘降低近視機率](/zh/blog/sunlight-child-development-outdoors-zh)這篇也整理了戶外時間對發展的其他好處，值得一起看。
+如果你也在煩惱螢幕時間該怎麼抓，可以搭配看看[AAP 2026 螢幕時間新規＋台灣爸媽 5C 實踐指南](/zh/blog/aap-screen-time-2026-taiwan-parents-zh)，還有[睡前滑 iPad 半小時對睡眠的影響](/zh/blog/screen-time-sleep-bedtime-zh)。如果想找不用滑平板的替代方案，[磁力片玩具推薦 2026](/zh/blog/magnetic-tiles-screen-alternative-zh)整理了一些值得參考的選項。另外，[兒科醫師建議每天戶外 15 分鐘降低近視機率](/zh/blog/sunlight-child-development-outdoors-zh)這篇也整理了戶外時間對發展的其他好處，值得一起看。
 
 *育見未來 BloomPath 使用 AI 角色（Mei 和 Ethan）呈現以保護孩子隱私。內容是真實的育兒經驗，角色是動畫的。[了解更多 →](/zh/about/)*
 

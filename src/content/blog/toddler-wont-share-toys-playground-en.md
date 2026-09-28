@@ -28,7 +28,7 @@ Toddlers under age 3 cannot share on demand. This isn't stubbornness or bad mann
 
 **Object permanence in context** — the confidence that something still exists and will come back after it leaves your hand. When you're two, handing something away can feel like losing it forever.
 
-A 2023 study out of the University of Washington found that children under 36 months consistently interpret sharing as a form of loss, not a social exchange. The research showed that when the "sacrifice" element was removed from sharing scenarios, prosocial behavior increased significantly in toddlers as young as 18 months. In other words: your toddler isn't selfish. Their brain is just doing exactly what two-year-old brains do.
+In other words: your toddler isn't selfish. Their brain is just doing exactly what two-year-old brains do.
 
 ## Why Forcing It Makes Things Worse
 

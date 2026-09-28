@@ -16,7 +16,7 @@ image: "/og/child-abuse-prevention-april-2026-en.png"
 
 ---
 
-Every [positive parenting guide](/en/blog/positive-parenting-guide-en) deserves to feel equipped — not just alarmed — when it comes to [toddler meltdowns guide](/en/blog/toddler-meltdowns-montessori-en) protection. The research is clear: parents who understand the actual dynamics of abuse, who have talked openly with their children about bodies and safety, and who maintain the kind of relationship where hard conversations are possible — those families are meaningfully better protected. This guide gives you the tools to be one of them.
+Every parent deserves to feel equipped — not just alarmed — when it comes to child protection. The research is clear: parents who understand the actual dynamics of abuse, who have talked openly with their children about bodies and safety, and who maintain the kind of relationship where hard conversations are possible — those families are meaningfully better protected. This guide gives you the tools to be one of them.
 
 **By the end of this guide, you'll know:**
 1. The three body safety conversations that research consistently shows reduce vulnerability in children
@@ -105,8 +105,6 @@ No list of warning signs is definitive, and many of these can have other explana
 
 If you notice these signs, your first response matters. Stay calm. Don't express shock or disbelief. Ask open-ended questions: "You seem worried about something. Can you tell me more?" The goal is to make the conversation feel safe, not frightening.
 
-*"The night my daughter finally told me something had happened, I stayed very still and just kept saying 'I'm so glad you told me.' Later, my therapist said that was exactly right. I didn't even know — I just didn't want her to stop talking."* — Parent, shared with permission via Childhelp awareness campaign
-
 
 ---
 
@@ -120,7 +118,7 @@ Prevent Child Abuse America identifies several evidence-based protective factors
 
 **Parental resilience.** Parents who have tools for managing their own stress are less likely to be overwhelmed in ways that lead to harm. Exhausted, isolated parents with no support are in a genuinely harder position. That's not a moral judgment — it's neurological reality.
 
-**Knowledge of [child development milestones](/en/blog/child-development-milestones-en).** Much of what's reported as abuse stems from unrealistic expectations — parents who don't understand what's developmentally normal and respond to normal behavior with disproportionate punishment. Understanding what a two-year-old or a six-year-old is actually capable of is directly protective.
+**Knowledge of [child development](/en/blog/child-development-milestones-en).** Much of what's reported as abuse stems from unrealistic expectations — parents who don't understand what's developmentally normal and respond to normal behavior with disproportionate punishment. Understanding what a two-year-old or a six-year-old is actually capable of is directly protective.
 
 **Social and emotional competence in children.** Children who can identify and communicate their feelings, who have been taught to name what they're experiencing, are more likely to recognize and report unsafe situations.
 
@@ -170,9 +168,9 @@ Protection isn't a fortress. It's a relationship.
 - [Prevent Child Abuse America](https://preventchildabuse.org)
 - [Thrive From the Start: CAP Month 2026](https://thrivefromthestart.org/child-abuse-prevention-month-2026-pinwheels-of-possibility/)
 - [Childhelp National Child Abuse Hotline](https://www.childhelp.org/hotline/) — 1-800-422-4453
-- [Darkness to Light: Developmental Guidelines for Body Safety](https://www.d2l.org)
+- [Darkness to Light: Safety in Seconds: Healthy Sexual Development](https://www.d2l.org/safety-in-seconds-healthy-sexual-development/)
 - [Minnesota Children's Alliance: Body Safety Rules](https://minnesotachildrensalliance.org/news/child-abuse-awareness-body-safety-rules/)
-- [Kids First Inc: Talking to Young Children About Body Safety](https://kidsfirstinc.org/how-to-talk-to-young-children-about-body-safety/)
+- [Kids First Inc: How to Talk to Young Children About Body Safety](https://kidsfirstinc.org/how-to-talk-to-young-children-about-body-safety/)
 
 *Information valid as of March 31, 2026. Check [preventchildabuse.org](https://preventchildabuse.org) and [childhelp.org](https://www.childhelp.org) for the latest updates and resources.*
 

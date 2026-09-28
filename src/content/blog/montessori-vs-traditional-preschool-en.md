@@ -17,7 +17,7 @@ image: "/og/montessori-vs-traditional-preschool-en.png"
 
 By the end of this guide, you'll know:
 1. What the 2025 PNAS study actually found, and why its design matters
-2. Which [child development milestones](/en/blog/child-development-milestones-en)ren benefit most from Montessori — the equity finding is striking
+2. Which children benefit most from Montessori — the equity finding is striking
 3. How to decide what's right for your specific child, not the average child
 
 
@@ -29,13 +29,13 @@ Here's the question every parent eventually faces: your child is turning three, 
 
 One promises freedom, curiosity, and self-directed learning. The other offers structure, preparation for the classroom ahead, and usually a lower price tag.
 
-What the research said for a long time was frustratingly inconclusive. Montessori studies kept running into the same problem: the families who chose Montessori were already different. More educated, more engaged. Hard to separate the method from the [Montessori home environment](/en/blog/montessori-home-environment-en) environment.
+What the research said for a long time was frustratingly inconclusive. Montessori studies kept running into the same problem: the families who chose Montessori were already different. More educated, more engaged. Hard to separate the method from the home environment.
 
 That changed in 2025.
 
 A study published in the *Proceedings of the National Academy of Sciences* (PNAS) ran the first truly rigorous national test of public Montessori preschool — a randomized controlled trial using lottery selection. Researchers from the University of Virginia, the University of Pennsylvania, and the American Institutes for Research tracked 588 children across 24 public Montessori schools nationwide.
 
-**Children randomly selected to attend public Montessori preschool scored more than 0.2 standard deviations higher than conventionally schooled peers in reading, [PNAS landmark study](/en/blog/montessori-preschool-evidence-pnas-study-2026), working memory, and social understanding by the end of kindergarten.**
+**Children randomly selected to attend public Montessori preschool scored more than 0.2 standard deviations higher than conventionally schooled peers in reading, [executive function](/en/blog/montessori-preschool-evidence-pnas-study-2026), short-term memory, and social understanding by the end of kindergarten.**
 
 The results are the clearest picture we've ever had.
 
@@ -59,13 +59,13 @@ This kind of design is the gold standard in education research. It's rare to see
 
 ## Four Areas Where Montessori Children Pulled Ahead
 
-By the end of kindergarten, children in the Montessori group outperformed their peers on four distinct measures. Effect sizes exceeded 0.2 standard deviations — considered large in field-based school research.
+By the end of kindergarten, children in the Montessori group outperformed their peers on four distinct measures. Effect sizes exceeded 0.2 standard deviations — considered large in field-based school research. At the end of the first two preschool years (PK3 and PK4), there were no notable differences; the advantages emerged at the end of kindergarten.
 
 ### Reading
 
-Montessori children were stronger readers. More importantly, this advantage grew over time rather than fading — a finding that directly contradicts the "fade-out" pattern seen in most preschool intervention research, where early gains typically disappear by second or third grade.
+Montessori children were stronger readers by the end of kindergarten. What makes this interesting is the timing: the advantage emerged at the end of kindergarten rather than showing up early and shrinking — the authors contrast this with the "fade-out" pattern seen in most preschool intervention research, where early gains typically disappear by second or third grade.
 
-**Montessori children's reading advantage over conventionally schooled peers grew rather than faded across the kindergarten year, bucking the typical preschool fade-out pattern.**
+**Montessori children's reading advantage over conventionally schooled peers emerged at the end of kindergarten, after no notable differences at the end of PK3 or PK4 — a pattern the authors contrast with the typical preschool fade-out.**
 
 Why might this be? Montessori's language materials — the movable alphabet, sandpaper letters, early phonics work — are tactile and child-paced. Children move through these materials when they're developmentally ready, not on a calendar schedule.
 
@@ -77,7 +77,7 @@ When a child in a Montessori classroom chooses their work, maintains it without 
 
 ### Short-Term Memory
 
-Working memory improvements tracked with Montessori children's hands-on engagement with materials. Manipulating physical objects — counting beads, working with geometric forms, using sensorial materials — engages memory systems differently than worksheets or screen-based learning.
+Montessori children also scored higher on short-term memory (measured with a forward digit-span task). One plausible reason: manipulating physical objects — counting beads, working with geometric forms, using sensorial materials — engages memory systems differently than worksheets or screen-based learning.
 
 ### Social Understanding (Theory of Mind)
 
@@ -172,7 +172,7 @@ If you want to bring Montessori-quality materials into your home, [Lovevery Play
 
 <h3 id="faq-lasting-advantages">Does Montessori preschool give children lasting academic advantages?</h3>
 
-The 2025 PNAS study found that Montessori advantages in reading, executive function, working memory, and social understanding persisted through the end of kindergarten, with reading gains growing rather than fading. Long-term follow-up into elementary school is still needed, but the trajectory is more positive than what's been found for most preschool interventions. The typical "fade-out" pattern seen in other early interventions was not observed here.
+The 2025 PNAS study found no notable differences at the end of the first two preschool years (PK3 and PK4), but by the end of kindergarten, Montessori children scored higher in reading, executive function, short-term memory, and social understanding (theory of mind). The advantages emerged at the end of kindergarten rather than carrying over from earlier years, which the authors contrast with the usual preschool "fade-out" pattern. Long-term follow-up into elementary school is still needed to know whether the advantages last.
 
 <h3 id="faq-identify-real-montessori">How can I tell if a preschool is actually Montessori?</h3>
 
@@ -215,7 +215,7 @@ The [BloomPath app](https://bloompath.quakr.dev) tracks 224 developmental milest
 
 ---
 
-*Source: Lillard, A. S., Loeb, D., Manship, K., Berg, J., Escueta, M., Hauser, A., & Daggett, E. D. (2025). A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten. Proceedings of the National Academy of Sciences, 122. DOI: 10.1073/pnas.2506130122*
+*Source: Lillard, A. S., Loeb, D., Berg, J., Escueta, M., Manship, K., Hauser, A., & Daggett, E. D. (2025). A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten. Proceedings of the National Academy of Sciences, 122(43), e2506130122. DOI: 10.1073/pnas.2506130122*
 
 <script type="application/ld+json">
 {
@@ -229,7 +229,7 @@ The [BloomPath app](https://bloompath.quakr.dev) tracks 224 developmental milest
       "name": "Does Montessori preschool give children lasting academic advantages?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The 2025 PNAS study found that Montessori advantages in reading, executive function, working memory, and social understanding persisted through the end of kindergarten, with reading gains growing rather than fading. Long-term follow-up into elementary school is still needed, but the trajectory is more positive than what's been found for most preschool interventions. The typical fade-out pattern seen in other early interventions was not observed here."
+        "text": "The 2025 PNAS study found no notable differences at the end of the first two preschool years (PK3 and PK4), but by the end of kindergarten, Montessori children scored higher in reading, executive function, short-term memory, and social understanding (theory of mind). The advantages emerged at the end of kindergarten rather than carrying over from earlier years, which the authors contrast with the usual preschool 'fade-out' pattern. Long-term follow-up into elementary school is still needed to know whether the advantages last."
       }
     },
     {

@@ -1,8 +1,8 @@
 ---
 title: "阿公阿嬤不聽怎辦？3 個化解跨代教養衝突的共同決定技巧（台灣爸媽心得）"
-description: "阿公阿嬪一直餐零食、買玈毛玩具，您却還沒车輯讓他們停？這篇文章是工程師妈婆 Ethan 的自白，也是己經實證的跨代溝通步驟。"
+description: "阿公阿嬤一直給零食、買玩具，卻不知道怎麼開口讓他們停？工程師爸爸 Ethan 整理 3 個從「共同決定」出發的跨代溝通步驟，化解教養衝突又不傷感情。"
 pubDate: "2026-05-11"
-tags: ["隣代教養", "阿公阿嬪", "跨代溝通", "正向教養", "台灣學健"]
+tags: ["隔代教養", "阿公阿嬤", "跨代溝通", "正向教養", "台灣家庭"]
 lang: "zh-TW"
 author: "Ethan Moore"
 draft: false
@@ -148,7 +148,7 @@ ageGroup: ["all"]
 
 幫助處理教養溝通的實用書籍：
 
-- **How to Talk So Little Kids Will Listen**（中文版《怎麼說，孩子才肯聽》）-- 書裡的溝通技巧不只適用於孩子，跟阿公阿嬤溝通也一樣有效。[在 Amazon 購買](https://www.amazon.com/dp/150113163X?tag=bloompath-20)
+- **How to Talk So Little Kids Will Listen**（Joanna Faber & Julie King 著；目前沒有繁體中文版，簡體中文版為《如何说宝贝才会听》）-- 書裡的溝通技巧不只適用於孩子，跟阿公阿嬤溝通也一樣有效。[在 Amazon 購買](https://www.amazon.com/dp/150113163X?tag=bloompath-20)
 
 - **Good Inside by Dr. Becky Kennedy** -- 以連結取代懲罰的正向教養聖經，幫助你理解不同照顧者行為背後的動機。[在 Amazon 購買](https://www.amazon.com/dp/0063159481?tag=bloompath-20)
 

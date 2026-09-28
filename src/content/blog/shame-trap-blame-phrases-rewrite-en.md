@@ -10,9 +10,9 @@ image: "/og/shame-trap-blame-phrases-rewrite-en.png"
 draft: false
 ---
 
-My friend Sarah in Denver told me about the night her ten-year-old brought home a math quiz with a 62 on it. Dinner was already on the table, her younger kid was melting down about broccoli, and she was running on maybe five hours of sleep. She glanced at the quiz, sighed, and said the sentence she still thinks about: "What is wrong with you? You just don't try." Her son didn't say anything back. He just took his plate to his room. She told me later that what scared her wasn't the grade — it was how fast the sentence came out, and how much she meant it in that second.
+Picture a night like this: your ten-year-old brings home a math quiz with a 62 on it. Dinner is already on the table, your younger one is melting down about broccoli, and you're running on maybe five hours of sleep. You glance at the quiz, sigh, and before you can stop it, the sentence is out: "What is wrong with you? You just don't try." Your child doesn't say anything back — just takes their plate to their room. What stings afterward isn't the grade. It's how fast the sentence came out, and how much you meant it in that second.
 
-I co-founded BloomPath, a parenting app built around exactly these split-second moments, and this one comes up constantly in the conversations I have with other parents. Not the big blowups — the small sentences that slip out when you're tired, and that land somewhere much deeper than you intended.
+I co-founded BloomPath, a parenting app built around exactly these split-second moments. Not the big blowups — the small sentences that slip out when you're tired, and that land somewhere much deeper than you intended.
 
 *This article is part of our [Positive Parenting: The Complete Guide](/en/blog/positive-parenting-guide-en) series.*
 
@@ -44,7 +44,7 @@ Montessori philosophy adds a related piece here: a mistake is treated as *inform
 
 ## 10 Shame-to-Responsibility Phrase Swaps
 
-Here are the swaps that come up constantly in the scenarios parents describe to me — homework, chores, social conflict, and the moment a kid hides a mistake instead of telling you about it.
+Here are swaps for the moments when these sentences tend to slip out — homework, chores, social conflict, and the moment a kid hides a mistake instead of telling you about it.
 
 1. **Instead of:** "What is wrong with you?" → **Try:** "Something's going on here — let's figure out what happened."
 2. **Instead of:** "You're so lazy." → **Try:** "This didn't get done. What got in the way?"

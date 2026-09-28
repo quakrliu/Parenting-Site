@@ -35,7 +35,7 @@ Before you can use any framework, you need to understand what's actually happeni
 
 The prefrontal cortex — the part of the brain responsible for impulse control, following instructions, and thinking before acting — doesn't finish developing until the mid-twenties. In a 2-year-old, it's barely online. Think of it like a CPU running at full speed but with no RAM available for executive function.
 
-A 2024 University of Bristol study confirmed that inhibitory control (the ability to stop a habitual action) changes dramatically between 16 and 24 months, but remains genuinely limited. Toddlers aren't choosing to ignore you. Their brain architecture literally makes compliance hard, especially when they're dysregulated, hungry, or transitioning between activities.
+A 2024 study from the Universities of Bristol and Oxford found that the brain activity behind inhibitory control (the ability to stop a habitual action) changes markedly between 10 and 16 months, yet 16-month-olds were no better at actually stopping themselves than they had been at 10 months. Toddlers aren't choosing to ignore you. Their brain architecture literally makes compliance hard, especially when they're dysregulated, hungry, or transitioning between activities.
 
 This doesn't mean you give up on limits. It means you set limits in a way that works with their brain, not against it.
 

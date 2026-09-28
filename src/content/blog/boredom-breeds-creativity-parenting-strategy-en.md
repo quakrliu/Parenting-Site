@@ -36,7 +36,7 @@ When your child says "I'm bored," their brain has shifted gears. The directed-ta
 
 The Default Mode Network (DMN) is the part of the brain that runs in the background when nothing is demanding your attention. It's where mind-wandering happens. Where daydreaming happens. And, it turns out, where creative thinking happens.
 
-A 2012 study in *Psychological Science* by Malia Mason and colleagues found that the DMN is reliably activated during unstructured thought — and is linked to creative problem-solving and imaginative play. Later research from the University of Central Lancashire found that children who spent time doing a boring task before a creative task came up with significantly more creative ideas than children who went straight to creating.
+A 2007 study in *Science* by Malia Mason and colleagues linked mind-wandering to activity in the DMN, and a separate 2012 study in *Psychological Science* by Baird and colleagues found that mind-wandering can help creative problem-solving. Neither study looked at children's imaginative play. Later research from the University of Central Lancashire (Mann & Cadman, 2014) found that adults who spent time doing a boring task — copying or reading out phone numbers — before a creative task came up with more creative ideas than those who went straight to creating.
 
 That's right. Boredom primed their brains for creativity.
 
@@ -50,7 +50,7 @@ A January 2026 study from University College London found that two-year-olds in 
 
 That's more than double. For toddlers.
 
-And I got it. When my daughter was two, those extra 60 minutes weren't happening because I was negligent. They were happening because I was tired, or on a deadline, or trying to get dinner on the table. Screens work. They're effective boredom solutions. They buy you exactly the quiet you need.
+And it's easy to understand how it happens. Those extra minutes usually aren't about negligence. They happen because parents are tired, or on a deadline, or trying to get dinner on the table. Screens work. They're effective boredom solutions. They buy you exactly the quiet you need.
 
 But they also short-circuit the process. When a child is bored and we hand them a screen, we're essentially bypassing the transition into Default Mode Network activity — the mental gear-shift where creativity starts. We're solving the discomfort before the discomfort can do anything useful.
 
@@ -172,7 +172,7 @@ That's not a small thing. In a world that's increasingly built to capture attent
       "name": "Is it bad to let kids be bored?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Research shows that boredom activates the brain's Default Mode Network, which is linked to creativity, daydreaming, and self-generated play. Occasional boredom — where kids are expected to sit with the discomfort rather than immediately escaping into screens — helps build intrinsic motivation and creative problem-solving."
+        "text": "No. Research links the brain's Default Mode Network to mind-wandering and daydreaming, and mind-wandering to creative problem-solving. Occasional boredom — where kids are expected to sit with the discomfort rather than immediately escaping into screens — helps build intrinsic motivation and creative problem-solving."
       }
     },
     {
@@ -212,7 +212,7 @@ That's not a small thing. In a world that's increasingly built to capture attent
 </script>
 
 **Q: Is it bad to let kids be bored?**  
-No. Boredom activates the Default Mode Network — the part of the brain linked to creativity, daydreaming, and self-generated play. Occasional boredom helps kids build intrinsic motivation. The discomfort is doing work.
+No. Boredom gives the mind room to wander, and research links mind-wandering to the Default Mode Network and to creative problem-solving. Occasional boredom helps kids build intrinsic motivation. The discomfort is doing work.
 
 **Q: How long should intentional boredom last?**  
 Even 10-20 minutes is meaningful. The key is no escape hatch via screen or adult-directed activity. Most kids shift from frustrated to self-initiated within 5-10 minutes once they expect this is how the time works.
