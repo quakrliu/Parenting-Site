@@ -1,13 +1,57 @@
 {
-  "generated": "2026-09-27T07:47:39.410Z",
+  "generated": "2026-09-28T02:24:20.500Z",
   "counts": {
-    "total": 359,
-    "en": 175,
-    "zh": 184,
+    "total": 361,
+    "en": 176,
+    "zh": 185,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "shame-trap-blame-phrases-rewrite-zh",
+      "lang": "zh-TW",
+      "title": "羞辱陷阱：10 句最傷孩子的話，正向教養教你怎麼換句話說",
+      "description": "為什麼「你是不是越來越笨」這種話會讓孩子開始隱瞞你？拆解羞恥感跟責任感的心理學差異，附上 10 組具體的話術替換，讓你守住界線又不傷關係。",
+      "tags": [
+        "正向教養",
+        "親子溝通",
+        "信任修復",
+        "情緒教養",
+        "羞恥感"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-09-28",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/shame-trap-blame-phrases-rewrite-zh"
+    },
+    {
+      "slug": "shame-trap-blame-phrases-rewrite-en",
+      "lang": "en",
+      "title": "The Shame Trap: 10 Phrases That Damage Trust (And What to Say Instead)",
+      "description": "A breakdown of why 'why are you like this' style comments backfire, what the research on shame vs. responsibility actually says, and 10 exact phrase swaps that hold the boundary without attacking your kid's character.",
+      "tags": [
+        "positive parenting",
+        "shame vs guilt",
+        "child communication",
+        "trust",
+        "positive discipline"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-09-28",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/shame-trap-blame-phrases-rewrite-en"
+    },
     {
       "slug": "child-withdrawal-reconnection-conversation-zh",
       "lang": "zh-TW",

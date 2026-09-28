@@ -307,6 +307,7 @@ A: Consistency helps, but it isn't everything. A child who has one consistently 
 
 Explore more in our Positive Parenting series:
 
+- [The Shame Trap: 10 Phrases That Damage Trust (And What to Say Instead)](/en/blog/shame-trap-blame-phrases-rewrite-en)
 - [When Your Kid Goes From Telling You Everything to 'Fine': What's Actually Happening](/en/blog/child-withdrawal-reconnection-conversation-en)
 - [Is Your First-Grader an Angel at School and a Wreck by the Time You Get to the Car?](/en/blog/after-school-restraint-collapse-first-grade-en)
 - [Why Your Child Hides Mistakes From You (And the 6-Step Conversation That Rebuilds Trust)](/en/blog/child-hiding-mistakes-trust-repair-conversation-en)
