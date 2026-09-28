@@ -90,6 +90,6 @@ Move the phone's charging spot out of the bedroom, replace algorithm-fed feeds w
 - [Your Kid Came Home From a Birthday Party Begging for Roblox? Set Up These 5 Things Before You Say Yes](/en/blog/kid-wants-roblox-parental-controls-en)
 - [Is AI Doing My Kid's Thinking For Her? What 'Cognitive Debt' Research Actually Says](/en/blog/ai-cognitive-debt-kids-en)
 - [Teen Mental Health in 2026: Warning Signs Every Parent Should Know](/en/blog/teen-mental-health-warning-signs-2026-en)
-- [Montessori Preschool Costs Less AND Works Better — National Study Proves It (2026)](/en/blog/montessori-national-study-2026-results-en)
+- [Montessori Preschool Costs Less AND Works Better — What the National Study Found](/en/blog/montessori-national-study-2026-results-en)
 
 You don't need to ban every screen or win every argument tonight. You just need to change what the environment makes easiest.

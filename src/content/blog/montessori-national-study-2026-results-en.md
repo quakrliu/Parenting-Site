@@ -1,5 +1,5 @@
 ---
-title: "Montessori Preschool Costs Less AND Works Better — National Study Proves It (2026)"
+title: "Montessori Preschool Costs Less AND Works Better — What the National Study Found"
 description: "The first national randomized controlled trial of public Montessori preschool is in: children scored higher in reading, executive function, memory, and social understanding — while costing $13,000 less per child. Here's what the data actually says."
 pubDate: "2026-04-16"
 tags: ["montessori", "preschool", "child development", "education research", "montessori vs traditional"]

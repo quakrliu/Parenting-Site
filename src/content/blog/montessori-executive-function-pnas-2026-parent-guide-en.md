@@ -1,5 +1,5 @@
 ---
-title: "Montessori vs Traditional Preschool: What the 2026 PNAS Study Reveals About Executive Function"
+title: "Montessori vs Traditional Preschool: What the PNAS Study Reveals About Executive Function"
 description: "A 588-child randomized controlled trial found Montessori kids outperform peers in executive function at kindergarten — and the advantage grows over time. Here's what every parent needs to know before choosing a preschool."
 pubDate: "2026-04-25"
 tags: ["montessori", "executive function", "preschool", "child development", "education research"]

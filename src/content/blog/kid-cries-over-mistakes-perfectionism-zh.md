@@ -119,4 +119,4 @@ draft: false
 - [六點半才肯打開作業本：孩子功課拖到快抓狂，工程師爸爸的除錯筆記](/zh/blog/kids-homework-procrastination-zh)
 - [孩子一點小事就崩潰、動不動就大哭：挫折耐受度是可以練的](/zh/blog/toddler-low-frustration-tolerance-zh)
 - [孩子說謊不是我弄的！3 個正確第一反應讓他以後主動說真話](/zh/blog/why-toddler-lies-zh)
-- [蒙特梭利幼兒園真的比較好嗎？2026 PNAS 研究揭密執行功能的關鍵](/zh/blog/montessori-executive-function-pnas-2026-parent-guide-zh)
+- [蒙特梭利幼兒園真的比較好嗎？PNAS 研究揭密執行功能的關鍵](/zh/blog/montessori-executive-function-pnas-2026-parent-guide-zh)

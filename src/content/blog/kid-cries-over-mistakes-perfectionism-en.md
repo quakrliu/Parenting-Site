@@ -119,4 +119,4 @@ Want a simple place to jot down what actually helps when your kid is having a ha
 - [Toddler Low Frustration Tolerance: Why Small Things Cause Big Meltdowns](/en/blog/toddler-low-frustration-tolerance-meltdowns-en)
 - [Why Your Toddler Lies (And Why It's Actually a Sign of a Smart Brain)](/en/blog/why-toddler-lies-en)
 - [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)
-- [Montessori vs Traditional Preschool: What the 2026 PNAS Study Reveals About Executive Function](/en/blog/montessori-executive-function-pnas-2026-parent-guide-en)
+- [Montessori vs Traditional Preschool: What the PNAS Study Reveals About Executive Function](/en/blog/montessori-executive-function-pnas-2026-parent-guide-en)
