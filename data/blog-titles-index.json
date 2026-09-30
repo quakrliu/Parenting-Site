@@ -1,13 +1,53 @@
 {
-  "generated": "2026-09-28T03:18:45.181Z",
+  "generated": "2026-09-30T02:18:29.006Z",
   "counts": {
-    "total": 361,
-    "en": 176,
-    "zh": 185,
+    "total": 363,
+    "en": 177,
+    "zh": 186,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "preschooler-says-i-cant-gives-up-easily-zh",
+      "lang": "zh-TW",
+      "title": "「我不會啦，你幫我！」孩子還沒試就放棄，爸媽可以怎麼接",
+      "description": "四歲寶貝拉鍊卡住，第一句話就是「我不會」。拆解這句話背後常見的三種心情、蒙特梭利的任務拆解法，以及六句不代勞、又能養出「我可以想辦法」的話。",
+      "tags": [
+        "自信",
+        "抗挫力",
+        "蒙特梭利",
+        "正向教養",
+        "學齡前"
+      ],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "2026-09-30",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/preschooler-says-i-cant-gives-up-easily-zh"
+    },
+    {
+      "slug": "preschooler-says-i-cant-gives-up-easily-en",
+      "lang": "en",
+      "title": "'I Can't Do It! You Do It!' What to Do When Your Preschooler Gives Up Before Trying",
+      "description": "Your four-year-old drops the shoe and announces 'I can't.' Here is what's usually underneath it, a Montessori way to break a task into steps, and six exact phrases that build 'I can figure this out' without doing it for them.",
+      "tags": [
+        "confidence",
+        "resilience",
+        "montessori",
+        "positive parenting",
+        "preschool"
+      ],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "2026-09-30",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/preschooler-says-i-cant-gives-up-easily-en"
+    },
     {
       "slug": "shame-trap-blame-phrases-rewrite-zh",
       "lang": "zh-TW",
