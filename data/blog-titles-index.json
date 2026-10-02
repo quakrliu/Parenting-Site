@@ -1,13 +1,53 @@
 {
-  "generated": "2026-09-30T02:18:29.006Z",
+  "generated": "2026-10-02T02:19:15.929Z",
   "counts": {
-    "total": 363,
-    "en": 177,
-    "zh": 186,
+    "total": 365,
+    "en": 178,
+    "zh": 187,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "tween-best-friend-got-new-best-friend-zh",
+      "lang": "zh-TW",
+      "title": "「她現在都跟別人好了」：小五孩子的好朋友交了新好朋友，爸媽第一晚該說什麼",
+      "description": "放學回家悶悶的，一句「沒事」就關上房門。九到十二歲的孩子為什麼被好朋友疏遠會這麼痛、第一晚可以說什麼、哪些話先不要說，以及用蒙特梭利的方式幫孩子把朋友圈慢慢撐大。",
+      "tags": [
+        "交友",
+        "國小高年級",
+        "同儕關係",
+        "正向教養",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "tween"
+      ],
+      "pubDate": "2026-10-02",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/tween-best-friend-got-new-best-friend-zh"
+    },
+    {
+      "slug": "tween-best-friend-got-new-best-friend-en",
+      "lang": "en",
+      "title": "Your Tween's Best Friend Just Found a New Best Friend: What to Say, What to Skip",
+      "description": "Your 10-year-old comes home quiet because her best friend sat with someone else at lunch. Why this stings so much at ages 9 to 12, what to say that night, what to avoid, and a Montessori-style way to build a wider circle of friends.",
+      "tags": [
+        "friendship",
+        "tweens",
+        "social skills",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "tween"
+      ],
+      "pubDate": "2026-10-02",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/tween-best-friend-got-new-best-friend-en"
+    },
     {
       "slug": "preschooler-says-i-cant-gives-up-easily-zh",
       "lang": "zh-TW",
