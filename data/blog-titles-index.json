@@ -1,13 +1,57 @@
 {
-  "generated": "2026-10-02T02:19:15.929Z",
+  "generated": "2026-10-04T02:19:02.392Z",
   "counts": {
-    "total": 365,
-    "en": 178,
-    "zh": 187,
+    "total": 367,
+    "en": 179,
+    "zh": 188,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "game-time-up-one-more-minute-school-age-zh",
+      "lang": "zh-TW",
+      "title": "「再一下下就好！」小三小四的孩子玩遊戲停不下來，時間到了怎麼收",
+      "description": "計時器響了，手把還握在孩子手上，接下來五分鐘一定吵起來。八到十二歲孩子為什麼很難停手、現場怎麼說、四步驟交接法，以及怎麼讓孩子一起訂規則。",
+      "tags": [
+        "螢幕時間",
+        "遊戲",
+        "國小",
+        "親子溝通",
+        "正向教養",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-10-04",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/game-time-up-one-more-minute-school-age-zh"
+    },
+    {
+      "slug": "game-time-up-one-more-minute-school-age-en",
+      "lang": "en",
+      "title": "\\\"Just One More Minute!\\\" What to Do When Your 10-Year-Old Won't Stop the Game",
+      "description": "The timer goes off, the controller stays in their hands, and the next five minutes go sideways. A practical plan for ages 8 to 12: why games are hard to stop, a four-step handoff, and how to set rules your child helps write.",
+      "tags": [
+        "screen time",
+        "gaming",
+        "school-age",
+        "tweens",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-10-04",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/game-time-up-one-more-minute-school-age-en"
+    },
     {
       "slug": "tween-best-friend-got-new-best-friend-zh",
       "lang": "zh-TW",
