@@ -314,6 +314,7 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 
 探索更多正向教養系列文章：
 
+- [「同學都去，只有我不能去！」國中孩子被同儕拉著走，爸媽怎麼回、怎麼教孩子拒絕](/zh/blog/teen-peer-pressure-everyone-is-going-zh)
 - [羞辱陷阱：10 句最傷孩子的話，正向教養教你怎麼換句話說](/zh/blog/shame-trap-blame-phrases-rewrite-zh)
 - [孩子從什麼都跟你說到只回『還好』？她不是不理你，是在自我保護](/zh/blog/child-withdrawal-reconnection-conversation-zh)
 - [孩子在學校乖到不行，一放學上車就大哭崩潰？原來這是「壓抑後反彈」不是耍脾氣](/zh/blog/after-school-restraint-collapse-first-grade-zh)

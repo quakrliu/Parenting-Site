@@ -1,13 +1,55 @@
 {
-  "generated": "2026-10-04T02:19:02.392Z",
+  "generated": "2026-10-06T02:19:44.343Z",
   "counts": {
-    "total": 367,
-    "en": 179,
-    "zh": 188,
+    "total": 369,
+    "en": 180,
+    "zh": 189,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "teen-peer-pressure-everyone-is-going-zh",
+      "lang": "zh-TW",
+      "title": "「同學都去，只有我不能去！」國中孩子被同儕拉著走，爸媽怎麼回、怎麼教孩子拒絕",
+      "description": "週五晚上，群組裡約好去同學家，孩子站在門口說大家都去。給 12 到 15 歲爸媽的實用指南：孩子為什麼這麼在意朋友、怎麼拒絕不吵架、怎麼教孩子對朋友說不。",
+      "tags": [
+        "同儕壓力",
+        "青少年",
+        "國中",
+        "正向教養",
+        "蒙特梭利",
+        "親子溝通"
+      ],
+      "ageGroup": [
+        "teen"
+      ],
+      "pubDate": "2026-10-06",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/teen-peer-pressure-everyone-is-going-zh"
+    },
+    {
+      "slug": "teen-peer-pressure-everyone-is-going-en",
+      "lang": "en",
+      "title": "\\\"Everyone's Going! You Never Let Me Do Anything!\\\" What to Say When Your 14-Year-Old Pushes Back",
+      "description": "Friday night, a party you know nothing about, and a teenager in the doorway saying everyone's going. A practical guide for ages 12 to 15: why peers matter so much, how to say no without a fight, and how to help your teen say no to friends.",
+      "tags": [
+        "peer pressure",
+        "teens",
+        "positive parenting",
+        "montessori",
+        "social skills",
+        "parent-teen communication"
+      ],
+      "ageGroup": [
+        "teen"
+      ],
+      "pubDate": "2026-10-06",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/teen-peer-pressure-everyone-is-going-en"
+    },
     {
       "slug": "game-time-up-one-more-minute-school-age-zh",
       "lang": "zh-TW",
