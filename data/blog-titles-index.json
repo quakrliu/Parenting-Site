@@ -1,13 +1,61 @@
 {
-  "generated": "2026-10-06T02:19:44.343Z",
+  "generated": "2026-10-08T02:18:39.650Z",
   "counts": {
-    "total": 369,
-    "en": 180,
-    "zh": 189,
+    "total": 371,
+    "en": 181,
+    "zh": 190,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "exam-night-perfectionist-tween-teen-zh",
+      "lang": "zh-TW",
+      "title": "「我一定會考砸！」段考前一晚，愛哭的完美主義孩子怎麼接：給 10 到 15 歲爸媽的陪考指南",
+      "description": "週日晚上九點四十，明天要段考，成績一向不錯的孩子卻抄筆記抄到哭。給 10 到 15 歲爸媽：當下該說什麼、哪些話先不要說、怎麼在家把「寫錯」變成不可怕的事。",
+      "tags": [
+        "完美主義",
+        "考試焦慮",
+        "段考",
+        "國小高年級",
+        "國中",
+        "正向教養",
+        "蒙特梭利",
+        "親子溝通"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-10-08",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/exam-night-perfectionist-tween-teen-zh"
+    },
+    {
+      "slug": "exam-night-perfectionist-tween-teen-en",
+      "lang": "en",
+      "title": "\\\"I'm Going to Fail!\\\" When Your Perfectionist 11-to-14-Year-Old Melts Down the Night Before a Test",
+      "description": "It's 9:40 on Sunday night and your straight-A kid is re-copying notes and crying. A practical guide for parents of 10 to 15 year olds: what to say, what to skip, and how to build a home where mistakes are cheap.",
+      "tags": [
+        "perfectionism",
+        "test anxiety",
+        "tweens",
+        "teens",
+        "growth mindset",
+        "positive parenting",
+        "montessori",
+        "parent-child communication"
+      ],
+      "ageGroup": [
+        "school-age",
+        "teen"
+      ],
+      "pubDate": "2026-10-08",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/exam-night-perfectionist-tween-teen-en"
+    },
     {
       "slug": "teen-peer-pressure-everyone-is-going-zh",
       "lang": "zh-TW",
