@@ -80,13 +80,17 @@ if (postLang === 'zh') {
 }
 
 const readingTimeLabel = postLang === 'zh'
-  ? `阅读時間：${readingTime} 分鐘`
+  ? `閱讀時間：${readingTime} 分鐘`
   : `${readingTime} min read`;
 
-const ctaMsg = postLang === 'zh'
-  ? '用 BloomPath 追蹤寶貝的成長里程碑'
-  : "Track your child's development with BloomPath";
-const ctaBtn = postLang === 'zh' ? '免費下載' : 'Download free';
+// School-choice posts use the mid-article slot for the checklist instead of the app download
+const ctaMsg = isSchoolChoicePost
+  ? '要去參觀學校？先拿免費選校清單：比較表＋參觀必問 20 題'
+  : postLang === 'zh'
+    ? '用 BloomPath 追蹤寶貝的成長里程碑'
+    : "Track your child's development with BloomPath";
+const ctaBtn = isSchoolChoicePost ? '免費取得' : postLang === 'zh' ? '免費下載' : 'Download free';
+const midCtaHref = isSchoolChoicePost ? schoolChecklistUrl : appStoreUrl;
 const tocLabel = postLang === 'zh' ? '目錄' : 'Table of Contents';
 const tocPageLabel = postLang === 'zh' ? '目錄' : 'On this page';
 
@@ -139,7 +143,7 @@ const { Content } = await (async () => {
           </header>
 
           {isSchoolChoicePost && (
-            <a href={schoolChecklistUrl} class="school-checklist-cta">
+            <a href={schoolChecklistUrl} class="school-checklist-cta" data-lm-placement="blog-top-card">
               <span class="school-checklist-cta__icon" aria-hidden="true">📋</span>
               <span class="school-checklist-cta__text">
                 <strong>要去參觀學校？先拿這份免費清單</strong>
@@ -200,6 +204,12 @@ const { Content } = await (async () => {
         <div class="toc-sticky">
           <p class="toc-heading">{tocPageLabel}</p>
           <nav id="toc-list-desktop"></nav>
+          {isSchoolChoicePost && (
+            <a href={schoolChecklistUrl} class="toc-lead-magnet" data-lm-placement="blog-sidebar">
+              <strong>📋 免費選校清單</strong>
+              <span>比較表＋參觀必問 20 題，可列印</span>
+            </a>
+          )}
         </div>
       </aside>
 
@@ -207,7 +217,7 @@ const { Content } = await (async () => {
   </main>
 
   <!-- Mid-article CTA data (read by JS) -->
-  <div id="mid-cta-data" data-msg={ctaMsg} data-btn={ctaBtn} data-href={appStoreUrl} style="display:none"></div>
+  <div id="mid-cta-data" data-msg={ctaMsg} data-btn={ctaBtn} data-href={midCtaHref} style="display:none"></div>
 
   <Footer lang={lang} />
 
@@ -295,6 +305,21 @@ const { Content } = await (async () => {
   .school-checklist-cta__text strong { font-size: 1rem; font-weight: 700; }
   .school-checklist-cta__text span { font-size: 0.875rem; color: var(--color-text-light); }
   .school-checklist-cta__arrow { font-size: 1.25rem; font-weight: 700; color: var(--color-forest); flex-shrink: 0; }
+  .toc-lead-magnet {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin-top: 1.25rem;
+    padding: 0.875rem 1rem;
+    background: var(--color-cream);
+    border: 1px solid var(--color-forest-light);
+    border-radius: 8px;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  .toc-lead-magnet:hover { background: var(--color-cream-dark); }
+  .toc-lead-magnet strong { font-size: 0.9375rem; font-weight: 700; color: var(--color-forest); }
+  .toc-lead-magnet span { font-size: 0.8125rem; color: var(--color-text-light); }
 
   /* ── Post content ── */
   .post-content {
@@ -638,14 +663,16 @@ const { Content } = await (async () => {
       const targetH2 = h2s[midIndex];
       const cta = document.createElement('div');
       cta.className = 'mid-article-cta';
+      const isExternal = /^https?:/.test(href);
       cta.innerHTML =
         '<span class="mid-cta-msg">' + msg + '</span>' +
-        '<a href="' + href + '" class="mid-cta-btn" target="_blank" rel="noopener">' + btn + ' →</a>';
+        '<a href="' + href + '" class="mid-cta-btn"' +
+        (isExternal ? ' target="_blank" rel="noopener"' : ' data-lm-placement="blog-mid-article"') + '>' + btn + ' →</a>';
       if (targetH2.parentNode) {
         targetH2.parentNode.insertBefore(cta, targetH2);
       }
       const ctaLink = cta.querySelector('.mid-cta-btn');
-      if (ctaLink) {
+      if (ctaLink && isExternal) {
         ctaLink.addEventListener('click', function () {
           if (typeof window.gtag === 'function') {
             window.gtag('event', 'app_store_click', { placement: 'blog-mid-article' });
@@ -653,6 +680,15 @@ const { Content } = await (async () => {
         });
       }
     }
+
+    // 7. Track clicks on lead-magnet links (school checklist)
+    document.querySelectorAll('a[data-lm-placement]').forEach(function (a) {
+      a.addEventListener('click', function () {
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'lead_magnet_click', { magnet: 'school-checklist', placement: a.getAttribute('data-lm-placement') });
+        }
+      });
+    });
   }
 
   if (document.readyState === 'loading') {

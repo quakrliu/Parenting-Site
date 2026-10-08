@@ -90,9 +90,8 @@ const altHreflang = altLang === 'zh' ? 'zh-TW' : 'en';
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&display=swap" />
     </noscript>
 
-    <!-- Google Analytics 4 -->
-    {ga4Id && <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`}></script>}
-    {ga4Id && <script set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${ga4Id}');`}></script>}
+    <!-- Google Analytics 4: skipped for automated browsers (webdriver, the 1280x1200 headless-Chrome bot fleet) and non-production hosts such as *.pages.dev -->
+    {ga4Id && <script set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}(function(){var s=window.screen||{};if(navigator.webdriver||(s.width===1280&&s.height===1200)||!/(^|\\.)bloom-path\\.app$/.test(location.hostname))return;var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id=${ga4Id}';document.head.appendChild(g);gtag('js',new Date());gtag('config','${ga4Id}');})();`}></script>}
 
     <!-- PostHog Analytics -->
     <script>
