@@ -1,13 +1,59 @@
 {
-  "generated": "2026-10-08T05:02:54.632Z",
+  "generated": "2026-10-10T02:18:54.605Z",
   "counts": {
-    "total": 371,
-    "en": 181,
-    "zh": 190,
+    "total": 373,
+    "en": 182,
+    "zh": 191,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-swear-word-at-dinner-ages-4-9-zh",
+      "lang": "zh-TW",
+      "title": "孩子在餐桌上突然飆出髒話？接下來這 10 秒怎麼接（適合 4 到 9 歲）",
+      "description": "週末吃飯，阿嬤也在，六歲的孩子手一滑掉了筷子，嘴裡蹦出一句你從沒教過的字。給 4 到 9 歲爸媽：當下怎麼回、為什麼反應越大越糟、平常可以教什麼替代的話。",
+      "tags": [
+        "髒話",
+        "罵髒話",
+        "學齡前",
+        "國小低年級",
+        "正向教養",
+        "蒙特梭利",
+        "親子溝通"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-10-10",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-swear-word-at-dinner-ages-4-9-zh"
+    },
+    {
+      "slug": "kid-swear-word-at-dinner-ages-4-9-en",
+      "lang": "en",
+      "title": "Your Kid Just Said a Swear Word at Dinner. Here's What to Do in the Next 10 Seconds (Ages 4 to 9)",
+      "description": "Your 6-year-old drops a word you've never heard them use, in front of Grandma. A practical guide for parents of 4 to 9 year olds: what to do in the moment, why a big reaction backfires, and what to teach instead.",
+      "tags": [
+        "swearing",
+        "bad words",
+        "preschoolers",
+        "early elementary",
+        "positive parenting",
+        "montessori",
+        "parent-child communication"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-10-10",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/kid-swear-word-at-dinner-ages-4-9-en"
+    },
     {
       "slug": "exam-night-perfectionist-tween-teen-zh",
       "lang": "zh-TW",
