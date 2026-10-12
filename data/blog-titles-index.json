@@ -1,13 +1,57 @@
 {
-  "generated": "2026-10-10T02:18:54.605Z",
+  "generated": "2026-10-12T02:19:22.610Z",
   "counts": {
-    "total": 373,
-    "en": 182,
-    "zh": 191,
+    "total": 375,
+    "en": 183,
+    "zh": 192,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-calls-self-stupid-after-mistake-ages-6-10-zh",
+      "lang": "zh-TW",
+      "title": "孩子寫錯一題就說「我好笨」？先別急著說「你不笨」，這樣接話才有用（適合 6 到 10 歲）",
+      "description": "晚上八點，數學習作擦到紙都破了，二年級的孩子丟下鉛筆說「我好笨，我什麼都不會」。給 6 到 10 歲爸媽：當下第一分鐘怎麼接、哪些好意的話反而踩雷，以及用蒙特梭利與正向教養，讓孩子把錯誤當成線索。",
+      "tags": [
+        "自信",
+        "自我批評",
+        "成長型思維",
+        "寫功課",
+        "國小低年級",
+        "正向教養",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-10-12",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-calls-self-stupid-after-mistake-ages-6-10-zh"
+    },
+    {
+      "slug": "kid-calls-self-stupid-after-mistake-ages-6-10-en",
+      "lang": "en",
+      "title": "Your Child Calls Themselves 'Stupid' Over One Wrong Answer. Here's What to Say (Ages 6 to 10)",
+      "description": "It's 8 p.m., the math worksheet has an eraser hole in it, and your 8-year-old just said 'I'm so stupid.' What to say in the moment, what to skip, and how Montessori and positive parenting help a child treat mistakes as information.",
+      "tags": [
+        "self-esteem",
+        "negative self-talk",
+        "growth mindset",
+        "homework",
+        "early elementary",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-10-12",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kid-calls-self-stupid-after-mistake-ages-6-10-en"
+    },
     {
       "slug": "kid-swear-word-at-dinner-ages-4-9-zh",
       "lang": "zh-TW",
