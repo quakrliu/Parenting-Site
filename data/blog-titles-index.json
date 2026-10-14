@@ -1,13 +1,59 @@
 {
-  "generated": "2026-10-12T02:19:22.610Z",
+  "generated": "2026-10-14T02:18:42.864Z",
   "counts": {
-    "total": 375,
-    "en": 183,
-    "zh": 192,
+    "total": 377,
+    "en": 184,
+    "zh": 193,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "tween-expects-you-to-do-everything-life-skills-ages-9-12-zh",
+      "lang": "zh-TW",
+      "title": "「媽，幫我拿啦！」小四小五的孩子什麼都等大人動手，怎麼把自理能力找回來（適合 9 到 12 歲）",
+      "description": "週六中午，孩子躺在沙發上一會兒要你切水果、一會兒要你找襪子。給 9 到 12 歲爸媽：當下怎麼接、孩子為什麼變成這樣，以及用蒙特梭利實踐生活與正向教養，一步步把生活技能還給孩子。",
+      "tags": [
+        "自理能力",
+        "生活技能",
+        "9-12歲",
+        "小學高年級",
+        "蒙特梭利",
+        "正向教養",
+        "家事"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-10-14",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/tween-expects-you-to-do-everything-life-skills-ages-9-12-zh"
+    },
+    {
+      "slug": "tween-expects-you-to-do-everything-life-skills-ages-9-12-en",
+      "lang": "en",
+      "title": "\\\"Can You Just Make It For Me?\\\" When Your 10-Year-Old Waits to Be Served (Ages 9–12)",
+      "description": "Saturday noon, your fourth-grader is on the couch asking you to cut an apple, find a sock, and pour the cereal. What to say in the moment, why it happens, and how Montessori practical life and positive parenting rebuild real independence in 9 to 12 year olds.",
+      "tags": [
+        "independence",
+        "life skills",
+        "ages 9-12",
+        "tween",
+        "montessori",
+        "positive parenting",
+        "chores"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-10-14",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/tween-expects-you-to-do-everything-life-skills-ages-9-12-en"
+    },
     {
       "slug": "kid-calls-self-stupid-after-mistake-ages-6-10-zh",
       "lang": "zh-TW",
