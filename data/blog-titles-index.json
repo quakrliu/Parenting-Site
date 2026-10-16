@@ -1,13 +1,59 @@
 {
-  "generated": "2026-10-14T02:18:42.864Z",
+  "generated": "2026-10-16T02:19:47.871Z",
   "counts": {
-    "total": 377,
-    "en": 184,
-    "zh": 193,
+    "total": 379,
+    "en": 185,
+    "zh": 194,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "child-asks-about-death-pet-died-ages-4-9-zh",
+      "lang": "zh-TW",
+      "title": "倉鼠死掉的隔天，孩子問「爸爸媽媽你們也會死嗎？」（適合 4 到 9 歲）",
+      "description": "早上發現倉鼠不動了，晚餐桌上孩子丟出一連串大問題。給 4 到 9 歲爸媽：第一句話怎麼說、不知道怎麼答的問題怎麼接、孩子的哀傷長什麼樣子、什麼時候該找協助。",
+      "tags": [
+        "死亡",
+        "寵物過世",
+        "哀傷",
+        "大哉問",
+        "正向教養",
+        "蒙特梭利",
+        "國小低年級"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-10-16",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/child-asks-about-death-pet-died-ages-4-9-zh"
+    },
+    {
+      "slug": "child-asks-about-death-pet-died-ages-4-9-en",
+      "lang": "en",
+      "title": "Your Child's Hamster Died This Morning, and Now They Ask \\\"Will You Die Too?\\\" (Ages 4 to 9)",
+      "description": "The hamster is gone, the questions at dinner are big, and you're not sure how honest to be. A practical guide for parents of 4 to 9 year olds: what to say, what to skip, and how kids really grieve.",
+      "tags": [
+        "death",
+        "grief",
+        "pet loss",
+        "big questions",
+        "positive parenting",
+        "montessori",
+        "early elementary"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-10-16",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/child-asks-about-death-pet-died-ages-4-9-en"
+    },
     {
       "slug": "tween-expects-you-to-do-everything-life-skills-ages-9-12-zh",
       "lang": "zh-TW",
