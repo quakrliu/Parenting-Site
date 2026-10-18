@@ -1,13 +1,55 @@
 {
-  "generated": "2026-10-16T02:19:47.871Z",
+  "generated": "2026-10-18T02:18:50.598Z",
   "counts": {
-    "total": 379,
-    "en": 185,
-    "zh": 194,
+    "total": 381,
+    "en": 186,
+    "zh": 195,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-wants-to-quit-piano-lessons-zh",
+      "lang": "zh-TW",
+      "title": "「我不要學鋼琴了！」孩子吵著退出才藝班，爸媽先問這 5 句再決定（適合 7 到 12 歲）",
+      "description": "週日晚上，明天就要上課，孩子突然宣布不學了。給 7 到 12 歲爸媽：怎麼分辨只是撞牆期還是真的不適合、先問什麼、怎麼用「先完成這一期」的約定，讓孩子能退出又不養成一遇難就放棄。",
+      "tags": [
+        "才藝班",
+        "想放棄",
+        "抗挫力",
+        "正向教養",
+        "蒙特梭利",
+        "國小"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-10-18",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-wants-to-quit-piano-lessons-zh"
+    },
+    {
+      "slug": "kid-wants-to-quit-piano-lessons-en",
+      "lang": "en",
+      "title": "\\\"I Want to Quit Piano!\\\" What to Say When Your 9-Year-Old Wants Out of an Activity",
+      "description": "Sunday night, the lesson is tomorrow, and your child announces they're done. A practical guide for ages 7 to 12: how to tell a bad week from a real mismatch, what to ask first, and a way to let them quit without teaching them to give up.",
+      "tags": [
+        "quitting activities",
+        "resilience",
+        "positive parenting",
+        "montessori",
+        "school age",
+        "motivation"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-10-18",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kid-wants-to-quit-piano-lessons-en"
+    },
     {
       "slug": "child-asks-about-death-pet-died-ages-4-9-zh",
       "lang": "zh-TW",
