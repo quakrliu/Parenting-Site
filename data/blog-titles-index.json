@@ -1,13 +1,59 @@
 {
-  "generated": "2026-10-18T02:18:50.598Z",
+  "generated": "2026-10-20T02:19:11.238Z",
   "counts": {
-    "total": 381,
-    "en": 186,
-    "zh": 195,
+    "total": 383,
+    "en": 187,
+    "zh": 196,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-prefers-phone-over-seeing-friends-zh",
+      "lang": "zh-TW",
+      "title": "週末同學約出去玩，孩子卻說「我想在家滑手機」？工程師爸爸的 5 個做法（適合 9 到 15 歲）",
+      "description": "同學傳訊息約週六去打球，孩子回你「不要，好累」然後繼續滑手機。給 9 到 15 歲爸媽：怎麼分辨是正常的想放鬆、社交疲勞，還是焦慮在躲人，以及不逼迫也不放任的 5 個家庭做法。",
+      "tags": [
+        "螢幕時間",
+        "交友",
+        "社交焦慮",
+        "前青春期",
+        "青少年",
+        "正向教養",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-10-20",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-prefers-phone-over-seeing-friends-zh"
+    },
+    {
+      "slug": "kid-prefers-phone-over-seeing-friends-en",
+      "lang": "en",
+      "title": "Your Tween Says 'I'd Rather Stay Home on My Phone' When Friends Invite Them Out: 5 Things That Help (Ages 9 to 15)",
+      "description": "A friend texts about Saturday basketball and your kid answers 'nah, too tired' without looking up. For parents of 9- to 15-year-olds: how to tell recharging from social burnout from avoidance, and five ways to help without confiscating the phone or forcing the outing.",
+      "tags": [
+        "screen time",
+        "friendship",
+        "social anxiety",
+        "tweens",
+        "teens",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-10-20",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/kid-prefers-phone-over-seeing-friends-en"
+    },
     {
       "slug": "kid-wants-to-quit-piano-lessons-zh",
       "lang": "zh-TW",
