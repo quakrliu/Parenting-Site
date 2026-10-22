@@ -1,13 +1,61 @@
 {
-  "generated": "2026-10-20T02:19:11.238Z",
+  "generated": "2026-10-22T02:18:32.642Z",
   "counts": {
-    "total": 383,
-    "en": 187,
-    "zh": 196,
+    "total": 385,
+    "en": 188,
+    "zh": 197,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "friend-fight-silent-treatment-wont-say-sorry-first-zh",
+      "lang": "zh-TW",
+      "title": "「我才不要先道歉！」跟好朋友吵架冷戰一整週，孩子死都不肯先低頭，爸媽怎麼接（適合 8 到 12 歲）",
+      "description": "孩子放學回家宣布「我們絕交了」，雙方都在等對方先道歉。這篇告訴你今晚怎麼開口、為什麼逼孩子道歉會失效，以及怎麼用蒙特梭利的「生活禮儀」和正向教養，陪孩子自己踏出和好的第一步。",
+      "tags": [
+        "交友",
+        "朋友吵架",
+        "道歉",
+        "冷戰",
+        "前青春期",
+        "正向教養",
+        "蒙特梭利",
+        "生活禮儀"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-10-22",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/friend-fight-silent-treatment-wont-say-sorry-first-zh"
+    },
+    {
+      "slug": "friend-fight-silent-treatment-wont-say-sorry-first-en",
+      "lang": "en",
+      "title": "'I'm Not Saying Sorry First!' When Your 10-Year-Old's Fight With a Friend Turns Into a Week of Silence",
+      "description": "Your 10-year-old came home from school and announced the friendship is over, and nobody will say sorry first. What to say tonight, why forced apologies backfire, and how Montessori grace and courtesy plus positive parenting help a child make the first move (ages 8 to 12).",
+      "tags": [
+        "friendship",
+        "conflict",
+        "apologies",
+        "silent treatment",
+        "tweens",
+        "positive parenting",
+        "montessori",
+        "grace and courtesy"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-10-22",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/friend-fight-silent-treatment-wont-say-sorry-first-en"
+    },
     {
       "slug": "kid-prefers-phone-over-seeing-friends-zh",
       "lang": "zh-TW",
