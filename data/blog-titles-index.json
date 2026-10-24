@@ -1,13 +1,59 @@
 {
-  "generated": "2026-10-22T02:18:32.642Z",
+  "generated": "2026-10-24T02:18:18.194Z",
   "counts": {
-    "total": 385,
-    "en": 188,
-    "zh": 197,
+    "total": 387,
+    "en": 189,
+    "zh": 198,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-argues-every-no-asks-why-not-ages-4-8-zh",
+      "lang": "zh-TW",
+      "title": "「為什麼不可以？」孩子對每個「不行」都要辯到底，爸媽怎麼收（適合 4 到 8 歲）",
+      "description": "你說一句「現在不能吃」，孩子回你十分鐘的辯論。給 4 到 8 歲爸媽：孩子為什麼什麼都要講價，怎麼用蒙特梭利的「有限制的自由」和正向教養，把「不行」說得穩又不傷感情，附上可以直接用的話術。",
+      "tags": [
+        "界線",
+        "討價還價",
+        "說不",
+        "學齡前",
+        "國小低年級",
+        "正向教養",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-10-24",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-argues-every-no-asks-why-not-ages-4-8-zh"
+    },
+    {
+      "slug": "kid-argues-every-no-asks-why-not-ages-4-8-en",
+      "lang": "en",
+      "title": "'But WHY Not?' What to Do When Your 5-Year-Old Argues With Every No (Ages 4 to 8)",
+      "description": "You say no to a snack before dinner and get a ten-minute cross-examination. For parents of 4- to 8-year-olds: why kids negotiate every limit, how Montessori's freedom within limits and positive parenting keep a no calm and firm, and scripts for the next argument.",
+      "tags": [
+        "boundaries",
+        "negotiating",
+        "saying no",
+        "preschool",
+        "early elementary",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "preschool",
+        "school-age"
+      ],
+      "pubDate": "2026-10-24",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kid-argues-every-no-asks-why-not-ages-4-8-en"
+    },
     {
       "slug": "friend-fight-silent-treatment-wont-say-sorry-first-zh",
       "lang": "zh-TW",
