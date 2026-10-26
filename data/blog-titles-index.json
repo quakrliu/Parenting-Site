@@ -1,13 +1,53 @@
 {
-  "generated": "2026-10-24T02:18:18.194Z",
+  "generated": "2026-10-26T02:18:43.911Z",
   "counts": {
-    "total": 387,
-    "en": 189,
-    "zh": 198,
+    "total": 389,
+    "en": 190,
+    "zh": 199,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-insists-do-it-myself-ages-1-3-zh",
+      "lang": "zh-TW",
+      "title": "「我自己來！」你一幫忙孩子就尖叫：1 到 3 歲愛自己來的蒙特梭利做法",
+      "description": "你伸手幫忙扣個釦子，孩子立刻大哭，還把整件衣服脫掉重來。1 到 3 歲的「我自己來」為什麼這麼激烈？用蒙特梭利和正向教養的方法，讓孩子練習獨立，你也準時出門。",
+      "tags": [
+        "我自己來",
+        "幼兒獨立",
+        "蒙特梭利",
+        "正向教養",
+        "1-3歲"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-10-26",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-insists-do-it-myself-ages-1-3-zh"
+    },
+    {
+      "slug": "toddler-insists-do-it-myself-ages-1-3-en",
+      "lang": "en",
+      "title": "'I Do It Myself!' Your Toddler Screams When You Help (Ages 1–3)",
+      "description": "You reach for the shoe and your toddler wails, then takes the shoe off and starts over. Here's why the 'me do it' phase hits so hard at ages 1 to 3, and a Montessori plus positive parenting way to get out the door anyway.",
+      "tags": [
+        "toddler independence",
+        "montessori",
+        "positive parenting",
+        "toddler tantrums",
+        "ages 1-3"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-10-26",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-insists-do-it-myself-ages-1-3-en"
+    },
     {
       "slug": "kid-argues-every-no-asks-why-not-ages-4-8-zh",
       "lang": "zh-TW",
