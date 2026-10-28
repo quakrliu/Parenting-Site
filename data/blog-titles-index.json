@@ -1,13 +1,57 @@
 {
-  "generated": "2026-10-26T02:18:43.911Z",
+  "generated": "2026-10-28T02:18:59.158Z",
   "counts": {
-    "total": 389,
-    "en": 190,
-    "zh": 199,
+    "total": 391,
+    "en": 191,
+    "zh": 200,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "teen-left-out-of-group-chat-ages-11-15-zh",
+      "lang": "zh-TW",
+      "title": "同學有個群組，就是沒拉你家孩子：11 到 15 歲被排除在群組外的陪伴方式",
+      "description": "國一的孩子看到同學的群組截圖，才發現自己沒被拉進去，回房間後就不說話了。這一晚該說什麼、不該說什麼，以及怎麼用蒙特梭利和正向教養幫孩子慢慢重建歸屬感。",
+      "tags": [
+        "群組排擠",
+        "青少年友誼",
+        "被同學排擠",
+        "正向教養",
+        "蒙特梭利",
+        "11-15歲"
+      ],
+      "ageGroup": [
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-10-28",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/teen-left-out-of-group-chat-ages-11-15-zh"
+    },
+    {
+      "slug": "teen-left-out-of-group-chat-ages-11-15-en",
+      "lang": "en",
+      "title": "Your Teen Just Found Out About the Group Chat Everyone Else Is In (Ages 11 to 15)",
+      "description": "Your 12-year-old sees a screenshot of a group chat they were never added to, then goes quiet in their room. Here's what to say that night, what to skip, and how Montessori and positive parenting help them rebuild.",
+      "tags": [
+        "group chat",
+        "teen friendships",
+        "social exclusion",
+        "positive parenting",
+        "montessori",
+        "ages 11-15"
+      ],
+      "ageGroup": [
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-10-28",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/teen-left-out-of-group-chat-ages-11-15-en"
+    },
     {
       "slug": "toddler-insists-do-it-myself-ages-1-3-zh",
       "lang": "zh-TW",
