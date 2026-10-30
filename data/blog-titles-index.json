@@ -1,13 +1,58 @@
 {
-  "generated": "2026-10-28T02:18:59.158Z",
+  "generated": "2026-10-30T02:19:19.461Z",
   "counts": {
-    "total": 391,
-    "en": 191,
-    "zh": 200,
+    "total": 393,
+    "en": 192,
+    "zh": 201,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-compares-self-to-classmate-ages-6-9-zh",
+      "lang": "zh-TW",
+      "title": "「他什麼都比我強！」孩子拿自己跟同學比，覺得自己都輸，爸媽第一句話怎麼接（適合 6 到 9 歲）",
+      "description": "孩子一放下書包就說同學什麼都比他強。給 6 到 9 歲爸媽：為什麼這個年紀開始比較、第一分鐘該說什麼、不該說什麼，以及用蒙特梭利和正向教養慢慢把孩子的自信找回來。",
+      "tags": [
+        "自信心",
+        "同儕比較",
+        "抗挫力",
+        "國小低年級",
+        "自我價值",
+        "正向教養",
+        "蒙特梭利",
+        "6-9歲"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-10-30",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-compares-self-to-classmate-ages-6-9-zh"
+    },
+    {
+      "slug": "kid-compares-self-to-classmate-ages-6-9-en",
+      "lang": "en",
+      "title": "'She's Better Than Me at Everything': What to Say When Your 8-Year-Old Compares Themselves to a Classmate (Ages 6 to 9)",
+      "description": "Your child drops their backpack and announces that a classmate is better at everything. For parents of 6- to 9-year-olds: why peer comparison starts now, what to say in the first minute, and how Montessori and positive parenting rebuild confidence.",
+      "tags": [
+        "confidence",
+        "peer comparison",
+        "self-esteem",
+        "resilience",
+        "early elementary",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-10-30",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kid-compares-self-to-classmate-ages-6-9-en"
+    },
     {
       "slug": "teen-left-out-of-group-chat-ages-11-15-zh",
       "lang": "zh-TW",
