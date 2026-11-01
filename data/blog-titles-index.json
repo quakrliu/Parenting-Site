@@ -1,13 +1,59 @@
 {
-  "generated": "2026-10-30T02:19:19.461Z",
+  "generated": "2026-11-01T02:17:59.532Z",
   "counts": {
-    "total": 393,
-    "en": 192,
-    "zh": 201,
+    "total": 395,
+    "en": 193,
+    "zh": 202,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "preschooler-nobody-played-with-me-ages-3-6-zh",
+      "lang": "zh-TW",
+      "title": "「今天都沒有人跟我玩」：孩子放學回家說被排擠，爸媽第一句話怎麼接（適合 3 到 6 歲）",
+      "description": "孩子放學後說今天沒有人跟他玩。給 3 到 6 歲爸媽：這個年紀的玩伴關係為什麼這麼不穩定、接孩子時第一句話怎麼說，以及用蒙特梭利和正向教養，在家練習「怎麼加入遊戲」。",
+      "tags": [
+        "幼兒園交友",
+        "被排擠",
+        "社交能力",
+        "同儕互動",
+        "情緒教養",
+        "正向教養",
+        "蒙特梭利",
+        "3-6歲"
+      ],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "2026-11-01",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/preschooler-nobody-played-with-me-ages-3-6-zh"
+    },
+    {
+      "slug": "preschooler-nobody-played-with-me-ages-3-6-en",
+      "lang": "en",
+      "title": "'Nobody Would Play With Me Today': What to Say When Your 4-Year-Old Comes Home Left Out (Ages 3 to 6)",
+      "description": "Your preschooler says nobody played with them at school. For parents of 3- to 6-year-olds: what's normal at this age, what to say at pickup, and how Montessori and positive parenting help a child practice joining play.",
+      "tags": [
+        "preschool friendships",
+        "left out",
+        "social skills",
+        "peer play",
+        "emotional coaching",
+        "positive parenting",
+        "montessori",
+        "ages 3-6"
+      ],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "2026-11-01",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/preschooler-nobody-played-with-me-ages-3-6-en"
+    },
     {
       "slug": "kid-compares-self-to-classmate-ages-6-9-zh",
       "lang": "zh-TW",
