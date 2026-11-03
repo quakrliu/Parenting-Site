@@ -1,13 +1,61 @@
 {
-  "generated": "2026-11-01T02:17:59.532Z",
+  "generated": "2026-11-03T02:18:40.982Z",
   "counts": {
-    "total": 395,
-    "en": 193,
-    "zh": 202,
+    "total": 397,
+    "en": 194,
+    "zh": 203,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "holiday-relatives-grades-height-questions-ages-6-12-zh",
+      "lang": "zh-TW",
+      "title": "「這次考第幾名？怎麼變胖了？」年底親戚聚會的成績與身材提問，進門前爸媽先做這三件事（適合 6 到 12 歲）",
+      "description": "年底回阿公阿嬤家或親戚聚餐，孩子常被問成績、身高、體重。給 6 到 12 歲孩子的爸媽：進門前怎麼跟孩子演練、怎麼請親戚換個問法，現場又怎麼溫和接住。",
+      "tags": [
+        "親戚聚會",
+        "年節",
+        "成績壓力",
+        "身材評論",
+        "界線",
+        "成長心態",
+        "正向教養",
+        "6-12歲"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-11-03",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/holiday-relatives-grades-height-questions-ages-6-12-zh"
+    },
+    {
+      "slug": "holiday-relatives-grades-height-questions-ages-6-12-en",
+      "lang": "en",
+      "title": "'So What Grade Did You Get?' Holiday Relatives, Report-Card Questions, and What to Say Before Your Kid Walks In (Ages 6 to 12)",
+      "description": "Holiday gatherings come with questions about grades, height, and weight. For parents of 6- to 12-year-olds: how to prep your child, give relatives a script, and step in with a calm, kind interruption.",
+      "tags": [
+        "holiday gatherings",
+        "relatives",
+        "grades pressure",
+        "body comments",
+        "boundaries",
+        "growth mindset",
+        "positive parenting",
+        "ages 6-12"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-11-03",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/holiday-relatives-grades-height-questions-ages-6-12-en"
+    },
     {
       "slug": "preschooler-nobody-played-with-me-ages-3-6-zh",
       "lang": "zh-TW",
