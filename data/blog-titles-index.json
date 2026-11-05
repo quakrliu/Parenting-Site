@@ -1,13 +1,58 @@
 {
-  "generated": "2026-11-03T02:18:40.982Z",
+  "generated": "2026-11-05T02:19:06.719Z",
   "counts": {
-    "total": 397,
-    "en": 194,
-    "zh": 203,
+    "total": 399,
+    "en": 195,
+    "zh": 204,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "tween-says-youre-so-mean-when-you-hold-a-limit-ages-9-13-zh",
+      "lang": "zh-TW",
+      "title": "「你是全世界最壞的爸媽！」說不之後孩子甩門大吼，溫暖又堅定怎麼做（適合 9 到 13 歲）",
+      "description": "你說了「不行」，孩子吼你最壞、用力甩上房門。給 9 到 13 歲孩子的爸媽：當下一句話怎麼接、事後怎麼和好，還有蒙特梭利「有界線的自由」的實際做法。",
+      "tags": [
+        "溫暖堅定",
+        "設限",
+        "頂嘴",
+        "正向教養",
+        "蒙特梭利",
+        "親子關係",
+        "9-13歲"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-11-05",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/tween-says-youre-so-mean-when-you-hold-a-limit-ages-9-13-zh"
+    },
+    {
+      "slug": "tween-says-youre-so-mean-when-you-hold-a-limit-ages-9-13-en",
+      "lang": "en",
+      "title": "'You're the Meanest Parent Ever!' What to Do When Your 10-Year-Old Slams the Door After You Say No (Ages 9 to 13)",
+      "description": "You said no to a sleepover, a game, or a late bedtime, and now your tween is yelling that you're mean. Here's how to stay warm and firm at the same time, with word-for-word scripts, a Montessori lens, and what to do after the door slams.",
+      "tags": [
+        "warm and firm parenting",
+        "tween discipline",
+        "setting limits",
+        "positive parenting",
+        "montessori",
+        "ages 9-13"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-11-05",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/tween-says-youre-so-mean-when-you-hold-a-limit-ages-9-13-en"
+    },
     {
       "slug": "holiday-relatives-grades-height-questions-ages-6-12-zh",
       "lang": "zh-TW",
