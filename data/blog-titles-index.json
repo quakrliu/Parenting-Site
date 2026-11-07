@@ -1,13 +1,60 @@
 {
-  "generated": "2026-11-05T02:19:06.719Z",
+  "generated": "2026-11-07T02:19:23.244Z",
   "counts": {
-    "total": 399,
-    "en": 195,
-    "zh": 204,
+    "total": 401,
+    "en": 196,
+    "zh": 205,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "teen-awake-midnight-sleeps-till-noon-ages-12-15-zh",
+      "lang": "zh-TW",
+      "title": "國中孩子半夜不睡、週末睡到中午？先別沒收手機，爸媽可以這樣談（適合 12 到 15 歲）",
+      "description": "週四晚上十二點房門縫還透著光，週六中午房門還關著。為什麼青春期的生理時鐘會往後移、手機該怎麼和孩子一起談出共識，附上可以直接說的話與一週調整計畫。",
+      "tags": [
+        "青少年睡眠",
+        "國中生熬夜",
+        "手機睡前",
+        "週末賴床",
+        "螢幕時間",
+        "正向教養",
+        "蒙特梭利",
+        "12-15歲"
+      ],
+      "ageGroup": [
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-11-07",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/teen-awake-midnight-sleeps-till-noon-ages-12-15-zh"
+    },
+    {
+      "slug": "teen-awake-midnight-sleeps-till-noon-ages-12-15-en",
+      "lang": "en",
+      "title": "Awake at Midnight, Asleep Until Noon: What to Do When Your 13-Year-Old's Sleep Schedule Falls Apart (Ages 12 to 15)",
+      "description": "Your teen's light is still on at midnight on Thursday and the bedroom door stays shut until noon on Saturday. Here's why the teenage body clock runs late, how to set a phone-and-bedtime plan together, and the exact words to use.",
+      "tags": [
+        "teen sleep",
+        "teen phone at night",
+        "weekend sleep-ins",
+        "screen time",
+        "positive parenting",
+        "montessori",
+        "ages 12-15"
+      ],
+      "ageGroup": [
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-11-07",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/teen-awake-midnight-sleeps-till-noon-ages-12-15-en"
+    },
     {
       "slug": "tween-says-youre-so-mean-when-you-hold-a-limit-ages-9-13-zh",
       "lang": "zh-TW",

@@ -346,6 +346,7 @@ Explore more in our Screen Time series:
 - [No Phone Summer: The One Family Rule That Actually Works](/en/blog/no-phone-summer-family-rule-en)
 - [Is AI Doing My Kid's Thinking For Her? What "Cognitive Debt" Research Actually Says](/en/blog/ai-cognitive-debt-kids-en)
 - [iPad Before Bed: The Screen Time Rule That Can End Nightly Meltdowns](/en/blog/screen-time-sleep-bedtime-en)
+- [Awake at Midnight, Asleep Until Noon: What to Do When Your 13-Year-Old's Sleep Schedule Falls Apart](/en/blog/teen-awake-midnight-sleeps-till-noon-ages-12-15-en)
 - [When Should My Kid Get a Phone? A Readiness Framework That Actually Helps](/en/blog/first-phone-decision-framework-en)
 - [Screen Time and Child Anxiety: What a 50,000-Kid Study Actually Found](/en/blog/screen-time-anxiety-depression-study-2026-en)
 - [The 15-Minute Trick That Fixes a Summer-Wrecked Bedtime Before School Starts](/en/blog/back-to-school-sleep-screen-reset-en)
