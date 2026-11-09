@@ -368,6 +368,7 @@ Explore more in our Montessori at Home series:
 - [Montessori Was Doing SEL Before It Had a Name](/en/blog/montessori-sel-casel-skills-en)
 - [Lovevery 4-Year-Old Play Kits: An Honest Review](/en/blog/lovevery-4-year-old-play-kits-review-en)
 - [The Analog Childhood Movement: Why Montessori Parents Are Already Ahead](/en/blog/analog-childhood-montessori-screen-free-en)
+- [A Screen-Free Kitchen Hour for Ages 2 to 4](/en/blog/kitchen-hour-toddler-wants-tablet-ages-2-4-en)
 - [Is Gentle Parenting Dead? What Montessori Says About Boundaries](/en/blog/en-gentle-parenting-montessori-boundaries)
 - [Should Kids Get Paid for Chores? What Montessori Actually Says About Contribution vs. Cash](/en/blog/should-kids-be-paid-for-chores-montessori-en)
 - [When Should a Toddler Move to Their Own Room? A Gentle, Step-by-Step Approach](/en/blog/toddler-own-room-transition-en)

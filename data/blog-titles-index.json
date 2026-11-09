@@ -1,13 +1,59 @@
 {
-  "generated": "2026-11-07T02:19:23.244Z",
+  "generated": "2026-11-09T02:19:00.893Z",
   "counts": {
-    "total": 401,
-    "en": 196,
-    "zh": 205,
+    "total": 403,
+    "en": 197,
+    "zh": 206,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kitchen-hour-toddler-wants-tablet-ages-2-4-zh",
+      "lang": "zh-TW",
+      "title": "傍晚五點要煮飯，兩歲寶貝黏著你的腿、吵著要看平板？把廚房變成他的專屬工作區（適合 2 到 4 歲）",
+      "description": "洋蔥快炒焦了，寶貝還掛在你腿上喊抱抱，平板就在沙發上。這篇教你用家裡現有的東西，把煮飯前那一小時變成孩子自己的工作時間，附上可以直接說的話。",
+      "tags": [
+        "幼兒螢幕時間",
+        "蒙特梭利",
+        "實踐生活",
+        "煮晚餐",
+        "傍晚崩潰",
+        "正向教養",
+        "2-4歲"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-11-09",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kitchen-hour-toddler-wants-tablet-ages-2-4-zh"
+    },
+    {
+      "slug": "kitchen-hour-toddler-wants-tablet-ages-2-4-en",
+      "lang": "en",
+      "title": "It's 5 p.m., Dinner Isn't Started, and Your 2-Year-Old Wants the Tablet: A Screen-Free Kitchen Hour That Works (Ages 2 to 4)",
+      "description": "Your toddler is hanging on your leg while the onions burn, and the tablet is right there. Here's how to turn the pre-dinner hour into your child's own work time with things you already own, plus the exact words to use.",
+      "tags": [
+        "toddler screen time",
+        "montessori at home",
+        "practical life",
+        "dinner prep",
+        "witching hour",
+        "positive parenting",
+        "ages 2-4"
+      ],
+      "ageGroup": [
+        "toddler",
+        "preschool"
+      ],
+      "pubDate": "2026-11-09",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kitchen-hour-toddler-wants-tablet-ages-2-4-en"
+    },
     {
       "slug": "teen-awake-midnight-sleeps-till-noon-ages-12-15-zh",
       "lang": "zh-TW",

@@ -398,6 +398,7 @@ A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。�
 - [孩子第一次看牙醫就大哭？蒙特梭利陌生情境練習法](/zh/blog/toddler-first-dentist-visit-montessori-zh)
 - [孩子一直說「我無聊」怎麼辦？蒙特梭利準備好的環境救援](/zh/blog/kids-say-bored-montessori-prepared-environment-zh)
 - [燈塔式育兒：讓孩子有根、也有翅膀](/zh/blog/lighthouse-parenting-montessori-zh)
+- [傍晚煮飯孩子黏著要平板？把廚房變成他的工作區](/zh/blog/kitchen-hour-toddler-wants-tablet-ages-2-4-zh)
 - [孩子到底幾歲該自己睡？分房睡的時機與溫和的階段式做法](/zh/blog/toddler-own-room-transition-zh)
 - [木製玩具真的比較安全？FSC 認證、無毒漆料，工程師爸爸拆解蒙特梭利教具怎麼挑](/zh/blog/sustainable-montessori-toys-guide-zh)
 - [台北營養午餐9月起全免費，孩子回家還是喊餓？政策懶人包＋偏食應對實戰](/zh/blog/taipei-free-school-lunch-picky-eater-zh)
