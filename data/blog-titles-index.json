@@ -1,13 +1,59 @@
 {
-  "generated": "2026-11-09T02:19:00.893Z",
+  "generated": "2026-11-11T02:20:17.010Z",
   "counts": {
-    "total": 403,
-    "en": 197,
-    "zh": 206,
+    "total": 405,
+    "en": 198,
+    "zh": 207,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "overscheduled-kid-cant-fall-asleep-ages-6-9-zh",
+      "lang": "zh-TW",
+      "title": "晚上十點還喊「我睡不著」？安親班、才藝、作業排滿的小一小二孩子，爸媽先把晚上留一點空白（適合 6 到 9 歲）",
+      "description": "七點從安親班接回家、洗澡、訂正聯絡簿、寫完英文作業，關燈後孩子卻翻來翻去說腦袋停不下來。這篇整理行程太滿為什麼讓孩子睡不著、今晚在門口可以說的話，以及用蒙特梭利和正向教養跟孩子一起把一週重新排過的做法。",
+      "tags": [
+        "睡眠",
+        "行程太滿",
+        "安親班",
+        "才藝班",
+        "壓力",
+        "國小低年級",
+        "正向教養",
+        "蒙特梭利",
+        "6-9歲"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-11-11",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/overscheduled-kid-cant-fall-asleep-ages-6-9-zh"
+    },
+    {
+      "slug": "overscheduled-kid-cant-fall-asleep-ages-6-9-en",
+      "lang": "en",
+      "title": "'I Can't Fall Asleep!' When Your Over-Scheduled 7-Year-Old Is Still Wide Awake at 10 p.m. (Ages 6 to 9)",
+      "description": "School, after-care, swim, homework, bed, and your child is still staring at the ceiling at 10 p.m. For parents of 6- to 9-year-olds: why a packed weeknight keeps kids awake, what to say from the bedroom doorway, and how Montessori and positive parenting help you rebuild an evening with room to breathe.",
+      "tags": [
+        "sleep",
+        "overscheduling",
+        "after-school activities",
+        "stress",
+        "early elementary",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-11-11",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/overscheduled-kid-cant-fall-asleep-ages-6-9-en"
+    },
     {
       "slug": "kitchen-hour-toddler-wants-tablet-ages-2-4-zh",
       "lang": "zh-TW",
