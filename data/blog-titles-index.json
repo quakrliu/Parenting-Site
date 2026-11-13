@@ -1,13 +1,59 @@
 {
-  "generated": "2026-11-11T02:20:17.010Z",
+  "generated": "2026-11-13T02:21:07.521Z",
   "counts": {
-    "total": 405,
-    "en": 198,
-    "zh": 207,
+    "total": 407,
+    "en": 199,
+    "zh": 208,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "cyberbullying-mean-group-chat-ages-9-12-zh",
+      "lang": "zh-TW",
+      "title": "「拜託不要沒收我手機」：孩子在班級 LINE 群組被 P 圖嘲笑，爸媽第一時間怎麼接（適合 9 到 12 歲）",
+      "description": "小五孩子終於把平板遞給你，群組裡是同學把他照片 P 成豬頭、底下一排大笑貼圖。這篇整理前五分鐘該說的話、怎麼一起截圖留證據、什麼時候找導師、1953 和 iWIN 怎麼用，以及為什麼沒收手機通常會讓事情更糟。",
+      "tags": [
+        "網路霸凌",
+        "LINE群組",
+        "網路安全",
+        "國小高年級",
+        "正向教養",
+        "蒙特梭利",
+        "9-12歲"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-11-13",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/cyberbullying-mean-group-chat-ages-9-12-zh"
+    },
+    {
+      "slug": "cyberbullying-mean-group-chat-ages-9-12-en",
+      "lang": "en",
+      "title": "'Please Don't Take My Phone': What to Do When Your 11-Year-Old Is Being Mocked in a Group Chat (Ages 9-12)",
+      "description": "Your 11-year-old finally shows you the group chat where classmates have been posting mean memes about them. Here's what to say in the first five minutes, how to save evidence, when to call the school, and why taking the phone usually backfires.",
+      "tags": [
+        "cyberbullying",
+        "group chat",
+        "online safety",
+        "tweens",
+        "positive parenting",
+        "montessori",
+        "ages 9-12"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-11-13",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/cyberbullying-mean-group-chat-ages-9-12-en"
+    },
     {
       "slug": "overscheduled-kid-cant-fall-asleep-ages-6-9-zh",
       "lang": "zh-TW",
