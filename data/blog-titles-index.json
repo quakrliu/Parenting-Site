@@ -1,13 +1,62 @@
 {
-  "generated": "2026-11-13T02:21:07.521Z",
+  "generated": "2026-11-15T02:20:38.316Z",
   "counts": {
-    "total": 407,
-    "en": 199,
-    "zh": 208,
+    "total": 409,
+    "en": 200,
+    "zh": 209,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "teen-tells-ai-chatbot-instead-of-you-ages-12-15-zh",
+      "lang": "zh-TW",
+      "title": "發現國中孩子把心事都跟 AI 說，卻什麼都不跟你講？爸媽當晚可以這樣接（適合 12 到 15 歲）",
+      "description": "你無意間看到孩子跟 AI 聊天機器人聊了好幾週，從被同學冷落、段考壓力到「不想跟我媽說」。這代表什麼？當晚第一句話怎麼說、要不要沒收手機，以及怎麼慢慢變成孩子願意開口的那個人。",
+      "tags": [
+        "青少年與AI",
+        "AI聊天機器人",
+        "親子溝通",
+        "國中生心事",
+        "親子信任",
+        "正向教養",
+        "蒙特梭利",
+        "螢幕時間",
+        "12-15歲"
+      ],
+      "ageGroup": [
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-11-15",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/teen-tells-ai-chatbot-instead-of-you-ages-12-15-zh"
+    },
+    {
+      "slug": "teen-tells-ai-chatbot-instead-of-you-ages-12-15-en",
+      "lang": "en",
+      "title": "You Found Out Your 14-Year-Old Tells a Chatbot What They Won't Tell You (Ages 12-15)",
+      "description": "You glance at your teen's screen and see a long, honest conversation with an AI about friends, stress, and feeling alone. Here's what that discovery usually means, what to say that night, and how to become the person they bring the hard stuff to.",
+      "tags": [
+        "teens and AI",
+        "AI chatbot",
+        "teen communication",
+        "parent-teen trust",
+        "positive parenting",
+        "montessori",
+        "screen time",
+        "ages 12-15"
+      ],
+      "ageGroup": [
+        "tween",
+        "teen"
+      ],
+      "pubDate": "2026-11-15",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/teen-tells-ai-chatbot-instead-of-you-ages-12-15-en"
+    },
     {
       "slug": "cyberbullying-mean-group-chat-ages-9-12-zh",
       "lang": "zh-TW",
