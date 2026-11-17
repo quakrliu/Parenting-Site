@@ -1,13 +1,59 @@
 {
-  "generated": "2026-11-15T02:20:38.316Z",
+  "generated": "2026-11-17T02:20:30.376Z",
   "counts": {
-    "total": 409,
-    "en": 200,
-    "zh": 209,
+    "total": 411,
+    "en": 201,
+    "zh": 210,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-rough-with-family-pet-ages-1-3-zh",
+      "lang": "zh-TW",
+      "title": "兩歲寶貝一直抓貓尾巴、壓著狗狗不放？不用吼也能教會「輕輕摸」（適合 1 到 3 歲）",
+      "description": "孩子拉貓尾巴、捏狗耳朵，你說「不可以」他還笑得更開心？這篇說明 1 到 3 歲孩子為什麼會這樣、當下那十秒怎麼做、家裡怎麼擺設讓毛孩和孩子都安全，以及蒙特梭利怎麼把「輕輕摸」變成真正學得會的能力。",
+      "tags": [
+        "孩子與寵物",
+        "輕輕摸",
+        "幼兒打人",
+        "狗狗咬人預防",
+        "正向教養",
+        "蒙特梭利",
+        "溫和堅定",
+        "1-3歲"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-11-17",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-rough-with-family-pet-ages-1-3-zh"
+    },
+    {
+      "slug": "toddler-rough-with-family-pet-ages-1-3-en",
+      "lang": "en",
+      "title": "Your 2-Year-Old Keeps Grabbing the Cat's Tail: How to Stop Rough Play With Pets Without Yelling (Ages 1-3)",
+      "description": "Your toddler squeezes the dog, pulls the cat's tail, and laughs when you say no. Here's why it happens at this age, what to say in the moment, how to set up your home so pet and child are both safe, and how Montessori turns 'gentle hands' into a real skill.",
+      "tags": [
+        "toddler and pets",
+        "gentle hands",
+        "toddler hitting",
+        "dog bite prevention",
+        "positive parenting",
+        "montessori",
+        "boundaries",
+        "ages 1-3"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-11-17",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-rough-with-family-pet-ages-1-3-en"
+    },
     {
       "slug": "teen-tells-ai-chatbot-instead-of-you-ages-12-15-zh",
       "lang": "zh-TW",

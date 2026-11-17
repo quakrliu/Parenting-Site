@@ -350,3 +350,4 @@ Explore more in our Positive Parenting series:
 - [Your 5-Year-Old Is Potty Trained All Day but Still Wets the Bed Every Night? Here's Why](/en/blog/bedwetting-nighttime-potty-training-en)
 - [Toddler Biting at Daycare? The Fix Might Not Be Discipline — It Might Be Bedtime.](/en/blog/toddler-biting-sleep-deprivation-en)
 - [Your Kid Didn't Make the Travel Soccer Team and Says She'll Never Play Again. Now What?](/en/blog/tryout-rejection-growth-mindset-en)
+- [Your 2-Year-Old Keeps Grabbing the Cat's Tail: How to Stop Rough Play With Pets Without Yelling (Ages 1-3)](/en/blog/toddler-rough-with-family-pet-ages-1-3-en)

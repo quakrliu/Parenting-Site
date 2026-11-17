@@ -355,3 +355,4 @@ A：這是台灣很多家庭的真實狀況。不需要對抗，也不需要強�
 - [孩子在托嬰中心咬人？該調整的可能不是教養方式，而是睡前作息](/zh/blog/toddler-biting-sleep-deprivation-zh)
 - [「你看你哥哥都不會這樣」：手足比較這句話，比你想的還傷孩子](/zh/blog/sibling-comparison-harm-favoritism-zh)
 - [躲避球隊選拔沒上，孩子說「我再也不要打了」：最常說錯的第一句話，跟真正有用的那句](/zh/blog/tryout-rejection-growth-mindset-zh)
+- [兩歲寶貝一直抓貓尾巴、壓著狗狗不放？不用吼也能教會「輕輕摸」（適合 1 到 3 歲）](/zh/blog/toddler-rough-with-family-pet-ages-1-3-zh)
