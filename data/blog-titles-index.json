@@ -1,13 +1,59 @@
 {
-  "generated": "2026-11-17T02:20:30.376Z",
+  "generated": "2026-11-19T02:20:40.328Z",
   "counts": {
-    "total": 411,
-    "en": 201,
-    "zh": 210,
+    "total": 413,
+    "en": 202,
+    "zh": 211,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "preschooler-tattles-all-day-ages-3-6-zh",
+      "lang": "zh-TW",
+      "title": "「媽媽，弟弟沒洗手！」孩子整天告狀，爸媽別急著當法官：3 步驟教他自己解決（適合 3 到 6 歲）",
+      "description": "孩子一天告狀十幾次，從手足到幼兒園同學都被他「檢舉」。給 3 到 6 歲爸媽：學齡前孩子為什麼這麼愛告狀、一個問題分辨「該說」和「小事」，以及用蒙特梭利和正向教養，一步步把小告狀王變成會自己解決問題的孩子。",
+      "tags": [
+        "告狀",
+        "學齡前行為",
+        "社交能力",
+        "手足衝突",
+        "解決問題",
+        "正向教養",
+        "蒙特梭利",
+        "3-6歲"
+      ],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "2026-11-19",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/preschooler-tattles-all-day-ages-3-6-zh"
+    },
+    {
+      "slug": "preschooler-tattles-all-day-ages-3-6-en",
+      "lang": "en",
+      "title": "'Mom, He Didn't Wash His Hands!' What to Do When Your Preschooler Tattles All Day (Ages 3 to 6)",
+      "description": "Your 4-year-old reports every rule broken by a sibling or classmate. For parents of 3- to 6-year-olds: why preschoolers tattle so much, the one question that sorts telling from tattling, and Montessori and positive parenting tools that teach kids to solve small problems themselves.",
+      "tags": [
+        "tattling",
+        "preschool behavior",
+        "social skills",
+        "sibling conflict",
+        "problem solving",
+        "positive parenting",
+        "montessori",
+        "ages 3-6"
+      ],
+      "ageGroup": [
+        "preschool"
+      ],
+      "pubDate": "2026-11-19",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/preschooler-tattles-all-day-ages-3-6-en"
+    },
     {
       "slug": "toddler-rough-with-family-pet-ages-1-3-zh",
       "lang": "zh-TW",
