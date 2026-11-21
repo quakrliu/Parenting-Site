@@ -1,13 +1,57 @@
 {
-  "generated": "2026-11-19T02:20:40.328Z",
+  "generated": "2026-11-21T02:19:43.408Z",
   "counts": {
-    "total": 413,
-    "en": 202,
-    "zh": 211,
+    "total": 415,
+    "en": 203,
+    "zh": 212,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-begs-for-smartwatch-ages-6-9-zh",
+      "lang": "zh-TW",
+      "title": "「全班只有我沒有電話手錶！」小一小二孩子吵著要智慧手錶，爸媽先別急著答應或拒絕（適合 6 到 9 歲）",
+      "description": "孩子放學一上車就說全班都有兒童智慧手錶，只有他沒有。爸媽當下怎麼接、手錶到底能做什麼、怎麼判斷孩子準備好了沒，用蒙特梭利「有限制的自由」和正向教養，陪 6 到 9 歲孩子走過這一關。",
+      "tags": [
+        "智慧手錶",
+        "電話手錶",
+        "同儕壓力",
+        "3C",
+        "國小低年級",
+        "正向教養",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-11-21",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-begs-for-smartwatch-ages-6-9-zh"
+    },
+    {
+      "slug": "kid-begs-for-smartwatch-ages-6-9-en",
+      "lang": "en",
+      "title": "'Everyone in My Class Has a Smartwatch!' What to Do When Your 7-Year-Old Begs for One (Ages 6-9)",
+      "description": "Your first grader comes home certain they're the only kid without a smartwatch. How to answer the begging without caving or lecturing, what the watch actually does, and a Montessori-style readiness plan for ages 6 to 9.",
+      "tags": [
+        "smartwatch",
+        "first device",
+        "peer pressure",
+        "screen time",
+        "early elementary",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "school-age"
+      ],
+      "pubDate": "2026-11-21",
+      "author": "Ethan Moore",
+      "youtubeId": null,
+      "url": "/en/blog/kid-begs-for-smartwatch-ages-6-9-en"
+    },
     {
       "slug": "preschooler-tattles-all-day-ages-3-6-zh",
       "lang": "zh-TW",
