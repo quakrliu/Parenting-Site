@@ -1,13 +1,59 @@
 {
-  "generated": "2026-11-21T02:19:43.408Z",
+  "generated": "2026-11-23T02:19:53.391Z",
   "counts": {
-    "total": 415,
-    "en": 203,
-    "zh": 212,
+    "total": 417,
+    "en": 204,
+    "zh": 213,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "kid-asks-are-we-poor-ages-9-12-zh",
+      "lang": "zh-TW",
+      "title": "「我們家是不是很窮？」同學寒假都去日本滑雪，孩子回家這樣問，爸媽怎麼接（適合 9 到 12 歲）",
+      "description": "孩子開始拿自己家跟同學比：誰出國、誰有新 Switch、誰穿名牌球鞋。爸媽怎麼誠實回答錢的問題，又不把大人的壓力丟給孩子？用正向教養的對話方式，加上蒙特梭利「讓孩子參與真實生活」的做法，陪 9 到 12 歲孩子建立安心的金錢觀。",
+      "tags": [
+        "金錢觀",
+        "零用錢",
+        "同儕比較",
+        "國小高年級",
+        "正向教養",
+        "蒙特梭利",
+        "家庭壓力"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-11-23",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/kid-asks-are-we-poor-ages-9-12-zh"
+    },
+    {
+      "slug": "kid-asks-are-we-poor-ages-9-12-en",
+      "lang": "en",
+      "title": "'Are We Poor?' What to Say When Your 10-Year-Old Asks Why Their Friends Get More (Ages 9-12)",
+      "description": "Your tween comes home asking why everyone else is going skiing, getting the new console, or wearing the expensive sneakers. How to answer money questions honestly without passing on your stress, plus a Montessori-style way to give kids a real role in family spending. For ages 9 to 12.",
+      "tags": [
+        "money talk",
+        "kids and money",
+        "peer comparison",
+        "tweens",
+        "positive parenting",
+        "montessori",
+        "family stress"
+      ],
+      "ageGroup": [
+        "school-age",
+        "tween"
+      ],
+      "pubDate": "2026-11-23",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/kid-asks-are-we-poor-ages-9-12-en"
+    },
     {
       "slug": "kid-begs-for-smartwatch-ages-6-9-zh",
       "lang": "zh-TW",

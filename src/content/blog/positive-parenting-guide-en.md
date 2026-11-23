@@ -352,3 +352,4 @@ Explore more in our Positive Parenting series:
 - [Your Kid Didn't Make the Travel Soccer Team and Says She'll Never Play Again. Now What?](/en/blog/tryout-rejection-growth-mindset-en)
 - [Your 2-Year-Old Keeps Grabbing the Cat's Tail: How to Stop Rough Play With Pets Without Yelling (Ages 1-3)](/en/blog/toddler-rough-with-family-pet-ages-1-3-en)
 - [Your Preschooler Tattles All Day? How to Teach Telling vs Tattling (Ages 3 to 6)](/en/blog/preschooler-tattles-all-day-ages-3-6-en)
+- ['Are We Poor?' What to Say When Your 10-Year-Old Asks Why Their Friends Get More (Ages 9-12)](/en/blog/kid-asks-are-we-poor-ages-9-12-en)
