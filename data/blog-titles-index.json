@@ -1,13 +1,60 @@
 {
-  "generated": "2026-11-23T02:19:53.391Z",
+  "generated": "2026-11-25T02:20:20.370Z",
   "counts": {
-    "total": 417,
-    "en": 204,
-    "zh": 213,
+    "total": 419,
+    "en": 205,
+    "zh": 214,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "teen-wont-turn-in-work-not-perfect-ages-12-15-zh",
+      "lang": "zh-TW",
+      "title": "「還不夠好，我不要交！」國中孩子作業改到半夜、報告拖到逾期，完美主義怎麼陪（適合 12 到 15 歲）",
+      "description": "孩子明明很認真，作業卻一直交不出來：一張學習單擦到破、簡報改到半夜一點，最後還是遲交。這往往不是懶，是完美主義在作怪。分辨方法、當晚可以說的話，以及用蒙特梭利「跟錯誤做朋友」的方式，陪 12 到 15 歲孩子放下「不完美就不能交」的焦慮。",
+      "tags": [
+        "完美主義",
+        "國中生",
+        "青少年",
+        "作業",
+        "拖延",
+        "焦慮",
+        "自信",
+        "正向教養",
+        "蒙特梭利"
+      ],
+      "ageGroup": [
+        "teen"
+      ],
+      "pubDate": "2026-11-25",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/teen-wont-turn-in-work-not-perfect-ages-12-15-zh"
+    },
+    {
+      "slug": "teen-wont-turn-in-work-not-perfect-ages-12-15-en",
+      "lang": "en",
+      "title": "'It's Not Good Enough Yet': When Your 13-Year-Old Won't Turn In Work Because It Isn't Perfect (Ages 12-15)",
+      "description": "Your teen rewrites the same paragraph until midnight, then misses the deadline anyway. Perfectionism often looks like procrastination. How to spot it, what to say that night, and a Montessori-style way to make mistakes feel normal again. For ages 12 to 15.",
+      "tags": [
+        "perfectionism",
+        "teens",
+        "homework",
+        "procrastination",
+        "anxiety",
+        "confidence",
+        "positive parenting",
+        "montessori"
+      ],
+      "ageGroup": [
+        "teen"
+      ],
+      "pubDate": "2026-11-25",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/teen-wont-turn-in-work-not-perfect-ages-12-15-en"
+    },
     {
       "slug": "kid-asks-are-we-poor-ages-9-12-zh",
       "lang": "zh-TW",
