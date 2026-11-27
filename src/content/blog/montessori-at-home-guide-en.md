@@ -359,6 +359,7 @@ A: Start with what you have. Treasure baskets from your kitchen. Beans and conta
 
 Explore more in our Montessori at Home series:
 
+- [Your 2-Year-Old Climbs Everything: How to Keep Them Safe Without Scaring Them Off](/en/blog/toddler-climbs-everything-be-careful-ages-1-3-en)
 - [Montessori Home Environment: Room-by-Room Setup Guide](/en/blog/montessori-home-environment-en)
 - [10 Montessori Activities You Can Do Today](/en/blog/montessori-activities-at-home-en)
 - [Montessori vs Traditional Preschool: What the Research Proves](/en/blog/montessori-vs-traditional-preschool-en)

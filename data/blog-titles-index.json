@@ -1,13 +1,61 @@
 {
-  "generated": "2026-11-25T02:20:20.370Z",
+  "generated": "2026-11-27T02:20:21.628Z",
   "counts": {
-    "total": 419,
-    "en": 205,
-    "zh": 214,
+    "total": 421,
+    "en": 206,
+    "zh": 215,
     "drafts": 0,
     "skipped": 0
   },
   "posts": [
+    {
+      "slug": "toddler-climbs-everything-be-careful-ages-1-3-zh",
+      "lang": "zh-TW",
+      "title": "「小心！會跌倒！」兩歲寶貝什麼都要爬：沙發、櫃子、溜滑梯反著爬，爸媽怎麼管才不會把膽子管小（適合 1 到 3 歲）",
+      "description": "孩子爬沙發扶手、拉椅子爬流理台、在公園溜滑梯反著往上爬，你一天喊五十次「小心」。這篇說明 1 到 3 歲孩子為什麼愛爬高、哪些一定要擋、哪些可以放手、比「小心」更有用的說法，以及蒙特梭利和正向教養怎麼養出敢爬又懂得保護自己的孩子。",
+      "tags": [
+        "幼兒爬高",
+        "小心跌倒",
+        "冒險遊戲",
+        "過度保護",
+        "自信",
+        "大肌肉發展",
+        "蒙特梭利",
+        "正向教養",
+        "1-3歲"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-11-27",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/zh/blog/toddler-climbs-everything-be-careful-ages-1-3-zh"
+    },
+    {
+      "slug": "toddler-climbs-everything-be-careful-ages-1-3-en",
+      "lang": "en",
+      "title": "'Be Careful!' Your 2-Year-Old Climbs Everything: How to Keep Them Safe Without Scaring Them Off (Ages 1-3)",
+      "description": "Your toddler scales the couch, the bookshelf, and the playground ladder meant for big kids, and you say 'be careful!' fifty times a day. For parents of 1- to 3-year-olds: why toddlers climb, which climbs to stop and which to allow, what to say instead of 'be careful,' and how Montessori and positive parenting build a confident, careful climber.",
+      "tags": [
+        "toddler climbing",
+        "risky play",
+        "be careful alternatives",
+        "overprotective parenting",
+        "confidence",
+        "gross motor skills",
+        "montessori",
+        "positive parenting",
+        "ages 1-3"
+      ],
+      "ageGroup": [
+        "toddler"
+      ],
+      "pubDate": "2026-11-27",
+      "author": "Mei Chen",
+      "youtubeId": null,
+      "url": "/en/blog/toddler-climbs-everything-be-careful-ages-1-3-en"
+    },
     {
       "slug": "teen-wont-turn-in-work-not-perfect-ages-12-15-zh",
       "lang": "zh-TW",

@@ -389,6 +389,7 @@ A：蝦皮搜尋「蒙特梭利教具」有很多選項，價位相對親民。�
 
 探索更多蒙特梭利系列文章：
 
+- [兩歲寶貝什麼都要爬：爸媽怎麼管才不會把膽子管小](/zh/blog/toddler-climbs-everything-be-careful-ages-1-3-zh)
 - [蒙特梭利居家環境布置完整攻略](/zh/blog/montessori-home-environment-zh)
 - [蒙特梭利 vs 傳統幼兒園：科學終於給出答案了](/zh/blog/montessori-vs-traditional-preschool-zh)
 - [蒙特梭利幼兒園更便宜還更有效？2026 全國研究結果](/zh/blog/montessori-national-study-2026-results-zh)
